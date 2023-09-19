@@ -80,11 +80,6 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
   Mahdi Dhaini, Wessel Poelman, Ege Erdogan
 
 
-+ [ Physical Invisible Backdoor Based on Camera Imaging](https://arxiv.org//abs/2309.07428)
-
-  Yusheng Guo, Nan Zhong, Zhenxing Qian, Xinpeng Zhang
-
-
 + [ Keep your Identity Small: Privacy-preserving Client-side Fingerprinting](https://arxiv.org//abs/2309.07563)
 
   Alberto Fernandez-de-Retana, Igor Santos-Grueiro
