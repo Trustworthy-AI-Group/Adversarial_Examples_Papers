@@ -2,6 +2,62 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I create a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. We have include the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 
+## 2023-09-20
++ [ GPTFUZZER : Red Teaming Large Language Models with Auto-Generated  Jailbreak Prompts](https://arxiv.org//abs/2309.10253) `uncheck`
+
+Jiahao Yu, Xingwei Lin, Xinyu Xing
+
+
++ [ Exploring the Dark Side of AI: Advanced Phishing Attack Design and  Deployment Using ChatGPT](https://arxiv.org//abs/2309.10463) `uncheck`
+
+Nils Begou, Jeremy Vinoy, Andrzej Duda, Maciej Korczynski
+
+
++ [ Understanding Catastrophic Forgetting in Language Models via Implicit  Inference](https://arxiv.org//abs/2309.10105)`uncheck`
+
+Suhas Kotha, Jacob Mitchell Springer, Aditi Raghunathan
+
+
++ [ Transferable Adversarial Attack on Image Tampering Localization](https://arxiv.org//abs/2309.10243) `uncheck`
+
+Yuqi Wang, Gang Cao, Zijie Lou, Haochen Zhu
+
+
++ [ RECALL+: Adversarial Web-based Replay for Continual Learning in Semantic  Segmentation](https://arxiv.org//abs/2309.10479) `uncheck`
+
+Chang Liu, Giulia Rizzoli, Francesco Barbato, Umberto Michieli, Yi Niu, Pietro Zanuttigh
+
+
++ [ KFC: Kinship Verification with Fair Contrastive Loss and Multi-Task  Learning](https://arxiv.org//abs/2309.10641) `uncheck`
+
+Jia Luo Peng, Keng Wei Chang, Shang-Hong Lai
+
+
++ [ Dual Student Networks for Data-Free Model Stealing](https://arxiv.org//abs/2309.10058) `uncheck`
+
+James Beetham, Navid Kardan, Ajmal Mian, Mubarak Shah
+
+
++ [ Realistic Website Fingerprinting By Augmenting Network Trace](https://arxiv.org//abs/2309.10147) `uncheck`
+
+Alireza Bahramali, Ardavan Bozorgi, Amir Houmansadr
+
+
++ [ Love or Hate? Share or Split? Privacy-Preserving Training Using Split  Learning and Homomorphic Encryption](https://arxiv.org//abs/2309.10517) `uncheck`
+
+Tanveer Khan, Khoa Nguyen, Antonis Michalas, Alexandros Bakas
+
+
++ [ Disentangled Information Bottleneck guided Privacy-Protective JSCC for  Image Transmission](https://arxiv.org//abs/2309.10263) `uncheck`
+
+Lunan Sun, Yang Yang, Mingzhe Chen, Caili Guo
+
+
++ [ SPFL: A Self-purified Federated Learning Method Against Poisoning  Attacks](https://arxiv.org//abs/2309.10607) `uncheck`
+
+Zizhen Liu, Weiyang He, Chip-Hong Chang, Jing Ye, Huawei Li, Xiaowei Li
+
+
 ## 2023-09-19
 + [ A Statistical Turing Test for Generative Models](https://arxiv.org//abs/2309.08913)
 
