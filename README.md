@@ -2,6 +2,42 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 
+## 2023-09-21
++ [ When to Trust AI: Advances and Challenges for Certification of Neural  Networks](https://arxiv.org//abs/2309.11196)`uncheck`
+
+	Marta Kwiatkowska, Xiyue Zhang
+
+
++ [ C$\cdot$ASE: Learning Conditional Adversarial Skill Embeddings for  Physics-based Characters](https://arxiv.org//abs/2309.11351)`uncheck`
+
+	Zhiyang Dou, Xuelin Chen, Qingnan Fan, Taku Komura, Wenping Wang
+
+
++ [ What Learned Representations and Influence Functions Can Tell Us About  Adversarial Examples](https://arxiv.org//abs/2309.10916)`uncheck`
+
+	Shakila Mahjabin Tonni, Mark Dras
+
+
++ [ PRAT: PRofiling Adversarial aTtacks](https://arxiv.org//abs/2309.11111)`uncheck`
+
+	Rahul Ambati, Naveed Akhtar, Ajmal Mian, Yogesh Singh Rawat
+
+
++ [ It's Simplex! Disaggregating Measures to Improve Certified Robustness](https://arxiv.org//abs/2309.11005)`uncheck`
+
+	Andrew C. Cullen, Paul Montague, Shijie Liu, Sarah M. Erfani, Benjamin I.P. Rubinstein
+
+
++ [ Learning Patient Static Information from Time-series EHR and an Approach  for Safeguarding Privacy and Fairness](https://arxiv.org//abs/2309.11373)`uncheck`
+
+	Wei Liao, Joel Voldman
+
+
++ [ Fed-LSAE: Thwarting Poisoning Attacks against Federated Cyber Threat  Detection System via Autoencoder-based Latent Space Inspection](https://arxiv.org//abs/2309.11053)`uncheck`
+
+	Tran Duc Luong, Vuong Minh Tien, Nguyen Huu Quyen, Do Thi Thu Hien, Phan The Duy, Van-Hau Pham
+
+
 ## 2023-09-20
 + [ GPTFUZZER : Red Teaming Large Language Models with Auto-Generated  Jailbreak Prompts](https://arxiv.org//abs/2309.10253) `uncheck`
 
@@ -11,11 +47,6 @@ Jiahao Yu, Xingwei Lin, Xinyu Xing
 + [ Exploring the Dark Side of AI: Advanced Phishing Attack Design and  Deployment Using ChatGPT](https://arxiv.org//abs/2309.10463) `uncheck`
 
 Nils Begou, Jeremy Vinoy, Andrzej Duda, Maciej Korczynski
-
-
-+ [ Understanding Catastrophic Forgetting in Language Models via Implicit  Inference](https://arxiv.org//abs/2309.10105)`uncheck`
-
-Suhas Kotha, Jacob Mitchell Springer, Aditi Raghunathan
 
 
 + [ Transferable Adversarial Attack on Image Tampering Localization](https://arxiv.org//abs/2309.10243) `uncheck`
@@ -28,32 +59,27 @@ Yuqi Wang, Gang Cao, Zijie Lou, Haochen Zhu
 Chang Liu, Giulia Rizzoli, Francesco Barbato, Umberto Michieli, Yi Niu, Pietro Zanuttigh
 
 
-+ [ KFC: Kinship Verification with Fair Contrastive Loss and Multi-Task  Learning](https://arxiv.org//abs/2309.10641) `uncheck`
-
-Jia Luo Peng, Keng Wei Chang, Shang-Hong Lai
-
-
-+ [ Dual Student Networks for Data-Free Model Stealing](https://arxiv.org//abs/2309.10058) `uncheck`
++ [ Dual Student Networks for Data-Free Model Stealing](https://arxiv.org//abs/2309.10058)
 
 James Beetham, Navid Kardan, Ajmal Mian, Mubarak Shah
 
 
-+ [ Realistic Website Fingerprinting By Augmenting Network Trace](https://arxiv.org//abs/2309.10147) `uncheck`
++ [ Realistic Website Fingerprinting By Augmenting Network Trace](https://arxiv.org//abs/2309.10147)
 
 Alireza Bahramali, Ardavan Bozorgi, Amir Houmansadr
 
 
-+ [ Love or Hate? Share or Split? Privacy-Preserving Training Using Split  Learning and Homomorphic Encryption](https://arxiv.org//abs/2309.10517) `uncheck`
++ [ Love or Hate? Share or Split? Privacy-Preserving Training Using Split  Learning and Homomorphic Encryption](https://arxiv.org//abs/2309.10517)
 
 Tanveer Khan, Khoa Nguyen, Antonis Michalas, Alexandros Bakas
 
 
-+ [ Disentangled Information Bottleneck guided Privacy-Protective JSCC for  Image Transmission](https://arxiv.org//abs/2309.10263) `uncheck`
++ [ Disentangled Information Bottleneck guided Privacy-Protective JSCC for  Image Transmission](https://arxiv.org//abs/2309.10263)
 
-Lunan Sun, Yang Yang, Mingzhe Chen, Caili Guo
+  Lunan Sun, Yang Yang, Mingzhe Chen, Caili Guo
 
 
-+ [ SPFL: A Self-purified Federated Learning Method Against Poisoning  Attacks](https://arxiv.org//abs/2309.10607) `uncheck`
++ [ SPFL: A Self-purified Federated Learning Method Against Poisoning  Attacks](https://arxiv.org//abs/2309.10607)
 
 Zizhen Liu, Weiyang He, Chip-Hong Chang, Jing Ye, Huawei Li, Xiaowei Li
 
