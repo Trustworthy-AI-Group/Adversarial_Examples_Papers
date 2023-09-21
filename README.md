@@ -3,6 +3,7 @@
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers I have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 
 ## 2023-09-20
+
 + [ GPTFUZZER : Red Teaming Large Language Models with Auto-Generated  Jailbreak Prompts](https://arxiv.org//abs/2309.10253) 
   
   Jiahao Yu, Xingwei Lin, Xinyu Xing
