@@ -4,8 +4,8 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 ## 2023-09-20
 
-+ [ GPTFUZZER : Red Teaming Large Language Models with Auto-Generated  Jailbreak Prompts](https://arxiv.org//abs/2309.10253) 
-  
++ [ GPTFUZZER: Red Teaming Large Language Models with Auto-Generated  Jailbreak Prompts](https://arxiv.org//abs/2309.10253)
+
   Jiahao Yu, Xingwei Lin, Xinyu Xing
 
 
@@ -50,6 +50,7 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 
 ## 2023-09-19
+
 + [ Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents](https://arxiv.org//abs/2309.09919)
 
   Ziyi Yang, Shreyas S. Raman, Ankit Shah, Stefanie Tellex
@@ -101,6 +102,7 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Context-aware Adversarial Attack on Named Entity Recognition](https://arxiv.org//abs/2309.08999)
 
   Shuguang Chen, Leonardo Neves, Thamar Solorio
+  
  
 ## 2023-09-15
 
