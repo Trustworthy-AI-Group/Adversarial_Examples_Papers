@@ -41,32 +41,32 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 ## 2023-09-20
 + [ GPTFUZZER : Red Teaming Large Language Models with Auto-Generated  Jailbreak Prompts](https://arxiv.org//abs/2309.10253) 
 
-Jiahao Yu, Xingwei Lin, Xinyu Xing
+  Jiahao Yu, Xingwei Lin, Xinyu Xing
 
 
 + [ Exploring the Dark Side of AI: Advanced Phishing Attack Design and  Deployment Using ChatGPT](https://arxiv.org//abs/2309.10463) 
 
-Nils Begou, Jeremy Vinoy, Andrzej Duda, Maciej Korczynski
+  Nils Begou, Jeremy Vinoy, Andrzej Duda, Maciej Korczynski
 
 
 + [ Transferable Adversarial Attack on Image Tampering Localization](https://arxiv.org//abs/2309.10243)
 
-Yuqi Wang, Gang Cao, Zijie Lou, Haochen Zhu
+  Yuqi Wang, Gang Cao, Zijie Lou, Haochen Zhu
 
 
 + [ RECALL+: Adversarial Web-based Replay for Continual Learning in Semantic  Segmentation](https://arxiv.org//abs/2309.10479)
 
-Chang Liu, Giulia Rizzoli, Francesco Barbato, Umberto Michieli, Yi Niu, Pietro Zanuttigh
+  Chang Liu, Giulia Rizzoli, Francesco Barbato, Umberto Michieli, Yi Niu, Pietro Zanuttigh
 
 
 + [ Realistic Website Fingerprinting By Augmenting Network Trace](https://arxiv.org//abs/2309.10147)
 
-Alireza Bahramali, Ardavan Bozorgi, Amir Houmansadr
+  Alireza Bahramali, Ardavan Bozorgi, Amir Houmansadr
 
 
 + [ Love or Hate? Share or Split? Privacy-Preserving Training Using Split  Learning and Homomorphic Encryption](https://arxiv.org//abs/2309.10517) 
 
-Tanveer Khan, Khoa Nguyen, Antonis Michalas, Alexandros Bakas
+  Tanveer Khan, Khoa Nguyen, Antonis Michalas, Alexandros Bakas
 
 
 + [ Disentangled Information Bottleneck guided Privacy-Protective JSCC for  Image Transmission](https://arxiv.org//abs/2309.10263)
@@ -76,7 +76,7 @@ Tanveer Khan, Khoa Nguyen, Antonis Michalas, Alexandros Bakas
 
 + [ SPFL: A Self-purified Federated Learning Method Against Poisoning  Attacks](https://arxiv.org//abs/2309.10607) 
 
-Zizhen Liu, Weiyang He, Chip-Hong Chang, Jing Ye, Huawei Li, Xiaowei Li
+  Zizhen Liu, Weiyang He, Chip-Hong Chang, Jing Ye, Huawei Li, Xiaowei Li
 
 
 ## 2023-09-19
