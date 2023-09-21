@@ -1,6 +1,6 @@
-# A compelete list of papers about adversarial examples
+# A complete list of papers about adversarial examples
 
-It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers I have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 
 ## 2023-09-21
 + [ When to Trust AI: Advances and Challenges for Certification of Neural  Networks](https://arxiv.org//abs/2309.11196)`uncheck`
@@ -39,36 +39,60 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 
 ## 2023-09-20
-+ [ GPTFUZZER : Red Teaming Large Language Models with Auto-Generated  Jailbreak Prompts](https://arxiv.org//abs/2309.10253) `uncheck`
 
-Jiahao Yu, Xingwei Lin, Xinyu Xing
++ [ GPTFUZZER: Red Teaming Large Language Models with Auto-Generated  Jailbreak Prompts](https://arxiv.org//abs/2309.10253)
 
-
-+ [ Exploring the Dark Side of AI: Advanced Phishing Attack Design and  Deployment Using ChatGPT](https://arxiv.org//abs/2309.10463) `uncheck`
-
-Nils Begou, Jeremy Vinoy, Andrzej Duda, Maciej Korczynski
+  Jiahao Yu, Xingwei Lin, Xinyu Xing
 
 
++ [ Exploring the Dark Side of AI: Advanced Phishing Attack Design and  Deployment Using ChatGPT](https://arxiv.org//abs/2309.10463)
+
+  Nils Begou, Jeremy Vinoy, Andrzej Duda, Maciej Korczynski
+
+
+<<<<<<< HEAD
 + [ Transferable Adversarial Attack on Image Tampering Localization](https://arxiv.org//abs/2309.10243) `uncheck`
+=======
++ [ Transferable Adversarial Attack on Image Tampering Localization](https://arxiv.org//abs/2309.10243) 
 
-Yuqi Wang, Gang Cao, Zijie Lou, Haochen Zhu
+  Yuqi Wang, Gang Cao, Zijie Lou, Haochen Zhu
 
 
-+ [ RECALL+: Adversarial Web-based Replay for Continual Learning in Semantic  Segmentation](https://arxiv.org//abs/2309.10479) `uncheck`
++ [ RECALL+: Adversarial Web-based Replay for Continual Learning in Semantic  Segmentation](https://arxiv.org//abs/2309.10479)
+>>>>>>> 10483dca1d99a72841ea04dbaf98daf778b65164
 
-Chang Liu, Giulia Rizzoli, Francesco Barbato, Umberto Michieli, Yi Niu, Pietro Zanuttigh
+  Chang Liu, Giulia Rizzoli, Francesco Barbato, Umberto Michieli, Yi Niu, Pietro Zanuttigh
 
 
 + [ Dual Student Networks for Data-Free Model Stealing](https://arxiv.org//abs/2309.10058)
 
-James Beetham, Navid Kardan, Ajmal Mian, Mubarak Shah
+  James Beetham, Navid Kardan, Ajmal Mian, Mubarak Shah
 
 
+<<<<<<< HEAD
++ [ Dual Student Networks for Data-Free Model Stealing](https://arxiv.org//abs/2309.10058)
+=======
 + [ Realistic Website Fingerprinting By Augmenting Network Trace](https://arxiv.org//abs/2309.10147)
 
-Alireza Bahramali, Ardavan Bozorgi, Amir Houmansadr
+  Alireza Bahramali, Ardavan Bozorgi, Amir Houmansadr
 
 
++ [ Love or Hate? Share or Split? Privacy-Preserving Training Using Split  Learning and Homomorphic Encryption](https://arxiv.org//abs/2309.10517)
+>>>>>>> 10483dca1d99a72841ea04dbaf98daf778b65164
+
+  Tanveer Khan, Khoa Nguyen, Antonis Michalas, Alexandros Bakas
+
+
+<<<<<<< HEAD
++ [ Realistic Website Fingerprinting By Augmenting Network Trace](https://arxiv.org//abs/2309.10147)
+=======
++ [ Disentangled Information Bottleneck guided Privacy-Protective JSCC for  Image Transmission](https://arxiv.org//abs/2309.10263) 
+>>>>>>> 10483dca1d99a72841ea04dbaf98daf778b65164
+
+  Lunan Sun, Yang Yang, Mingzhe Chen, Caili Guo
+
+
+<<<<<<< HEAD
 + [ Love or Hate? Share or Split? Privacy-Preserving Training Using Split  Learning and Homomorphic Encryption](https://arxiv.org//abs/2309.10517)
 
 Tanveer Khan, Khoa Nguyen, Antonis Michalas, Alexandros Bakas
@@ -82,9 +106,15 @@ Tanveer Khan, Khoa Nguyen, Antonis Michalas, Alexandros Bakas
 + [ SPFL: A Self-purified Federated Learning Method Against Poisoning  Attacks](https://arxiv.org//abs/2309.10607)
 
 Zizhen Liu, Weiyang He, Chip-Hong Chang, Jing Ye, Huawei Li, Xiaowei Li
+=======
++ [ SPFL: A Self-purified Federated Learning Method Against Poisoning  Attacks](https://arxiv.org//abs/2309.10607) 
+
+  Zizhen Liu, Weiyang He, Chip-Hong Chang, Jing Ye, Huawei Li, Xiaowei Li
+>>>>>>> 10483dca1d99a72841ea04dbaf98daf778b65164
 
 
 ## 2023-09-19
+
 + [ Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents](https://arxiv.org//abs/2309.09919)
 
   Ziyi Yang, Shreyas S. Raman, Ankit Shah, Stefanie Tellex
@@ -136,6 +166,7 @@ Zizhen Liu, Weiyang He, Chip-Hong Chang, Jing Ye, Huawei Li, Xiaowei Li
 + [ Context-aware Adversarial Attack on Named Entity Recognition](https://arxiv.org//abs/2309.08999)
 
   Shuguang Chen, Leonardo Neves, Thamar Solorio
+  
  
 ## 2023-09-15
 
