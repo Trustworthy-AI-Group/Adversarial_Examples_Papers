@@ -3,37 +3,37 @@
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 
 ## 2023-09-21
-+ [ When to Trust AI: Advances and Challenges for Certification of Neural  Networks](https://arxiv.org//abs/2309.11196)`uncheck`
++ [ When to Trust AI: Advances and Challenges for Certification of Neural  Networks](https://arxiv.org//abs/2309.11196)
 
 	Marta Kwiatkowska, Xiyue Zhang
 
 
-+ [ C$\cdot$ASE: Learning Conditional Adversarial Skill Embeddings for  Physics-based Characters](https://arxiv.org//abs/2309.11351)`uncheck`
++ [ C$\cdot$ASE: Learning Conditional Adversarial Skill Embeddings for  Physics-based Characters](https://arxiv.org//abs/2309.11351)
 
 	Zhiyang Dou, Xuelin Chen, Qingnan Fan, Taku Komura, Wenping Wang
 
 
-+ [ What Learned Representations and Influence Functions Can Tell Us About  Adversarial Examples](https://arxiv.org//abs/2309.10916)`uncheck`
++ [ What Learned Representations and Influence Functions Can Tell Us About  Adversarial Examples](https://arxiv.org//abs/2309.10916)
 
 	Shakila Mahjabin Tonni, Mark Dras
 
 
-+ [ PRAT: PRofiling Adversarial aTtacks](https://arxiv.org//abs/2309.11111)`uncheck`
++ [ PRAT: PRofiling Adversarial aTtacks](https://arxiv.org//abs/2309.11111)
 
 	Rahul Ambati, Naveed Akhtar, Ajmal Mian, Yogesh Singh Rawat
 
 
-+ [ It's Simplex! Disaggregating Measures to Improve Certified Robustness](https://arxiv.org//abs/2309.11005)`uncheck`
++ [ It's Simplex! Disaggregating Measures to Improve Certified Robustness](https://arxiv.org//abs/2309.11005)
 
 	Andrew C. Cullen, Paul Montague, Shijie Liu, Sarah M. Erfani, Benjamin I.P. Rubinstein
 
 
-+ [ Learning Patient Static Information from Time-series EHR and an Approach  for Safeguarding Privacy and Fairness](https://arxiv.org//abs/2309.11373)`uncheck`
++ [ Learning Patient Static Information from Time-series EHR and an Approach  for Safeguarding Privacy and Fairness](https://arxiv.org//abs/2309.11373)
 
 	Wei Liao, Joel Voldman
 
 
-+ [ Fed-LSAE: Thwarting Poisoning Attacks against Federated Cyber Threat  Detection System via Autoencoder-based Latent Space Inspection](https://arxiv.org//abs/2309.11053)`uncheck`
++ [ Fed-LSAE: Thwarting Poisoning Attacks against Federated Cyber Threat  Detection System via Autoencoder-based Latent Space Inspection](https://arxiv.org//abs/2309.11053)
 
 	Tran Duc Luong, Vuong Minh Tien, Nguyen Huu Quyen, Do Thi Thu Hien, Phan The Duy, Van-Hau Pham
 
