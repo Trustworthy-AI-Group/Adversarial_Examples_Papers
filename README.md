@@ -2,47 +2,47 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 ## 2023-09-22
-+ [ CATS: Conditional Adversarial Trajectory Synthesis for  Privacy-Preserving Trajectory Data Publication Using Deep Learning Approaches](https://arxiv.org//abs/2309.11587)`uncheck`
++ [ CATS: Conditional Adversarial Trajectory Synthesis for  Privacy-Preserving Trajectory Data Publication Using Deep Learning Approaches](https://arxiv.org//abs/2309.11587)
 
 	Jinmeng Rao, Song Gao, Sijia Zhu
 
 
-+ [ How Robust is Google's Bard to Adversarial Image Attacks?](https://arxiv.org//abs/2309.11751)`uncheck`
++ [ How Robust is Google's Bard to Adversarial Image Attacks?](https://arxiv.org//abs/2309.11751)
 
 	Yinpeng Dong, Huanran Chen, Jiawei Chen, Zhengwei Fang, Xiao Yang, Yichi Zhang, Yu Tian, Hang Su, Jun Zhu
 
 
-+ [ Knowledge Sanitization of Large Language Models](https://arxiv.org//abs/2309.11852)`uncheck`
++ [ Knowledge Sanitization of Large Language Models](https://arxiv.org//abs/2309.11852)
 
 	Yoichi Ishibashi, Hidetoshi Shimodaira
 
 
-+ [ On the Relationship between Skill Neurons and Robustness in Prompt  Tuning](https://arxiv.org//abs/2309.12263)`uncheck`
++ [ On the Relationship between Skill Neurons and Robustness in Prompt  Tuning](https://arxiv.org//abs/2309.12263)
 
 	Leon Ackermann, Xenia Ohmer
 
 
-+ [ TextCLIP: Text-Guided Face Image Generation And Manipulation Without  Adversarial Training](https://arxiv.org//abs/2309.11923)`uncheck`
++ [ TextCLIP: Text-Guided Face Image Generation And Manipulation Without  Adversarial Training](https://arxiv.org//abs/2309.11923)
 
 	Xiaozhou You, Jian Zhang
 
 
-+ [ Dictionary Attack on IMU-based Gait Authentication](https://arxiv.org//abs/2309.11766)`uncheck`
++ [ Dictionary Attack on IMU-based Gait Authentication](https://arxiv.org//abs/2309.11766)
 
 	Rajesh Kumar, Can Isik, Chilukuri K. Mohan
   
 
-+ [ Privacy-Preserving In-Context Learning with Differentially Private  Few-Shot Generation](https://arxiv.org//abs/2309.11765)`uncheck`
++ [ Privacy-Preserving In-Context Learning with Differentially Private  Few-Shot Generation](https://arxiv.org//abs/2309.11765)
 
 	Xinyu Tang, Richard Shin, Huseyin A. Inan, Andre Manoel, Fatemehsadat Mireshghallah, Zinan Lin, Sivakanth Gopi, Janardhan Kulkarni, Robert Sim
 
 
-+ [ MarkNerf:Watermarking for Neural Radiance Field](https://arxiv.org//abs/2309.11747)`uncheck`
++ [ MarkNerf:Watermarking for Neural Radiance Field](https://arxiv.org//abs/2309.11747)
 
 	Lifeng Chen, Jia Liu, Yan Ke, Wenquan Sun, Weina Dong, Xiaozhong Pan
 
 
-+ [ DeepTheft: Stealing DNN Model Architectures through Power Side Channel](https://arxiv.org//abs/2309.11894)`uncheck`
++ [ DeepTheft: Stealing DNN Model Architectures through Power Side Channel](https://arxiv.org//abs/2309.11894)
 
 	Yansong Gao, Huming Qiu, Zhi Zhang, Binghui Wang, Hua Ma, Alsharif Abuadbba, Minhui Xue, Anmin Fu, Surya Nepal
 
