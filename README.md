@@ -3,34 +3,24 @@
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 
 ## 2023-09-23
-+ [ Bad Actor, Good Advisor: Exploring the Role of Large Language Models in  Fake News Detection](https://arxiv.org//abs/2309.12247)`uncheck`
++ [ Bad Actor, Good Advisor: Exploring the Role of Large Language Models in  Fake News Detection](https://arxiv.org//abs/2309.12247)
 
 	Beizhe Hu, Qiang Sheng, Juan Cao, Yuhui Shi, Yang Li, Danding Wang, Peng Qi
 
 
-+ [ A Chinese Prompt Attack Dataset for LLMs with Evil Content](https://arxiv.org//abs/2309.11830)`uncheck`
++ [ A Chinese Prompt Attack Dataset for LLMs with Evil Content](https://arxiv.org//abs/2309.11830)
 
 	Chengyuan Liu, Fubang Zhao, Lizhi Qing, Yangyang Kang, Changlong Sun, Kun Kuang, Fei Wu
 
 
-+ [ Vulnerability of 3D Face Recognition Systems to Morphing Attacks](https://arxiv.org//abs/2309.12118)`uncheck`
++ [ Vulnerability of 3D Face Recognition Systems to Morphing Attacks](https://arxiv.org//abs/2309.12118)
 
 	Sanjeet Vardam, Luuk Spreeuwers
 
 
-+ [ Towards Differential Privacy in Sequential Recommendation: A Noisy Graph  Neural Network Approach](https://arxiv.org//abs/2309.11515)`uncheck`
++ [ Towards Differential Privacy in Sequential Recommendation: A Noisy Graph  Neural Network Approach](https://arxiv.org//abs/2309.11515)
 
 	Wentao Hu, Hui Fang
-
-
-+ [ S-GBDT: Frugal Differentially Private Gradient Boosting Decision Trees](https://arxiv.org//abs/2309.12041)`uncheck`
-
-	Moritz Kirsche, Thorsten Peinemann, Joshua Stock, Carlos Cotrini, Esfandiar Mohammadi
-
-
-+ [ Towards the Comprehensive Understanding of Mempool DoS Security in  Ethereum (Work in Progress)](https://arxiv.org//abs/2309.11721)`uncheck`
-
-	Yibo Wang, Wanning Ding, Kai Li, Yuzhe Tang
 
 
 ## 2023-09-22
