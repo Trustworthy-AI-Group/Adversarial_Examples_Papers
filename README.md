@@ -3,16 +3,6 @@
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 
 ## 2023-09-23
-+ [ CATS: Conditional Adversarial Trajectory Synthesis for  Privacy-Preserving Trajectory Data Publication Using Deep Learning Approaches](https://arxiv.org//abs/2309.11587)`uncheck`
-
-	Jinmeng Rao, Song Gao, Sijia Zhu
-
-
-+ [ How Robust is Google's Bard to Adversarial Image Attacks?](https://arxiv.org//abs/2309.11751)`uncheck`
-
-	Yinpeng Dong, Huanran Chen, Jiawei Chen, Zhengwei Fang, Xiao Yang, Yichi Zhang, Yu Tian, Hang Su, Jun Zhu
-
-
 + [ Bad Actor, Good Advisor: Exploring the Role of Large Language Models in  Fake News Detection](https://arxiv.org//abs/2309.12247)`uncheck`
 
 	Beizhe Hu, Qiang Sheng, Juan Cao, Yuhui Shi, Yang Li, Danding Wang, Peng Qi
@@ -23,24 +13,9 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Chengyuan Liu, Fubang Zhao, Lizhi Qing, Yangyang Kang, Changlong Sun, Kun Kuang, Fei Wu
 
 
-+ [ TextCLIP: Text-Guided Face Image Generation And Manipulation Without  Adversarial Training](https://arxiv.org//abs/2309.11923)`uncheck`
-
-	Xiaozhou You, Jian Zhang
-
-
 + [ Vulnerability of 3D Face Recognition Systems to Morphing Attacks](https://arxiv.org//abs/2309.12118)`uncheck`
 
 	Sanjeet Vardam, Luuk Spreeuwers
-
-
-+ [ Dictionary Attack on IMU-based Gait Authentication](https://arxiv.org//abs/2309.11766)`uncheck`
-
-	Rajesh Kumar, Can Isik, Chilukuri K. Mohan
-
-
-+ [ Privacy-Preserving In-Context Learning with Differentially Private  Few-Shot Generation](https://arxiv.org//abs/2309.11765)`uncheck`
-
-	Xinyu Tang, Richard Shin, Huseyin A. Inan, Andre Manoel, Fatemehsadat Mireshghallah, Zinan Lin, Sivakanth Gopi, Janardhan Kulkarni, Robert Sim
 
 
 + [ Towards Differential Privacy in Sequential Recommendation: A Noisy Graph  Neural Network Approach](https://arxiv.org//abs/2309.11515)`uncheck`
@@ -56,11 +31,6 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Towards the Comprehensive Understanding of Mempool DoS Security in  Ethereum (Work in Progress)](https://arxiv.org//abs/2309.11721)`uncheck`
 
 	Yibo Wang, Wanning Ding, Kai Li, Yuzhe Tang
-
-
-+ [ DeepTheft: Stealing DNN Model Architectures through Power Side Channel](https://arxiv.org//abs/2309.11894)`uncheck`
-
-	Yansong Gao, Huming Qiu, Zhi Zhang, Binghui Wang, Hua Ma, Alsharif Abuadbba, Minhui Xue, Anmin Fu, Surya Nepal
 
 
 ## 2023-09-22
