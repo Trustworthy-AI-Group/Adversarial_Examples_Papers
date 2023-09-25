@@ -2,27 +2,12 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 ## 2023-09-24
-+ [ Improve the efficiency of deep reinforcement learning through semantic  exploration guided by natural language](https://arxiv.org//abs/2309.11753)`uncheck`
-
-	Zhourui Guo, Meng Yao, Yang Yu, Qiyue Yin
-
-
-+ [ Learning to Recover for Safe Reinforcement Learning](https://arxiv.org//abs/2309.11907)`uncheck`
-
-	Haoyu Wang, Xin Yuan, Qinqing Ren
-
-
-+ [ A Comprehensive Review on Financial Explainable AI](https://arxiv.org//abs/2309.11960)`uncheck`
-
-	Wei Jie Yeo, Wihan van der Heever, Rui Mao, Erik Cambria, Ranjan Satapathy, Gianmarco Mengaldo
-
-
-+ [ Distilling Adversarial Prompts from Safety Benchmarks: Report for the  Adversarial Nibbler Challenge](https://arxiv.org//abs/2309.11575)`uncheck`
++ [ Distilling Adversarial Prompts from Safety Benchmarks: Report for the  Adversarial Nibbler Challenge](https://arxiv.org//abs/2309.11575)
 
 	Manuel Brack, Patrick Schramowski, Kristian Kersting
 
 
-+ [ The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"](https://arxiv.org//abs/2309.12288)`uncheck`
++ [ The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"](https://arxiv.org//abs/2309.12288)
 
 	Lukas Berglund, Meg Tong, Max Kaufmann, Mikita Balesni, Asa Cooper Stickland, Tomasz Korbak, Owain Evans
 
