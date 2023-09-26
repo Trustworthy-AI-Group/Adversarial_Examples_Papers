@@ -1,6 +1,42 @@
 # A compelete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+## 2023-09-25
++ [ Provably Robust and Plausible Counterfactual Explanations for Neural  Networks via Robust Optimisation](https://arxiv.org//abs/2309.12545)`uncheck`
+
+	Junqi Jiang, Jianglin Lan, Francesco Leofante, Antonio Rago, Francesca Toni
+
+
++ [ HANS, are you clever? Clever Hans Effect Analysis of Neural Systems](https://arxiv.org//abs/2309.12481)`uncheck`
+
+	Leonardo Ranaldi, Fabio Massimo Zanzotto
+
+
++ [ Privacy Assessment on Reconstructed Images: Are Existing Evaluation  Metrics Faithful to Human Perception?](https://arxiv.org//abs/2309.13038)`uncheck`
+
+	Xiaoxiao Sun, Nidham Gazagnadou, Vivek Sharma, Lingjuan Lyu, Hongdong Li, Liang Zheng
+
+
++ [ Improving Machine Learning Robustness via Adversarial Training](https://arxiv.org//abs/2309.12593)`uncheck`
+
+	Long Dang, Thushari Hapuarachchi, Kaiqi Xiong, Jing Lin
+
+
++ [ On Data Fabrication in Collaborative Vehicular Perception: Attacks and  Countermeasures](https://arxiv.org//abs/2309.12955)`uncheck`
+
+	Qingzhao Zhang, Shuowei Jin, Jiachen Sun, Xumiao Zhang, Ruiyang Zhu, Qi Alfred Chen, Z. Morley Mao
+
+
++ [ Understanding Deep Gradient Leakage via Inversion Influence Functions](https://arxiv.org//abs/2309.13016)`uncheck`
+
+	Haobo Zhang, Junyuan Hong, Yuyang Deng, Mehrdad Mahdavi, Jiayu Zhou
+
+
++ [ Robotic Handling of Compliant Food Objects by Robust Learning from  Demonstration](https://arxiv.org//abs/2309.12856)`uncheck`
+
+	Ekrem Misimi, Alexander Olofsson, Aleksander Eilertsen, Elling Ruud Øye, John Reidar Mathiassen
+
+
 ## 2023-09-24
 + [ Distilling Adversarial Prompts from Safety Benchmarks: Report for the  Adversarial Nibbler Challenge](https://arxiv.org//abs/2309.11575)
 
