@@ -1,6 +1,113 @@
 # A compelete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+## 2023-09-26
++ [ Investigating Efficient Deep Learning Architectures For Side-Channel  Attacks on AES](https://arxiv.org//abs/2309.13170)`uncheck`
+
+	Yohaï-Eliel Berreby, Laurent Sauvage
+
+
++ [ Towards Green AI in Fine-tuning Large Language Models via Adaptive  Backpropagation](https://arxiv.org//abs/2309.13192)`uncheck`
+
+	Kai Huang, Hanyun Yin, Heng Huang, Wei Gao
+
+
++ [ Defending Pre-trained Language Models as Few-shot Learners against  Backdoor Attacks](https://arxiv.org//abs/2309.13256)`uncheck`
+
+	Zhaohan Xi, Tianyu Du, Changjiang Li, Ren Pang, Shouling Ji, Jinghui Chen, Fenglong Ma, Ting Wang
+
+
++ [ LLMs as Counterfactual Explanation Modules: Can ChatGPT Explain  Black-box Text Classifiers?](https://arxiv.org//abs/2309.13340)`uncheck`
+
+	Amrita Bhattacharjee, Raha Moraffah, Joshua Garland, Huan Liu
+
+
++ [ Seeing Is Not Always Believing: Invisible Collision Attack and Defence  on Pre-Trained Models](https://arxiv.org//abs/2309.13579)`uncheck`
+
+	Minghang Deng, Zhong Zhang, Junming Shao
+
+
++ [ PRIS: Practical robust invertible network for image steganography](https://arxiv.org//abs/2309.13620)`uncheck`
+
+	Hang Yang, Yitian Xu, Xuhua Liu, Xiaodong Ma
+
+
++ [ GHN-QAT: Training Graph Hypernetworks to Predict Quantization-Robust  Parameters of Unseen Limited Precision Neural Networks](https://arxiv.org//abs/2309.13773)`uncheck`
+
+	Stone Yun, Alexander Wong
+
+
++ [ Can LLM-Generated Misinformation Be Detected?](https://arxiv.org//abs/2309.13788)`uncheck`
+
+	Canyu Chen, Kai Shu
+
+
++ [ RBFormer: Improve Adversarial Robustness of Transformer by Robust Bias](https://arxiv.org//abs/2309.13245)`uncheck`
+
+	Hao Cheng, Jinhao Duan, Hui Li, Lyutianyang Zhang, Jiahang Cao, Ping Wang, Jize Zhang, Kaidi Xu, Renjing Xu
+
+
++ [ DFRD: Data-Free Robustness Distillation for Heterogeneous Federated  Learning](https://arxiv.org//abs/2309.13546)`uncheck`
+
+	Kangyang Luo, Shuai Wang, Yexuan Fu, Xiang Li, Yunshi Lan, Ming Gao
+
+
++ [ Vulnerabilities in Video Quality Assessment Models: The Challenge of  Adversarial Attacks](https://arxiv.org//abs/2309.13609)`uncheck`
+
+	Ao-Xiang Zhang, Yu Ran, Weixuan Tang, Yuan-Gen Wang
+
+
++ [ Video Adverse-Weather-Component Suppression Network via Weather  Messenger and Adversarial Backpropagation](https://arxiv.org//abs/2309.13700)`uncheck`
+
+	Yijun Yang, Angelica I. Aviles-Rivero, Huazhu Fu, Ye Liu, Weiming Wang, Lei Zhu
+
+
++ [ Combining Two Adversarial Attacks Against Person Re-Identification  Systems](https://arxiv.org//abs/2309.13763)`uncheck`
+
+	Eduardo de O. Andrade, Igor Garcia Ballhausen Sampaio, Joris Guérin, José Viterbo
+
+
++ [ Adversarial Attacks on Video Object Segmentation with Hard Region  Discovery](https://arxiv.org//abs/2309.13857)`uncheck`
+
+	Ping Li, Yu Zhang, Li Yuan, Jian Zhao, Xianghua Xu, Xiaoqin Zhang
+
+
++ [ SurrogatePrompt: Bypassing the Safety Filter of Text-To-Image Models via  Substitution](https://arxiv.org//abs/2309.14122)`uncheck`
+
+	Zhongjie Ba, Jieming Zhong, Jiachen Lei, Peng Cheng, Qinglong Wang, Zhan Qin, Zhibo Wang, Kui Ren
+
+
+
++ [ Spatial-frequency channels, shape bias, and adversarial robustness](https://arxiv.org//abs/2309.13190)`uncheck`
+
+	Ajay Subramanian, Elena Sizikova, Najib J. Majaj, Denis G. Pelli
+
+
++ [ Beyond Fairness: Age-Harmless Parkinson's Detection via Voice](https://arxiv.org//abs/2309.13292)`uncheck`
+
+	Yicheng Wang, Xiaotian Han, Leisheng Yu, Na Zou
+
+
++ [ Tackling the Unlimited Staleness in Federated Learning with Intertwined  Data and Device Heterogeneities](https://arxiv.org//abs/2309.13536)`uncheck`
+
+	Haoming Wang, Wei Gao
+
+
++ [ Improving Robustness of Deep Convolutional Neural Networks via  Multiresolution Learning](https://arxiv.org//abs/2309.13752)`uncheck`
+
+	Hongyan Zhou, Yao Liang
+
+
++ [ Invisible Watermarking for Audio Generation Diffusion Models](https://arxiv.org//abs/2309.13166)`uncheck`
+
+	Xirong Cao, Xiang Li, Divyesh Jadav, Yanzhao Wu, Zhehui Chen, Chen Zeng, Wenqi Wei
+
+
++ [ On the Effectiveness of Adversarial Samples against Ensemble  Learning-based Windows PE Malware Detectors](https://arxiv.org//abs/2309.13841)`uncheck`
+
+	Trong-Nghia To, Danh Le Kim, Do Thi Thu Hien, Nghi Hoang Khoa, Hien Do Hoang, Phan The Duy, Van-Hau Pham
+
+
 ## 2023-09-25
 + [ Provably Robust and Plausible Counterfactual Explanations for Neural  Networks via Robust Optimisation](https://arxiv.org//abs/2309.12545)`uncheck`
 
