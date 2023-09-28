@@ -2,199 +2,189 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 ## 2023-09-27
-+ [ Bias Assessment and Mitigation in LLM-based Code Generation](https://arxiv.org//abs/2309.14345)`uncheck`
++ [ Bias Assessment and Mitigation in LLM-based Code Generation](https://arxiv.org//abs/2309.14345)
 
 	Dong Huang, Qingwen Bu, Jie Zhang, Xiaofei Xie, Junjie Chen, Heming Cui
 
 
-+ [ Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM](https://arxiv.org//abs/2309.14348)`uncheck`
++ [ Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM](https://arxiv.org//abs/2309.14348)
 
 	Bochuan Cao, Yuanpu Cao, Lu Lin, Jinghui Chen
 
 
-+ [ Survey of Social Bias in Vision-Language Models](https://arxiv.org//abs/2309.14381)`uncheck`
++ [ Survey of Social Bias in Vision-Language Models](https://arxiv.org//abs/2309.14381)
 
 	Nayeon Lee, Yejin Bang, Holy Lovenia, Samuel Cahyawijaya, Wenliang Dai, Pascale Fung
 
 
-+ [ XGV-BERT: Leveraging Contextualized Language Model and Graph Neural  Network for Efficient Software Vulnerability Detection](https://arxiv.org//abs/2309.14677)`uncheck`
++ [ XGV-BERT: Leveraging Contextualized Language Model and Graph Neural  Network for Efficient Software Vulnerability Detection](https://arxiv.org//abs/2309.14677)
 
 	Vu Le Anh Quan, Chau Thuan Phat, Kiet Van Nguyen, Phan The Duy, Van-Hau Pham
 
 
-+ [ DifAttack: Query-Efficient Black-Box Attack via Disentangled Feature  Space](https://arxiv.org//abs/2309.14585)`uncheck`
++ [ DifAttack: Query-Efficient Black-Box Attack via Disentangled Feature  Space](https://arxiv.org//abs/2309.14585)
 
 	Liu Jun, Zhou Jiantao, Zeng Jiandian, Jinyu Tian
 
 
-+ [ Structure Invariant Transformation for better Adversarial  Transferability](https://arxiv.org//abs/2309.14700)`uncheck`
++ [ Structure Invariant Transformation for better Adversarial  Transferability](https://arxiv.org//abs/2309.14700)
 
 	Xiaosen Wang, Zeliang Zhang, Jianping Zhang
 
 
-+ [ Frugal Satellite Image Change Detection with Deep-Net Inversion](https://arxiv.org//abs/2309.14781)`uncheck`
++ [ Frugal Satellite Image Change Detection with Deep-Net Inversion](https://arxiv.org//abs/2309.14781)
 
 	Hichem Sahbi, Sebastien Deschamps
 
 
-+ [ The Surveillance AI Pipeline](https://arxiv.org//abs/2309.15084)`uncheck`
++ [ The Surveillance AI Pipeline](https://arxiv.org//abs/2309.15084)
 
 	Pratyusha Ria Kalluri, William Agnew, Myra Cheng, Kentrell Owens, Luca Soldaini, Abeba Birhane
 
 
-+ [ Unveiling Fairness Biases in Deep Learning-Based Brain MRI  Reconstruction](https://arxiv.org//abs/2309.14392)`uncheck`
++ [ Unveiling Fairness Biases in Deep Learning-Based Brain MRI  Reconstruction](https://arxiv.org//abs/2309.14392)
 
 	Yuning Du, Yuyang Xue, Rohan Dharmakumar, Sotirios A. Tsaftaris
 
 
-+ [ LogGPT: Log Anomaly Detection via GPT](https://arxiv.org//abs/2309.14482)`uncheck`
++ [ LogGPT: Log Anomaly Detection via GPT](https://arxiv.org//abs/2309.14482)
 
 	Xiao Han, Shuhan Yuan, Mohamed Trabelsi
 
 
-+ [ Privacy-preserving and Privacy-attacking Approaches for Speech and Audio  -- A Survey](https://arxiv.org//abs/2309.15087)`uncheck`
++ [ Privacy-preserving and Privacy-attacking Approaches for Speech and Audio  -- A Survey](https://arxiv.org//abs/2309.15087)
 
 	Yuchen Liu, Apu Kapadia, Donald Williamson
 
 ## 2023-09-26
-+ [ Investigating Efficient Deep Learning Architectures For Side-Channel  Attacks on AES](https://arxiv.org//abs/2309.13170)`uncheck`
++ [ Investigating Efficient Deep Learning Architectures For Side-Channel  Attacks on AES](https://arxiv.org//abs/2309.13170)
 
 	Yohaï-Eliel Berreby, Laurent Sauvage
 
 
-+ [ Towards Green AI in Fine-tuning Large Language Models via Adaptive  Backpropagation](https://arxiv.org//abs/2309.13192)`uncheck`
++ [ Towards Green AI in Fine-tuning Large Language Models via Adaptive  Backpropagation](https://arxiv.org//abs/2309.13192)
 
 	Kai Huang, Hanyun Yin, Heng Huang, Wei Gao
 
 
-+ [ Defending Pre-trained Language Models as Few-shot Learners against  Backdoor Attacks](https://arxiv.org//abs/2309.13256)`uncheck`
++ [ Defending Pre-trained Language Models as Few-shot Learners against  Backdoor Attacks](https://arxiv.org//abs/2309.13256)
 
 	Zhaohan Xi, Tianyu Du, Changjiang Li, Ren Pang, Shouling Ji, Jinghui Chen, Fenglong Ma, Ting Wang
 
 
-+ [ LLMs as Counterfactual Explanation Modules: Can ChatGPT Explain  Black-box Text Classifiers?](https://arxiv.org//abs/2309.13340)`uncheck`
++ [ LLMs as Counterfactual Explanation Modules: Can ChatGPT Explain  Black-box Text Classifiers?](https://arxiv.org//abs/2309.13340)
 
 	Amrita Bhattacharjee, Raha Moraffah, Joshua Garland, Huan Liu
 
 
-+ [ Seeing Is Not Always Believing: Invisible Collision Attack and Defence  on Pre-Trained Models](https://arxiv.org//abs/2309.13579)`uncheck`
++ [ Seeing Is Not Always Believing: Invisible Collision Attack and Defence  on Pre-Trained Models](https://arxiv.org//abs/2309.13579)
 
 	Minghang Deng, Zhong Zhang, Junming Shao
 
 
-+ [ PRIS: Practical robust invertible network for image steganography](https://arxiv.org//abs/2309.13620)`uncheck`
++ [ PRIS: Practical robust invertible network for image steganography](https://arxiv.org//abs/2309.13620)
 
 	Hang Yang, Yitian Xu, Xuhua Liu, Xiaodong Ma
 
 
-+ [ GHN-QAT: Training Graph Hypernetworks to Predict Quantization-Robust  Parameters of Unseen Limited Precision Neural Networks](https://arxiv.org//abs/2309.13773)`uncheck`
++ [ GHN-QAT: Training Graph Hypernetworks to Predict Quantization-Robust  Parameters of Unseen Limited Precision Neural Networks](https://arxiv.org//abs/2309.13773)
 
 	Stone Yun, Alexander Wong
 
 
-+ [ Can LLM-Generated Misinformation Be Detected?](https://arxiv.org//abs/2309.13788)`uncheck`
++ [ Can LLM-Generated Misinformation Be Detected?](https://arxiv.org//abs/2309.13788)
 
 	Canyu Chen, Kai Shu
 
 
-+ [ RBFormer: Improve Adversarial Robustness of Transformer by Robust Bias](https://arxiv.org//abs/2309.13245)`uncheck`
++ [ RBFormer: Improve Adversarial Robustness of Transformer by Robust Bias](https://arxiv.org//abs/2309.13245)
 
 	Hao Cheng, Jinhao Duan, Hui Li, Lyutianyang Zhang, Jiahang Cao, Ping Wang, Jize Zhang, Kaidi Xu, Renjing Xu
 
 
-+ [ DFRD: Data-Free Robustness Distillation for Heterogeneous Federated  Learning](https://arxiv.org//abs/2309.13546)`uncheck`
++ [ DFRD: Data-Free Robustness Distillation for Heterogeneous Federated  Learning](https://arxiv.org//abs/2309.13546)
 
 	Kangyang Luo, Shuai Wang, Yexuan Fu, Xiang Li, Yunshi Lan, Ming Gao
 
 
-+ [ Vulnerabilities in Video Quality Assessment Models: The Challenge of  Adversarial Attacks](https://arxiv.org//abs/2309.13609)`uncheck`
++ [ Vulnerabilities in Video Quality Assessment Models: The Challenge of  Adversarial Attacks](https://arxiv.org//abs/2309.13609)
 
 	Ao-Xiang Zhang, Yu Ran, Weixuan Tang, Yuan-Gen Wang
 
 
-+ [ Video Adverse-Weather-Component Suppression Network via Weather  Messenger and Adversarial Backpropagation](https://arxiv.org//abs/2309.13700)`uncheck`
++ [ Video Adverse-Weather-Component Suppression Network via Weather  Messenger and Adversarial Backpropagation](https://arxiv.org//abs/2309.13700)
 
 	Yijun Yang, Angelica I. Aviles-Rivero, Huazhu Fu, Ye Liu, Weiming Wang, Lei Zhu
 
 
-+ [ Combining Two Adversarial Attacks Against Person Re-Identification  Systems](https://arxiv.org//abs/2309.13763)`uncheck`
++ [ Combining Two Adversarial Attacks Against Person Re-Identification  Systems](https://arxiv.org//abs/2309.13763)
 
 	Eduardo de O. Andrade, Igor Garcia Ballhausen Sampaio, Joris Guérin, José Viterbo
 
 
-+ [ Adversarial Attacks on Video Object Segmentation with Hard Region  Discovery](https://arxiv.org//abs/2309.13857)`uncheck`
++ [ Adversarial Attacks on Video Object Segmentation with Hard Region  Discovery](https://arxiv.org//abs/2309.13857)
 
 	Ping Li, Yu Zhang, Li Yuan, Jian Zhao, Xianghua Xu, Xiaoqin Zhang
 
 
-+ [ SurrogatePrompt: Bypassing the Safety Filter of Text-To-Image Models via  Substitution](https://arxiv.org//abs/2309.14122)`uncheck`
++ [ SurrogatePrompt: Bypassing the Safety Filter of Text-To-Image Models via  Substitution](https://arxiv.org//abs/2309.14122)
 
 	Zhongjie Ba, Jieming Zhong, Jiachen Lei, Peng Cheng, Qinglong Wang, Zhan Qin, Zhibo Wang, Kui Ren
 
 
 
-+ [ Spatial-frequency channels, shape bias, and adversarial robustness](https://arxiv.org//abs/2309.13190)`uncheck`
++ [ Spatial-frequency channels, shape bias, and adversarial robustness](https://arxiv.org//abs/2309.13190)
 
 	Ajay Subramanian, Elena Sizikova, Najib J. Majaj, Denis G. Pelli
 
 
-+ [ Beyond Fairness: Age-Harmless Parkinson's Detection via Voice](https://arxiv.org//abs/2309.13292)`uncheck`
++ [ Beyond Fairness: Age-Harmless Parkinson's Detection via Voice](https://arxiv.org//abs/2309.13292)
 
 	Yicheng Wang, Xiaotian Han, Leisheng Yu, Na Zou
 
 
-+ [ Tackling the Unlimited Staleness in Federated Learning with Intertwined  Data and Device Heterogeneities](https://arxiv.org//abs/2309.13536)`uncheck`
-
-	Haoming Wang, Wei Gao
-
-
-+ [ Improving Robustness of Deep Convolutional Neural Networks via  Multiresolution Learning](https://arxiv.org//abs/2309.13752)`uncheck`
++ [ Improving Robustness of Deep Convolutional Neural Networks via  Multiresolution Learning](https://arxiv.org//abs/2309.13752)
 
 	Hongyan Zhou, Yao Liang
 
 
-+ [ Invisible Watermarking for Audio Generation Diffusion Models](https://arxiv.org//abs/2309.13166)`uncheck`
++ [ Invisible Watermarking for Audio Generation Diffusion Models](https://arxiv.org//abs/2309.13166)
 
 	Xirong Cao, Xiang Li, Divyesh Jadav, Yanzhao Wu, Zhehui Chen, Chen Zeng, Wenqi Wei
 
 
-+ [ On the Effectiveness of Adversarial Samples against Ensemble  Learning-based Windows PE Malware Detectors](https://arxiv.org//abs/2309.13841)`uncheck`
++ [ On the Effectiveness of Adversarial Samples against Ensemble  Learning-based Windows PE Malware Detectors](https://arxiv.org//abs/2309.13841)
 
 	Trong-Nghia To, Danh Le Kim, Do Thi Thu Hien, Nghi Hoang Khoa, Hien Do Hoang, Phan The Duy, Van-Hau Pham
 
 
 ## 2023-09-25
-+ [ Provably Robust and Plausible Counterfactual Explanations for Neural  Networks via Robust Optimisation](https://arxiv.org//abs/2309.12545)`uncheck`
++ [ Provably Robust and Plausible Counterfactual Explanations for Neural  Networks via Robust Optimisation](https://arxiv.org//abs/2309.12545)
 
 	Junqi Jiang, Jianglin Lan, Francesco Leofante, Antonio Rago, Francesca Toni
 
 
-+ [ HANS, are you clever? Clever Hans Effect Analysis of Neural Systems](https://arxiv.org//abs/2309.12481)`uncheck`
++ [ HANS, are you clever? Clever Hans Effect Analysis of Neural Systems](https://arxiv.org//abs/2309.12481)
 
 	Leonardo Ranaldi, Fabio Massimo Zanzotto
 
 
-+ [ Privacy Assessment on Reconstructed Images: Are Existing Evaluation  Metrics Faithful to Human Perception?](https://arxiv.org//abs/2309.13038)`uncheck`
++ [ Privacy Assessment on Reconstructed Images: Are Existing Evaluation  Metrics Faithful to Human Perception?](https://arxiv.org//abs/2309.13038)
 
 	Xiaoxiao Sun, Nidham Gazagnadou, Vivek Sharma, Lingjuan Lyu, Hongdong Li, Liang Zheng
 
 
-+ [ Improving Machine Learning Robustness via Adversarial Training](https://arxiv.org//abs/2309.12593)`uncheck`
++ [ Improving Machine Learning Robustness via Adversarial Training](https://arxiv.org//abs/2309.12593)
 
 	Long Dang, Thushari Hapuarachchi, Kaiqi Xiong, Jing Lin
 
 
-+ [ On Data Fabrication in Collaborative Vehicular Perception: Attacks and  Countermeasures](https://arxiv.org//abs/2309.12955)`uncheck`
++ [ On Data Fabrication in Collaborative Vehicular Perception: Attacks and  Countermeasures](https://arxiv.org//abs/2309.12955)
 
 	Qingzhao Zhang, Shuowei Jin, Jiachen Sun, Xumiao Zhang, Ruiyang Zhu, Qi Alfred Chen, Z. Morley Mao
 
 
-+ [ Understanding Deep Gradient Leakage via Inversion Influence Functions](https://arxiv.org//abs/2309.13016)`uncheck`
-
-	Haobo Zhang, Junyuan Hong, Yuyang Deng, Mehrdad Mahdavi, Jiayu Zhou
-
-
-+ [ Robotic Handling of Compliant Food Objects by Robust Learning from  Demonstration](https://arxiv.org//abs/2309.12856)`uncheck`
++ [ Robotic Handling of Compliant Food Objects by Robust Learning from  Demonstration](https://arxiv.org//abs/2309.12856)
 
 	Ekrem Misimi, Alexander Olofsson, Aleksander Eilertsen, Elling Ruud Øye, John Reidar Mathiassen
 
