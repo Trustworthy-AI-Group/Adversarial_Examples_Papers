@@ -1,6 +1,61 @@
 # A compelete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+## 2023-09-27
++ [ Bias Assessment and Mitigation in LLM-based Code Generation](https://arxiv.org//abs/2309.14345)`uncheck`
+
+	Dong Huang, Qingwen Bu, Jie Zhang, Xiaofei Xie, Junjie Chen, Heming Cui
+
+
++ [ Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM](https://arxiv.org//abs/2309.14348)`uncheck`
+
+	Bochuan Cao, Yuanpu Cao, Lu Lin, Jinghui Chen
+
+
++ [ Survey of Social Bias in Vision-Language Models](https://arxiv.org//abs/2309.14381)`uncheck`
+
+	Nayeon Lee, Yejin Bang, Holy Lovenia, Samuel Cahyawijaya, Wenliang Dai, Pascale Fung
+
+
++ [ XGV-BERT: Leveraging Contextualized Language Model and Graph Neural  Network for Efficient Software Vulnerability Detection](https://arxiv.org//abs/2309.14677)`uncheck`
+
+	Vu Le Anh Quan, Chau Thuan Phat, Kiet Van Nguyen, Phan The Duy, Van-Hau Pham
+
+
++ [ DifAttack: Query-Efficient Black-Box Attack via Disentangled Feature  Space](https://arxiv.org//abs/2309.14585)`uncheck`
+
+	Liu Jun, Zhou Jiantao, Zeng Jiandian, Jinyu Tian
+
+
++ [ Structure Invariant Transformation for better Adversarial  Transferability](https://arxiv.org//abs/2309.14700)`uncheck`
+
+	Xiaosen Wang, Zeliang Zhang, Jianping Zhang
+
+
++ [ Frugal Satellite Image Change Detection with Deep-Net Inversion](https://arxiv.org//abs/2309.14781)`uncheck`
+
+	Hichem Sahbi, Sebastien Deschamps
+
+
++ [ The Surveillance AI Pipeline](https://arxiv.org//abs/2309.15084)`uncheck`
+
+	Pratyusha Ria Kalluri, William Agnew, Myra Cheng, Kentrell Owens, Luca Soldaini, Abeba Birhane
+
+
++ [ Unveiling Fairness Biases in Deep Learning-Based Brain MRI  Reconstruction](https://arxiv.org//abs/2309.14392)`uncheck`
+
+	Yuning Du, Yuyang Xue, Rohan Dharmakumar, Sotirios A. Tsaftaris
+
+
++ [ LogGPT: Log Anomaly Detection via GPT](https://arxiv.org//abs/2309.14482)`uncheck`
+
+	Xiao Han, Shuhan Yuan, Mohamed Trabelsi
+
+
++ [ Privacy-preserving and Privacy-attacking Approaches for Speech and Audio  -- A Survey](https://arxiv.org//abs/2309.15087)`uncheck`
+
+	Yuchen Liu, Apu Kapadia, Donald Williamson
+
 ## 2023-09-26
 + [ Investigating Efficient Deep Learning Architectures For Side-Channel  Attacks on AES](https://arxiv.org//abs/2309.13170)`uncheck`
 
