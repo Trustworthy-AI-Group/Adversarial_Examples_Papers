@@ -1,6 +1,41 @@
 # A compelete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+## 2023-09-28
++ [ An Evaluation of ChatGPT-4's Qualitative Spatial Reasoning Capabilities  in RCC-8](https://arxiv.org//abs/2309.15577)`uncheck`
+
+	Anthony G Cohn
+
+
++ [ How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking  Unrelated Questions](https://arxiv.org//abs/2309.15840)`uncheck`
+
+	Lorenzo Pacchiardi, Alex J. Chan, Sören Mindermann, Ilan Moscovitz, Alexa Y. Pan, Yarin Gal, Owain Evans, Jan Brauner
+
+
++ [ The Robust Semantic Segmentation UNCV2023 Challenge Results](https://arxiv.org//abs/2309.15478)`uncheck`
+
+	Xuanlong Yu, Yi Zuo, Zitao Wang, Xiaowen Zhang, Jiaxuan Zhao, Yuting Yang, Licheng Jiao, Rui Peng, Xinyi Wang, Junpei Zhang, Kexin Zhang, Fang Liu, Roberto Alcover-Couso, Juan C. SanMiguel, Marcos Escudero-Viñolo, Hanlin Tian, Kenta Matsui, Tianhao Wang, Fahmy Adan, Zhitong Gao, Xuming He, Quentin Bouniot, Hossein Moghaddam, Shyam Nandan Rai, Fabio Cermelli, Carlo Masone, Andrea Pilzer, Elisa Ricci, Andrei Bursuc, Arno Solin, Martin Trapp, Rui Li, Angela Yao, Wenlong Chen, Ivor Simpson, Neill D. F. Campbell, Gianni Franchi
+
+
++ [ A Unified View of Differentially Private Deep Generative Modeling](https://arxiv.org//abs/2309.15696)`uncheck`
+
+	Dingfan Chen, Raouf Kerkouche, Mario Fritz
+
+
++ [ On Computational Entanglement and Its Interpretation in Adversarial  Machine Learning](https://arxiv.org//abs/2309.15669)`uncheck`
+
+	YenLung Lai, Xingbo Dong, Zhe Jin
+
+
++ [ Automatic Feature Fairness in Recommendation via Adversaries](https://arxiv.org//abs/2309.15418)`uncheck`
+
+	Hengchang Hu, Yiming Cao, Zhankui He, Samson Tan, Min-Yen Kan
+
+
++ [ Evaluation and Analysis of Standard Security Technology in V2X  Communication -- Exploring ECQV Implicit Certificate Cracking](https://arxiv.org//abs/2309.15340)`uncheck`
+
+	Abel C. H. Chen
+
 ## 2023-09-27
 + [ Bias Assessment and Mitigation in LLM-based Code Generation](https://arxiv.org//abs/2309.14345)
 
