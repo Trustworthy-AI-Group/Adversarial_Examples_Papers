@@ -1,6 +1,41 @@
 # A compelete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+## 2023-09-29
++ [ Adversarial Examples Might be Avoidable: The Role of Data Concentration  in Adversarial Robustness](https://arxiv.org//abs/2309.16096)`uncheck`
+
+	Ambar Pal, Jeremias Sulam, René Vidal
+
+
++ [ Parameter-Saving Adversarial Training: Reinforcing Multi-Perturbation  Robustness via Hypernetworks](https://arxiv.org//abs/2309.16207)`uncheck`
+
+	Huihui Gong, Minjing Dong, Siqi Ma, Seyit Camtepe, Surya Nepal, Chang Xu
+
+
++ [ On the Trade-offs between Adversarial Robustness and Actionable  Explanations](https://arxiv.org//abs/2309.16452)`uncheck`
+
+	Satyapriya Krishna, Chirag Agarwal, Himabindu Lakkaraju
+
+
++ [ Resisting Backdoor Attacks in Federated Learning via Bidirectional  Elections and Individual Perspective](https://arxiv.org//abs/2309.16456)`uncheck`
+
+	Zhen Qin, Feiyi Chen, Chen Zhi, Xueqiang Yan, Shuiguang Deng
+
+
++ [ Towards Poisoning Fair Representations](https://arxiv.org//abs/2309.16487)`uncheck`
+
+	Tianci Liu, Haoyu Wang, Feijie Wu, Hengtong Zhang, Pan Li, Lu Su, Jing Gao
+
+
++ [ Compilation as a Defense: Enhancing DL Model Attack Robustness via  Tensor Optimization](https://arxiv.org//abs/2309.16577)`uncheck`
+
+	Stefan Trawicki, William Hackett, Lewis Birch, Neeraj Suri, Peter Garraghan
+
+
++ [ Cyber Sentinel: Exploring Conversational Agents in Streamlining Security  Tasks with GPT-4](https://arxiv.org//abs/2309.16422)`uncheck`
+
+	Mehrdad Kaheh, Danial Khosh Kholgh, Panos Kostakos
+
 ## 2023-09-28
 + [ An Evaluation of ChatGPT-4's Qualitative Spatial Reasoning Capabilities  in RCC-8](https://arxiv.org//abs/2309.15577)`uncheck`
 
