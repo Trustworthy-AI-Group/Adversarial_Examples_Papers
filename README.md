@@ -1,6 +1,32 @@
 # A compelete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+## 2023-09-30
++ [ Large Language Model Soft Ideologization via AI-Self-Consciousness](https://arxiv.org//abs/2309.16167)`uncheck`
+
+	Xiaotian Zhou, Qian Wang, Xiaofeng Wang, Haixu Tang, Xiaozhong Liu
+
+
++ [ At Which Training Stage Does Cocde Data Help LLMs Reasoning?](https://arxiv.org//abs/2309.16298)`uncheck`
+
+	Yingwei Ma, Yue Liu, Yue Yu, Yuanliang Zhang, Yu Jiang, Changjian Wang, Shanshan Li
+
+
++ [ TraCE: Trajectory Counterfactual Explanation Scores](https://arxiv.org//abs/2309.15965)`uncheck`
+
+	Jeffrey N. Clark, Edward A. Small, Nawid Keshtmand, Michelle W.L. Wan, Elena Fillola Mayoral, Enrico Werner, Christopher P. Bourdeaux, Raul Santos-Rodriguez
+
+
++ [ Recent Advances of Differential Privacy in Centralized Deep Learning: A  Systematic Survey](https://arxiv.org//abs/2309.16398)`uncheck`
+
+	Lea Demelius, Roman Kern, Andreas Trügler
+
+
++ [ Robust Offline Reinforcement Learning -- Certify the Confidence Interval](https://arxiv.org//abs/2309.16631)`uncheck`
+
+	Jiarui Yao, Simon Shaolei Du
+
+
 ## 2023-09-29
 + [ Adversarial Examples Might be Avoidable: The Role of Data Concentration  in Adversarial Robustness](https://arxiv.org//abs/2309.16096)`uncheck`
 
