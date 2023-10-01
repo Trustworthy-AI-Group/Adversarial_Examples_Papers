@@ -12,11 +12,6 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Yingwei Ma, Yue Liu, Yue Yu, Yuanliang Zhang, Yu Jiang, Changjian Wang, Shanshan Li
 
 
-+ [ TraCE: Trajectory Counterfactual Explanation Scores](https://arxiv.org//abs/2309.15965)`uncheck`
-
-	Jeffrey N. Clark, Edward A. Small, Nawid Keshtmand, Michelle W.L. Wan, Elena Fillola Mayoral, Enrico Werner, Christopher P. Bourdeaux, Raul Santos-Rodriguez
-
-
 + [ Recent Advances of Differential Privacy in Centralized Deep Learning: A  Systematic Survey](https://arxiv.org//abs/2309.16398)`uncheck`
 
 	Lea Demelius, Roman Kern, Andreas Trügler
