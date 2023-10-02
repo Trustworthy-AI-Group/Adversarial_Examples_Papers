@@ -2,95 +2,79 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 ## 2023-09-30
-+ [ Large Language Model Soft Ideologization via AI-Self-Consciousness](https://arxiv.org//abs/2309.16167)`uncheck`
-
-	Xiaotian Zhou, Qian Wang, Xiaofeng Wang, Haixu Tang, Xiaozhong Liu
 
 
-+ [ At Which Training Stage Does Cocde Data Help LLMs Reasoning?](https://arxiv.org//abs/2309.16298)`uncheck`
-
-	Yingwei Ma, Yue Liu, Yue Yu, Yuanliang Zhang, Yu Jiang, Changjian Wang, Shanshan Li
-
-
-+ [ Recent Advances of Differential Privacy in Centralized Deep Learning: A  Systematic Survey](https://arxiv.org//abs/2309.16398)`uncheck`
++ [ Recent Advances of Differential Privacy in Centralized Deep Learning: A  Systematic Survey](https://arxiv.org//abs/2309.16398)
 
 	Lea Demelius, Roman Kern, Andreas Trügler
 
 
-+ [ Robust Offline Reinforcement Learning -- Certify the Confidence Interval](https://arxiv.org//abs/2309.16631)`uncheck`
++ [ Robust Offline Reinforcement Learning -- Certify the Confidence Interval](https://arxiv.org//abs/2309.16631)
 
 	Jiarui Yao, Simon Shaolei Du
 
 
 ## 2023-09-29
-+ [ Adversarial Examples Might be Avoidable: The Role of Data Concentration  in Adversarial Robustness](https://arxiv.org//abs/2309.16096)`uncheck`
++ [ Adversarial Examples Might be Avoidable: The Role of Data Concentration  in Adversarial Robustness](https://arxiv.org//abs/2309.16096)
 
 	Ambar Pal, Jeremias Sulam, René Vidal
 
 
-+ [ Parameter-Saving Adversarial Training: Reinforcing Multi-Perturbation  Robustness via Hypernetworks](https://arxiv.org//abs/2309.16207)`uncheck`
++ [ Parameter-Saving Adversarial Training: Reinforcing Multi-Perturbation  Robustness via Hypernetworks](https://arxiv.org//abs/2309.16207)
 
 	Huihui Gong, Minjing Dong, Siqi Ma, Seyit Camtepe, Surya Nepal, Chang Xu
 
 
-+ [ On the Trade-offs between Adversarial Robustness and Actionable  Explanations](https://arxiv.org//abs/2309.16452)`uncheck`
++ [ On the Trade-offs between Adversarial Robustness and Actionable  Explanations](https://arxiv.org//abs/2309.16452)
 
 	Satyapriya Krishna, Chirag Agarwal, Himabindu Lakkaraju
 
 
-+ [ Resisting Backdoor Attacks in Federated Learning via Bidirectional  Elections and Individual Perspective](https://arxiv.org//abs/2309.16456)`uncheck`
++ [ Resisting Backdoor Attacks in Federated Learning via Bidirectional  Elections and Individual Perspective](https://arxiv.org//abs/2309.16456)
 
 	Zhen Qin, Feiyi Chen, Chen Zhi, Xueqiang Yan, Shuiguang Deng
 
 
-+ [ Towards Poisoning Fair Representations](https://arxiv.org//abs/2309.16487)`uncheck`
++ [ Towards Poisoning Fair Representations](https://arxiv.org//abs/2309.16487)
 
 	Tianci Liu, Haoyu Wang, Feijie Wu, Hengtong Zhang, Pan Li, Lu Su, Jing Gao
 
 
-+ [ Compilation as a Defense: Enhancing DL Model Attack Robustness via  Tensor Optimization](https://arxiv.org//abs/2309.16577)`uncheck`
++ [ Compilation as a Defense: Enhancing DL Model Attack Robustness via  Tensor Optimization](https://arxiv.org//abs/2309.16577)
 
 	Stefan Trawicki, William Hackett, Lewis Birch, Neeraj Suri, Peter Garraghan
 
 
-+ [ Cyber Sentinel: Exploring Conversational Agents in Streamlining Security  Tasks with GPT-4](https://arxiv.org//abs/2309.16422)`uncheck`
++ [ Cyber Sentinel: Exploring Conversational Agents in Streamlining Security  Tasks with GPT-4](https://arxiv.org//abs/2309.16422)
 
 	Mehrdad Kaheh, Danial Khosh Kholgh, Panos Kostakos
 
 ## 2023-09-28
-+ [ An Evaluation of ChatGPT-4's Qualitative Spatial Reasoning Capabilities  in RCC-8](https://arxiv.org//abs/2309.15577)`uncheck`
 
-	Anthony G Cohn
-
-
-+ [ How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking  Unrelated Questions](https://arxiv.org//abs/2309.15840)`uncheck`
++ [ How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking  Unrelated Questions](https://arxiv.org//abs/2309.15840)
 
 	Lorenzo Pacchiardi, Alex J. Chan, Sören Mindermann, Ilan Moscovitz, Alexa Y. Pan, Yarin Gal, Owain Evans, Jan Brauner
 
 
-+ [ The Robust Semantic Segmentation UNCV2023 Challenge Results](https://arxiv.org//abs/2309.15478)`uncheck`
++ [ The Robust Semantic Segmentation UNCV2023 Challenge Results](https://arxiv.org//abs/2309.15478)
 
 	Xuanlong Yu, Yi Zuo, Zitao Wang, Xiaowen Zhang, Jiaxuan Zhao, Yuting Yang, Licheng Jiao, Rui Peng, Xinyi Wang, Junpei Zhang, Kexin Zhang, Fang Liu, Roberto Alcover-Couso, Juan C. SanMiguel, Marcos Escudero-Viñolo, Hanlin Tian, Kenta Matsui, Tianhao Wang, Fahmy Adan, Zhitong Gao, Xuming He, Quentin Bouniot, Hossein Moghaddam, Shyam Nandan Rai, Fabio Cermelli, Carlo Masone, Andrea Pilzer, Elisa Ricci, Andrei Bursuc, Arno Solin, Martin Trapp, Rui Li, Angela Yao, Wenlong Chen, Ivor Simpson, Neill D. F. Campbell, Gianni Franchi
 
 
-+ [ A Unified View of Differentially Private Deep Generative Modeling](https://arxiv.org//abs/2309.15696)`uncheck`
++ [ A Unified View of Differentially Private Deep Generative Modeling](https://arxiv.org//abs/2309.15696)
 
 	Dingfan Chen, Raouf Kerkouche, Mario Fritz
 
 
-+ [ On Computational Entanglement and Its Interpretation in Adversarial  Machine Learning](https://arxiv.org//abs/2309.15669)`uncheck`
++ [ On Computational Entanglement and Its Interpretation in Adversarial  Machine Learning](https://arxiv.org//abs/2309.15669)
 
 	YenLung Lai, Xingbo Dong, Zhe Jin
 
 
-+ [ Automatic Feature Fairness in Recommendation via Adversaries](https://arxiv.org//abs/2309.15418)`uncheck`
++ [ Automatic Feature Fairness in Recommendation via Adversaries](https://arxiv.org//abs/2309.15418)
 
 	Hengchang Hu, Yiming Cao, Zhankui He, Samson Tan, Min-Yen Kan
 
-
-+ [ Evaluation and Analysis of Standard Security Technology in V2X  Communication -- Exploring ECQV Implicit Certificate Cracking](https://arxiv.org//abs/2309.15340)`uncheck`
-
-	Abel C. H. Chen
 
 ## 2023-09-27
 + [ Bias Assessment and Mitigation in LLM-based Code Generation](https://arxiv.org//abs/2309.14345)
