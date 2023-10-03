@@ -1,6 +1,69 @@
 # A compelete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+## 2023-10-02
++ [ AIR: Threats of Adversarial Attacks on Deep Learning-Based Information  Recovery](https://arxiv.org//abs/2309.16706)`uncheck`
+
+	Jinyin Chen, Jie Ge, Shilian Zheng, Linhui Ye, Haibin Zheng, Weiguo Shen, Keqiang Yue, Xiaoniu Yang
+
+
++ [ General Lipschitz: Certified Robustness Against Resolvable Semantic  Transformations via Transformation-Dependent Randomized Smoothing](https://arxiv.org//abs/2309.16710)`uncheck`
+
+	Dmitrii Korzh, Mikhail Pautov, Olga Tsymboi, Ivan Oseledets
+
+
++ [ Investigating Human-Identifiable Features Hidden in Adversarial  Perturbations](https://arxiv.org//abs/2309.16878)`uncheck`
+
+	Dennis Y. Menn, Tzu-hsun Feng, Sriram Vishwanath, Hung-yi Lee
+
+
++ [ Medical Foundation Models are Susceptible to Targeted Misinformation  Attacks](https://arxiv.org//abs/2309.17007)`uncheck`
+
+	Tianyu Han, Sven Nebelung, Firas Khader, Tianci Wang, Gustav Mueller-Franzes, Christiane Kuhl, Sebastian Försch, Jens Kleesiek, Christoph Haarburger, Keno K. Bressem, Jakob Nikolas Kather, Daniel Truhn
+
+
+
++ [ Adversarial Machine Learning in Latent Representations of Neural  Networks](https://arxiv.org//abs/2309.17401)`uncheck`
+
+	Milin Zhang, Mohammad Abdi, Francesco Restuccia
+
+
++ [ Can Sensitive Information Be Deleted From LLMs? Objectives for Defending  Against Extraction Attacks](https://arxiv.org//abs/2309.17410)`uncheck`
+
+	Vaidehi Patil, Peter Hase, Mohit Bansal
+
+
++ [ LatticeGen: A Cooperative Framework which Hides Generated Text in a  Lattice for Privacy-Aware Generation on Cloud](https://arxiv.org//abs/2309.17157)`uncheck`
+
+	Mengke Zhang, Tianxing He, Tianle Wang, Fatemehsadat Mireshghallah, Binyi Chen, Hao Wang, Yulia Tsvetkov
+
+
++ [ Towards Robust Offline-to-Online Reinforcement Learning via Uncertainty  and Smoothness](https://arxiv.org//abs/2309.16973)`uncheck`
+
+	Xiaoyu Wen, Xudong Yu, Rui Yang, Chenjia Bai, Zhen Wang
+
+
++ [ Efficient Biologically Plausible Adversarial Training](https://arxiv.org//abs/2309.17348)`uncheck`
+
+	Matilde Tristany Farinha, Thomas Ortner, Giorgia Dellaferrera, Benjamin Grewe, Angeliki Pantazi
+
+
++ [ Adversarial Imitation Learning from Visual Observations using Latent  Information](https://arxiv.org//abs/2309.17371)`uncheck`
+
+	Vittorio Giammarino, James Queeney, Ioannis Ch. Paschalidis
+
+
+## 2023-10-01
++ [ Towards Efficient and Trustworthy AI Through  Hardware-Algorithm-Communication Co-Design](https://arxiv.org//abs/2309.15942)`uncheck`
+
+	Bipin Rajendran, Osvaldo Simeone, Bashir M. Al-Hashimi
+
+
++ [ VDC: Versatile Data Cleanser for Detecting Dirty Samples via  Visual-Linguistic Inconsistency](https://arxiv.org//abs/2309.16211)`uncheck`
+
+	Zihao Zhu, Mingda Zhang, Shaokui Wei, Bingzhe Wu, Baoyuan Wu
+
+
 ## 2023-09-30
 
 
