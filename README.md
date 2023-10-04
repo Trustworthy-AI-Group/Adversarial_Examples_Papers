@@ -2,185 +2,172 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 ## 2023-10-03
-+ [ Adversarial Driving Behavior Generation Incorporating Human Risk  Cognition for Autonomous Vehicle Evaluation](https://arxiv.org//abs/2310.00029)`uncheck`
++ [ Adversarial Driving Behavior Generation Incorporating Human Risk  Cognition for Autonomous Vehicle Evaluation](https://arxiv.org//abs/2310.00029)
 
 	Zhen Liu, Hang Gao, Hao Ma, Shuo Cai, Yunfeng Hu, Ting Qu, Hong Chen, Xun Gong
 
 
-+ [ Certified Robustness via Dynamic Margin Maximization and Improved  Lipschitz Regularization](https://arxiv.org//abs/2310.00116)`uncheck`
++ [ Certified Robustness via Dynamic Margin Maximization and Improved  Lipschitz Regularization](https://arxiv.org//abs/2310.00116)
 
 	Mahyar Fazlyab, Taha Entesari, Aniket Roy, Rama Chellappa
 
 
-+ [ Beyond Random Noise: Insights on Anonymization Strategies from a Latent  Bandit Study](https://arxiv.org//abs/2310.00221)`uncheck`
++ [ Beyond Random Noise: Insights on Anonymization Strategies from a Latent  Bandit Study](https://arxiv.org//abs/2310.00221)
 
 	Alexander Galozy, Sadi Alawadi, Victor Kebande, Sławomir Nowaczyk
 
 
-+ [ Understanding the Robustness of Randomized Feature Defense Against  Query-Based Adversarial Attacks](https://arxiv.org//abs/2310.00567)`uncheck`
++ [ Understanding the Robustness of Randomized Feature Defense Against  Query-Based Adversarial Attacks](https://arxiv.org//abs/2310.00567)
 
 	Quang H. Nguyen, Yingjie Lao, Tung Pham, Kok-Seng Wong, Khoa D. Doan
 
 
-+ [ Faithful Explanations of Black-box NLP Models Using LLM-generated  Counterfactuals](https://arxiv.org//abs/2310.00603)`uncheck`
++ [ Faithful Explanations of Black-box NLP Models Using LLM-generated  Counterfactuals](https://arxiv.org//abs/2310.00603)
 
 	Yair Gat, Nitay Calderon, Amir Feder, Alexander Chapanin, Amit Sharma, Roi Reichart
 
 
-+ [ A Survey of Robustness and Safety of 2D and 3D Deep Learning Models  Against Adversarial Attacks](https://arxiv.org//abs/2310.00633)`uncheck`
++ [ A Survey of Robustness and Safety of 2D and 3D Deep Learning Models  Against Adversarial Attacks](https://arxiv.org//abs/2310.00633)
 
 	Yanjie Li, Bin Xie, Songtao Guo, Yuanyuan Yang, Bin Xiao
 
 
-+ [ No Offense Taken: Eliciting Offensiveness from Language Models](https://arxiv.org//abs/2310.00892)`uncheck`
 
-	Anugya Srivastava, Rahul Ahuja, Rohith Mukku
-
-
-+ [ All Languages Matter: On the Multilingual Safety of Large Language  Models](https://arxiv.org//abs/2310.00905)`uncheck`
++ [ All Languages Matter: On the Multilingual Safety of Large Language  Models](https://arxiv.org//abs/2310.00905)
 
 	Wenxuan Wang, Zhaopeng Tu, Chang Chen, Youliang Yuan, Jen-tse Huang, Wenxiang Jiao, Michael R. Lyu
 
 
-+ [ Large Language Model-Powered Smart Contract Vulnerability Detection: New  Perspectives](https://arxiv.org//abs/2310.01152)`uncheck`
++ [ Large Language Model-Powered Smart Contract Vulnerability Detection: New  Perspectives](https://arxiv.org//abs/2310.01152)
 
 	Sihao Hu, Tiansheng Huang, Fatih İlhan, Selim Fukan Tekin, Ling Liu
 
 
-+ [ Co-audit: tools to help humans double-check AI-generated content](https://arxiv.org//abs/2310.01297)`uncheck`
 
-	Andrew D. Gordon, Carina Negreanu, José Cambronero, Rasika Chakravarthy, Ian Drosos, Hao Fang, Bhaskar Mitra, Hannah Richardson, Advait Sarkar, Stephanie Simmons, Jack Williams, Ben Zorn
-
-
-+ [ Red Teaming Game: A Game-Theoretic Framework for Red Teaming Language  Models](https://arxiv.org//abs/2310.00322)`uncheck`
++ [ Red Teaming Game: A Game-Theoretic Framework for Red Teaming Language  Models](https://arxiv.org//abs/2310.00322)
 
 	Chengdong Ma, Ziran Yang, Minquan Gao, Hai Ci, Jun Gao, Xuehai Pan, Yaodong Yang
 
 
-+ [ SELF: Language-Driven Self-Evolution for Large Language Model](https://arxiv.org//abs/2310.00533)`uncheck`
-
-	Jianqiao Lu, Wanjun Zhong, Wenyong Huang, Yufei Wang, Fei Mi, Baojun Wang, Weichao Wang, Lifeng Shang, Qun Liu
-
-
-+ [ Fewer is More: Trojan Attacks on Parameter-Efficient Fine-Tuning](https://arxiv.org//abs/2310.00648)`uncheck`
++ [ Fewer is More: Trojan Attacks on Parameter-Efficient Fine-Tuning](https://arxiv.org//abs/2310.00648)
 
 	Lauren Hong (1), Ting Wang (1) ((1) Stony Brook University)
 
 
-+ [ Robustness of AI-Image Detectors: Fundamental Limits and Practical  Attacks](https://arxiv.org//abs/2310.00076)`uncheck`
++ [ Robustness of AI-Image Detectors: Fundamental Limits and Practical  Attacks](https://arxiv.org//abs/2310.00076)
 
 	Mehrdad Saberi, Vinu Sankar Sadasivan, Keivan Rezaei, Aounon Kumar, Atoosa Chegini, Wenxiao Wang, Soheil Feizi
 
 
-+ [ Human-Producible Adversarial Examples](https://arxiv.org//abs/2310.00438)`uncheck`
++ [ Human-Producible Adversarial Examples](https://arxiv.org//abs/2310.00438)
 
 	David Khachaturov, Yue Gao, Ilia Shumailov, Robert Mullins, Ross Anderson, Kassem Fawaz
 
 
-+ [ Black-box Attacks on Image Activity Prediction and its Natural Language  Explanations](https://arxiv.org//abs/2310.00503)`uncheck`
++ [ Black-box Attacks on Image Activity Prediction and its Natural Language  Explanations](https://arxiv.org//abs/2310.00503)
 
 	Alina Elena Baia, Valentina Poggioni, Andrea Cavallaro
 
 
-+ [ GhostEncoder: Stealthy Backdoor Attacks with Dynamic Triggers to  Pre-trained Encoders in Self-supervised Learning](https://arxiv.org//abs/2310.00626)`uncheck`
++ [ GhostEncoder: Stealthy Backdoor Attacks with Dynamic Triggers to  Pre-trained Encoders in Self-supervised Learning](https://arxiv.org//abs/2310.00626)
 
 	Qiannan Wang, Changchun Yin, Zhe Liu, Liming Fang, Run Wang, Chenhao Lin
 
 
-+ [ Counterfactual Image Generation for adversarially robust and  interpretable Classifiers](https://arxiv.org//abs/2310.00761)`uncheck`
++ [ Counterfactual Image Generation for adversarially robust and  interpretable Classifiers](https://arxiv.org//abs/2310.00761)
 
 	Rafael Bischof, Florian Scheidegger, Michael A. Kraus, A. Cristiano I. Malossi
 
 
-+ [ Practical Membership Inference Attacks Against Large-Scale Multi-Modal  Models: A Pilot Study](https://arxiv.org//abs/2310.00108)`uncheck`
++ [ Practical Membership Inference Attacks Against Large-Scale Multi-Modal  Models: A Pilot Study](https://arxiv.org//abs/2310.00108)
 
 	Myeongseob Ko, Ming Jin, Chenguang Wang, Ruoxi Jia
 
 
-+ [ Understanding Adversarial Transferability in Federated Learning](https://arxiv.org//abs/2310.00616)`uncheck`
++ [ Understanding Adversarial Transferability in Federated Learning](https://arxiv.org//abs/2310.00616)
 
 	Yijiang Li, Ying Gao, Haohan Wang
 
 
-+ [ On the Onset of Robust Overfitting in Adversarial Training](https://arxiv.org//abs/2310.00607)`uncheck`
++ [ On the Onset of Robust Overfitting in Adversarial Training](https://arxiv.org//abs/2310.00607)
 
 	Chaojian Yu, Xiaolong Shi, Jun Yu, Bo Han, Tongliang Liu
 
 
-+ [ Balancing Efficiency vs. Effectiveness and Providing Missing Label  Robustness in Multi-Label Stream Classification](https://arxiv.org//abs/2310.00665)`uncheck`
++ [ Balancing Efficiency vs. Effectiveness and Providing Missing Label  Robustness in Multi-Label Stream Classification](https://arxiv.org//abs/2310.00665)
 
 	Sepehr Bakhshi, Fazli Can
 
 
-+ [ Adversarial Explainability: Utilizing Explainable Machine Learning in  Bypassing IoT Botnet Detection Systems](https://arxiv.org//abs/2310.00070)`uncheck`
++ [ Adversarial Explainability: Utilizing Explainable Machine Learning in  Bypassing IoT Botnet Detection Systems](https://arxiv.org//abs/2310.00070)
 
 	Mohammed M. Alani, Atefeh Mashatan, Ali Miri
 
 
-+ [ Source Inference Attacks: Beyond Membership Inference Attacks in  Federated Learning](https://arxiv.org//abs/2310.00222)`uncheck`
++ [ Source Inference Attacks: Beyond Membership Inference Attacks in  Federated Learning](https://arxiv.org//abs/2310.00222)
 
 	Hongsheng Hu, Xuyun Zhang, Zoran Salcic, Lichao Sun, Kim-Kwang Raymond Choo, Gillian Dobbie
 
 
 ## 2023-10-02
-+ [ AIR: Threats of Adversarial Attacks on Deep Learning-Based Information  Recovery](https://arxiv.org//abs/2309.16706)`uncheck`
++ [ AIR: Threats of Adversarial Attacks on Deep Learning-Based Information  Recovery](https://arxiv.org//abs/2309.16706)
 
 	Jinyin Chen, Jie Ge, Shilian Zheng, Linhui Ye, Haibin Zheng, Weiguo Shen, Keqiang Yue, Xiaoniu Yang
 
 
-+ [ General Lipschitz: Certified Robustness Against Resolvable Semantic  Transformations via Transformation-Dependent Randomized Smoothing](https://arxiv.org//abs/2309.16710)`uncheck`
++ [ General Lipschitz: Certified Robustness Against Resolvable Semantic  Transformations via Transformation-Dependent Randomized Smoothing](https://arxiv.org//abs/2309.16710)
 
 	Dmitrii Korzh, Mikhail Pautov, Olga Tsymboi, Ivan Oseledets
 
 
-+ [ Investigating Human-Identifiable Features Hidden in Adversarial  Perturbations](https://arxiv.org//abs/2309.16878)`uncheck`
++ [ Investigating Human-Identifiable Features Hidden in Adversarial  Perturbations](https://arxiv.org//abs/2309.16878)
 
 	Dennis Y. Menn, Tzu-hsun Feng, Sriram Vishwanath, Hung-yi Lee
 
 
-+ [ Medical Foundation Models are Susceptible to Targeted Misinformation  Attacks](https://arxiv.org//abs/2309.17007)`uncheck`
++ [ Medical Foundation Models are Susceptible to Targeted Misinformation  Attacks](https://arxiv.org//abs/2309.17007)
 
 	Tianyu Han, Sven Nebelung, Firas Khader, Tianci Wang, Gustav Mueller-Franzes, Christiane Kuhl, Sebastian Försch, Jens Kleesiek, Christoph Haarburger, Keno K. Bressem, Jakob Nikolas Kather, Daniel Truhn
 
 
 
-+ [ Adversarial Machine Learning in Latent Representations of Neural  Networks](https://arxiv.org//abs/2309.17401)`uncheck`
++ [ Adversarial Machine Learning in Latent Representations of Neural  Networks](https://arxiv.org//abs/2309.17401)
 
 	Milin Zhang, Mohammad Abdi, Francesco Restuccia
 
 
-+ [ Can Sensitive Information Be Deleted From LLMs? Objectives for Defending  Against Extraction Attacks](https://arxiv.org//abs/2309.17410)`uncheck`
++ [ Can Sensitive Information Be Deleted From LLMs? Objectives for Defending  Against Extraction Attacks](https://arxiv.org//abs/2309.17410)
 
 	Vaidehi Patil, Peter Hase, Mohit Bansal
 
 
-+ [ LatticeGen: A Cooperative Framework which Hides Generated Text in a  Lattice for Privacy-Aware Generation on Cloud](https://arxiv.org//abs/2309.17157)`uncheck`
++ [ LatticeGen: A Cooperative Framework which Hides Generated Text in a  Lattice for Privacy-Aware Generation on Cloud](https://arxiv.org//abs/2309.17157)
 
 	Mengke Zhang, Tianxing He, Tianle Wang, Fatemehsadat Mireshghallah, Binyi Chen, Hao Wang, Yulia Tsvetkov
 
 
-+ [ Towards Robust Offline-to-Online Reinforcement Learning via Uncertainty  and Smoothness](https://arxiv.org//abs/2309.16973)`uncheck`
++ [ Towards Robust Offline-to-Online Reinforcement Learning via Uncertainty  and Smoothness](https://arxiv.org//abs/2309.16973)
 
 	Xiaoyu Wen, Xudong Yu, Rui Yang, Chenjia Bai, Zhen Wang
 
 
-+ [ Efficient Biologically Plausible Adversarial Training](https://arxiv.org//abs/2309.17348)`uncheck`
++ [ Efficient Biologically Plausible Adversarial Training](https://arxiv.org//abs/2309.17348)
 
 	Matilde Tristany Farinha, Thomas Ortner, Giorgia Dellaferrera, Benjamin Grewe, Angeliki Pantazi
 
 
-+ [ Adversarial Imitation Learning from Visual Observations using Latent  Information](https://arxiv.org//abs/2309.17371)`uncheck`
++ [ Adversarial Imitation Learning from Visual Observations using Latent  Information](https://arxiv.org//abs/2309.17371)
 
 	Vittorio Giammarino, James Queeney, Ioannis Ch. Paschalidis
 
 
 ## 2023-10-01
-+ [ Towards Efficient and Trustworthy AI Through  Hardware-Algorithm-Communication Co-Design](https://arxiv.org//abs/2309.15942)`uncheck`
++ [ Towards Efficient and Trustworthy AI Through  Hardware-Algorithm-Communication Co-Design](https://arxiv.org//abs/2309.15942)
 
 	Bipin Rajendran, Osvaldo Simeone, Bashir M. Al-Hashimi
 
 
-+ [ VDC: Versatile Data Cleanser for Detecting Dirty Samples via  Visual-Linguistic Inconsistency](https://arxiv.org//abs/2309.16211)`uncheck`
++ [ VDC: Versatile Data Cleanser for Detecting Dirty Samples via  Visual-Linguistic Inconsistency](https://arxiv.org//abs/2309.16211)
 
 	Zihao Zhu, Mingda Zhang, Shaokui Wei, Bingzhe Wu, Baoyuan Wu
 
