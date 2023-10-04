@@ -1,6 +1,127 @@
 # A compelete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+## 2023-10-03
++ [ Adversarial Driving Behavior Generation Incorporating Human Risk  Cognition for Autonomous Vehicle Evaluation](https://arxiv.org//abs/2310.00029)`uncheck`
+
+	Zhen Liu, Hang Gao, Hao Ma, Shuo Cai, Yunfeng Hu, Ting Qu, Hong Chen, Xun Gong
+
+
++ [ Certified Robustness via Dynamic Margin Maximization and Improved  Lipschitz Regularization](https://arxiv.org//abs/2310.00116)`uncheck`
+
+	Mahyar Fazlyab, Taha Entesari, Aniket Roy, Rama Chellappa
+
+
++ [ Beyond Random Noise: Insights on Anonymization Strategies from a Latent  Bandit Study](https://arxiv.org//abs/2310.00221)`uncheck`
+
+	Alexander Galozy, Sadi Alawadi, Victor Kebande, Sławomir Nowaczyk
+
+
++ [ Understanding the Robustness of Randomized Feature Defense Against  Query-Based Adversarial Attacks](https://arxiv.org//abs/2310.00567)`uncheck`
+
+	Quang H. Nguyen, Yingjie Lao, Tung Pham, Kok-Seng Wong, Khoa D. Doan
+
+
++ [ Faithful Explanations of Black-box NLP Models Using LLM-generated  Counterfactuals](https://arxiv.org//abs/2310.00603)`uncheck`
+
+	Yair Gat, Nitay Calderon, Amir Feder, Alexander Chapanin, Amit Sharma, Roi Reichart
+
+
++ [ A Survey of Robustness and Safety of 2D and 3D Deep Learning Models  Against Adversarial Attacks](https://arxiv.org//abs/2310.00633)`uncheck`
+
+	Yanjie Li, Bin Xie, Songtao Guo, Yuanyuan Yang, Bin Xiao
+
+
++ [ No Offense Taken: Eliciting Offensiveness from Language Models](https://arxiv.org//abs/2310.00892)`uncheck`
+
+	Anugya Srivastava, Rahul Ahuja, Rohith Mukku
+
+
++ [ All Languages Matter: On the Multilingual Safety of Large Language  Models](https://arxiv.org//abs/2310.00905)`uncheck`
+
+	Wenxuan Wang, Zhaopeng Tu, Chang Chen, Youliang Yuan, Jen-tse Huang, Wenxiang Jiao, Michael R. Lyu
+
+
++ [ Large Language Model-Powered Smart Contract Vulnerability Detection: New  Perspectives](https://arxiv.org//abs/2310.01152)`uncheck`
+
+	Sihao Hu, Tiansheng Huang, Fatih İlhan, Selim Fukan Tekin, Ling Liu
+
+
++ [ Co-audit: tools to help humans double-check AI-generated content](https://arxiv.org//abs/2310.01297)`uncheck`
+
+	Andrew D. Gordon, Carina Negreanu, José Cambronero, Rasika Chakravarthy, Ian Drosos, Hao Fang, Bhaskar Mitra, Hannah Richardson, Advait Sarkar, Stephanie Simmons, Jack Williams, Ben Zorn
+
+
++ [ Red Teaming Game: A Game-Theoretic Framework for Red Teaming Language  Models](https://arxiv.org//abs/2310.00322)`uncheck`
+
+	Chengdong Ma, Ziran Yang, Minquan Gao, Hai Ci, Jun Gao, Xuehai Pan, Yaodong Yang
+
+
++ [ SELF: Language-Driven Self-Evolution for Large Language Model](https://arxiv.org//abs/2310.00533)`uncheck`
+
+	Jianqiao Lu, Wanjun Zhong, Wenyong Huang, Yufei Wang, Fei Mi, Baojun Wang, Weichao Wang, Lifeng Shang, Qun Liu
+
+
++ [ Fewer is More: Trojan Attacks on Parameter-Efficient Fine-Tuning](https://arxiv.org//abs/2310.00648)`uncheck`
+
+	Lauren Hong (1), Ting Wang (1) ((1) Stony Brook University)
+
+
++ [ Robustness of AI-Image Detectors: Fundamental Limits and Practical  Attacks](https://arxiv.org//abs/2310.00076)`uncheck`
+
+	Mehrdad Saberi, Vinu Sankar Sadasivan, Keivan Rezaei, Aounon Kumar, Atoosa Chegini, Wenxiao Wang, Soheil Feizi
+
+
++ [ Human-Producible Adversarial Examples](https://arxiv.org//abs/2310.00438)`uncheck`
+
+	David Khachaturov, Yue Gao, Ilia Shumailov, Robert Mullins, Ross Anderson, Kassem Fawaz
+
+
++ [ Black-box Attacks on Image Activity Prediction and its Natural Language  Explanations](https://arxiv.org//abs/2310.00503)`uncheck`
+
+	Alina Elena Baia, Valentina Poggioni, Andrea Cavallaro
+
+
++ [ GhostEncoder: Stealthy Backdoor Attacks with Dynamic Triggers to  Pre-trained Encoders in Self-supervised Learning](https://arxiv.org//abs/2310.00626)`uncheck`
+
+	Qiannan Wang, Changchun Yin, Zhe Liu, Liming Fang, Run Wang, Chenhao Lin
+
+
++ [ Counterfactual Image Generation for adversarially robust and  interpretable Classifiers](https://arxiv.org//abs/2310.00761)`uncheck`
+
+	Rafael Bischof, Florian Scheidegger, Michael A. Kraus, A. Cristiano I. Malossi
+
+
++ [ Practical Membership Inference Attacks Against Large-Scale Multi-Modal  Models: A Pilot Study](https://arxiv.org//abs/2310.00108)`uncheck`
+
+	Myeongseob Ko, Ming Jin, Chenguang Wang, Ruoxi Jia
+
+
++ [ Understanding Adversarial Transferability in Federated Learning](https://arxiv.org//abs/2310.00616)`uncheck`
+
+	Yijiang Li, Ying Gao, Haohan Wang
+
+
++ [ On the Onset of Robust Overfitting in Adversarial Training](https://arxiv.org//abs/2310.00607)`uncheck`
+
+	Chaojian Yu, Xiaolong Shi, Jun Yu, Bo Han, Tongliang Liu
+
+
++ [ Balancing Efficiency vs. Effectiveness and Providing Missing Label  Robustness in Multi-Label Stream Classification](https://arxiv.org//abs/2310.00665)`uncheck`
+
+	Sepehr Bakhshi, Fazli Can
+
+
++ [ Adversarial Explainability: Utilizing Explainable Machine Learning in  Bypassing IoT Botnet Detection Systems](https://arxiv.org//abs/2310.00070)`uncheck`
+
+	Mohammed M. Alani, Atefeh Mashatan, Ali Miri
+
+
++ [ Source Inference Attacks: Beyond Membership Inference Attacks in  Federated Learning](https://arxiv.org//abs/2310.00222)`uncheck`
+
+	Hongsheng Hu, Xuyun Zhang, Zoran Salcic, Lichao Sun, Kim-Kwang Raymond Choo, Gillian Dobbie
+
+
 ## 2023-10-02
 + [ AIR: Threats of Adversarial Attacks on Deep Learning-Based Information  Recovery](https://arxiv.org//abs/2309.16706)`uncheck`
 
