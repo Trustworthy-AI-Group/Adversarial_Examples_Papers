@@ -1,6 +1,67 @@
 # A compelete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+## 2023-10-04
++ [ Identifying and Mitigating Privacy Risks Stemming from Language Models:  A Survey](https://arxiv.org//abs/2310.01424)`uncheck`
+
+	Victoria Smith, Ali Shahin Shamsabadi, Carolyn Ashurst, Adrian Weller
+
+
++ [ Fooling the Textual Fooler via Randomizing Latent Representations](https://arxiv.org//abs/2310.01452)`uncheck`
+
+	Duy C. Hoang, Quang H. Nguyen, Saurav Manchanda, MinLong Peng, Kok-Seng Wong, Khoa D. Doan
+
+
++ [ On the Safety of Open-Sourced Large Language Models: Does Alignment  Really Prevent Them From Being Misused?](https://arxiv.org//abs/2310.01581)`uncheck`
+
+	Hangfan Zhang, Zhimeng Guo, Huaisheng Zhu, Bochuan Cao, Lu Lin, Jinyuan Jia, Jinghui Chen, Dinghao Wu
+
+
++ [ Towards Stable Backdoor Purification through Feature Shift Tuning](https://arxiv.org//abs/2310.01875)`uncheck`
+
+	Rui Min, Zeyu Qin, Li Shen, Minhao Cheng
+
+
++ [ Defending Against Authorship Identification Attacks](https://arxiv.org//abs/2310.01568)`uncheck`
+
+	Haining Wang
+
+
++ [ Can Language Models be Instructed to Protect Personal Information?](https://arxiv.org//abs/2310.02224)`uncheck`
+
+	Yang Chen, Ethan Mendes, Sauvik Das, Wei Xu, Alan Ritter
+
+
++ [ Adversarial Client Detection via Non-parametric Subspace Monitoring in  the Internet of Federated Things](https://arxiv.org//abs/2310.01537)`uncheck`
+
+	Xianjian Xie, Xiaochen Xian, Dan Li, Andi Wang
+
+
++ [ Fool Your (Vision and) Language Model With Embarrassingly Simple  Permutations](https://arxiv.org//abs/2310.01651)`uncheck`
+
+	Yongshuo Zong, Tingyang Yu, Bingchen Zhao, Ruchika Chavhan, Timothy Hospedales
+
+
++ [ Beyond Labeling Oracles: What does it mean to steal ML models?](https://arxiv.org//abs/2310.01959)`uncheck`
+
+	Avital Shafran, Ilia Shumailov, Murat A. Erdogdu, Nicolas Papernot
+
+
++ [ FLEDGE: Ledger-based Federated Learning Resilient to Inference and  Backdoor Attacks](https://arxiv.org//abs/2310.02113)`uncheck`
+
+	Jorge Castillo, Phillip Rieger, Hossein Fereidooni, Qian Chen, Ahmad Sadeghi
+
+
++ [ Waveform Manipulation Against DNN-based Modulation Classification  Attacks](https://arxiv.org//abs/2310.01894)`uncheck`
+
+	Dimitrios Varkatzas, Antonios Argyriou
+
+
++ [ Security Weaknesses of Copilot Generated Code in GitHub](https://arxiv.org//abs/2310.02059)`uncheck`
+
+	Yujia Fu, Peng Liang, Amjed Tahir, Zengyang Li, Mojtaba Shahin, Jiaxin Yu
+
+
 ## 2023-10-03
 + [ Adversarial Driving Behavior Generation Incorporating Human Risk  Cognition for Autonomous Vehicle Evaluation](https://arxiv.org//abs/2310.00029)
 
