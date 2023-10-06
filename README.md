@@ -1,6 +1,52 @@
 # A compelete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+## 2023-10-05
++ [ Low-Resource Languages Jailbreak GPT-4](https://arxiv.org//abs/2310.02446)`uncheck`
+
+	Zheng-Xin Yong, Cristina Menghini, Stephen H. Bach
+
+
++ [ Discovering General Reinforcement Learning Algorithms with Adversarial  Environment Design](https://arxiv.org//abs/2310.02782)`uncheck`
+
+	Matthew Thomas Jackson, Minqi Jiang, Jack Parker-Holder, Risto Vuorio, Chris Lu, Gregory Farquhar, Shimon Whiteson, Jakob Nicolaus Foerster
+
+
++ [ Shadow Alignment: The Ease of Subverting Safely-Aligned Language Models](https://arxiv.org//abs/2310.02949)`uncheck`
+
+	Xianjun Yang, Xiao Wang, Qi Zhang, Linda Petzold, William Yang Wang, Xun Zhao, Dahua Lin
+
+
++ [ Can Large Language Models Provide Security & Privacy Advice? Measuring  the Ability of LLMs to Refute Misconceptions](https://arxiv.org//abs/2310.02431)`uncheck`
+
+	Yufan Chen, Arjun Arunasalam, Z. Berkay Celik
+
+
++ [ SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy  Efficiency of Inference Efficient Vision Transformers](https://arxiv.org//abs/2310.02544)`uncheck`
+
+	KL Navaneet, Soroush Abbasi Koohpayegani, Essam Sleiman, Hamed Pirsiavash
+
+
++ [ Analyzing and Improving OT-based Adversarial Networks](https://arxiv.org//abs/2310.02611)`uncheck`
+
+	Jaemoo Choi, Jaewoong Choi, Myungjoo Kang
+
+
++ [ Splitting the Difference on Adversarial Training](https://arxiv.org//abs/2310.02480)`uncheck`
+
+	Matan Levi, Aryeh Kontorovich
+
+
++ [ A Recipe for Improved Certifiable Robustness: Capacity and Data](https://arxiv.org//abs/2310.02513)`uncheck`
+
+	Kai Hu, Klas Leino, Zifan Wang, Matt Fredrikson
+
+
++ [ Jailbreaker in Jail: Moving Target Defense for Large Language Models](https://arxiv.org//abs/2310.02417)`uncheck`
+
+	Bocheng Chen, Advait Paliwal, Qiben Yan
+
+
 ## 2023-10-04
 + [ Identifying and Mitigating Privacy Risks Stemming from Language Models:  A Survey](https://arxiv.org//abs/2310.01424)`uncheck`
 
