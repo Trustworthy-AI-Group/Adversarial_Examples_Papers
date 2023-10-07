@@ -153,7 +153,7 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 + [ Fewer is More: Trojan Attacks on Parameter-Efficient Fine-Tuning](https://arxiv.org//abs/2310.00648)
 
-	Lauren Hong (1), Ting Wang (1) ((1) Stony Brook University)
+	Lauren Hong, Ting Wang
 
 
 + [ Robustness of AI-Image Detectors: Fundamental Limits and Practical  Attacks](https://arxiv.org//abs/2310.00076)
