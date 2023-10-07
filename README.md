@@ -27,11 +27,6 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	KL Navaneet, Soroush Abbasi Koohpayegani, Essam Sleiman, Hamed Pirsiavash
 
 
-+ [ Analyzing and Improving OT-based Adversarial Networks](https://arxiv.org//abs/2310.02611)
-
-	Jaemoo Choi, Jaewoong Choi, Myungjoo Kang
-
-
 + [ Splitting the Difference on Adversarial Training](https://arxiv.org//abs/2310.02480)
 
 	Matan Levi, Aryeh Kontorovich
