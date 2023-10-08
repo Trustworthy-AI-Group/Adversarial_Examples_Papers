@@ -2,93 +2,93 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 ## 2023-10-07
-+ [ Benchmarking Local Robustness of High-Accuracy Binary Neural Networks  for Enhanced Traffic Sign Recognition](https://arxiv.org//abs/2310.03033)`uncheck`
++ [ Benchmarking Local Robustness of High-Accuracy Binary Neural Networks  for Enhanced Traffic Sign Recognition](https://arxiv.org//abs/2310.03033)
 
 	Andreea Postovan, Mădălina Eraşcu
 	
 
-+ [ Efficient Federated Prompt Tuning for Black-box Large Pre-trained Models](https://arxiv.org//abs/2310.03123)`uncheck`
++ [ Efficient Federated Prompt Tuning for Black-box Large Pre-trained Models](https://arxiv.org//abs/2310.03123)
 
 	Zihao Lin, Yan Sun, Yifan Shi, Xueqian Wang, Lifu Huang, Li Shen, Dacheng Tao
 
 
-+ [ Fine-tuning Aligned Language Models Compromises Safety, Even When Users  Do Not Intend To!](https://arxiv.org//abs/2310.03693)`uncheck`
++ [ Fine-tuning Aligned Language Models Compromises Safety, Even When Users  Do Not Intend To!](https://arxiv.org//abs/2310.03693)
 
 	Xiangyu Qi, Yi Zeng, Tinghao Xie, Pin-Yu Chen, Ruoxi Jia, Prateek Mittal, Peter Henderson
 
 
-+ [ Ask for Alice: Online Covert Distress Signal in the Presence of a Strong  Adversary](https://arxiv.org//abs/2310.03237)`uncheck`
++ [ Ask for Alice: Online Covert Distress Signal in the Presence of a Strong  Adversary](https://arxiv.org//abs/2310.03237)
 
 	Hayyu Imanda, Kasper Rasmussen
 
 
 ## 2023-10-06
-+ [ Misusing Tools in Large Language Models With Visual Adversarial Examples](https://arxiv.org//abs/2310.03185)`uncheck`
++ [ Misusing Tools in Large Language Models With Visual Adversarial Examples](https://arxiv.org//abs/2310.03185)
 
 	Xiaohan Fu, Zihan Wang, Shuheng Li, Rajesh K. Gupta, Niloofar Mireshghallah, Taylor Berg-Kirkpatrick, Earlence Fernandes
 
 
-+ [ Robust Representation Learning via Asymmetric Negative Contrast and  Reverse Attention](https://arxiv.org//abs/2310.03358)`uncheck`
++ [ Robust Representation Learning via Asymmetric Negative Contrast and  Reverse Attention](https://arxiv.org//abs/2310.03358)
 
 	Nuoyan Zhou, Decheng Liu, Dawei Zhou, Xinbo Gao, Nannan Wang
 
 
-+ [ SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks](https://arxiv.org//abs/2310.03684)`uncheck`
++ [ SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks](https://arxiv.org//abs/2310.03684)
 
 	Alexander Robey, Eric Wong, Hamed Hassani, George J. Pappas
 
 
-+ [ A Formalism and Approach for Improving Robustness of Large Language  Models Using Risk-Adjusted Confidence Scores](https://arxiv.org//abs/2310.03283)`uncheck`
++ [ A Formalism and Approach for Improving Robustness of Large Language  Models Using Risk-Adjusted Confidence Scores](https://arxiv.org//abs/2310.03283)
 
 	Ke Shen, Mayank Kejriwal
 
 
-+ [ Shielding the Unseen: Privacy Protection through Poisoning NeRF with  Spatial Deformation](https://arxiv.org//abs/2310.03125)`uncheck`
++ [ Shielding the Unseen: Privacy Protection through Poisoning NeRF with  Spatial Deformation](https://arxiv.org//abs/2310.03125)
 
 	Yihan Wu, Brandon Y. Feng, Heng Huang
 
 
-+ [ CSI: Enhancing the Robustness of 3D Point Cloud Recognition against  Corruption](https://arxiv.org//abs/2310.03360)`uncheck`
++ [ CSI: Enhancing the Robustness of 3D Point Cloud Recognition against  Corruption](https://arxiv.org//abs/2310.03360)
 
 	Zhuoyuan Wu, Jiachen Sun, Chaowei Xiao
 
 
-+ [ OMG-ATTACK: Self-Supervised On-Manifold Generation of Transferable  Evasion Attacks](https://arxiv.org//abs/2310.03707)`uncheck`
++ [ OMG-ATTACK: Self-Supervised On-Manifold Generation of Transferable  Evasion Attacks](https://arxiv.org//abs/2310.03707)
 
 	Ofir Bar Tal, Adi Haviv, Amit H. Bermano
 
 
-+ [ Untargeted White-box Adversarial Attack with Heuristic Defence Methods  in Real-time Deep Learning based Network Intrusion Detection System](https://arxiv.org//abs/2310.03334)`uncheck`
++ [ Untargeted White-box Adversarial Attack with Heuristic Defence Methods  in Real-time Deep Learning based Network Intrusion Detection System](https://arxiv.org//abs/2310.03334)
 
 	Khushnaseeb Roshan, Aasim Zafar, Sheikh Burhan Ul Haque
 
 
-+ [ Targeted Adversarial Attacks on Generalizable Neural Radiance Fields](https://arxiv.org//abs/2310.03578)`uncheck`
++ [ Targeted Adversarial Attacks on Generalizable Neural Radiance Fields](https://arxiv.org//abs/2310.03578)
 
 	Andras Horvath, Csaba M. Jozsa
 
 
-+ [ Adversarial Machine Learning for Social Good: Reframing the Adversary as  an Ally](https://arxiv.org//abs/2310.03614)`uncheck`
++ [ Adversarial Machine Learning for Social Good: Reframing the Adversary as  an Ally](https://arxiv.org//abs/2310.03614)
 
 	Shawqi Al-Maliki, Adnan Qayyum, Hassan Ali, Mohamed Abdallah, Junaid Qadir, Dinh Thai Hoang, Dusit Niyato, Ala Al-Fuqaha
 
 
-+ [ Raze to the Ground: Query-Efficient Adversarial HTML Attacks on  Machine-Learning Phishing Webpage Detectors](https://arxiv.org//abs/2310.03166)`uncheck`
++ [ Raze to the Ground: Query-Efficient Adversarial HTML Attacks on  Machine-Learning Phishing Webpage Detectors](https://arxiv.org//abs/2310.03166)
 
 	Biagio Montaruli, Luca Demetrio, Maura Pintor, Luca Compagna, Davide Balzarotti, Battista Biggio
 
 
-+ [ Regret Analysis of Distributed Online Control for LTI Systems with  Adversarial Disturbances](https://arxiv.org//abs/2310.03206)`uncheck`
++ [ Regret Analysis of Distributed Online Control for LTI Systems with  Adversarial Disturbances](https://arxiv.org//abs/2310.03206)
 
 	Ting-Jui Chang, Shahin Shahrampour
 
 
-+ [ Certifiably Robust Graph Contrastive Learning](https://arxiv.org//abs/2310.03312)`uncheck`
++ [ Certifiably Robust Graph Contrastive Learning](https://arxiv.org//abs/2310.03312)
 
 	Minhua Lin, Teng Xiao, Enyan Dai, Xiang Zhang, Suhang Wang
 
 
-+ [ An Integrated Algorithm for Robust and Imperceptible Audio Adversarial  Examples](https://arxiv.org//abs/2310.03349)`uncheck`
++ [ An Integrated Algorithm for Robust and Imperceptible Audio Adversarial  Examples](https://arxiv.org//abs/2310.03349)
 
 	Armin Ettenhofer, Jan-Philipp Schulze, Karla Pizzi
 
