@@ -1,6 +1,22 @@
 # A compelete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+## 2023-10-08
++ [ Lightweight Boosting Models for User Response Prediction Using  Adversarial Validation](https://arxiv.org//abs/2310.03778)`uncheck`
+
+	Hyeonwoo Kim, Wonsung Lee
+
+
++ [ Assessing Robustness via Score-Based Adversarial Image Generation](https://arxiv.org//abs/2310.04285)`uncheck`
+
+	Marcel Kollovieh, Lukas Gosch, Yan Scholten, Marten Lienen, Stephan Günnemann
+
+
++ [ Indirect Meltdown: Building Novel Side-Channel Attacks from  Transient-Execution Attacks](https://arxiv.org//abs/2310.04183)`uncheck`
+
+	Daniel Weber, Fabian Thomas, Lukas Gerlach, Ruiyi Zhang, Michael Schwarz
+
+
 ## 2023-10-07
 + [ Benchmarking Local Robustness of High-Accuracy Binary Neural Networks  for Enhanced Traffic Sign Recognition](https://arxiv.org//abs/2310.03033)
 
