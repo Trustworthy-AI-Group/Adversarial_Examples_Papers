@@ -2,163 +2,146 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 ## 2023-10-10
-+ [ Fingerprint Attack: Client De-Anonymization in Federated Learning](https://arxiv.org//abs/2310.05960)`uncheck`
++ [ Fingerprint Attack: Client De-Anonymization in Federated Learning](https://arxiv.org//abs/2310.05960)
 
 	Qiongkai Xu, Trevor Cohn, Olga Ohrimenko
 
 
-+ [ Suppressing Overestimation in Q-Learning through Adversarial Behaviors](https://arxiv.org//abs/2310.06286)`uncheck`
++ [ Suppressing Overestimation in Q-Learning through Adversarial Behaviors](https://arxiv.org//abs/2310.06286)
 
 	HyeAnn Lee, Donghwan Lee
 
 
-+ [ Jailbreak and Guard Aligned Language Models with Only Few In-Context  Demonstrations](https://arxiv.org//abs/2310.06387)`uncheck`
++ [ Jailbreak and Guard Aligned Language Models with Only Few In-Context  Demonstrations](https://arxiv.org//abs/2310.06387)
 
 	Zeming Wei, Yifei Wang, Yisen Wang
 
 
-+ [ Multilingual Jailbreak Challenges in Large Language Models](https://arxiv.org//abs/2310.06474)`uncheck`
++ [ Multilingual Jailbreak Challenges in Large Language Models](https://arxiv.org//abs/2310.06474)
 
 	Yue Deng, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing
 
 
-+ [ A Semantic Invariant Robust Watermark for Large Language Models](https://arxiv.org//abs/2310.06356)`uncheck`
++ [ A Semantic Invariant Robust Watermark for Large Language Models](https://arxiv.org//abs/2310.06356)
 
 	Aiwei Liu, Leyi Pan, Xuming Hu, Shiao Meng, Lijie Wen
 
 
-+ [ Adversarial Masked Image Inpainting for Robust Detection of Mpox and  Non-Mpox](https://arxiv.org//abs/2310.06318)`uncheck`
++ [ Adversarial Masked Image Inpainting for Robust Detection of Mpox and  Non-Mpox](https://arxiv.org//abs/2310.06318)
 
 	Yubiao Yue, Zhenzhang Li
 
 
-+ [ Leveraging Diffusion-Based Image Variations for Robust Training on  Poisoned Data](https://arxiv.org//abs/2310.06372)`uncheck`
++ [ Leveraging Diffusion-Based Image Variations for Robust Training on  Poisoned Data](https://arxiv.org//abs/2310.06372)
 
 	Lukas Struppek, Martin B. Hentschel, Clifton Poth, Dominik Hintersdorf, Kristian Kersting
 
 
-+ [ Be Careful What You Smooth For: Label Smoothing Can Be a Privacy Shield  but Also a Catalyst for Model Inversion Attacks](https://arxiv.org//abs/2310.06549)`uncheck`
++ [ Be Careful What You Smooth For: Label Smoothing Can Be a Privacy Shield  but Also a Catalyst for Model Inversion Attacks](https://arxiv.org//abs/2310.06549)
 
 	Lukas Struppek, Dominik Hintersdorf, Kristian Kersting
 
 
-+ [ Theoretical Analysis of Robust Overfitting for Wide DNNs: An NTK  Approach](https://arxiv.org//abs/2310.06112)`uncheck`
++ [ Theoretical Analysis of Robust Overfitting for Wide DNNs: An NTK  Approach](https://arxiv.org//abs/2310.06112)
 
 	Shaopeng Fu, Di Wang
 
 
-+ [ PAC-Bayesian Spectrally-Normalized Bounds for Adversarially Robust  Generalization](https://arxiv.org//abs/2310.06182)`uncheck`
++ [ PAC-Bayesian Spectrally-Normalized Bounds for Adversarially Robust  Generalization](https://arxiv.org//abs/2310.06182)
 
 	Jiancong Xiao, Ruoyu Sun, Zhi-quan Luo
 
 
-+ [ Adversarial Robustness in Graph Neural Networks: A Hamiltonian Approach](https://arxiv.org//abs/2310.06396)`uncheck`
++ [ Adversarial Robustness in Graph Neural Networks: A Hamiltonian Approach](https://arxiv.org//abs/2310.06396)
 
 	Kai Zhao, Qiyu Kang, Yang Song, Rui She, Sijie Wang, Wee Peng Tay
 
 
-+ [ Exploring adversarial attacks in federated learning for medical imaging](https://arxiv.org//abs/2310.06227)`uncheck`
++ [ Exploring adversarial attacks in federated learning for medical imaging](https://arxiv.org//abs/2310.06227)
 
 	Erfan Darzi, Florian Dubost, N.M. Sijtsema, P.M.A van Ooijen
 
 
 ## 2023-10-09
-+ [ Robust Network Pruning With Sparse Entropic Wasserstein Regression](https://arxiv.org//abs/2310.04918)`uncheck`
 
-	Lei You, Hei Victor Cheng
-
-
-+ [ The Troubling Emergence of Hallucination in Large Language Models -- An  Extensive Definition, Quantification, and Prescriptive Remediations](https://arxiv.org//abs/2310.04988)`uncheck`
++ [ The Troubling Emergence of Hallucination in Large Language Models -- An  Extensive Definition, Quantification, and Prescriptive Remediations](https://arxiv.org//abs/2310.04988)
 
 	Vipula Rawte, Swagata Chakraborty, Agnibh Pathak, Anubhav Sarkar, S.M Towhidul Islam Tonmoy, Aman Chadha, Amit P. Sheth, Amitava Das
 
 
-+ [ Large Language Models Can Be Good Privacy Protection Learners](https://arxiv.org//abs/2310.02469)`uncheck`
++ [ Large Language Models Can Be Good Privacy Protection Learners](https://arxiv.org//abs/2310.02469)
 
 	Yijia Xiao, Yiqiao Jin, Yushi Bai, Yue Wu, Xianjun Yang, Xiao Luo, Wenchao Yu, Xujiang Zhao, Yanchi Liu, Haifeng Chen, Wei Wang, Wei Cheng
 
 
-+ [ LoFT: Local Proxy Fine-tuning For Improving Transferability Of  Adversarial Attacks Against Large Language Model](https://arxiv.org//abs/2310.04445)`uncheck`
++ [ LoFT: Local Proxy Fine-tuning For Improving Transferability Of  Adversarial Attacks Against Large Language Model](https://arxiv.org//abs/2310.04445)
 
 	Muhammad Ahmed Shah, Roshan Sharma, Hira Dhamyal, Raphael Olivier, Ankit Shah, Dareen Alharthi, Hazim T Bukhari, Massa Baali, Soham Deshmukh, Michael Kuhlmann, Bhiksha Raj, Rita Singh
 
 
-+ [ AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language  Models](https://arxiv.org//abs/2310.04451)`uncheck`
++ [ AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language  Models](https://arxiv.org//abs/2310.04451)
 
 	Xiaogeng Liu, Nan Xu, Muhao Chen, Chaowei Xiao
 
 
-+ [ Can pruning make Large Language Models more efficient?](https://arxiv.org//abs/2310.04573)`uncheck`
 
-	Sia Gholami, Marwan Omar
-
-
-+ [ Understanding and Improving Adversarial Attacks on Latent Diffusion  Model](https://arxiv.org//abs/2310.04687)`uncheck`
++ [ Understanding and Improving Adversarial Attacks on Latent Diffusion  Model](https://arxiv.org//abs/2310.04687)
 
 	Boyang Zheng, Chumeng Liang, Xiaoyu Wu, Yan Liu
 
 
-+ [ Robustness-enhanced Uplift Modeling with Adversarial Feature  Desensitization](https://arxiv.org//abs/2310.04693)`uncheck`
++ [ Robustness-enhanced Uplift Modeling with Adversarial Feature  Desensitization](https://arxiv.org//abs/2310.04693)
 
 	Zexu Sun, Bowei He, Ming Ma, Jiakai Tang, Yuchen Wang, Chen Ma, Dugang Liu
 
 
-+ [ Are Large Language Models Post Hoc Explainers?](https://arxiv.org//abs/2310.05797)`uncheck`
 
-	Nicholas Kroeger, Dan Ley, Satyapriya Krishna, Chirag Agarwal, Himabindu Lakkaraju
-
-
-+ [ Better Safe than Sorry: Pre-training CLIP against Targeted Data  Poisoning and Backdoor Attacks](https://arxiv.org//abs/2310.05862)`uncheck`
++ [ Better Safe than Sorry: Pre-training CLIP against Targeted Data  Poisoning and Backdoor Attacks](https://arxiv.org//abs/2310.05862)
 
 	Wenhan Yang, Jingdong Gao, Baharan Mirzasoleiman
 
 
-+ [ Self-Knowledge Guided Retrieval Augmentation for Large Language Models](https://arxiv.org//abs/2310.05002)`uncheck`
-
-	Yile Wang, Peng Li, Maosong Sun, Yang Liu
-
-
-+ [ BRAINTEASER: Lateral Thinking Puzzles for Large Language Model](https://arxiv.org//abs/2310.05057)`uncheck`
++ [ BRAINTEASER: Lateral Thinking Puzzles for Large Language Model](https://arxiv.org//abs/2310.05057)
 
 	Yifan Jiang, Filip Ilievski, Kaixin Ma
 
 
-+ [ Do Large Language Models Know about Facts?](https://arxiv.org//abs/2310.05177)`uncheck`
++ [ Do Large Language Models Know about Facts?](https://arxiv.org//abs/2310.05177)
 
 	Xuming Hu, Junzhe Chen, Xiaochuan Li, Yufei Guo, Lijie Wen, Philip S. Yu, Zhijiang Guo
 
 
-+ [ SC-Safety: A Multi-round Open-ended Question Adversarial Safety  Benchmark for Large Language Models in Chinese](https://arxiv.org//abs/2310.05818)`uncheck`
++ [ SC-Safety: A Multi-round Open-ended Question Adversarial Safety  Benchmark for Large Language Models in Chinese](https://arxiv.org//abs/2310.05818)
 
 	Liang Xu, Kangkang Zhao, Lei Zhu, Hang Xue
 
 
-+ [ IPMix: Label-Preserving Data Augmentation Method for Training Robust  Classifiers](https://arxiv.org//abs/2310.04780)`uncheck`
++ [ IPMix: Label-Preserving Data Augmentation Method for Training Robust  Classifiers](https://arxiv.org//abs/2310.04780)
 
 	Zhenglin Huang, Xianan Bao, Na Zhang, Qingqi Zhang, Xiaomei Tu, Biao Wu, Xi Yang
 
 
-+ [ VLAttack: Multimodal Adversarial Attacks on Vision-Language Tasks via  Pre-trained Models](https://arxiv.org//abs/2310.04655)`uncheck`
++ [ VLAttack: Multimodal Adversarial Attacks on Vision-Language Tasks via  Pre-trained Models](https://arxiv.org//abs/2310.04655)
 
 	Ziyi Yin, Muchao Ye, Tianrong Zhang, Tianyu Du, Jinguo Zhu, Han Liu, Jinghui Chen, Ting Wang, Fenglong Ma
 
 
-+ [ GReAT: A Graph Regularized Adversarial Training Method](https://arxiv.org//abs/2310.05336)`uncheck`
++ [ GReAT: A Graph Regularized Adversarial Training Method](https://arxiv.org//abs/2310.05336)
 
 	Samet Bayram, Kenneth Barner
 
 
-+ [ Generating Less Certain Adversarial Examples Improves Robust  Generalization](https://arxiv.org//abs/2310.04539)`uncheck`
++ [ Generating Less Certain Adversarial Examples Improves Robust  Generalization](https://arxiv.org//abs/2310.04539)
 
 	Minxing Zhang, Michael Backes, Xiao Zhang
 
 
-+ [ Protecting Sensitive Data through Federated Co-Training](https://arxiv.org//abs/2310.05696)`uncheck`
++ [ Protecting Sensitive Data through Federated Co-Training](https://arxiv.org//abs/2310.05696)
 
 	Amr Abourayya, Jens Kleesiek, Kanishka Rao, Erman Ayday, Bharat Rao, Geoff Webb, Michael Kamp
 
 
-+ [ Tight Certified Robustness via Min-Max Representations of ReLU Neural  Networks](https://arxiv.org//abs/2310.04916)`uncheck`
++ [ Tight Certified Robustness via Min-Max Representations of ReLU Neural  Networks](https://arxiv.org//abs/2310.04916)
 
 	Brendon G. Anderson, Samuel Pfrommer, Somayeh Sojoudi
 
