@@ -1,6 +1,22 @@
 # A compelete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+## 2023-10-14
++ [ Can Large Language Models Really Improve by Self-critiquing Their Own  Plans?](https://arxiv.org//abs/2310.08118)`uncheck`
+
+	Karthik Valmeekam, Matthew Marquez, Subbarao Kambhampati
+
+
++ [ Defending Our Privacy With Backdoors](https://arxiv.org//abs/2310.08320)`uncheck`
+
+	Dominik Hintersdorf, Lukas Struppek, Daniel Neider, Kristian Kersting
+
+
++ [ Samples on Thin Ice: Re-Evaluating Adversarial Pruning of Neural  Networks](https://arxiv.org//abs/2310.08073)`uncheck`
+
+	Giorgio Piras, Maura Pintor, Ambra Demontis, Battista Biggio
+
+
 ## 2023-10-13
 + [ Towards the Vulnerability of Watermarking Artificial Intelligence  Generated Content](https://arxiv.org//abs/2310.07726)`uncheck`
 
