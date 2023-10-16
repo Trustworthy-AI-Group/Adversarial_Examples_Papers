@@ -2,129 +2,114 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 ## 2023-10-14
-+ [ Can Large Language Models Really Improve by Self-critiquing Their Own  Plans?](https://arxiv.org//abs/2310.08118)`uncheck`
-
-	Karthik Valmeekam, Matthew Marquez, Subbarao Kambhampati
-
-
-+ [ Defending Our Privacy With Backdoors](https://arxiv.org//abs/2310.08320)`uncheck`
++ [ Defending Our Privacy With Backdoors](https://arxiv.org//abs/2310.08320)
 
 	Dominik Hintersdorf, Lukas Struppek, Daniel Neider, Kristian Kersting
 
 
-+ [ Samples on Thin Ice: Re-Evaluating Adversarial Pruning of Neural  Networks](https://arxiv.org//abs/2310.08073)`uncheck`
++ [ Samples on Thin Ice: Re-Evaluating Adversarial Pruning of Neural  Networks](https://arxiv.org//abs/2310.08073)
 
 	Giorgio Piras, Maura Pintor, Ambra Demontis, Battista Biggio
 
 
 ## 2023-10-13
-+ [ Towards the Vulnerability of Watermarking Artificial Intelligence  Generated Content](https://arxiv.org//abs/2310.07726)`uncheck`
++ [ Towards the Vulnerability of Watermarking Artificial Intelligence  Generated Content](https://arxiv.org//abs/2310.07726)
 
 	Guanlin Li, Yifei Chen, Jie Zhang, Jiwei Li, Shangwei Guo, Tianwei Zhang
 
 
-+ [ Sentinel: An Aggregation Function to Secure Decentralized Federated  Learning](https://arxiv.org//abs/2310.08097)`uncheck`
++ [ Sentinel: An Aggregation Function to Secure Decentralized Federated  Learning](https://arxiv.org//abs/2310.08097)
 
 	Chao Feng, Alberto Huertas Celdran, Janosch Baltensperger, Enrique Tomas Matınez Bertran, Gerome Bovet, Burkhard Stiller
 
 
-+ [ Trustworthy Machine Learning](https://arxiv.org//abs/2310.08215)`uncheck`
++ [ Trustworthy Machine Learning](https://arxiv.org//abs/2310.08215)
 
 	Bálint Mucsányi, Michael Kirchhof, Elisa Nguyen, Alexander Rubinstein, Seong Joon Oh
 
 
-+ [ CleftGAN: Adapting A Style-Based Generative Adversarial Network To  Create Images Depicting Cleft Lip Deformity](https://arxiv.org//abs/2310.07969)`uncheck`
-
-	Abdullah Hayajneh, Erchin Serpedin, Mohammad Shaqfeh, Graeme Glass, Mitchell A. Stotland
-
-
-+ [ Bucks for Buckets (B4B): Active Defenses Against Stealing Encoders](https://arxiv.org//abs/2310.08571)`uncheck`
++ [ Bucks for Buckets (B4B): Active Defenses Against Stealing Encoders](https://arxiv.org//abs/2310.08571)
 
 	Jan Dubiński, Stanisław Pawlak, Franziska Boenisch, Tomasz Trzciński, Adam Dziedzic
 
 ## 2023-10-12
-+ [ Effects of Human Adversarial and Affable Samples on BERT  Generalizability](https://arxiv.org//abs/2310.08008)`uncheck`
++ [ Effects of Human Adversarial and Affable Samples on BERT  Generalizability](https://arxiv.org//abs/2310.08008)
 
 	Aparna Elangovan, Jiayuan He, Yuan Li, Karin Verspoor
 
 
-+ [ Concealed Electronic Countermeasures of Radar Signal with Adversarial  Examples](https://arxiv.org//abs/2310.08292)`uncheck`
++ [ Concealed Electronic Countermeasures of Radar Signal with Adversarial  Examples](https://arxiv.org//abs/2310.08292)
 
 	Ruinan Ma, Canjie Zhu, Mingfeng Lu, Yunjie Li, Yu-an Tan, Ruibin Zhang, Ran Tao
 
 
-+ [ Jailbreaking Black Box Large Language Models in Twenty Queries](https://arxiv.org//abs/2310.08419)`uncheck`
++ [ Jailbreaking Black Box Large Language Models in Twenty Queries](https://arxiv.org//abs/2310.08419)
 
 	Patrick Chao, Alexander Robey, Edgar Dobriban, Hamed Hassani, George J. Pappas, Eric Wong
 
 
-+ [ Towards Robust Multi-Modal Reasoning via Model Selection](https://arxiv.org//abs/2310.08446)`uncheck`
++ [ Towards Robust Multi-Modal Reasoning via Model Selection](https://arxiv.org//abs/2310.08446)
 
 	Xiangyan Liu, Rongxue Li, Wei Ji, Tao Lin
 
 
-+ [ Improving Fast Minimum-Norm Attacks with Hyperparameter Optimization](https://arxiv.org//abs/2310.08177)`uncheck`
++ [ Improving Fast Minimum-Norm Attacks with Hyperparameter Optimization](https://arxiv.org//abs/2310.08177)
 
 	Giuseppe Floris, Raffaele Mura, Luca Scionis, Giorgio Piras, Maura Pintor, Ambra Demontis, Battista Biggio
 
 
-+ [ Invisible Threats: Backdoor Attack in OCR Systems](https://arxiv.org//abs/2310.08259)`uncheck`
++ [ Invisible Threats: Backdoor Attack in OCR Systems](https://arxiv.org//abs/2310.08259)
 
 	Mauro Conti, Nicola Farronato, Stefanos Koffas, Luca Pajola, Stjepan Picek
 
 
-+ [ Promoting Robustness of Randomized Smoothing: Two Cost-Effective  Approaches](https://arxiv.org//abs/2310.07780)`uncheck`
++ [ Promoting Robustness of Randomized Smoothing: Two Cost-Effective  Approaches](https://arxiv.org//abs/2310.07780)
 
 	Linbo Liu, Trong Nghia Hoang, Lam M. Nguyen, Tsui-Wei Weng
 
 
-+ [ Towards Causal Deep Learning for Vulnerability Detection](https://arxiv.org//abs/2310.07958)`uncheck`
++ [ Towards Causal Deep Learning for Vulnerability Detection](https://arxiv.org//abs/2310.07958)
 
 	Md Mahbubur Rahman, Ira Ceka, Chengzhi Mao, Saikat Chakraborty, Baishakhi Ray, Wei Le
 
 
 ## 2023-10-11
-+ [ RobustEdge: Low Power Adversarial Detection for Cloud-Edge Systems](https://arxiv.org//abs/2310.06845)`uncheck`
++ [ RobustEdge: Low Power Adversarial Detection for Cloud-Edge Systems](https://arxiv.org//abs/2310.06845)
 
 	Abhishek Moitra, Abhiroop Bhattacharjee, Youngeun Kim, Priyadarshini Panda
 
 
-+ [ Genetic Algorithm-Based Dynamic Backdoor Attack on Federated  Learning-Based Network Traffic Classification](https://arxiv.org//abs/2310.06855)`uncheck`
++ [ Genetic Algorithm-Based Dynamic Backdoor Attack on Federated  Learning-Based Network Traffic Classification](https://arxiv.org//abs/2310.06855)
 
 	Mahmoud Nazzal, Nura Aljaafari, Ahmed Sawalmeh, Abdallah Khreishah, Muhammad Anan, Abdulelah Algosaibi, Mohammed Alnaeem, Adel Aldalbahi, Abdulaziz Alhumam, Conrado P. Vizcarra, Shadan Alhamed
 
 
-+ [ Catastrophic Jailbreak of Open-source LLMs via Exploiting Generation](https://arxiv.org//abs/2310.06987)`uncheck`
++ [ Catastrophic Jailbreak of Open-source LLMs via Exploiting Generation](https://arxiv.org//abs/2310.06987)
 
 	Yangsibo Huang, Samyak Gupta, Mengzhou Xia, Kai Li, Danqi Chen
 
 
-+ [ No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN  Partition for On-Device ML](https://arxiv.org//abs/2310.07152)`uncheck`
++ [ No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN  Partition for On-Device ML](https://arxiv.org//abs/2310.07152)
 
 	Ziqi Zhang, Chen Gong, Yifeng Cai, Yuanyuan Yuan, Bingyan Liu, Ding Li, Yao Guo, Xiangqun Chen
 
 
-+ [ Boosting Black-box Attack to Deep Neural Networks with Conditional  Diffusion Models](https://arxiv.org//abs/2310.07492)`uncheck`
++ [ Boosting Black-box Attack to Deep Neural Networks with Conditional  Diffusion Models](https://arxiv.org//abs/2310.07492)
 
 	Renyang Liu, Wei Zhou, Tianwei Zhang, Kangjie Chen, Jun Zhao, Kwok-Yan Lam
 
 
-+ [ Composite Backdoor Attacks Against Large Language Models](https://arxiv.org//abs/2310.07676)`uncheck`
++ [ Composite Backdoor Attacks Against Large Language Models](https://arxiv.org//abs/2310.07676)
 
 	Hai Huang, Zhengyu Zhao, Michael Backes, Yun Shen, Yang Zhang
 
 
-+ [ Comparing the robustness of modern no-reference image- and video-quality  metrics to adversarial attacks](https://arxiv.org//abs/2310.06958)`uncheck`
++ [ Comparing the robustness of modern no-reference image- and video-quality  metrics to adversarial attacks](https://arxiv.org//abs/2310.06958)
 
 	Anastasia Antsiferova, Khaled Abud, Aleksandr Gushchin, Sergey Lavrushkin, Ekaterina Shumitskaya, Maksim Velikanov, Dmitriy Vatolin
 
 
-+ [ Synthesizing Missing MRI Sequences from Available Modalities using  Generative Adversarial Networks in BraTS Dataset](https://arxiv.org//abs/2310.07250)`uncheck`
-
-	Ibrahim Ethem Hamamci
-
-
-+ [ Robust Safe Reinforcement Learning under Adversarial Disturbances](https://arxiv.org//abs/2310.07207)`uncheck`
++ [ Robust Safe Reinforcement Learning under Adversarial Disturbances](https://arxiv.org//abs/2310.07207)
 
 	Zeyang Li, Chuxiong Hu, Shengbo Eben Li, Jia Cheng, Yunan Wang
 
