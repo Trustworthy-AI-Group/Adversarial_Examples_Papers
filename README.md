@@ -2,149 +2,149 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 ## 2023-10-17
-+ [ Demystifying Poisoning Backdoor Attacks from a Statistical Perspective](https://arxiv.org//abs/2310.10780)`uncheck`
++ [ Demystifying Poisoning Backdoor Attacks from a Statistical Perspective](https://arxiv.org//abs/2310.10780)
 
 	Xun Xian, Ganghua Wang, Jayanth Srinivasa, Ashish Kundu, Xuan Bi, Mingyi Hong, Jie Ding
 
 
-+ [ Learning from Red Teaming: Gender Bias Provocation and Mitigation in  Large Language Models](https://arxiv.org//abs/2310.11079)`uncheck`
++ [ Learning from Red Teaming: Gender Bias Provocation and Mitigation in  Large Language Models](https://arxiv.org//abs/2310.11079)
 
 	Hsuan Su, Cheng-Chu Cheng, Hua Farn, Shachi H Kumar, Saurav Sahay, Shang-Tse Chen, Hung-yi Lee
 
 
-+ [ Quantifying Language Models' Sensitivity to Spurious Features in Prompt  Design or: How I learned to start worrying about prompt formatting](https://arxiv.org//abs/2310.11324)`uncheck`
++ [ Quantifying Language Models' Sensitivity to Spurious Features in Prompt  Design or: How I learned to start worrying about prompt formatting](https://arxiv.org//abs/2310.11324)
 
 	Melanie Sclar, Yejin Choi, Yulia Tsvetkov, Alane Suhr
 
 
-+ [ Functional Invariants to Watermark Large Transformers](https://arxiv.org//abs/2310.11446)`uncheck`
++ [ Functional Invariants to Watermark Large Transformers](https://arxiv.org//abs/2310.11446)
 
 	Fernandez Pierre, Couairon Guillaume, Furon Teddy, Douze Matthijs
 
 
-+ [ Fake News in Sheep's Clothing: Robust Fake News Detection Against  LLM-Empowered Style Attacks](https://arxiv.org//abs/2310.10830)`uncheck`
++ [ Fake News in Sheep's Clothing: Robust Fake News Detection Against  LLM-Empowered Style Attacks](https://arxiv.org//abs/2310.10830)
 
 	Jiaying Wu, Bryan Hooi
 
 
-+ [ Survey of Vulnerabilities in Large Language Models Revealed by  Adversarial Attacks](https://arxiv.org//abs/2310.10844)`uncheck`
++ [ Survey of Vulnerabilities in Large Language Models Revealed by  Adversarial Attacks](https://arxiv.org//abs/2310.10844)
 
 	Erfan Shayegani, Md Abdullah Al Mamun, Yu Fu, Pedram Zaree, Yue Dong, Nael Abu-Ghazaleh
 
 
-+ [ Will the Prince Get True Love's Kiss? On the Model Sensitivity to Gender  Perturbation over Fairytale Texts](https://arxiv.org//abs/2310.10865)`uncheck`
++ [ Will the Prince Get True Love's Kiss? On the Model Sensitivity to Gender  Perturbation over Fairytale Texts](https://arxiv.org//abs/2310.10865)
 
 	Christina Chance, Da Yin, Dakuo Wang, Kai-Wei Chang
 
 
-+ [ Backdoor Attack through Machine Unlearning](https://arxiv.org//abs/2310.10659)`uncheck`
++ [ Backdoor Attack through Machine Unlearning](https://arxiv.org//abs/2310.10659)
 
 	Peixin Zhang, Jun Sun, Mingtian Tan, Xinyu Wang
 
 
-+ [ Regularization properties of adversarially-trained linear regression](https://arxiv.org//abs/2310.10807)`uncheck`
++ [ Regularization properties of adversarially-trained linear regression](https://arxiv.org//abs/2310.10807)
 
 	Antônio H. Ribeiro, Dave Zachariah, Francis Bach, Thomas B. Schön
 
 
-+ [ Locally Differentially Private Graph Embedding](https://arxiv.org//abs/2310.11060)`uncheck`
++ [ Locally Differentially Private Graph Embedding](https://arxiv.org//abs/2310.11060)
 
 	Zening Li, Rong-Hua Li, Meihao Liao, Fusheng Jin, Guoren Wang
 
 
-+ [ Last One Standing: A Comparative Analysis of Security and Privacy of  Soft Prompt Tuning, LoRA, and In-Context Learning](https://arxiv.org//abs/2310.11397)`uncheck`
++ [ Last One Standing: A Comparative Analysis of Security and Privacy of  Soft Prompt Tuning, LoRA, and In-Context Learning](https://arxiv.org//abs/2310.11397)
 
 	Rui Wen, Tianhao Wang, Michael Backes, Yang Zhang, Ahmed Salem
 
 
-+ [ Unbiased Watermark for Large Language Models](https://arxiv.org//abs/2310.10669)`uncheck`
++ [ Unbiased Watermark for Large Language Models](https://arxiv.org//abs/2310.10669)
 
 	Zhengmian Hu, Lichang Chen, Xidong Wu, Yihan Wu, Hongyang Zhang, Heng Huang
 
 
 ## 2023-10-16
-+ [ DANAA: Towards transferable attacks with double adversarial neuron  attribution](https://arxiv.org//abs/2310.10427)`uncheck`
++ [ DANAA: Towards transferable attacks with double adversarial neuron  attribution](https://arxiv.org//abs/2310.10427)
 
 	Zhibo Jin, Zhiyu Zhu, Xinyi Wang, Jiayu Zhang, Jun Shen, Huaming Chen
 
 
-+ [ Privacy in Large Language Models: Attacks, Defenses and Future  Directions](https://arxiv.org//abs/2310.10383)`uncheck`
++ [ Privacy in Large Language Models: Attacks, Defenses and Future  Directions](https://arxiv.org//abs/2310.10383)
 
 	Haoran Li, Yulin Chen, Jinglong Luo, Yan Kang, Xiaojin Zhang, Qi Hu, Chunkit Chan, Yangqiu Song
 
 
-+ [ Prompt Packer: Deceiving LLMs through Compositional Instruction with  Hidden Attacks](https://arxiv.org//abs/2310.10077)`uncheck`
++ [ Prompt Packer: Deceiving LLMs through Compositional Instruction with  Hidden Attacks](https://arxiv.org//abs/2310.10077)
 
 	Shuyu Jiang, Xingshu Chen, Rui Tang
 
 
-+ [ ASSERT: Automated Safety Scenario Red Teaming for Evaluating the  Robustness of Large Language Models](https://arxiv.org//abs/2310.09624)`uncheck`
++ [ ASSERT: Automated Safety Scenario Red Teaming for Evaluating the  Robustness of Large Language Models](https://arxiv.org//abs/2310.09624)
 
 	Alex Mei, Sharon Levy, William Yang Wang
 
 
-+ [ Orthogonal Uncertainty Representation of Data Manifold for Robust  Long-Tailed Learning](https://arxiv.org//abs/2310.10090)`uncheck`
++ [ Orthogonal Uncertainty Representation of Data Manifold for Robust  Long-Tailed Learning](https://arxiv.org//abs/2310.10090)
 
 	Yanbiao Ma, Licheng Jiao, Fang Liu, Shuyuan Yang, Xu Liu, Lingling Li
 
 
-+ [ Quantifying Assistive Robustness Via the Natural-Adversarial Frontier](https://arxiv.org//abs/2310.10610)`uncheck`
++ [ Quantifying Assistive Robustness Via the Natural-Adversarial Frontier](https://arxiv.org//abs/2310.10610)
 
 	Jerry Zhi-Yang He, Zackory Erickson, Daniel S. Brown, Anca D. Dragan
 
 
 ## 2023-10-15
-+ [ SCME: A Self-Contrastive Method for Data-free and Query-Limited Model  Extraction Attack](https://arxiv.org//abs/2310.09792)`uncheck`
++ [ SCME: A Self-Contrastive Method for Data-free and Query-Limited Model  Extraction Attack](https://arxiv.org//abs/2310.09792)
 
 	Renyang Liu, Jinhong Zhang, Kwok-Yan Lam, Jun Zhao, Wei Zhou
 
 
-+ [ AFLOW: Developing Adversarial Examples under Extremely Noise-limited  Settings](https://arxiv.org//abs/2310.09795)`uncheck`
++ [ AFLOW: Developing Adversarial Examples under Extremely Noise-limited  Settings](https://arxiv.org//abs/2310.09795)
 
 	Renyang Liu, Jinhong Zhang, Haoran Li, Jin Zhang, Yuanyu Wang, Wei Zhou
 
 
-+ [ Black-box Targeted Adversarial Attack on Segment Anything (SAM)](https://arxiv.org//abs/2310.10010)`uncheck`
++ [ Black-box Targeted Adversarial Attack on Segment Anything (SAM)](https://arxiv.org//abs/2310.10010)
 
 	Sheng Zheng, Chaoning Zhang
 
 
-+ [ Explore the Effect of Data Selection on Poison Efficiency in Backdoor  Attacks](https://arxiv.org//abs/2310.09744)`uncheck`
++ [ Explore the Effect of Data Selection on Poison Efficiency in Backdoor  Attacks](https://arxiv.org//abs/2310.09744)
 
 	Ziqiang Li, Pengfei Xia, Hong Sun, Yueqi Zeng, Wei Zhang, Bin Li
 
 
-+ [ Model Inversion Attacks on Homogeneous and Heterogeneous Graph Neural  Networks](https://arxiv.org//abs/2310.09800)`uncheck`
++ [ Model Inversion Attacks on Homogeneous and Heterogeneous Graph Neural  Networks](https://arxiv.org//abs/2310.09800)
 
 	Renyang Liu, Wei Zhou, Jinhong Zhang, Xiaoyuan Liu, Peiyuan Si, Haoran Li
 
 
-+ [ Evaluating Robustness of Visual Representations for Object Assembly Task  Requiring Spatio-Geometrical Reasoning](https://arxiv.org//abs/2310.09943)`uncheck`
++ [ Evaluating Robustness of Visual Representations for Object Assembly Task  Requiring Spatio-Geometrical Reasoning](https://arxiv.org//abs/2310.09943)
 
-	Chahyon Ku (1), Carl Winge (1), Ryan Diaz (1), Wentao Yuan (2), Karthik Desingh (1) ((1) University of Minnesota, (2) University of Washington)
+	Chahyon Ku, Carl Winge, Ryan Diaz, Wentao Yuan, Karthik Desingh
 
 
-+ [ Is Certifying $\ell_p$ Robustness Still Worthwhile?](https://arxiv.org//abs/2310.09361)`uncheck`
++ [ Is Certifying $\ell_p$ Robustness Still Worthwhile?](https://arxiv.org//abs/2310.09361)
 
 	Ravi Mangal, Klas Leino, Zifan Wang, Kai Hu, Weicheng Yu, Corina Pasareanu, Anupam Datta, Matt Fredrikson
 
 
-+ [ MAGIC: Detecting Advanced Persistent Threats via Masked Graph  Representation Learning](https://arxiv.org//abs/2310.09831)`uncheck`
++ [ MAGIC: Detecting Advanced Persistent Threats via Masked Graph  Representation Learning](https://arxiv.org//abs/2310.09831)
 
 	Zian Jia, Yun Xiong, Yuhong Nan, Yao Zhang, Jinjing Zhao, Mi Wen
 
 
-+ [ A Comprehensive Study of Privacy Risks in Curriculum Learning](https://arxiv.org//abs/2310.10124)`uncheck`
++ [ A Comprehensive Study of Privacy Risks in Curriculum Learning](https://arxiv.org//abs/2310.10124)
 
 	Joann Qiongna Chen, Xinlei He, Zheng Li, Yang Zhang, Zhou Li
 
 
-+ [ Prime Match: A Privacy-Preserving Inventory Matching System](https://arxiv.org//abs/2310.09621)`uncheck`
++ [ Prime Match: A Privacy-Preserving Inventory Matching System](https://arxiv.org//abs/2310.09621)
 
 	Antigoni Polychroniadou, Gilad Asharov, Benjamin Diamond, Tucker Balch, Hans Buehler, Richard Hua, Suwen Gu, Greg Gimler, Manuela Veloso
 
 
-+ [ BufferSearch: Generating Black-Box Adversarial Texts With Lower Queries](https://arxiv.org//abs/2310.09652)`uncheck`
++ [ BufferSearch: Generating Black-Box Adversarial Texts With Lower Queries](https://arxiv.org//abs/2310.09652)
 
 	Wenjie Lv, Zhen Wang, Yitao Zheng, Zhehua Zhong, Qi Xuan, Tianyi Chen
 
