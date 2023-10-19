@@ -1,6 +1,68 @@
 # A compelete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+## 2023-10-18
++ [ Adversarial Robustness Unhardening via Backdoor Attacks in Federated  Learning](https://arxiv.org//abs/2310.11594)`uncheck`
+
+	Taejin Kim, Jiarui Li, Shubhranshu Singh, Nikhil Madaan, Carlee Joe-Wong
+
+
++ [ WaveAttack: Asymmetric Frequency Obfuscation-based Backdoor Attacks  Against Deep Neural Networks](https://arxiv.org//abs/2310.11595)`uncheck`
+
+	Jun Xia, Zhihao Yue, Yingbo Zhou, Zhiwei Ling, Xian Wei, Mingsong Chen
+
+
++ [ The Efficacy of Transformer-based Adversarial Attacks in Security  Domains](https://arxiv.org//abs/2310.11597)`uncheck`
+
+	Kunyang Li, Kyle Domico, Jean-Charles Noirot Ferrand, Patrick McDaniel
+
+
++ [ Black-Box Training Data Identification in GANs via Detector Networks](https://arxiv.org//abs/2310.12063)`uncheck`
+
+	Lukman Olagoke, Salil Vadhan, Seth Neel
+
+
++ [ A Cautionary Tale: On the Role of Reference Data in Empirical Privacy  Defenses](https://arxiv.org//abs/2310.12112)`uncheck`
+
+	Caelin G. Kaplan, Chuan Xu, Othmane Marfoq, Giovanni Neglia, Anderson Santana de Oliveira
+
+
++ [ Domain-Generalized Face Anti-Spoofing with Unknown Attacks](https://arxiv.org//abs/2310.11758)`uncheck`
+
+	Zong-Wei Hong, Yu-Chen Lin, Hsuan-Tung Liu, Yi-Ren Yeh, Chu-Song Chen
+
+
++ [ To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still  Easy To Generate Unsafe Images ... For Now](https://arxiv.org//abs/2310.11868)`uncheck`
+
+	Yimeng Zhang, Jinghan Jia, Xin Chen, Aochuan Chen, Yihua Zhang, Jiancheng Liu, Ke Ding, Sijia Liu
+
+
++ [ Exploring Decision-based Black-box Attacks on Face Forgery Detection](https://arxiv.org//abs/2310.12017)`uncheck`
+
+	Zhaoyu Chen, Bo Li, Kaixun Jiang, Shuang Wu, Shouhong Ding, Wenqiang Zhang
+
+
++ [ Revisiting Transferable Adversarial Image Examples: Attack  Categorization, Evaluation Guidelines, and New Insights](https://arxiv.org//abs/2310.11850)`uncheck`
+
+	Zhengyu Zhao, Hanwei Zhang, Renjue Li, Ronan Sicre, Laurent Amsaleg, Michael Backes, Qi Li, Chao Shen
+
+
++ [ In defense of parameter sharing for model-compression](https://arxiv.org//abs/2310.11611)`uncheck`
+
+	Aditya Desai, Anshumali Shrivastava
+
+
++ [ Adversarial Training for Physics-Informed Neural Networks](https://arxiv.org//abs/2310.11789)`uncheck`
+
+	Yao Li, Shengzhu Shi, Zhichang Guo, Boying Wu
+
+
++ [ Quantifying Privacy Risks of Prompts in Visual Prompt Learning](https://arxiv.org//abs/2310.11970)`uncheck`
+
+	Yixin Wu, Rui Wen, Michael Backes, Pascal Berrang, Mathias Humbert, Yun Shen, Yang Zhang
+
+
+
 ## 2023-10-17
 + [ Demystifying Poisoning Backdoor Attacks from a Statistical Perspective](https://arxiv.org//abs/2310.10780)
 
