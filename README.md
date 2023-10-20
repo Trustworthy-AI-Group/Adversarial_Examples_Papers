@@ -1,6 +1,67 @@
 # A compelete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+## 2023-10-19
++ [ Automatic Hallucination Assessment for Aligned Large Language Models via  Transferable Adversarial Attacks](https://arxiv.org//abs/2310.12516)`uncheck`
+
+	Xiaodong Yu, Hao Cheng, Xiaodong Liu, Dan Roth, Jianfeng Gao
+
+
++ [ Attack Prompt Generation for Red Teaming and Defending Large Language  Models](https://arxiv.org//abs/2310.12505)`uncheck`
+
+	Boyi Deng, Wenjie Wang, Fuli Feng, Yang Deng, Qifan Wang, Xiangnan He
+
+
++ [ Recoverable Privacy-Preserving Image Classification through Noise-like  Adversarial Examples](https://arxiv.org//abs/2310.12707)`uncheck`
+
+	Jun Liu, Jiantao Zhou, Jinyu Tian, Weiwei Sun
+
+
++ [ REVAMP: Automated Simulations of Adversarial Attacks on Arbitrary  Objects in Realistic Scenes](https://arxiv.org//abs/2310.12243)`uncheck`
+
+	Matthew Hull, Zijie J. Wang, Duen Horng Chau
+
+
++ [ Generating Robust Adversarial Examples against Online Social Networks  (OSNs)](https://arxiv.org//abs/2310.12708)`uncheck`
+
+	Jun Liu, Jiantao Zhou, Haiwei Wu, Weiwei Sun, Jinyu Tian
+
+
++ [ OODRobustBench: benchmarking and analyzing adversarial robustness under  distribution shift](https://arxiv.org//abs/2310.12793)`uncheck`
+
+	Lin Li, Yifei Wang, Chawin Sitawarin, Michael Spratling
+
+
++ [ CAT: Closed-loop Adversarial Training for Safe End-to-End Driving](https://arxiv.org//abs/2310.12432)`uncheck`
+
+	Linrui Zhang, Zhenghao Peng, Quanyi Li, Bolei Zhou
+
+
++ [ Knowledge from Uncertainty in Evidential Deep Learning](https://arxiv.org//abs/2310.12663)`uncheck`
+
+	Cai Davies, Marc Roig Vilamala, Alun D. Preece, Federico Cerutti, Lance M. Kaplan, Supriyo Chakraborty
+
+
++ [ Learn from the Past: A Proxy based Adversarial Defense Framework to  Boost Robustness](https://arxiv.org//abs/2310.12713)`uncheck`
+
+	Yaohua Liu, Jiaxin Gao, Zhu Liu, Xianghao Jiao, Xin Fan, Risheng Liu
+
+
++ [ PrivInfer: Privacy-Preserving Inference for Black-box Large Language  Model](https://arxiv.org//abs/2310.12214)`uncheck`
+
+	Meng Tong, Kejiang Chen, Yuang Qi, Jie Zhang, Weiming Zhang, Nenghai Yu
+
+
++ [ Privacy Preserving Large Language Models: ChatGPT Case Study Based  Vision and Framework](https://arxiv.org//abs/2310.12523)`uncheck`
+
+	Imdad Ullah, Najm Hassan, Sukhpal Singh Gill, Basem Suleiman, Tariq Ahamed Ahanger, Zawar Shah, Junaid Qadir, Salil S. Kanhere
+
+
++ [ SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models](https://arxiv.org//abs/2310.12665)`uncheck`
+
+	Boyang Zhang, Zheng Li, Ziqing Yang, Xinlei He, Michael Backes, Mario Fritz, Yang Zhang
+
+
 ## 2023-10-18
 + [ Adversarial Robustness Unhardening via Backdoor Attacks in Federated  Learning](https://arxiv.org//abs/2310.11594)
 
