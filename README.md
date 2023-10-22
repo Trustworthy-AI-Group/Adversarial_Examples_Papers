@@ -1,6 +1,38 @@
 # A compelete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+## 2023-10-21
+ [ GPT-4 Doesn't Know It's Wrong: An Analysis of Iterative Prompting for  Reasoning Problems](https://arxiv.org//abs/2310.12397)`uncheck`
+
+	Kaya Stechly, Matthew Marquez, Subbarao Kambhampati
+
+
++ [ Prompt Injection Attacks and Defenses in LLM-Integrated Applications](https://arxiv.org//abs/2310.12815)`uncheck`
+
+	Yupei Liu, Yuqi Jia, Runpeng Geng, Jinyuan Jia, Neil Zhenqiang Gong
+
+
++ [ Probing LLMs for hate speech detection: strengths and vulnerabilities](https://arxiv.org//abs/2310.12860)`uncheck`
+
+	Sarthak Roy, Ashish Harshavardhan, Animesh Mukherjee, Punyajoy Saha
+
+
+## 2023-10-20
++ [ PoisonPrompt: Backdoor Attack on Prompt-based Large Language Models](https://arxiv.org//abs/2310.12439)`uncheck`
+
+	Hongwei Yao, Jian Lou, Zhan Qin
+
+
++ [ Segment Anything Meets Universal Adversarial Perturbation](https://arxiv.org//abs/2310.12431)`uncheck`
+
+	Dongshen Han, Sheng Zheng, Chaoning Zhang
+
+
++ [ Fast Model Debias with Machine Unlearning](https://arxiv.org//abs/2310.12560)`uncheck`
+
+	Ruizhe Chen, Jianfei Yang, Huimin Xiong, Jianhong Bai, Tianxiang Hu, Jin Hao, Yang Feng, Joey Tianyi Zhou, Jian Wu, Zuozhu Liu
+
+
 ## 2023-10-19
 + [ Automatic Hallucination Assessment for Aligned Large Language Models via  Transferable Adversarial Attacks](https://arxiv.org//abs/2310.12516)
 
