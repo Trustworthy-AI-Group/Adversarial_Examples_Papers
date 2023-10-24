@@ -1,6 +1,92 @@
 # A compelete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+## 2023-10-22
++ [ Fundamental Limits of Membership Inference Attacks on Machine Learning  Models](https://arxiv.org//abs/2310.13786)`uncheck`
+
+	Eric Aubinais, Elisabeth Gassiat, Pablo Piantanida
+
+
++ [ Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models](https://arxiv.org//abs/2310.13828)`uncheck`
+
+	Shawn Shan, Wenxin Ding, Josephine Passananti, Haitao Zheng, Ben Y. Zhao
+
+
++ [ MoPe: Model Perturbation-based Privacy Attacks on Language Models](https://arxiv.org//abs/2310.14369)`uncheck`
+
+	Marvin Li, Jason Wang, Jeffrey Wang, Seth Neel
+
+
++ [ On existence, uniqueness and scalability of adversarial robustness  measures for AI classifiers](https://arxiv.org//abs/2310.14421)`uncheck`
+
+	Illia Horenko
+
+
++ [ AutoDAN: Automatic and Interpretable Adversarial Attacks on Large  Language Models](https://arxiv.org//abs/2310.15140)`uncheck`
+
+	Sicheng Zhu, Ruiyi Zhang, Bang An, Gang Wu, Joe Barrow, Zichao Wang, Furong Huang, Ani Nenkova, Tong Sun
+
+
++ [ Toward Stronger Textual Attack Detectors](https://arxiv.org//abs/2310.14001)`uncheck`
+
+	Pierre Colombo, Marine Picot, Nathan Noiry, Guillaume Staerman, Pablo Piantanida
+
+
++ [ CT-GAT: Cross-Task Generative Adversarial Attack based on  Transferability](https://arxiv.org//abs/2310.14265)`uncheck`
+
+	Minxuan Lv, Chengwei Dai, Kun Li, Wei Zhou, Songlin Hu
+
+
++ [ Data-Free Knowledge Distillation Using Adversarially Perturbed OpenGL  Shader Images](https://arxiv.org//abs/2310.13782)`uncheck`
+
+	Logan Frank, Jim Davis
+
+
++ [ Bi-discriminator Domain Adversarial Neural Networks with Class-Level  Gradient Alignment](https://arxiv.org//abs/2310.13959)`uncheck`
+
+	Chuang Zhao, Hongke Zhao, Hengshu Zhu, Zhenya Huang, Nan Feng, Enhong Chen, Hui Xiong
+
+
++ [ ADoPT: LiDAR Spoofing Attack Detection Based on Point-Level Temporal  Consistency](https://arxiv.org//abs/2310.14504)`uncheck`
+
+	Minkyoung Cho, Yulong Cao, Zixiang Zhou, Z. Morley Mao
+
+
++ [ F$^2$AT: Feature-Focusing Adversarial Training via Disentanglement of  Natural and Perturbed Patterns](https://arxiv.org//abs/2310.14561)`uncheck`
+
+	Yaguan Qian, Chenyu Zhao, Zhaoquan Gu, Bin Wang, Shouling Ji, Wei Wang, Boyang Zhou, Pan Zhou
+
+
++ [ Semantic-Aware Adversarial Training for Reliable Deep Hashing Retrieval](https://arxiv.org//abs/2310.14637)`uncheck`
+
+	Xu Yuan, Zheng Zhang, Xunguang Wang, Lin Wu
+
+
++ [ On the Detection of Image-Scaling Attacks in Machine Learning](https://arxiv.org//abs/2310.15085)`uncheck`
+
+	Erwin Quiring, Andreas Müller, Konrad Rieck
+
+
++ [ Adversarial Attacks on Fairness of Graph Neural Networks](https://arxiv.org//abs/2310.13822)`uncheck`
+
+	Binchi Zhang, Yushun Dong, Chen Chen, Yada Zhu, Minnan Luo, Jundong Li
+
+
++ [ Competitive Advantage Attacks to Decentralized Federated Learning](https://arxiv.org//abs/2310.13862)`uncheck`
+
+	Yuqi Jia, Minghong Fang, Neil Zhenqiang Gong
+
+
++ [ Preventing Supply Chain Vulnerabilities in Java with a Fine-Grained  Permission Manager](https://arxiv.org//abs/2310.14117)`uncheck`
+
+	Paschal C. Amusuo (1), Kyle A. Robinson (1), Santiago Torres-Arias (1), Laurent Simon (2), James C. Davis (1) ((1) Purdue University, (2) Google)
+
+
++ [ Enhancing Accuracy-Privacy Trade-off in Differentially Private Split  Learning](https://arxiv.org//abs/2310.14434)`uncheck`
+
+	Ngoc Duy Pham, Khoa Tran Phan, Naveen Chilamkurti
+
+
 ## 2023-10-21
 + [ GPT-4 Doesn't Know It's Wrong: An Analysis of Iterative Prompting for  Reasoning Problems](https://arxiv.org//abs/2310.12397)
 
