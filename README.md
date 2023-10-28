@@ -2,145 +2,124 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 ## 2023-10-26
-+ [ CBD: A Certified Backdoor Detector Based on Local Dominant Probability](https://arxiv.org//abs/2310.17498)`uncheck`
++ [ CBD: A Certified Backdoor Detector Based on Local Dominant Probability](https://arxiv.org//abs/2310.17498)
 
 	Zhen Xiang, Zidi Xiong, Bo Li
 
-
-+ [ fairret: a Framework for Differentiable Fairness Regularization Terms](https://arxiv.org//abs/2310.17256)`uncheck`
-
-	Maarten Buyl, MaryBeth Defrance, Tijl De Bie
-
-
-+ [ A Survey on Transferability of Adversarial Examples across Deep Neural  Networks](https://arxiv.org//abs/2310.17626)`uncheck`
++ [ A Survey on Transferability of Adversarial Examples across Deep Neural  Networks](https://arxiv.org//abs/2310.17626)
 
 	Jindong Gu, Xiaojun Jia, Pau de Jorge, Wenqain Yu, Xinwei Liu, Avery Ma, Yuan Xun, Anjun Hu, Ashkan Khakzar, Zhijiang Li, Xiaochun Cao, Philip Torr
 
 
-+ [ Uncertainty-weighted Loss Functions for Improved Adversarial Attacks on  Semantic Segmentation](https://arxiv.org//abs/2310.17436)`uncheck`
++ [ Uncertainty-weighted Loss Functions for Improved Adversarial Attacks on  Semantic Segmentation](https://arxiv.org//abs/2310.17436)
 
 	Kira Maag, Asja Fischer
 
 
-+ [ Detecting stealthy cyberattacks on adaptive cruise control vehicles: A  machine learning approach](https://arxiv.org//abs/2310.17091)`uncheck`
++ [ Detecting stealthy cyberattacks on adaptive cruise control vehicles: A  machine learning approach](https://arxiv.org//abs/2310.17091)
 
 	Tianyi Li, Mingfeng Shang, Shian Wang, Raphael Stern
 
 
-+ [ SoK: Pitfalls in Evaluating Black-Box Attacks](https://arxiv.org//abs/2310.17534)`uncheck`
++ [ SoK: Pitfalls in Evaluating Black-Box Attacks](https://arxiv.org//abs/2310.17534)
 
 	Fnu Suya, Anshuman Suri, Tingwei Zhang, Jingtao Hong, Yuan Tian, David Evans
 
 
-+ [ Defending Against Transfer Attacks From Public Models](https://arxiv.org//abs/2310.17645)`uncheck`
++ [ Defending Against Transfer Attacks From Public Models](https://arxiv.org//abs/2310.17645)
 
 	Chawin Sitawarin, Jaewon Chang, David Huang, Wesson Altoyan, David Wagner
 
 
-+ [ Proving Test Set Contamination in Black Box Language Models](https://arxiv.org//abs/2310.17623)`uncheck`
++ [ Proving Test Set Contamination in Black Box Language Models](https://arxiv.org//abs/2310.17623)
 
 	Yonatan Oren, Nicole Meister, Niladri Chatterji, Faisal Ladhak, Tatsunori B. Hashimoto
 
 
-+ [ Detection Defenses: An Empty Promise against Adversarial Patch Attacks  on Optical Flow](https://arxiv.org//abs/2310.17403)`uncheck`
++ [ Detection Defenses: An Empty Promise against Adversarial Patch Attacks  on Optical Flow](https://arxiv.org//abs/2310.17403)
 
 	Erik Scheurer, Jenny Schmalfuss, Alexander Lis, Andrés Bruhn
 
 
 ## 2023-10-25
-+ [ Wide Flat Minimum Watermarking for Robust Ownership Verification of GANs](https://arxiv.org//abs/2310.16919)`uncheck`
-
-	Jianwei Fei, Zhihua Xia, Benedetta Tondi, Mauro Barni
-
-
-+ [ Trust, but Verify: Robust Image Segmentation using Deep Learning](https://arxiv.org//abs/2310.16999)`uncheck`
++ [ Trust, but Verify: Robust Image Segmentation using Deep Learning](https://arxiv.org//abs/2310.16999)
 
 	Fahim Ahmed Zaman, Xiaodong Wu, Weiyu Xu, Milan Sonka, Raghuraman Mudumbai
 
 
-+ [ Break it, Imitate it, Fix it: Robustness by Generating Human-Like  Attacks](https://arxiv.org//abs/2310.16955)`uncheck`
++ [ Break it, Imitate it, Fix it: Robustness by Generating Human-Like  Attacks](https://arxiv.org//abs/2310.16955)
 
 	Aradhana Sinha, Ananth Balashankar, Ahmad Beirami, Thi Avrahami, Jilin Chen, Alex Beutel
 
 
-+ [ Improving Few-shot Generalization of Safety Classifiers via Data  Augmented Parameter-Efficient Fine-Tuning](https://arxiv.org//abs/2310.16959)`uncheck`
-
-	Ananth Balashankar, Xiao Ma, Aradhana Sinha, Ahmad Beirami, Yao Qin, Jilin Chen, Alex Beutel
-
-
-+ [ Confounder Balancing in Adversarial Domain Adaptation for Pre-Trained  Large Models Fine-Tuning](https://arxiv.org//abs/2310.16062)`uncheck`
++ [ Confounder Balancing in Adversarial Domain Adaptation for Pre-Trained  Large Models Fine-Tuning](https://arxiv.org//abs/2310.16062)
 
 	Shuoran Jiang, Qingcai Chen, Yang Xiang, Youcheng Pan, Xiangping Wu
 
 
 ## 2023-10-24
-+ [ Enhancing Large Language Models for Secure Code Generation: A  Dataset-driven Study on Vulnerability Mitigation](https://arxiv.org//abs/2310.16263)`uncheck`
++ [ Enhancing Large Language Models for Secure Code Generation: A  Dataset-driven Study on Vulnerability Mitigation](https://arxiv.org//abs/2310.16263)
 
 	Jiexin Wang, Liuwen Cao, Xitong Luo, Zhiping Zhou, Jiayuan Xie, Adam Jatowt, Yi Cai
 
 
-+ [ Segue: Side-information Guided Generative Unlearnable Examples for  Facial Privacy Protection in Real World](https://arxiv.org//abs/2310.16061)`uncheck`
++ [ Segue: Side-information Guided Generative Unlearnable Examples for  Facial Privacy Protection in Real World](https://arxiv.org//abs/2310.16061)
 
 	Zhiling Zhang, Jie Zhang, Kui Zhang, Wenbo Zhou, Weiming Zhang, Nenghai Yu
 
 
-+ [ Defense Against Model Extraction Attacks on Recommender Systems](https://arxiv.org//abs/2310.16335)`uncheck`
++ [ Defense Against Model Extraction Attacks on Recommender Systems](https://arxiv.org//abs/2310.16335)
 
 	Sixiao Zhang, Hongzhi Yin, Hongxu Chen, Cheng Long
 
 
-+ [ Robust and Actively Secure Serverless Collaborative Learning](https://arxiv.org//abs/2310.16678)`uncheck`
++ [ Robust and Actively Secure Serverless Collaborative Learning](https://arxiv.org//abs/2310.16678)
 
 	Olive Franzese, Adam Dziedzic, Christopher A. Choquette-Choo, Mark R. Thomas, Muhammad Ahmad Kaleem, Stephan Rabanser, Congyu Fang, Somesh Jha, Nicolas Papernot, Xiao Wang
 
 
-+ [ AI Hazard Management: A framework for the systematic management of root  causes for AI risks](https://arxiv.org//abs/2310.16727)`uncheck`
++ [ AI Hazard Management: A framework for the systematic management of root  causes for AI risks](https://arxiv.org//abs/2310.16727)
 
 	Ronald Schnitzer, Andreas Hapfelmeier, Sven Gaube, Sonja Zillner
 
 
-+ [ FLTrojan: Privacy Leakage Attacks against Federated Language Models  Through Selective Weight Tampering](https://arxiv.org//abs/2310.16152)`uncheck`
++ [ FLTrojan: Privacy Leakage Attacks against Federated Language Models  Through Selective Weight Tampering](https://arxiv.org//abs/2310.16152)
 
 	Md Rafi Ur Rashid, Vishnu Asutosh Dasu, Kang Gu, Najrin Sultana, Shagufta Mehnaz
 
 
-+ [ Poison is Not Traceless: Fully-Agnostic Detection of Poisoning Attacks](https://arxiv.org//abs/2310.16224)`uncheck`
++ [ Poison is Not Traceless: Fully-Agnostic Detection of Poisoning Attacks](https://arxiv.org//abs/2310.16224)
 
 	Xinglong Chang, Katharina Dost, Gillian Dobbie, Jörg Wicker
 
 
-+ [ A model for multi-attack classification to improve intrusion detection  performance using deep learning approaches](https://arxiv.org//abs/2310.16380)`uncheck`
++ [ A model for multi-attack classification to improve intrusion detection  performance using deep learning approaches](https://arxiv.org//abs/2310.16380)
 
 	Arun Kumar Silivery, Ram Mohan Rao Kovvur
 
 
 ## 2023-10-23
-+ [ Serverless Federated Learning with flwr-serverless](https://arxiv.org//abs/2310.15329)`uncheck`
-
-	Sanjeev V. Namjoshi, Reese Green, Krishi Sharma, Zhangzhang Si
-
-
-+ [ 3D Masked Autoencoders for Enhanced Privacy in MRI Scans](https://arxiv.org//abs/2310.15778)`uncheck`
++ [ 3D Masked Autoencoders for Enhanced Privacy in MRI Scans](https://arxiv.org//abs/2310.15778)
 
 	Lennart Alexander Van der Goten, Kevin Smith
 
 
-+ [ Self-Guard: Empower the LLM to Safeguard Itself](https://arxiv.org//abs/2310.15851)`uncheck`
++ [ Self-Guard: Empower the LLM to Safeguard Itself](https://arxiv.org//abs/2310.15851)
 
 	Zezhong Wang, Fangkai Yang, Lu Wang, Pu Zhao, Hongru Wang, Liang Chen, Qingwei Lin, Kam-Fai Wong
 
 
-+ [ The Janus Interface: How Fine-Tuning in Large Language Models Amplifies  the Privacy Risks](https://arxiv.org//abs/2310.15469)`uncheck`
++ [ The Janus Interface: How Fine-Tuning in Large Language Models Amplifies  the Privacy Risks](https://arxiv.org//abs/2310.15469)
 
 	Xiaoyi Chen, Siyuan Tang, Rui Zhu, Shijun Yan, Lei Jin, Zihao Wang, Liya Su, XiaoFeng Wang, Haixu Tang
 
 
-+ [ Deceptive Fairness Attacks on Graphs via Meta Learning](https://arxiv.org//abs/2310.15653)`uncheck`
++ [ Deceptive Fairness Attacks on Graphs via Meta Learning](https://arxiv.org//abs/2310.15653)
 
 	Jian Kang, Yinglong Xia, Ross Maciejewski, Jiebo Luo, Hanghang Tong
 
 
-+ [ Momentum Gradient-based Untargeted Attack on Hypergraph Neural Networks](https://arxiv.org//abs/2310.15656)`uncheck`
++ [ Momentum Gradient-based Untargeted Attack on Hypergraph Neural Networks](https://arxiv.org//abs/2310.15656)
 
 	Yang Chen, Stjepan Picek, Zhonglin Ye, Zhaoyang Wang, Haixing Zhao
 
