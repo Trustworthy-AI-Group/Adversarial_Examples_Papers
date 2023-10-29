@@ -1,4 +1,4 @@
-# A compelete list of papers about adversarial examples
+# A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 ## 2023-10-27
@@ -21,11 +21,6 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ CBD: A Certified Backdoor Detector Based on Local Dominant Probability](https://arxiv.org//abs/2310.17498)`uncheck`
 
 	Zhen Xiang, Zidi Xiong, Bo Li
-
-
-+ [ fairret: a Framework for Differentiable Fairness Regularization Terms](https://arxiv.org//abs/2310.17256)`uncheck`
-
-	Maarten Buyl, MaryBeth Defrance, Tijl De Bie
 
 
 + [ A Survey on Transferability of Adversarial Examples across Deep Neural  Networks](https://arxiv.org//abs/2310.17626)`uncheck`
@@ -64,11 +59,6 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 
 ## 2023-10-25
-+ [ Wide Flat Minimum Watermarking for Robust Ownership Verification of GANs](https://arxiv.org//abs/2310.16919)`uncheck`
-
-	Jianwei Fei, Zhihua Xia, Benedetta Tondi, Mauro Barni
-
-
 + [ Trust, but Verify: Robust Image Segmentation using Deep Learning](https://arxiv.org//abs/2310.16999)`uncheck`
 
 	Fahim Ahmed Zaman, Xiaodong Wu, Weiyu Xu, Milan Sonka, Raghuraman Mudumbai
@@ -131,11 +121,6 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 
 ## 2023-10-23
-+ [ Serverless Federated Learning with flwr-serverless](https://arxiv.org//abs/2310.15329)`uncheck`
-
-	Sanjeev V. Namjoshi, Reese Green, Krishi Sharma, Zhangzhang Si
-
-
 + [ 3D Masked Autoencoders for Enhanced Privacy in MRI Scans](https://arxiv.org//abs/2310.15778)`uncheck`
 
 	Lennart Alexander Van der Goten, Kevin Smith
