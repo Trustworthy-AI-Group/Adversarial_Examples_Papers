@@ -2,88 +2,77 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 ## 2023-10-31
-+ [ Unmasking Bias and Inequities: A Systematic Review of Bias Detection and  Mitigation in Healthcare Artificial Intelligence Using Electronic Health  Records](https://arxiv.org//abs/2310.19917)`uncheck`
++ [ Unmasking Bias and Inequities: A Systematic Review of Bias Detection and  Mitigation in Healthcare Artificial Intelligence Using Electronic Health  Records](https://arxiv.org//abs/2310.19917)
 
 	Feng Chen, Liqin Wang, Julie Hong, Jiaqi Jiang, Li Zhou
 
 
-+ [ Is Robustness Transferable across Languages in Multilingual Neural  Machine Translation?](https://arxiv.org//abs/2310.20162)`uncheck`
++ [ Is Robustness Transferable across Languages in Multilingual Neural  Machine Translation?](https://arxiv.org//abs/2310.20162)
 
 	Leiyu Pan, Supryadi, Deyi Xiong
 
 
-+ [ LoRA Fine-tuning Efficiently Undoes Safety Training in Llama 2-Chat 70B](https://arxiv.org//abs/2310.20624)`uncheck`
++ [ LoRA Fine-tuning Efficiently Undoes Safety Training in Llama 2-Chat 70B](https://arxiv.org//abs/2310.20624)
 
 	Simon Lermen, Charlie Rogers-Smith, Jeffrey Ladish
 
 
-+ [ DEPN: Detecting and Editing Privacy Neurons in Pretrained Language  Models](https://arxiv.org//abs/2310.20138)`uncheck`
++ [ DEPN: Detecting and Editing Privacy Neurons in Pretrained Language  Models](https://arxiv.org//abs/2310.20138)
 
 	Xinwei Wu, Junzhuo Li, Minghui Xu, Weilong Dong, Shuangzhi Wu, Chao Bian, Deyi Xiong
 
 
-+ [ Verification of Neural Networks Local Differential Classification  Privacy](https://arxiv.org//abs/2310.20299)`uncheck`
++ [ Verification of Neural Networks Local Differential Classification  Privacy](https://arxiv.org//abs/2310.20299)
 
 	Roie Reshef, Anan Kabaha, Olga Seleznova, Dana Drachsler-Cohen
 
 
-+ [ Initialization Matters: Privacy-Utility Analysis of Overparameterized  Neural Networks](https://arxiv.org//abs/2310.20579)`uncheck`
++ [ Initialization Matters: Privacy-Utility Analysis of Overparameterized  Neural Networks](https://arxiv.org//abs/2310.20579)
 
 	Jiayuan Ye, Zhenyu Zhu, Fanghui Liu, Reza Shokri, Volkan Cevher
 
 
 ## 2023-10-30
-+ [ PriPrune: Quantifying and Preserving Privacy in Pruned Federated  Learning](https://arxiv.org//abs/2310.19958)`uncheck`
++ [ PriPrune: Quantifying and Preserving Privacy in Pruned Federated  Learning](https://arxiv.org//abs/2310.19958)
 
 	Tianyue Chu, Mengwei Yang, Nikolaos Laoutaris, Athina Markopoulou
 
 
-+ [ LipSim: A Provably Robust Perceptual Similarity Metric](https://arxiv.org//abs/2310.18274)`uncheck`
++ [ LipSim: A Provably Robust Perceptual Similarity Metric](https://arxiv.org//abs/2310.18274)
 
 	Sara Ghazanfari, Alexandre Araujo, Prashanth Krishnamurthy, Farshad Khorrami, Siddharth Garg
 
 
-+ [ Counterfactual Fairness for Predictions using Generative Adversarial  Networks](https://arxiv.org//abs/2310.17687)`uncheck`
++ [ Counterfactual Fairness for Predictions using Generative Adversarial  Networks](https://arxiv.org//abs/2310.17687)
 
 	Yuchen Ma, Dennis Frauen, Valentyn Melnychuk, Stefan Feuerriegel
 
 
 ## 2023-10-29
-+ [ Will releasing the weights of large language models grant widespread  access to pandemic agents?](https://arxiv.org//abs/2310.18233)`uncheck`
-
-	Anjali Gopal, Nathan Helm-Burger, Lenni Justen, Emily H. Soice, Tiffany Tzeng, Geetha Jeyapragasan, Simon Grimm, Benjamin Mueller, Kevin M. Esvelt
-
-
-+ [ Knowing What LLMs DO NOT Know: A Simple Yet Effective Self-Detection  Method](https://arxiv.org//abs/2310.17918)`uncheck`
++ [ Knowing What LLMs DO NOT Know: A Simple Yet Effective Self-Detection  Method](https://arxiv.org//abs/2310.17918)
 
 	Yukun Zhao, Lingyong Yan, Weiwei Sun, Guoliang Xing, Chong Meng, Shuaiqiang Wang, Zhicong Cheng, Zhaochun Ren, Dawei Yin
 
-、
 
-+ [ Fine tuning Pre trained Models for Robustness Under Noisy Labels](https://arxiv.org//abs/2310.17668)`uncheck`
++ [ Fine tuning Pre trained Models for Robustness Under Noisy Labels](https://arxiv.org//abs/2310.17668)
 
 	Sumyeong Ahn, Sihyeon Kim, Jongwoo Ko, Se-Young Yun
 
 
-+ [ Adversarial Anomaly Detection using Gaussian Priors and Nonlinear  Anomaly Scores](https://arxiv.org//abs/2310.18091)`uncheck`
++ [ Adversarial Anomaly Detection using Gaussian Priors and Nonlinear  Anomaly Scores](https://arxiv.org//abs/2310.18091)
 
 	Fiete Lüer, Tobias Weber, Maxim Dolgich, Christian Böhm
 
 
-+ [ $α$-Mutual Information: A Tunable Privacy Measure for Privacy  Protection in Data Sharing](https://arxiv.org//abs/2310.18241)`uncheck`
++ [ $α$-Mutual Information: A Tunable Privacy Measure for Privacy  Protection in Data Sharing](https://arxiv.org//abs/2310.18241)
 
 	MirHamed Jafarzadeh Asl, Mohammadhadi Shateri, Fabrice Labeau
 
 
-+ [ BlackJack: Secure machine learning on IoT devices through hardware-based  shuffling](https://arxiv.org//abs/2310.17804)`uncheck`
++ [ BlackJack: Secure machine learning on IoT devices through hardware-based  shuffling](https://arxiv.org//abs/2310.17804)
 
 	Karthik Ganesan, Michal Fishkin, Ourong Lin, Natalie Enright Jerger
 
-
-## 2023-10-28
-+ [ PAC-tuning:Fine-tuning Pretrained Language Models with PAC-driven  Perturbed Gradient Descent](https://arxiv.org//abs/2310.17588)`uncheck`
-
-	Guangliang Liu, Zhiyu Xue, Xitong Zhang, Kristen Marie Johnson, Rongrong Wang
 
 
 ## 2023-10-27
