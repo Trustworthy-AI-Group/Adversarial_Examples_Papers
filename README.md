@@ -2,121 +2,111 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 ## 2023-11-3
-+ [ Can AI Mitigate Human Perceptual Biases? A Pilot Study](https://arxiv.org//abs/2311.00706)`uncheck`
++ [ Can AI Mitigate Human Perceptual Biases? A Pilot Study](https://arxiv.org//abs/2311.00706)
 
 	Ross Geuy, Nate Rising, Tiancheng Shi, Meng Ling, Jian Chen
 
 
-+ [ SCPO: Safe Reinforcement Learning with Safety Critic Policy Optimization](https://arxiv.org//abs/2311.00880)`uncheck`
++ [ SCPO: Safe Reinforcement Learning with Safety Critic Policy Optimization](https://arxiv.org//abs/2311.00880)
 
 	Jaafar Mhamed, Shangding Gu
 
 
-+ [ Attacking Graph Neural Networks with Bit Flips: Weisfeiler and Lehman Go  Indifferent](https://arxiv.org//abs/2311.01205)`uncheck`
-
-	Lorenz Kummer, Samir Moustafa, Nils N. Kriege, Wilfried N. Gansterer
-
-
-+ [ Robust Identity Perceptual Watermark Against Deepfake Face Swapping](https://arxiv.org//abs/2311.01357)`uncheck`
++ [ Robust Identity Perceptual Watermark Against Deepfake Face Swapping](https://arxiv.org//abs/2311.01357)
 
 	Tianyi Wang, Mengxiao Huang, Harry Cheng, Bin Ma, Yinglong Wang
 
 
-+ [ A Call to Arms: AI Should be Critical for Social Media Analysis of  Conflict Zones](https://arxiv.org//abs/2311.00810)`uncheck`
++ [ A Call to Arms: AI Should be Critical for Social Media Analysis of  Conflict Zones](https://arxiv.org//abs/2311.00810)
 
 	Afia Abedin, Abdul Bais, Cody Buntain, Laura Courchesne, Brian McQuinn, Matthew E. Taylor, Muhib Ullah
 
 
-+ [ Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game](https://arxiv.org//abs/2311.01011)`uncheck`
++ [ Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game](https://arxiv.org//abs/2311.01011)
 
 	Sam Toyer, Olivia Watkins, Ethan Adrian Mendes, Justin Svegliato, Luke Bailey, Tiffany Wang, Isaac Ong, Karim Elmaaroufi, Pieter Abbeel, Trevor Darrell, Alan Ritter, Stuart Russell
 
 
-+ [ MIST: Defending Against Membership Inference Attacks Through  Membership-Invariant Subspace Training](https://arxiv.org//abs/2311.00919)`uncheck`
++ [ MIST: Defending Against Membership Inference Attacks Through  Membership-Invariant Subspace Training](https://arxiv.org//abs/2311.00919)
 
 	Jiacheng Li, Ninghui Li, Bruno Ribeiro
 
 
-+ [ Reputation Systems for Supply Chains: The Challenge of Achieving Privacy  Preservation](https://arxiv.org//abs/2311.01060)`uncheck`
++ [ Reputation Systems for Supply Chains: The Challenge of Achieving Privacy  Preservation](https://arxiv.org//abs/2311.01060)
 
 	Lennart Bader, Jan Pennekamp, Emildeon Thevaraj, Maria Spiß, Salil S. Kanhere, Klaus Wehrle
 
 
 ## 2023-11-2
-+ [ Optimal Cost Constrained Adversarial Attacks For Multiple Agent Systems](https://arxiv.org//abs/2311.00859)`uncheck`
++ [ Optimal Cost Constrained Adversarial Attacks For Multiple Agent Systems](https://arxiv.org//abs/2311.00859)
 
 	Ziqing Lu, Guanlin Liu, Lifeng Cai, Weiyu Xu
 
 
-+ [ SCPO: Safe Reinforcement Learning with Safety Critic Policy Optimization](https://arxiv.org//abs/2311.00880)`uncheck`
++ [ SCPO: Safe Reinforcement Learning with Safety Critic Policy Optimization](https://arxiv.org//abs/2311.00880)
 
 	Jaafar Mhamed, Shangding Gu
 
 
-+ [ Generate and Pray: Using SALLMS to Evaluate the Security of LLM  Generated Code](https://arxiv.org//abs/2311.00889)`uncheck`
++ [ Generate and Pray: Using SALLMS to Evaluate the Security of LLM  Generated Code](https://arxiv.org//abs/2311.00889)
 
 	Mohammed Latif Siddiq, Joanna C. S. Santos
 
 
-+ [ Attacking Graph Neural Networks with Bit Flips: Weisfeiler and Lehman Go  Indifferent](https://arxiv.org//abs/2311.01205)`uncheck`
++ [ Attacking Graph Neural Networks with Bit Flips: Weisfeiler and Lehman Go  Indifferent](https://arxiv.org//abs/2311.01205)
 
 	Lorenz Kummer, Samir Moustafa, Nils N. Kriege, Wilfried N. Gansterer
 
 
-+ [ Towards Evaluating Transfer-based Attacks Systematically, Practically,  and Fairly](https://arxiv.org//abs/2311.01323)`uncheck`
++ [ Towards Evaluating Transfer-based Attacks Systematically, Practically,  and Fairly](https://arxiv.org//abs/2311.01323)
 
 	Qizhang Li, Yiwen Guo, Wangmeng Zuo, Hao Chen
 
 
-+ [ Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game](https://arxiv.org//abs/2311.01011)`uncheck`
++ [ Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game](https://arxiv.org//abs/2311.01011)
 
 	Sam Toyer, Olivia Watkins, Ethan Adrian Mendes, Justin Svegliato, Luke Bailey, Tiffany Wang, Isaac Ong, Karim Elmaaroufi, Pieter Abbeel, Trevor Darrell, Alan Ritter, Stuart Russell
 
 
-+ [ In Defense of Softmax Parametrization for Calibrated and Consistent  Learning to Defer](https://arxiv.org//abs/2311.01106)`uncheck`
++ [ In Defense of Softmax Parametrization for Calibrated and Consistent  Learning to Defer](https://arxiv.org//abs/2311.01106)
 
 	Yuzhou Cao, Hussein Mozannar, Lei Feng, Hongxin Wei, Bo An
 
 
-+ [ MIST: Defending Against Membership Inference Attacks Through  Membership-Invariant Subspace Training](https://arxiv.org//abs/2311.00919)`uncheck`
++ [ MIST: Defending Against Membership Inference Attacks Through  Membership-Invariant Subspace Training](https://arxiv.org//abs/2311.00919)
 
 	Jiacheng Li, Ninghui Li, Bruno Ribeiro
 
 
 ## 2023-11-1
-+ [ FAIRLABEL: Correcting Bias in Labels](https://arxiv.org//abs/2311.00638)`uncheck`
++ [ FAIRLABEL: Correcting Bias in Labels](https://arxiv.org//abs/2311.00638)
 
 	Srinivasan H Sengamedu, Hien Pham
 
 
-+ [ Probing Explicit and Implicit Gender Bias through LLM Conditional Text  Generation](https://arxiv.org//abs/2311.00306)`uncheck`
++ [ Probing Explicit and Implicit Gender Bias through LLM Conditional Text  Generation](https://arxiv.org//abs/2311.00306)
 
 	Xiangjue Dong, Yibo Wang, Philip S. Yu, James Caverlee
 
 
-+ [ Robustness Tests for Automatic Machine Translation Metrics with  Adversarial Attacks](https://arxiv.org//abs/2311.00508)`uncheck`
++ [ Robustness Tests for Automatic Machine Translation Metrics with  Adversarial Attacks](https://arxiv.org//abs/2311.00508)
 
 	Yichen Huang, Timothy Baldwin
 
 
-+ [ Medi-CAT: Contrastive Adversarial Training for Medical Image  Classification](https://arxiv.org//abs/2311.00154)`uncheck`
++ [ Medi-CAT: Contrastive Adversarial Training for Medical Image  Classification](https://arxiv.org//abs/2311.00154)
 
 	Pervaiz Iqbal Khan, Andreas Dengel, Sheraz Ahmed
 
 
-+ [ Uncertainty quantification and out-of-distribution detection using  surjective normalizing flows](https://arxiv.org//abs/2311.00377)`uncheck`
++ [ Uncertainty quantification and out-of-distribution detection using  surjective normalizing flows](https://arxiv.org//abs/2311.00377)
 
 	Simon Dirmeier, Ye Hong, Yanan Xin, Fernando Perez-Cruz
 
 
-+ [ NEO-KD: Knowledge-Distillation-Based Adversarial Training for Robust  Multi-Exit Neural Networks](https://arxiv.org//abs/2311.00428)`uncheck`
++ [ NEO-KD: Knowledge-Distillation-Based Adversarial Training for Robust  Multi-Exit Neural Networks](https://arxiv.org//abs/2311.00428)
 
 	Seokil Ham, Jungwuk Park, Dong-Jun Han, Jaekyun Moon
-
-
-+ [ smart contract, security, vulnerabilities, attacks, defenses](https://arxiv.org//abs/2311.00270)`uncheck`
-
-	Zhiyuan Wei, Jing Sun, Zijian Zhang, Xianhao Zhang, Xiaoxuan Yang, Liehuang Zhu
 
 
 ## 2023-10-31
