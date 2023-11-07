@@ -1,6 +1,59 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+## 2023-11-6
++ [ A Preference Learning Approach to Develop Safe and Personalizable  Autonomous Vehicles](https://arxiv.org//abs/2311.02099)`uncheck`
+
+	Ruya Karagulle, Nikos Arechiga, Andrew Best, Jonathan DeCastro, Necmiye Ozay
+
+
++ [ Making Harmful Behaviors Unlearnable for Large Language Models](https://arxiv.org//abs/2311.02105)`uncheck`
+
+	Xin Zhou, Yi Lu, Ruotian Ma, Tao Gui, Qi Zhang, Xuanjing Huang
+
+
++ [ Uncertainty Quantification of Deep Learning for Spatiotemporal Data:  Challenges and Opportunities](https://arxiv.org//abs/2311.02485)`uncheck`
+
+	Wenchong He, Zhe Jiang
+
+
++ [ On the Intersection of Self-Correction and Trust in Language Models](https://arxiv.org//abs/2311.02801)`uncheck`
+
+	Satyapriya Krishna
+
+
++ [ Preserving Privacy in GANs Against Membership Inference Attack](https://arxiv.org//abs/2311.03172)`uncheck`
+
+	Mohammadhadi Shateri, Francisco Messina, Fabrice Labeau, Pablo Piantanida
+
+
++ [ DeepInception: Hypnotize Large Language Model to Be Jailbreaker](https://arxiv.org//abs/2311.03191)`uncheck`
+
+	Xuan Li, Zhanke Zhou, Jianing Zhu, Jiangchao Yao, Tongliang Liu, Bo Han
+
+
+## 2023-11-5
++ [ Pilot-Based Key Distribution and Encryption for Secure Coherent Passive  Optical Networks](https://arxiv.org//abs/2311.02554)`uncheck`
+
+	Haide Wang, Ji Zhou, Qingxin Lu, Jianrui Zeng, Yongqing Liao, Weiping Liu, Changyuan Yu, Zhaohui Li
+
+
++ [ Neural Networks Are Implicit Decision Trees: The Hierarchical Simplicity  Bias](https://arxiv.org//abs/2311.02622)`uncheck`
+
+	Zhehang Du
+
+
++ [ ELEGANT: Certified Defense on the Fairness of Graph Neural Networks](https://arxiv.org/abs/2311.02757)`uncheck`
+
+	Yushun Dong; Binchi Zhang; Hanghang Tong; Jundong Li
+
+
+## 2023-11-4
++ [ From Trojan Horses to Castle Walls: Unveiling Bilateral Backdoor Effects  in Diffusion Models](https://arxiv.org//abs/2311.02373)`uncheck`
+
+	Zhuoshi Pan, Yuguang Yao, Gaowen Liu, Bingquan Shen, H. Vicky Zhao, Ramana Rao Kompella, Sijia Liu
+
+
 ## 2023-11-3
 + [ Can AI Mitigate Human Perceptual Biases? A Pilot Study](https://arxiv.org//abs/2311.00706)
 
