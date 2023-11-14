@@ -2,63 +2,63 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 ## 2023-11-09
-+ [ Counter-Empirical Attacking based on Adversarial Reinforcement Learning  for Time-Relevant Scoring System](https://arxiv.org//abs/2311.05144)`uncheck`
++ [ Counter-Empirical Attacking based on Adversarial Reinforcement Learning  for Time-Relevant Scoring System](https://arxiv.org//abs/2311.05144)
 
 	Xiangguo Sun, Hong Cheng, Hang Dong, Bo Qiao, Si Qin, Qingwei Lin
 
 
-+ [ SynFacePAD 2023: Competition on Face Presentation Attack Detection Based  on Privacy-aware Synthetic Training Data](https://arxiv.org//abs/2311.05336)`uncheck`
++ [ SynFacePAD 2023: Competition on Face Presentation Attack Detection Based  on Privacy-aware Synthetic Training Data](https://arxiv.org//abs/2311.05336)
 
 	Meiling Fang, Marco Huber, Julian Fierrez, Raghavendra Ramachandra, Naser Damer, Alhasan Alkhaddour, Maksim Kasantcev, Vasiliy Pryadchenko, Ziyuan Yang, Huijie Huangfu, Yingyu Chen, Yi Zhang, Yuchen Pan, Junjun Jiang, Xianming Liu, Xianyun Sun, Caiyong Wang, Xingyu Liu, Zhaohua Chang, Guangzhe Zhao, Juan Tapia, Lazaro Gonzalez-Soler, Carlos Aravena, Daniel Schulz
 
 
-+ [ Counter-Empirical Attacking based on Adversarial Reinforcement Learning  for Time-Relevant Scoring System](https://arxiv.org//abs/2311.05144)`uncheck`
++ [ Counter-Empirical Attacking based on Adversarial Reinforcement Learning  for Time-Relevant Scoring System](https://arxiv.org//abs/2311.05144)
 
 	Xiangguo Sun, Hong Cheng, Hang Dong, Bo Qiao, Si Qin, Qingwei Lin
 
 
-+ [ SCAAT: Improving Neural Network Interpretability via Saliency  Constrained Adaptive Adversarial Training](https://arxiv.org//abs/2311.05143)`uncheck`
++ [ SCAAT: Improving Neural Network Interpretability via Saliency  Constrained Adaptive Adversarial Training](https://arxiv.org//abs/2311.05143)
 
 	Rui Xu, Wenkang Qin, Peixiang Huang, Haowang, Lin Luo
 
 
-+ [ Training Robust Deep Physiological Measurement Models with Synthetic  Video-based Data](https://arxiv.org//abs/2311.05371)`uncheck`
++ [ Training Robust Deep Physiological Measurement Models with Synthetic  Video-based Data](https://arxiv.org//abs/2311.05371)
 
 	Yuxuan Ou, Yuzhe Zhang, Yuntang Wang, Shwetak Patel, Daniel McDuf, Xin Liu
 
-+ [ FigStep: Jailbreaking Large Vision-language Models via Typographic  Visual Prompts](https://arxiv.org//abs/2311.05608)`uncheck`
++ [ FigStep: Jailbreaking Large Vision-language Models via Typographic  Visual Prompts](https://arxiv.org//abs/2311.05608)
 
 	Yichen Gong, Delong Ran, Jinyuan Liu, Conglei Wang, Tianshuo Cong, Anyu Wang, Sisi Duan, Xiaoyun Wang
 
 
 ## 2023-11-8
-+ [ Familiarity-Based Open-Set Recognition Under Adversarial Attacks](https://arxiv.org//abs/2311.05006)`uncheck`
++ [ Familiarity-Based Open-Set Recognition Under Adversarial Attacks](https://arxiv.org//abs/2311.05006)
 
 	Philip Enevoldsen, Christian Gundersen, Nico Lang, Serge Belongie, Christian Igel
 
 
-+ [ Edge-assisted U-Shaped Split Federated Learning with Privacy-preserving  for Internet of Things](https://arxiv.org//abs/2311.04944)`uncheck`
++ [ Edge-assisted U-Shaped Split Federated Learning with Privacy-preserving  for Internet of Things](https://arxiv.org//abs/2311.04944)
 
 	Hengliang Tang, Zihang Zhao, Detian Liu, Yang Cao, Shiqiang Zhang, Siqing You
 
 
-+ [ DEMASQ: Unmasking the ChatGPT Wordsmith](https://arxiv.org//abs/2311.05019)`uncheck`
++ [ DEMASQ: Unmasking the ChatGPT Wordsmith](https://arxiv.org//abs/2311.05019)
 
 	Kavita Kumari, Alessandro Pegoraro, Hossein Fereidooni, Ahmad-Reza Sadeghi
 
 
-+ [ On the steerability of large language models toward data-driven personas](https://arxiv.org//abs/2311.04978)`uncheck`
++ [ On the steerability of large language models toward data-driven personas](https://arxiv.org//abs/2311.04978)
 
 	Junyi Li, Ninareh Mehrabi, Charith Peris, Palash Goyal, Kai-Wei Chang, Aram Galstyan, Richard Zemel, Rahul Gupta
 
 
 ## 2023-11-7
-+ [ FD-MIA: Efficient Attacks on Fairness-enhanced Models](https://arxiv.org/abs/2311.03865)`uncheck`
++ [ FD-MIA: Efficient Attacks on Fairness-enhanced Models](https://arxiv.org/abs/2311.03865)
 
 	Huan Tian, Guangsheng Zhang, Bo Liu, Tianqing Zhu, Ming Ding, Wanlei Zhou
 
 
-+ [ Unveiling Safety Vulnerabilities of Large Language Models](https://arxiv.org/abs/2311.04124)`uncheck`
++ [ Unveiling Safety Vulnerabilities of Large Language Models](https://arxiv.org/abs/2311.04124)
 	
 	George Kour, Marcel Zalmanovici, Naama Zwerdling, Esther Goldbraich, Ora Nova Fandina, Ateret Anaby-Tavor, Orna Raz, Eitan Farchi
 
