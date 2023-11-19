@@ -1,6 +1,226 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+## 2023-11-16
++ [Breaking Boundaries: Balancing Performance and Robustness in Deep Wireless Traffic Forecasting](http://arxiv.org/abs/2311.09790)`uncheck`
+
+        Ilbert Romain, V. Hoang Thai, Zhang Zonghua, Palpanas Themis
+
+
++ [ Hijacking Large Language Models via Adversarial In-Context Learning](http://arxiv.org/abs/2311.09948)`uncheck`
+
+    Yao Qiang, Xiangyu Zhou, Dongxiao Zhu
+
+
++ [ Cognitive Overload: Jailbreaking Large Language Models with Overloaded Logical Thinking](http://arxiv.org/abs/2311.09827)`uncheck`
+
+    Nan Xu, Fei Wang, Ben Zhou, Bang Zheng Li, Chaowei Xiao, Muhao Chen
+
+
++ [ Test-time Backdoor Mitigation for Black-Box Large Language Models with Defensive Demonstrations](http://arxiv.org/abs/2311.09763)`uncheck`
+
+    Wenjie Mo, Jiashu Xu, Qin Liu, Jiongxiao Wang, Jun Yan, Chaowei Xiao, Muhao Chen
+
+
++ [ On the Exploitability of Reinforcement Learning with Human Feedback for Large Language Models](http://arxiv.org/abs/2311.09641)`uncheck`
+
+    Jiongxiao Wang, Junlin Wu, Muhao Chen, Yevgeniy Vorobeychik, Chaowei Xiao
+
+
++ [ Towards more Practical Threat Models in Artificial Intelligence Security](http://arxiv.org/abs/2311.09994)`uncheck`
+
+    Kathrin Grosse, Lukas Bieringer, Tarek Richard Besold, Alexandre Alahi
+
+
+## 2023-11-15
++ [ Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts](http://arxiv.org/abs/2311.09127)`uncheck`
+
+    Yuanwei Wu, Xiang Li, Yixin Liu, Pan Zhou, Lichao Sun
+
+
++ [ Backdoor Activation Attack: Attack Large Language Models using Activation Steering for Safety-Alignment](http://arxiv.org/abs/2311.09433)`uncheck`  
+
+    Haoran Wang, Kai Shu
+
+
++ [ Fast Certification of Vision-Language Models Using Incremental Randomized Smoothing](http://arxiv.org/abs/2311.09024)`uncheck`
+
+    A K Iowa State University Nirala, A New York University Joshi, C New York University Hegde, S Iowa State University Sarkar
+
+
++ [ Adversarially Robust Spiking Neural Networks Through Conversion](http://arxiv.org/abs/2311.09266)`uncheck`
+
+    Ozan Özdenizci, Robert Legenstein
+
+
++ [ Defending Large Language Models Against Jailbreaking Attacks Through Goal Prioritization](http://arxiv.org/abs/2311.09096)`uncheck`
+
+    Zhexin Zhang, Junxiao Yang, Pei Ke, Minlie Huang
+
+
++ [ Privacy Threats in Stable Diffusion Models](http://arxiv.org/abs/2311.09355)`uncheck`
+
+    Thomas Cilloni, Charles Fleming, Charles Walter
+
+
++ [ How Trustworthy are Open-Source LLMs? An Assessment under Malicious Demonstrations Shows their Vulnerabilities](http://arxiv.org/abs/2311.09447)`uncheck`
+
+    Lingbo Mo, Boshi Wang, Muhao Chen, Huan Sun
+
+
++ [ MirrorNet: A TEE-Friendly Framework for Secure On-device DNN Inference](http://arxiv.org/abs/2311.09489)`uncheck`
+
+    Ziyu Liu, Yukui Luo, Shijin Duan, Tong Zhou, Xiaolin Xu
+
+
++ [ Beyond Detection: Unveiling Fairness Vulnerabilities in Abusive Language Models](http://arxiv.org/abs/2311.09428)`uncheck`
+
+    Yueqing Liang, Lu Cheng, Ali Payani, Kai Shu
+
+
++ [ JAB: Joint Adversarial Prompting and Belief Augmentation](http://arxiv.org/abs/2311.09473)`uncheck`
+
+    Ninareh Mehrabi, Palash Goyal, Anil Ramakrishna, Jwala Dhamala, Shalini Ghosh, Richard Zemel, Kai-Wei Chang, Aram Galstyan, Rahul Gupta
+
+
+## 2023-11-14
++ [ Towards Improving Robustness Against Common Corruptions in Object Detectors Using Adversarial Contrastive Learning](http://arxiv.org/abs/2311.07928)`uncheck`
+
+    Shashank Kotyan, Danilo Vasconcellos Vargas
+
+
++ [ Physical Adversarial Examples for Multi-Camera Systems](http://arxiv.org/abs/2311.08539)`uncheck`
+
+    Ana Răduţoiu, Jan-Philipp Schulze, Philip Sperl, Konstantin Böttinger
+
+
++ [ DALA: A Distribution-Aware LoRA-Based Adversarial Attack against Pre-trained Language Models](http://arxiv.org/abs/2311.08598)`uncheck`
+
+    Yibo Wang, Xiangjue Dong, James Caverlee, Philip S. Yu
+
+
++ [ On The Relationship Between Universal Adversarial Attacks And Sparse Representations](http://arxiv.org/abs/2311.08265)`uncheck`
+
+    Dana Weitzner, Raja Giryes
+
+
++ [ A Wolf in Sheep's Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily](http://arxiv.org/abs/2311.08268)`uncheck`   
+
+    Peng Ding, Jun Kuang, Dan Ma, Xuezhi Cao, Yunsen Xian, Jiajun Chen, Shujian Huang
+
+
++ [ Multi-Set Inoculation: Assessing Model Robustness Across Multiple Challenge Sets](http://arxiv.org/abs/2311.08662)`uncheck`
+
+    Vatsal Gupta, Pranshu Pandya, Tushar Kataria, Vivek Gupta, Dan Roth
+
+
++ [ The Perception-Robustness Tradeoff in Deterministic Image Restoration](http://arxiv.org/abs/2311.09253)`uncheck`
+
+    Guy Ohayon, Tomer Michaeli, Michael Elad
+
+
+## 2023-11-13
++ [ Adversarial Purification for Data-Driven Power System Event Classifiers with Diffusion Models](http://arxiv.org/abs/2311.07110)`uncheck`
+
+    Yuanbin Cheng, Koji Yamashita, Jim Follum, Nanpeng Yu
+
+
++ [ Parrot-Trained Adversarial Examples: Pushing the Practicality of Black-Box Audio Attacks against Speaker Recognition Models](http://arxiv.org/abs/2311.07780)`uncheck`
+
+    Rui Duan, Zhe Qu, Leah Ding, Yao Liu, Zhuo Lu
+
+
++ [ An Extensive Study on Adversarial Attack against Pre-trained Models of Code](http://arxiv.org/abs/2311.07553)`uncheck`
+
+    Xiaohu Du, Ming Wen, Zichao Wei, Shangwen Wang, Hai Jin
+
+
++ [ Untargeted Black-box Attacks for Social Recommendations](http://arxiv.org/abs/2311.07127)`uncheck`
+
+    Wenqi Fan, Shijie Wang, Xiao-yong Wei, Xiaowei Mei, Qing Li
+
+
++ [ On the Robustness of Neural Collapse and the Neural Collapse of Robustness](http://arxiv.org/abs/2311.07444)`uncheck`
+
+    Jingtong Su, Ya Shi Zhang, Nikolaos Tsilivis, Julia Kempe
+
+
++ [ Tabdoor: Backdoor Vulnerabilities in Transformer-based Neural Networks for Tabular Data ](http://arxiv.org/abs/2311.07550)`uncheck`
+
+    Bart Pleiter, Behrad Tajalli, Stefanos Koffas, Gorka Abad, Jing Xu, Martha Larson, Stjepan Picek
+
+
+## 2023-11-12
++ [ Learning Globally Optimized Language Structure via Adversarial Training](http://arxiv.org/abs/2311.06771)`uncheck`
+
+	Xuwang Yin
+
+
++ [ Contractive Systems Improve Graph Neural Networks Against Adversarial Attacks](http://arxiv.org/abs/2311.06942)`uncheck`
+
+    Moshe Eliasof, Davide Murari, Ferdia Sherry, Carola-Bibiane Schönlieb
+
+
++ [ Analytical Verification of Deep Neural Network Performance for Time-Synchronized Distribution System State Estimation](http://arxiv.org/abs/2311.06973)`uncheck`
+
+        Behrouz Azimian, Shiva Moshtagh, Anamitra Pal, Shanshan Ma
+
+
++ [ DialMAT: Dialogue-Enabled Transformer with Moment-Based Adversarial Training](http://arxiv.org/abs/2311.06855)`uncheck`
+
+    Kanta Kaneda, Ryosuke Korekata, Yuiga Wada, Shunya Nagashima, Motonari Kambara, Yui Iioka, Haruka Matsuo, Yuto Imai, Takayuki Nishimura, Komei Sugiura
+
+
+## 2023-11-10
++ [ Robust Adversarial Attacks Detection for Deep Learning based Relative  Pose Estimation for Space Rendezvous](https://arxiv.org//abs/2311.05992)`uncheck`
+
+	Ziwei Wang, Nabil Aouf, Jose Pizarro, Christophe Honvault
+
+
++ [ Summon a Demon and Bind it: A Grounded Theory of LLM Red Teaming in the  Wild](https://arxiv.org//abs/2311.06237)`uncheck`
+
+	Nanna Inie, Jonathan Stray, Leon Derczynski
+
+
++ [ Scale-MIA: A Scalable Model Inversion Attack against Secure Federated  Learning via Latent Space Reconstruction](https://arxiv.org//abs/2311.05808)`uncheck`
+
+	Shanghao Shi, Ning Wang, Yang Xiao, Chaoyu Zhang, Yi Shi, Y.Thomas Hou, Wenjing Lou
+
+
++ [ Does Differential Privacy Prevent Backdoor Attacks in Practice?](https://arxiv.org//abs/2311.06227)`uncheck`
+
+	Fereshteh Razmi, Jian Lou, Li Xiong
+
+
++ [Flatness-aware Adversarial Attack](https://arxiv.org/abs/2311.06423)`uncheck`
+
+	Mingyuan Fan, Xiaodan Li, Cen Chen, Yinggui Wang
+
+
++ [Robust Adversarial Attacks Detection for Deep Learning based Relative Pose Estimation for Space Rendezvous.](https://arxiv.org/abs/2311.05992)`uncheck`
+
+	Ziwei Wang, Nabil Aouf, Jose Pizarro, Christophe Honvault
+
+
++ [Fight Fire with Fire: Combating Adversarial Patch Attacks using Pattern-randomized Defensive Patches](https://arxiv.org/abs/2311.06122)`uncheck`
+	
+	Jianan Feng, Jiachun Li, Changqing Miao, Jianjun Huang, Wei You, Wenchang Shi, Bin Liang
+
+
++ [Resilient and constrained consensus against adversarial attacks: A distributed MPC framework](https://arxiv.org/abs/2311.05935)`uncheck`
+
+	Henglai Wei, Kunwu Zhang, Hui Zhang, Yang Shi
+
+
++ [CALLOC: Curriculum Adversarial Learning for Secure and Robust Indoor Localization](https://arxiv.org/abs/2311.06361)`uncheck`
+
+	Danish Gufran, Sudeep Pasricha
+
++ [Practical Membership Inference Attacks against Fine-tuned Large Language Models via Self-prompt Calibration](https://arxiv.org/abs/2311.06062)`uncheck`
+
+	Wenjie Fu, Huandong Wang, Chen Gao, Guanghua Liu, Yong Li, Tao Jiang
+
+
 ## 2023-11-09
 + [ Counter-Empirical Attacking based on Adversarial Reinforcement Learning  for Time-Relevant Scoring System](https://arxiv.org//abs/2311.05144)
 
