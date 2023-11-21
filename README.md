@@ -2,6 +2,109 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+## 2023-11-20
++ [ Safety-aware Causal Representation for Trustworthy Reinforcement  Learning in Autonomous Driving ](https://arxiv.org//abs/2311.10747)`uncheck`
+
+	Haohong Lin, Wenhao Ding, Zuxin Liu, Yaru Niu, Jiacheng Zhu, Yuming Niu, Ding Zhao
+
+
++ [ Assessing Prompt Injection Risks in 200+ Custom GPTs ](https://arxiv.org//abs/2311.11538)`uncheck`
+
+	Jiahao Yu, Yuhang Wu, Dong Shu, Mingyu Jin, Xinyu Xin
+
++ [ Beyond Boundaries: A Comprehensive Survey of Transferable Attacks on AI  Systems ](https://arxiv.org//abs/2311.11796)`uncheck`
+
+	Guangjing Wang, Ce Zhou, Yuanda Wang, Bocheng Chen, Hanqing Guo, Qiben Yan
+
+
++ [ Generating Valid and Natural Adversarial Examples with Large Language Models ](http://arxiv.org/abs/2311.11861)`uncheck`
+
+	Zimu Wang, Wei Wang, Qi Chen, Qiufeng Wang, Anh Nguyen
+
+
++ [ AdvGen: Physical Adversarial Attack on Face Presentation Attack Detection Systems ](http://arxiv.org/abs/2311.11753)`uncheck`
+
+	Sai Amrit Patnaik, Shivali Chansoriya, Anil K. Jain, Anoop M. Namboodiri
+
+
++ [ Beyond Boundaries: A Comprehensive Survey of Transferable Attacks on AI Systems ](http://arxiv.org/abs/2311.11796)`uncheck`
+
+	Guangjing Wang, Ce Zhou, Yuanda Wang, Bocheng Chen, Hanqing Guo, Qiben Yan
+
+
++ [ Understanding Variation in Subpopulation Susceptibility to Poisoning Attacks ](http://arxiv.org/abs/2311.11544)`uncheck`
+
+	Evan Rose, Fnu Suya, David Evans
+
+
++ [ Training robust and generalizable quantum models ](http://arxiv.org/abs/2311.11871)`uncheck`
+
+	Julian Berberich, Daniel Fink, Daniel Pranjić, Christian Tutschku, Christian Holm       
+
+
++ [ BrainWash: A Poisoning Attack to Forget in Continual Learning ](http://arxiv.org/abs/2311.11995)`uncheck`
+
+	Ali Abbasi, Parsa Nooralinejad, Hamed Pirsiavash, Soheil Kolouri
+
+
+## 2023-11-19
++ [ Robust Network Slicing: Multi-Agent Policies, Adversarial Attacks, and  Defensive Strategies ](https://arxiv.org//abs/2311.11206)`uncheck`
+
+	Feng Wang, M. Cenk Gursoy, Senem Velipasalar
+
+
++ [ Adversarial Prompt Tuning for Vision-Language Models ](http://arxiv.org/abs/2311.11261)`uncheck`
+
+	Jiaming Zhang, Xingjun Ma, Xin Wang, Lingyu Qiu, Jiaqi Wang, Yu-Gang Jiang, Jitao Sang  
+
+
++ [ TextGuard: Provable Defense against Backdoor Attacks on Text  Classification ](https://arxiv.org//abs/2311.11225)`uncheck`
+
+	Hengzhi Pei, Jinyuan Jia, Wenbo Guo, Bo Li, Dawn Song
+
+
+## 2023-11-18
++ [ Improving Adversarial Transferability by Stable Diffusion ](http://arxiv.org/abs/2311.11017)`uncheck`
+
+ 	Jiayang Liu, Siyu Zhu, Siyuan Liang, Jie Zhang, Han Fang, Weiming Zhang, Ee-Chien Chang 
+
+
++ [ Attention-Based Real-Time Defenses for Physical Adversarial Attacks in Vision Applications ](http://arxiv.org/abs/2311.11191)`uncheck`
+
+	Giulio Rossolini, Alessandro Biondi, Giorgio Buttazzo
+
+
++ [ PACOL: Poisoning Attacks Against Continual Learners ](https://arxiv.org//abs/2311.10919)`uncheck`
+
+	Huayu Li, Gregory Ditzler
+
+
++ [ Robust Network Slicing: Multi-Agent Policies, Adversarial Attacks, and Defensive Strategies ](http://arxiv.org/abs/2311.11206)`uncheck`
+
+ 	Feng Wang, M. Cenk Gursoy, Senem Velipasalar
+
+
+## 2023-11-17
++ [ Robustness Enhancement in Neural Networks with Alpha-Stable Training  Noise ](https://arxiv.org//abs/2311.10803)`uncheck`
+
+	Xueqiong Yuan, Jipeng Li, Ercan Engin Kuruoğlu
+
+	
++ [ Breaking Temporal Consistency: Generating Video Universal Adversarial Perturbations Using Image Models ](http://arxiv.org/abs/2311.10366)`uncheck`
+
+ 	Hee-Seon Kim, Minji Son, Minbeom Kim, Myung-Joon Kwon, Changick Kim
+
+
++ [ PACOL: Poisoning Attacks Against Continual Learners ](http://arxiv.org/abs/2311.10919)`uncheck`
+
+	Huayu Li, Gregory Ditzler
+
+
++ [ Two-Factor Authentication Approach Based on Behavior Patterns for Defeating Puppet Attacks ](http://arxiv.org/abs/2311.10389)`uncheck`
+
+	Wenhao Wang, Guyue Li, Zhiming Chu, Haobo Li, Daniele Faccio
+
+
 ## 2023-11-16
 + [Breaking Boundaries: Balancing Performance and Robustness in Deep Wireless Traffic Forecasting](http://arxiv.org/abs/2311.09790)
 
