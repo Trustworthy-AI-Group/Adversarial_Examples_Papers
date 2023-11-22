@@ -2,6 +2,57 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+## 2023-11-21
++ [ Boost Adversarial Transferability by Uniform Scale and Mix Mask Method](https://arxiv.org//abs/2311.12051)`uncheck`
+
+	Tao Wang, Zijian Ying, Qianmu Li, zhichao Lian
+
+
++ [ BadCLIP: Dual-Embedding Guided Backdoor Attack on Multimodal Contrastive  Learning](https://arxiv.org//abs/2311.12075)`uncheck`
+
+	Siyuan Liang, Mingli Zhu, Aishan Liu, Baoyuan Wu, Xiaochun Cao, Ee-Chien Chang
+
+
++ [ Investigating Weight-Perturbed Deep Neural Networks With Application in  Iris Presentation Attack Detection](https://arxiv.org//abs/2311.12764)`uncheck`
+
+	Renu Sharma, Redwan Sony, Arun Ross
+
+
++ [ Iris Presentation Attack: Assessing the Impact of Combining Vanadium  Dioxide Films with Artificial Eyes](https://arxiv.org//abs/2311.12773)`uncheck`
+
+	Darshika Jauhari, Renu Sharma, Cunjian Chen, Nelson Sepulveda, Arun Ross
+
+
++ [ ODDR: Outlier Detection & Dimension Reduction Based Defense Against  Adversarial Patches](https://arxiv.org//abs/2311.12084)`uncheck`
+
+	Nandish Chattopadhyay, Amira Guesmi, Muhammad Abdullah Hanif, Bassem Ouni, Muhammad Shafique
+
+
++ [ Attacking Motion Planners Using Adversarial Perception Errors](https://arxiv.org//abs/2311.12722)`uncheck`
+
+	Jonathan Sadeghi, Nicholas A. Lord, John Redford, Romain Mueller
+
+
++ [ Masked Autoencoders Are Robust Neural Architecture Search Learners](https://arxiv.org//abs/2311.12086)`uncheck`
+
+	Yiming Hu, Xiangxiang Chu, Bo Zhang
+
+
++ [ Adversarial Reweighting Guided by Wasserstein Distance for Bias  Mitigation](https://arxiv.org//abs/2311.12684)`uncheck`
+
+	Xuan Zhao, Simone Fabbrizzi, Paula Reyero Lobo, Siamak Ghodsi, Klaus Broelemann, Steffen Staab, Gjergji Kasneci
+
+
++ [ Attacks of fairness in Federated Learning](https://arxiv.org//abs/2311.12715)`uncheck`
+
+	Joseph Rance, Filip Svoboda
+
+
++ [ DefensiveDR: Defending against Adversarial Patches using Dimensionality  Reduction](https://arxiv.org//abs/2311.12211)`uncheck`
+
+	Nandish Chattopadhyay, Amira Guesmi, Muhammad Abdullah Hanif, Bassem Ouni, Muhammad Shafique
+
+
 ## 2023-11-20
 + [ Safety-aware Causal Representation for Trustworthy Reinforcement  Learning in Autonomous Driving ](https://arxiv.org//abs/2311.10747)
 
@@ -109,7 +160,7 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 ## 2023-11-16
 + [Breaking Boundaries: Balancing Performance and Robustness in Deep Wireless Traffic Forecasting](http://arxiv.org/abs/2311.09790)
 
-        Ilbert Romain, V. Hoang Thai, Zhang Zonghua, Palpanas Themis
+    Ilbert Romain, V. Hoang Thai, Zhang Zonghua, Palpanas Themis
 
 
 + [ Hijacking Large Language Models via Adversarial In-Context Learning](http://arxiv.org/abs/2311.09948)
