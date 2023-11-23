@@ -3,52 +3,52 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 ## 2023-11-21
-+ [ Boost Adversarial Transferability by Uniform Scale and Mix Mask Method](https://arxiv.org//abs/2311.12051)`uncheck`
++ [ Boost Adversarial Transferability by Uniform Scale and Mix Mask Method](https://arxiv.org//abs/2311.12051)
 
 	Tao Wang, Zijian Ying, Qianmu Li, zhichao Lian
 
 
-+ [ BadCLIP: Dual-Embedding Guided Backdoor Attack on Multimodal Contrastive  Learning](https://arxiv.org//abs/2311.12075)`uncheck`
++ [ BadCLIP: Dual-Embedding Guided Backdoor Attack on Multimodal Contrastive  Learning](https://arxiv.org//abs/2311.12075)
 
 	Siyuan Liang, Mingli Zhu, Aishan Liu, Baoyuan Wu, Xiaochun Cao, Ee-Chien Chang
 
 
-+ [ Investigating Weight-Perturbed Deep Neural Networks With Application in  Iris Presentation Attack Detection](https://arxiv.org//abs/2311.12764)`uncheck`
++ [ Investigating Weight-Perturbed Deep Neural Networks With Application in  Iris Presentation Attack Detection](https://arxiv.org//abs/2311.12764)
 
 	Renu Sharma, Redwan Sony, Arun Ross
 
 
-+ [ Iris Presentation Attack: Assessing the Impact of Combining Vanadium  Dioxide Films with Artificial Eyes](https://arxiv.org//abs/2311.12773)`uncheck`
++ [ Iris Presentation Attack: Assessing the Impact of Combining Vanadium  Dioxide Films with Artificial Eyes](https://arxiv.org//abs/2311.12773)
 
 	Darshika Jauhari, Renu Sharma, Cunjian Chen, Nelson Sepulveda, Arun Ross
 
 
-+ [ ODDR: Outlier Detection & Dimension Reduction Based Defense Against  Adversarial Patches](https://arxiv.org//abs/2311.12084)`uncheck`
++ [ ODDR: Outlier Detection & Dimension Reduction Based Defense Against  Adversarial Patches](https://arxiv.org//abs/2311.12084)
 
 	Nandish Chattopadhyay, Amira Guesmi, Muhammad Abdullah Hanif, Bassem Ouni, Muhammad Shafique
 
 
-+ [ Attacking Motion Planners Using Adversarial Perception Errors](https://arxiv.org//abs/2311.12722)`uncheck`
++ [ Attacking Motion Planners Using Adversarial Perception Errors](https://arxiv.org//abs/2311.12722)
 
 	Jonathan Sadeghi, Nicholas A. Lord, John Redford, Romain Mueller
 
 
-+ [ Masked Autoencoders Are Robust Neural Architecture Search Learners](https://arxiv.org//abs/2311.12086)`uncheck`
++ [ Masked Autoencoders Are Robust Neural Architecture Search Learners](https://arxiv.org//abs/2311.12086)
 
 	Yiming Hu, Xiangxiang Chu, Bo Zhang
 
 
-+ [ Adversarial Reweighting Guided by Wasserstein Distance for Bias  Mitigation](https://arxiv.org//abs/2311.12684)`uncheck`
++ [ Adversarial Reweighting Guided by Wasserstein Distance for Bias  Mitigation](https://arxiv.org//abs/2311.12684)
 
 	Xuan Zhao, Simone Fabbrizzi, Paula Reyero Lobo, Siamak Ghodsi, Klaus Broelemann, Steffen Staab, Gjergji Kasneci
 
 
-+ [ Attacks of fairness in Federated Learning](https://arxiv.org//abs/2311.12715)`uncheck`
++ [ Attacks of fairness in Federated Learning](https://arxiv.org//abs/2311.12715)
 
 	Joseph Rance, Filip Svoboda
 
 
-+ [ DefensiveDR: Defending against Adversarial Patches using Dimensionality  Reduction](https://arxiv.org//abs/2311.12211)`uncheck`
++ [ DefensiveDR: Defending against Adversarial Patches using Dimensionality  Reduction](https://arxiv.org//abs/2311.12211)
 
 	Nandish Chattopadhyay, Amira Guesmi, Muhammad Abdullah Hanif, Bassem Ouni, Muhammad Shafique
 
