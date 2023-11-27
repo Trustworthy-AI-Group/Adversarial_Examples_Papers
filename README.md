@@ -2,6 +2,144 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+## 2023-11-24
++ [ Universal Jailbreak Backdoors from Poisoned Human Feedback](https://arxiv.org//abs/2311.14455)`uncheck`
+
+	Javier Rando, Florian Tramèr
+
+
++ [ How to ensure a safe control strategy? Towards a SRL for urban transit  autonomous operation](https://arxiv.org//abs/2311.14457)`uncheck`
+
+	Zicong Zhao
+
+
++ [ Potential Societal Biases of ChatGPT in Higher Education: A Scoping  Review](https://arxiv.org//abs/2311.14381)`uncheck`
+
+	Ming Li, Ariunaa Enkhtur, Beverley Anne Yamamoto, Fei Cheng
+
+
++ [ AI-based Attack Graph Generation](https://arxiv.org//abs/2311.14342)`uncheck`
+
+	Sangbeom Park, Jaesung Lee, Jeongdo Yoo, Min Geun Song, Hyosun Lee, Jaewoong Choi, Chaeyeon Sagong, Huy Kang Kim
+
+
++ [ Segment (Almost) Nothing: Prompt-Agnostic Adversarial Attacks on Segmentation Models](http://arxiv.org/abs/2311.14450)`uncheck`
+
+	Francesco Croce, Matthias Hein
+
+
++ [ Universal Jailbreak Backdoors from Poisoned Human Feedback](http://arxiv.org/abs/2311.14455)`uncheck`
+
+	Javier Rando, Florian Tramèr
+
+
+## 2023-11-23
++ [ Security and Privacy Challenges in Deep Learning Models](https://arxiv.org//abs/2311.13744)`uncheck`
+
+	Gopichandh Golla
+
+
++ [ Exploring Methods for Cross-lingual Text Style Transfer: The Case of  Text Detoxification](https://arxiv.org//abs/2311.13937)`uncheck`
+
+	Daryna Dementieva, Daniil Moskovskiy, David Dale, Alexander Panchenko
+
+
++ [ Efficient Trigger Word Insertion](https://arxiv.org//abs/2311.13957)`uncheck`
+
+	Yueqi Zeng, Ziqiang Li, Pengfei Xia, Lei Liu, Bin Li
+
+
++ [ ACT: Adversarial Consistency Models](https://arxiv.org//abs/2311.14097)`uncheck`
+
+	Fei Kong, Jinhao Duan, Lichao Sun, Hao Cheng, Renjing Xu, Hengtao Shen, Xiaofeng Zhu, Xiaoshuang Shi, Kaidi Xu
+
+
++ [ Robust and Interpretable COVID-19 Diagnosis on Chest X-ray Images using  Adversarial Training](https://arxiv.org//abs/2311.14227)`uncheck`
+
+	Karina Yang, Alexis Bennett, Dominique Duncan
+
+
++ [ When Side-Channel Attacks Break the Black-Box Property of Embedded Artificial Intelligence](http://arxiv.org/abs/2311.14005)`uncheck`
+
+	Benoit Coqueret, Mathieu Carbone, Olivier Sentieys, Gabriel Zaid
+
+
++ [ Adversarial defense based on distribution transfer](http://arxiv.org/abs/2311.13841)`uncheck`
+
+	Jiahao Chen, Diqun Yan, Li Dong
+
+
++ [ Robust and Interpretable COVID-19 Diagnosis on Chest X-ray Images using Adversarial Training](http://arxiv.org/abs/2311.14227)`uncheck`
+
+	Karina Yang, Alexis Bennett, Dominique Duncan
+
+
+## 2023-11-22
++ [ Prompt Risk Control: A Rigorous Framework for Responsible Deployment of  Large Language Models](https://arxiv.org//abs/2311.13628)`uncheck`
+
+	Thomas P. Zollo, Todd Morrill, Zhun Deng, Jake C. Snell, Toniann Pitassi, Richard Zemel
+
+
++ [ A Theoretical Insight into Attack and Defense of Gradient Leakage in  Transformer](https://arxiv.org//abs/2311.13624)`uncheck`
+
+	Chenyang Li, Zhao Song, Weixin Wang, Chiwun Yang
+
+
++ [ OASIS: Offsetting Active Reconstruction Attacks in Federated Learning](https://arxiv.org//abs/2311.13739)`uncheck`
+
+	Tre' R. Jeter, Truc Nguyen, Raed Alharbi, My T. Thai
+
+
++ [ RAEDiff: Denoising Diffusion Probabilistic Models Based Reversible  Adversarial Examples Self-Generation and Self-Recovery](https://arxiv.org//abs/2311.12858)`uncheck`
+
+	Fan Xing, Xiaoyi Zhou, Xuefeng Fan, Zhuo Tian, Yan Zhao
+
+
++ [ A Survey of Adversarial CAPTCHAs on its History, Classification and  Generation](https://arxiv.org//abs/2311.13233)`uncheck`
+
+	Zisheng Xu, Qiao Yan, F. Richard Yu, Victor C. M. Leung
+
+
++ [ Panda or not Panda? Understanding Adversarial Attacks with Interactive Visualization](http://arxiv.org/abs/2311.13656)`uncheck`
+
+	Yuzhe You, Jarvis Tse, Jian Zhao
+
+
++ [ Security and Privacy Challenges in Deep Learning Models](http://arxiv.org/abs/2311.13744)`uncheck`
+
+	Gopichandh Golla
+
+
++ [ A Somewhat Robust Image Watermark against Diffusion-based Editing Models](http://arxiv.org/abs/2311.13713)`uncheck`
+
+	Mingtian Tan, Tianhao Wang, Somesh Jha
+
+
++ [ Adversarial sample generation and training using geometric masks for  accurate and resilient license plate character recognition](https://arxiv.org//abs/2311.12857)`uncheck`
+
+	Bishal Shrestha, Griwan Khakurel, Kritika Simkhada, Badri Adhikari
+
+
++ [ Attention Deficit is Ordered! Fooling Deformable Vision Transformers  with Collaborative Adversarial Patches](https://arxiv.org//abs/2311.12914)`uncheck`
+
+	Quazi Mishkatul Alam, Bilel Tarchoun, Ihsen Alouani, Nael Abu-Ghazaleh
+
+
++ [ SD-NAE: Generating Natural Adversarial Examples with Stable Diffusion](https://arxiv.org//abs/2311.12981)`uncheck`
+
+	Yueqian Lin, Jingyang Zhang, Yiran Chen, Hai Li
+
+
++ [ Hard Label Black Box Node Injection Attack on Graph Neural Networks](https://arxiv.org//abs/2311.13244)`uncheck`
+
+	Yu Zhou, Zihao Dong, Guofeng Zhang, Jingchen Tang
+
+
++ [ Transfer Attacks and Defenses for Large Language Models on Coding Tasks](https://arxiv.org//abs/2311.13445)`uncheck`
+
+	Chi Zhang, Zifan Wang, Ravi Mangal, Matt Fredrikson, Limin Jia, Corina Pasareanu
+
+
 ## 2023-11-21
 + [ Boost Adversarial Transferability by Uniform Scale and Mix Mask Method](https://arxiv.org//abs/2311.12051)
 
