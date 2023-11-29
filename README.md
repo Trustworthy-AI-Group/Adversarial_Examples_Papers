@@ -3,104 +3,104 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 ## 2023-11-27
-+ [ Microarchitectural Security of AWS Firecracker VMM for Serverless Cloud Platforms](http://arxiv.org/abs/2311.15999)`uncheck`
++ [ Microarchitectural Security of AWS Firecracker VMM for Serverless Cloud Platforms](http://arxiv.org/abs/2311.15999)
 
 	Zane Worcester Polytechnic Institute Weissman, Thore University of Lübeck Tiemann, Thomas University of Lübeck Eisenbarth, Berk Worcester Polytechnic Institute Sunar
 
 
-+ [ Scale-Dropout: Estimating Uncertainty in Deep Neural Networks Using  Stochastic Scale](https://arxiv.org//abs/2311.15816)`uncheck`
++ [ Scale-Dropout: Estimating Uncertainty in Deep Neural Networks Using  Stochastic Scale](https://arxiv.org//abs/2311.15816)
 
 	Soyed Tuhin Ahmed, Kamal Danouchi, Michael Hefenbrock, Guillaume Prenat, Lorena Anghel, Mehdi B. Tahoori
 
 
-+ [ Instruct2Attack: Language-Guided Semantic Adversarial Attacks](http://arxiv.org/abs/2311.15551)`uncheck`
++ [ Instruct2Attack: Language-Guided Semantic Adversarial Attacks](http://arxiv.org/abs/2311.15551)
 
 	Jiang Liu, Chen Wei, Yuxiang Guo, Heng Yu, Alan Yuille, Soheil Feizi, Chun Pong Lau, Rama Chellappa
 
 
-+ [ A Survey on Vulnerability of Federated Learning: A Learning Algorithm  Perspective](https://arxiv.org//abs/2311.16065)`uncheck`
++ [ A Survey on Vulnerability of Federated Learning: A Learning Algorithm  Perspective](https://arxiv.org//abs/2311.16065)
 
 	Xianghua Xie, Chen Hu, Hanchi Ren, Jingjing Deng
 
 
-+ [ Distributed Attacks over Federated Reinforcement Learning-enabled Cell Sleep Control](http://arxiv.org/abs/2311.15894)`uncheck`
++ [ Distributed Attacks over Federated Reinforcement Learning-enabled Cell Sleep Control](http://arxiv.org/abs/2311.15894)
 
 	Han Zhang, Hao Zhou, Medhat Elsayed, Majid Bavand, Raimundas Gaigalas, Yigit Ozcan, Melike Erol-Kantarci
 
 
-+ [ How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs](http://arxiv.org/abs/2311.16101)`uncheck`
++ [ How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs](http://arxiv.org/abs/2311.16101)
 
 	Haoqin Tu, Chenhang Cui, Zijun Wang, Yiyang Zhou, Bingchen Zhao, Junlin Han, Wangchunshu Zhou, Huaxiu Yao, Cihang Xie
 
 
-+ [ Trainwreck: A damaging adversarial attack on image classifiers](https://arxiv.org//abs/2311.14772)`uncheck`
++ [ Trainwreck: A damaging adversarial attack on image classifiers](https://arxiv.org//abs/2311.14772)
 
 	Jan Zahálka
 
 
-+ [ Adversaral Doodles: Interpretable and Human-drawable Attacks Provide  Describable Insights](https://arxiv.org//abs/2311.15994)`uncheck`
++ [ Adversaral Doodles: Interpretable and Human-drawable Attacks Provide  Describable Insights](https://arxiv.org//abs/2311.15994)
 
 	Ryoya Nara, Yusuke Matsui
 
 
-+ [ Automated discovery of trade-off between utility, privacy and fairness  in machine learning models](https://arxiv.org//abs/2311.15691)`uncheck`
++ [ Automated discovery of trade-off between utility, privacy and fairness  in machine learning models](https://arxiv.org//abs/2311.15691)
 
 	Bogdan Ficiu, Neil D. Lawrence, Andrei Paleyes
 
 
-+ [ Attend Who is Weak: Enhancing Graph Condensation via Cross-Free  Adversarial Training](https://arxiv.org//abs/2311.15772)`uncheck`
++ [ Attend Who is Weak: Enhancing Graph Condensation via Cross-Free  Adversarial Training](https://arxiv.org//abs/2311.15772)
 
 	Xinglin Li, Kun Wang, Hanhui Deng, Yuxuan Liang, Di Wu
 
 
-+ [ Rethinking Privacy in Machine Learning Pipelines from an Information  Flow Control Perspective](https://arxiv.org//abs/2311.15792)`uncheck`
++ [ Rethinking Privacy in Machine Learning Pipelines from an Information  Flow Control Perspective](https://arxiv.org//abs/2311.15792)
 
 	Lukas Wutschitz, Boris Köpf, Andrew Paverd, Saravan Rajmohan, Ahmed Salem, Shruti Tople, Santiago Zanella-Béguelin, Menglin Xia, Victor Rühle
 
 
 ## 2023-11-26
-+ [ Confidence Is All You Need for MI Attacks](https://arxiv.org//abs/2311.15373)`uncheck`
++ [ Confidence Is All You Need for MI Attacks](https://arxiv.org//abs/2311.15373)
 
 	Abhishek Sinha, Himanshi Tibrewal, Mansi Gupta, Nikhar Waghela, Shivank Garg
 
 
-+ [ Mixing Classifiers to Alleviate the Accuracy-Robustness Trade-Off](https://arxiv.org//abs/2311.15165)`uncheck`
++ [ Mixing Classifiers to Alleviate the Accuracy-Robustness Trade-Off](https://arxiv.org//abs/2311.15165)
 
 	Yatong Bai, Brendon G. Anderson, Somayeh Sojoudi
 
 
-+ [ Adversarial Purification of Information Masking](http://arxiv.org/abs/2311.15339)`uncheck`
++ [ Adversarial Purification of Information Masking](http://arxiv.org/abs/2311.15339)
 
 	Sitong Liu, Zhichao Lian, Shuangquan Zhang, Liang Xiao
 
 
-+ [ Having Second Thoughts? Let's hear it](http://arxiv.org/abs/2311.15356)`uncheck`
++ [ Having Second Thoughts? Let's hear it](http://arxiv.org/abs/2311.15356)
 
 	Jung H. Lee, Sujith Vijayan
 
 
 ## 2023-11-25
-+ [ Effective Backdoor Mitigation Depends on the Pre-training Objective](https://arxiv.org//abs/2311.14948)`uncheck`
++ [ Effective Backdoor Mitigation Depends on the Pre-training Objective](https://arxiv.org//abs/2311.14948)
 
 	Sahil Verma, Gantavya Bhatt, Avi Schwarzschild, Soumye Singhal, Arnav Mohanty Das, Chirag Shah, John P Dickerson, Jeff Bilmes
 
 
-+ [ Robust Graph Neural Networks via Unbiased Aggregation](https://arxiv.org//abs/2311.14934)`uncheck`
++ [ Robust Graph Neural Networks via Unbiased Aggregation](https://arxiv.org//abs/2311.14934)
 
 	Ruiqi Feng, Zhichao Hou, Tyler Derr, Xiaorui Liu
 
 
-+ [ Mixing Classifiers to Alleviate the Accuracy-Robustness Trade-Off](http://arxiv.org/abs/2311.15165)`uncheck`
++ [ Mixing Classifiers to Alleviate the Accuracy-Robustness Trade-Off](http://arxiv.org/abs/2311.15165)
 
 	Yatong Bai, Brendon G. Anderson, Somayeh Sojoudi
 
 
-+ [ Robust Graph Neural Networks via Unbiased Aggregation](http://arxiv.org/abs/2311.14934)`uncheck`
++ [ Robust Graph Neural Networks via Unbiased Aggregation](http://arxiv.org/abs/2311.14934)
 
 	Ruiqi Feng, Zhichao Hou, Tyler Derr, Xiaorui Liu
 
 
-+ [ Effective Backdoor Mitigation Depends on the Pre-training Objective](http://arxiv.org/abs/2311.14948)`uncheck`
++ [ Effective Backdoor Mitigation Depends on the Pre-training Objective](http://arxiv.org/abs/2311.14948)
 
 	Sahil Verma, Gantavya Bhatt, Avi Schwarzschild, Soumye Singhal, Arnav Mohanty Das, Chirag Shah, John P Dickerson, Jeff Bilmes
 
