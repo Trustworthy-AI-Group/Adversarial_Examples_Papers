@@ -2,6 +2,153 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+## 2023-11-30
++ [ Improving Faithfulness for Vision Transformers](https://arxiv.org//abs/2311.17983)`uncheck`
+
+	Lijie Hu, Yixin Liu, Ninghao Liu, Mengdi Huai, Lichao Sun, Di Wang
+
+
++ [ TrustMark: Universal Watermarking for Arbitrary Resolution Images](https://arxiv.org//abs/2311.18297)`uncheck`
+
+	Tu Bui, Shruti Agarwal, John Collomosse
+
+
++ [ Unnatural Error Correction: GPT-4 Can Almost Perfectly Handle Unnatural  Scrambled Text](https://arxiv.org//abs/2311.18805)`uncheck`
+
+	Qi Cao, Takeshi Kojima, Yutaka Matsuo, Yusuke Iwasawa
+
+
++ [ ROBBIE: Robust Bias Evaluation of Large Generative Language Models](https://arxiv.org//abs/2311.18140)`uncheck`
+
+	David Esiobu, Xiaoqing Tan, Saghar Hosseini, Megan Ung, Yuchen Zhang, Jude Fernandes, Jane Dwivedi-Yu, Eleonora Presani, Adina Williams, Eric Michael Smith
+
+
++ [ What Do Llamas Really Think? Revealing Preference Biases in Language  Model Representations](https://arxiv.org//abs/2311.18812)`uncheck`
+
+	Raphael Tang, Xinyu Zhang, Jimmy Lin, Ferhan Ture
+
+
++ [ Improving Adversarial Transferability via Model Alignment](https://arxiv.org//abs/2311.18495)`uncheck`
+
+	Avery Ma, Amir-massoud Farahmand, Yangchen Pan, Philip Torr, Jindong Gu
+
+
++ [ Poisoning Attacks Against Contrastive Recommender Systems](https://arxiv.org//abs/2311.18244)`uncheck`
+
+	Zongwei Wang, Junliang Yu, Min Gao, Hongzhi Yin, Bin Cui, Shazia Sadiq
+
+
+## 2023-11-29
++ [ Improving the Robustness of Transformer-based Large Language Models with Dynamic Attention](http://arxiv.org/abs/2311.17400)`uncheck`
+
+ Lujia Shen, Yuwen Pu, Shouling Ji, Changjiang Li, Xuhong Zhang, Chunpeng Ge, Ting Wang  
+
+
++ [ Group-wise Sparse and Explainable Adversarial Attacks](http://arxiv.org/abs/2311.17434)`uncheck`
+
+ Shpresim Sadiku, Moritz Wagner, Sebastian Pokutta
+
+
++ [ Quantum Neural Networks under Depolarization Noise: Exploring White-Box Attacks and Defenses](http://arxiv.org/abs/2311.17458)`uncheck`
+
+ David Winderl, Nicola Franco, Jeanette Miriam Lorenz
+
+
++ [ On the Adversarial Robustness of Graph Contrastive Learning Methods](http://arxiv.org/abs/2311.17853)`uncheck`
+
+ Filippo Guerranti, Zinuo Yi, Anna Starovoit, Rafiq Kamel, Simon Geisler, Stephan Günnemann
+
+
++ [ Adversarial Robust Memory-Based Continual Learner](http://arxiv.org/abs/2311.17608)`uncheck`
+
+ Xiaoyue Mi, Fan Tang, Zonghan Yang, Danding Wang, Juan Cao, Peng Li, Yang Liu
+
+
++ [ TARGET: Template-Transferable Backdoor Attack Against Prompt-based NLP Models via GPT4](http://arxiv.org/abs/2311.17429)`uncheck`
+
+ Zihao Tan, Qingliang Chen, Yongjian Huang, Chen Liang
+
+
++ [ Topology-Preserving Adversarial Training](http://arxiv.org/abs/2311.17607)`uncheck`  
+
+ Xiaoyue Mi, Fan Tang, Yepeng Weng, Danding Wang, Juan Cao, Sheng Tang, Peng Li, Yang Liu
+
++ [ Query-Relevant Images Jailbreak Large Multi-Modal Models](http://arxiv.org/abs/2311.17600)`uncheck`
+
+ Xin Liu, Yichen Zhu, Yunshi Lan, Chao Yang, Yu Qiao
+
+
++ [ Analyzing and Explaining Image Classifiers via Diffusion Guidance](http://arxiv.org/abs/2311.17833)`uncheck`
+
+ Maximilian Augustin, Yannic Neuhaus, Matthias Hein
+
+
++ [ SenTest: Evaluating Robustness of Sentence Encoders](http://arxiv.org/abs/2311.17722)`uncheck`
+
+ Tanmay Chavan, Shantanu Patankar, Aditya Kane, Omkar Gokhale, Geetanjali Kale, Raviraj Joshi
+
+
++ [ CLIPC8: Face liveness detection algorithm based on image-text pairs and contrastive learning](http://arxiv.org/abs/2311.17583)`uncheck`
+
+ Xu Liu, Shu Zhou, Yurong Song, Wenzhe Luo, Xin Zhang
+
+
+## 2023-11-28
++ [ Unveiling the Implicit Toxicity in Large Language Models](http://arxiv.org/abs/2311.17391)`uncheck`
+
+ Jiaxin Wen, Pei Ke, Hao Sun, Zhexin Zhang, Chengfei Li, Jinfeng Bai, Minlie Huang       
+
+
++ [ Vulnerability Analysis of Transformer-based Optical Character Recognition to Adversarial Attacks](http://arxiv.org/abs/2311.17128)`uncheck`
+
+ Lucas Beerens, Desmond J. Higham
+
+
++ [ NeRFTAP: Enhancing Transferability of Adversarial Patches on Face Recognition using Neural Radiance Fields](http://arxiv.org/abs/2311.17332)`uncheck`
+
+ Xiaoliang Liu, Furao Shen, Feng Han, Jian Zhao, Changhai Nie
+
+
++ [ Efficient Key-Based Adversarial Defense for ImageNet by Using Pre-trained Model](http://arxiv.org/abs/2311.16577)`uncheck`
+
+ AprilPyone MaungMaung, Isao Echizen, Hitoshi Kiya
+
+
++ [ RADAP: A Robust and Adaptive Defense Against Diverse Adversarial Patches on Face Recognition](http://arxiv.org/abs/2311.17339)`uncheck`
+
+ Xiaoliang Liu, Furao Shen, Jian Zhao, Changhai Nie
+
+
++ [ 1-Lipschitz Layers Compared: Memory, Speed, and Certifiable Robustness](http://arxiv.org/abs/2311.16833)`uncheck`
+
+ Bernd Prach, Fabio Brau, Giorgio Buttazzo, Christoph H. Lampert
+
+
++ [ Scalable Extraction of Training Data from (Production) Language Models](http://arxiv.org/abs/2311.17035)`uncheck`
+
+ Milad Nasr, Nicholas Carlini, Jonathan Hayase, Matthew Jagielski, A. Feder Cooper, Daphne Ippolito, Christopher A. Choquette-Choo, Eric Wallace, Florian Tramèr, Katherine Lee   
+
+
++ [ Cooperative Abnormal Node Detection with Adversary Resistance: A Probabilistic Approach](http://arxiv.org/abs/2311.16661)`uncheck`
+
+ Yingying Huangfu, Tian Bai
+
+
++ [ Shadows Don't Lie and Lines Can't Bend! Generative Models don't know Projective Geometry](http://arxiv.org/abs/2311.17138)`uncheck`
+
+ Ayush Sarkar, Hanlin Mai, Amitabh Mahapatra, Svetlana Lazebnik, D. A. Forsyth, Anand Bhattad
+
+
++ [ On robust overfitting: adversarial training induced distribution matters](http://arxiv.org/abs/2311.16526)`uncheck`
+
+ Runzhi Tian, Yongyi Mao
+
+
++ [ Understanding the (Extra-)Ordinary: Validating Deep Model Decisions with Prototypical Concept-based Explanations](http://arxiv.org/abs/2311.16681)`uncheck`
+
+ Maximilian Dreyer, Reduan Achtibat, Wojciech Samek, Sebastian Lapuschkin
+
+
 ## 2023-11-27
 + [ Microarchitectural Security of AWS Firecracker VMM for Serverless Cloud Platforms](http://arxiv.org/abs/2311.15999)
 
