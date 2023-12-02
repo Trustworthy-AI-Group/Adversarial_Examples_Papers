@@ -3,153 +3,158 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 ## 2023-11-30
-+ [ Improving Faithfulness for Vision Transformers](https://arxiv.org//abs/2311.17983)`uncheck`
++ [ Improving Faithfulness for Vision Transformers](https://arxiv.org//abs/2311.17983)
 
 	Lijie Hu, Yixin Liu, Ninghao Liu, Mengdi Huai, Lichao Sun, Di Wang
 
 
-+ [ TrustMark: Universal Watermarking for Arbitrary Resolution Images](https://arxiv.org//abs/2311.18297)`uncheck`
++ [ TrustMark: Universal Watermarking for Arbitrary Resolution Images](https://arxiv.org//abs/2311.18297)
 
 	Tu Bui, Shruti Agarwal, John Collomosse
 
 
-+ [ Unnatural Error Correction: GPT-4 Can Almost Perfectly Handle Unnatural  Scrambled Text](https://arxiv.org//abs/2311.18805)`uncheck`
++ [ Unnatural Error Correction: GPT-4 Can Almost Perfectly Handle Unnatural  Scrambled Text](https://arxiv.org//abs/2311.18805)
 
 	Qi Cao, Takeshi Kojima, Yutaka Matsuo, Yusuke Iwasawa
 
 
-+ [ ROBBIE: Robust Bias Evaluation of Large Generative Language Models](https://arxiv.org//abs/2311.18140)`uncheck`
++ [ ROBBIE: Robust Bias Evaluation of Large Generative Language Models](https://arxiv.org//abs/2311.18140)
 
 	David Esiobu, Xiaoqing Tan, Saghar Hosseini, Megan Ung, Yuchen Zhang, Jude Fernandes, Jane Dwivedi-Yu, Eleonora Presani, Adina Williams, Eric Michael Smith
 
 
-+ [ What Do Llamas Really Think? Revealing Preference Biases in Language  Model Representations](https://arxiv.org//abs/2311.18812)`uncheck`
++ [ What Do Llamas Really Think? Revealing Preference Biases in Language  Model Representations](https://arxiv.org//abs/2311.18812)
 
 	Raphael Tang, Xinyu Zhang, Jimmy Lin, Ferhan Ture
 
 
-+ [ Improving Adversarial Transferability via Model Alignment](https://arxiv.org//abs/2311.18495)`uncheck`
++ [ Improving Adversarial Transferability via Model Alignment](https://arxiv.org//abs/2311.18495)
 
 	Avery Ma, Amir-massoud Farahmand, Yangchen Pan, Philip Torr, Jindong Gu
 
 
-+ [ Poisoning Attacks Against Contrastive Recommender Systems](https://arxiv.org//abs/2311.18244)`uncheck`
++ [ Poisoning Attacks Against Contrastive Recommender Systems](https://arxiv.org//abs/2311.18244)
 
 	Zongwei Wang, Junliang Yu, Min Gao, Hongzhi Yin, Bin Cui, Shazia Sadiq
 
 
 ## 2023-11-29
-+ [ Improving the Robustness of Transformer-based Large Language Models with Dynamic Attention](http://arxiv.org/abs/2311.17400)`uncheck`
++ [ Improving the Robustness of Transformer-based Large Language Models with Dynamic Attention](http://arxiv.org/abs/2311.17400)
 
  Lujia Shen, Yuwen Pu, Shouling Ji, Changjiang Li, Xuhong Zhang, Chunpeng Ge, Ting Wang  
 
 
-+ [ Group-wise Sparse and Explainable Adversarial Attacks](http://arxiv.org/abs/2311.17434)`uncheck`
++ [ Group-wise Sparse and Explainable Adversarial Attacks](http://arxiv.org/abs/2311.17434)
 
  Shpresim Sadiku, Moritz Wagner, Sebastian Pokutta
 
 
-+ [ Quantum Neural Networks under Depolarization Noise: Exploring White-Box Attacks and Defenses](http://arxiv.org/abs/2311.17458)`uncheck`
++ [ Quantum Neural Networks under Depolarization Noise: Exploring White-Box Attacks and Defenses](http://arxiv.org/abs/2311.17458)
 
  David Winderl, Nicola Franco, Jeanette Miriam Lorenz
 
 
-+ [ On the Adversarial Robustness of Graph Contrastive Learning Methods](http://arxiv.org/abs/2311.17853)`uncheck`
++ [ On the Adversarial Robustness of Graph Contrastive Learning Methods](http://arxiv.org/abs/2311.17853)
 
  Filippo Guerranti, Zinuo Yi, Anna Starovoit, Rafiq Kamel, Simon Geisler, Stephan Günnemann
 
 
-+ [ Adversarial Robust Memory-Based Continual Learner](http://arxiv.org/abs/2311.17608)`uncheck`
++ [ Adversarial Robust Memory-Based Continual Learner](http://arxiv.org/abs/2311.17608)
 
  Xiaoyue Mi, Fan Tang, Zonghan Yang, Danding Wang, Juan Cao, Peng Li, Yang Liu
 
 
-+ [ TARGET: Template-Transferable Backdoor Attack Against Prompt-based NLP Models via GPT4](http://arxiv.org/abs/2311.17429)`uncheck`
++ [ TARGET: Template-Transferable Backdoor Attack Against Prompt-based NLP Models via GPT4](http://arxiv.org/abs/2311.17429)
 
  Zihao Tan, Qingliang Chen, Yongjian Huang, Chen Liang
 
 
-+ [ Topology-Preserving Adversarial Training](http://arxiv.org/abs/2311.17607)`uncheck`  
++ [ Topology-Preserving Adversarial Training](http://arxiv.org/abs/2311.17607)  
 
  Xiaoyue Mi, Fan Tang, Yepeng Weng, Danding Wang, Juan Cao, Sheng Tang, Peng Li, Yang Liu
 
-+ [ Query-Relevant Images Jailbreak Large Multi-Modal Models](http://arxiv.org/abs/2311.17600)`uncheck`
++ [ Query-Relevant Images Jailbreak Large Multi-Modal Models](http://arxiv.org/abs/2311.17600)
 
  Xin Liu, Yichen Zhu, Yunshi Lan, Chao Yang, Yu Qiao
 
 
-+ [ Analyzing and Explaining Image Classifiers via Diffusion Guidance](http://arxiv.org/abs/2311.17833)`uncheck`
++ [ Analyzing and Explaining Image Classifiers via Diffusion Guidance](http://arxiv.org/abs/2311.17833)
 
  Maximilian Augustin, Yannic Neuhaus, Matthias Hein
 
 
-+ [ SenTest: Evaluating Robustness of Sentence Encoders](http://arxiv.org/abs/2311.17722)`uncheck`
++ [ SenTest: Evaluating Robustness of Sentence Encoders](http://arxiv.org/abs/2311.17722)
 
  Tanmay Chavan, Shantanu Patankar, Aditya Kane, Omkar Gokhale, Geetanjali Kale, Raviraj Joshi
 
 
-+ [ CLIPC8: Face liveness detection algorithm based on image-text pairs and contrastive learning](http://arxiv.org/abs/2311.17583)`uncheck`
++ [ CLIPC8: Face liveness detection algorithm based on image-text pairs and contrastive learning](http://arxiv.org/abs/2311.17583)
 
  Xu Liu, Shu Zhou, Yurong Song, Wenzhe Luo, Xin Zhang
 
 
 ## 2023-11-28
-+ [ Unveiling the Implicit Toxicity in Large Language Models](http://arxiv.org/abs/2311.17391)`uncheck`
++ [ Unveiling the Implicit Toxicity in Large Language Models](http://arxiv.org/abs/2311.17391)
 
  Jiaxin Wen, Pei Ke, Hao Sun, Zhexin Zhang, Chengfei Li, Jinfeng Bai, Minlie Huang       
 
 
-+ [ Vulnerability Analysis of Transformer-based Optical Character Recognition to Adversarial Attacks](http://arxiv.org/abs/2311.17128)`uncheck`
++ [ Vulnerability Analysis of Transformer-based Optical Character Recognition to Adversarial Attacks](http://arxiv.org/abs/2311.17128)
 
  Lucas Beerens, Desmond J. Higham
 
 
-+ [ NeRFTAP: Enhancing Transferability of Adversarial Patches on Face Recognition using Neural Radiance Fields](http://arxiv.org/abs/2311.17332)`uncheck`
++ [ NeRFTAP: Enhancing Transferability of Adversarial Patches on Face Recognition using Neural Radiance Fields](http://arxiv.org/abs/2311.17332)
 
  Xiaoliang Liu, Furao Shen, Feng Han, Jian Zhao, Changhai Nie
 
 
-+ [ Efficient Key-Based Adversarial Defense for ImageNet by Using Pre-trained Model](http://arxiv.org/abs/2311.16577)`uncheck`
++ [ Efficient Key-Based Adversarial Defense for ImageNet by Using Pre-trained Model](http://arxiv.org/abs/2311.16577)
 
  AprilPyone MaungMaung, Isao Echizen, Hitoshi Kiya
 
 
-+ [ RADAP: A Robust and Adaptive Defense Against Diverse Adversarial Patches on Face Recognition](http://arxiv.org/abs/2311.17339)`uncheck`
++ [ RADAP: A Robust and Adaptive Defense Against Diverse Adversarial Patches on Face Recognition](http://arxiv.org/abs/2311.17339)
 
  Xiaoliang Liu, Furao Shen, Jian Zhao, Changhai Nie
 
 
-+ [ 1-Lipschitz Layers Compared: Memory, Speed, and Certifiable Robustness](http://arxiv.org/abs/2311.16833)`uncheck`
++ [ 1-Lipschitz Layers Compared: Memory, Speed, and Certifiable Robustness](http://arxiv.org/abs/2311.16833)
 
  Bernd Prach, Fabio Brau, Giorgio Buttazzo, Christoph H. Lampert
 
 
-+ [ Scalable Extraction of Training Data from (Production) Language Models](http://arxiv.org/abs/2311.17035)`uncheck`
++ [ Scalable Extraction of Training Data from (Production) Language Models](http://arxiv.org/abs/2311.17035)
 
  Milad Nasr, Nicholas Carlini, Jonathan Hayase, Matthew Jagielski, A. Feder Cooper, Daphne Ippolito, Christopher A. Choquette-Choo, Eric Wallace, Florian Tramèr, Katherine Lee   
 
 
-+ [ Cooperative Abnormal Node Detection with Adversary Resistance: A Probabilistic Approach](http://arxiv.org/abs/2311.16661)`uncheck`
++ [ Cooperative Abnormal Node Detection with Adversary Resistance: A Probabilistic Approach](http://arxiv.org/abs/2311.16661)
 
  Yingying Huangfu, Tian Bai
 
 
-+ [ Shadows Don't Lie and Lines Can't Bend! Generative Models don't know Projective Geometry](http://arxiv.org/abs/2311.17138)`uncheck`
++ [ Shadows Don't Lie and Lines Can't Bend! Generative Models don't know Projective Geometry](http://arxiv.org/abs/2311.17138)
 
  Ayush Sarkar, Hanlin Mai, Amitabh Mahapatra, Svetlana Lazebnik, D. A. Forsyth, Anand Bhattad
 
 
-+ [ On robust overfitting: adversarial training induced distribution matters](http://arxiv.org/abs/2311.16526)`uncheck`
++ [ On robust overfitting: adversarial training induced distribution matters](http://arxiv.org/abs/2311.16526)
 
  Runzhi Tian, Yongyi Mao
 
 
-+ [ Understanding the (Extra-)Ordinary: Validating Deep Model Decisions with Prototypical Concept-based Explanations](http://arxiv.org/abs/2311.16681)`uncheck`
++ [ Understanding the (Extra-)Ordinary: Validating Deep Model Decisions with Prototypical Concept-based Explanations](http://arxiv.org/abs/2311.16681)
 
  Maximilian Dreyer, Reduan Achtibat, Wojciech Samek, Sebastian Lapuschkin
 
 
 ## 2023-11-27
++ [Rethinking Mixup for Improving the Adversarial Transferability](https://arxiv.org/abs/2311.17087)
+
+Xiaosen Wang, Zeyuan Yin
+
+  
 + [ Microarchitectural Security of AWS Firecracker VMM for Serverless Cloud Platforms](http://arxiv.org/abs/2311.15999)
 
 	Zane Worcester Polytechnic Institute Weissman, Thore University of Lübeck Tiemann, Thomas University of Lübeck Eisenbarth, Berk Worcester Polytechnic Institute Sunar
