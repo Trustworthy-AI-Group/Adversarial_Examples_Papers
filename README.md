@@ -2,6 +2,57 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+## 2023-12-08
++ [ An Evaluation of State-of-the-Art Large Language Models for Sarcasm  Detection](https://arxiv.org//abs/2312.03706)`uncheck`
+
+	Juliann Zhou
+
+
++ [ Negotiating with LLMS: Prompt Hacks, Skill Gaps, and Reasoning Deficits](https://arxiv.org//abs/2312.03720)`uncheck`
+
+	Johannes Schneider, Steffi Haag, Leona Chandra Kruse
+
+
++ [ DP-OPT: Make Large Language Model Your Privacy-Preserving Prompt  Engineer](https://arxiv.org//abs/2312.03724)`uncheck`
+
+	Junyuan Hong, Jiachen T. Wang, Chenhui Zhang, Zhangheng Li, Bo Li, Zhangyang Wang
+
+
++ [ Making Translators Privacy-aware on the User's Side](https://arxiv.org//abs/2312.04068)`uncheck`
+
+	Ryoma Sato
+
+
++ [ Adversarial Denoising Diffusion Model for Unsupervised Anomaly Detection](https://arxiv.org//abs/2312.04382)`uncheck`
+
+	Jongmin Yu, Hyeontaek Oh, Jinhong Yang
+
+
++ [ RoAST: Robustifying Language Models via Adversarial Perturbation with  Selective Training](https://arxiv.org//abs/2312.04032)`uncheck`
+
+	Jaehyung Kim, Yuning Mao, Rui Hou, Hanchao Yu, Davis Liang, Pascale Fung, Qifan Wang, Fuli Feng, Lifu Huang, Madian Khabsa
+
+
++ [ The Potential of Vision-Language Models for Content Moderation of  Children's Videos](https://arxiv.org//abs/2312.03936)`uncheck`
+
+	Syed Hammad Ahmed, Shengnan Hu, Gita Sukthankar
+
+
++ [ On the Impact of Multi-dimensional Local Differential Privacy on  Fairness](https://arxiv.org//abs/2312.04404)`uncheck`
+
+	karima Makhlouf, Heber H. Arcolezi, Sami Zhioua, Ghassen Ben Brahim, Catuscia Palamidessi
+
+
++ [ FreqFed: A Frequency Analysis-Based Approach for Mitigating Poisoning  Attacks in Federated Learning](https://arxiv.org//abs/2312.04432)`uncheck`
+
+	Hossein Fereidooni, Alessandro Pegoraro, Phillip Rieger, Alexandra Dmitrienko, Ahmad-Reza Sadeghi
+
+
++ [ SoK: Unintended Interactions among Machine Learning Defenses and Risks](https://arxiv.org//abs/2312.04542)`uncheck`
+
+	Vasisht Duddu, Sebastian Szyller, N. Asokan
+
+
 ## 2023-12-07
 + [ GaitGuard: Towards Private Gait in Mixed Reality](https://arxiv.org//abs/2312.04470)
 
@@ -73,11 +124,6 @@ Fuli Feng, Lifu Huang, Madian Khabsa
 + [ Detecting Voice Cloning Attacks via Timbre Watermarking](http://arxiv.org/abs/2312.03410)
 
     Chang Liu, Jie Zhang, Tianwei Zhang, Xi Yang, Weiming Zhang, Nenghai Yu
-
-
-+ [ On the Robustness of Large Multimodal Models Against Image Adversarial  Attacks](https://arxiv.org//abs/2312.03777)
-
-	Xuanimng Cui, Alejandro Aparcedo, Young Kyun Jang, Ser-Nam Lim
 
 
 + [ Identity-Obscured Neural Radiance Fields: Privacy-Preserving 3D Facial  Reconstruction](https://arxiv.org//abs/2312.04106)
