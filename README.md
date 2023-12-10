@@ -2,6 +2,27 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
+## 2023-12-09
++ [ Cognitive Dissonance: Why Do Language Model Outputs Disagree with  Internal Representations of Truthfulness?](https://arxiv.org//abs/2312.03729)`uncheck`
+
+	Kevin Liu, Stephen Casper, Dylan Hadfield-Menell, Jacob Andreas
+
+
++ [ On the Learnability of Watermarks for Language Models](https://arxiv.org//abs/2312.04469)`uncheck`
+
+	Chenchen Gu, Xiang Lisa Li, Percy Liang, Tatsunori Hashimoto
+
+
++ [ Defense against ML-based Power Side-channel Attacks on DNN Accelerators  with Adversarial Attacks](https://arxiv.org//abs/2312.04035)`uncheck`
+
+	Xiaobei Yan, Chip Hong Chang, Tianwei Zhang
+
+
++ [ GaitGuard: Towards Private Gait in Mixed Reality](https://arxiv.org//abs/2312.04470)`uncheck`
+
+	Diana Romero, Ruchi Jagdish Patel, Athina Markopolou, Salma Elmalaki
+
+
 ## 2023-12-08
 + [ An Evaluation of State-of-the-Art Large Language Models for Sarcasm  Detection](https://arxiv.org//abs/2312.03706)`uncheck`
 
