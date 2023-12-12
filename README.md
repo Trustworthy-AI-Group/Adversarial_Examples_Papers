@@ -4,85 +4,80 @@
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers.git
 ## 2023-12-10
-+ [ zkFDL: An efficient and privacy-preserving decentralized federated  learning with zero knowledge proof](https://arxiv.org//abs/2312.04579)`uncheck`
++ [ zkFDL: An efficient and privacy-preserving decentralized federated  learning with zero knowledge proof](https://arxiv.org//abs/2312.04579)
 
 	Mojtaba Ahmadi, Reza Nourmohammadi
 
 
-+ [ Towards Sample-specific Backdoor Attack with Clean Labels via Attribute  Trigger](https://arxiv.org//abs/2312.04584)`uncheck`
++ [ Towards Sample-specific Backdoor Attack with Clean Labels via Attribute  Trigger](https://arxiv.org//abs/2312.04584)
 
 	Yiming Li, Mingyan Zhu, Junfeng Guo, Tao Wei, Shu-Tao Xia, Zhan Qin
 
 
 
-+ [ DeceptPrompt: Exploiting LLM-driven Code Generation via Adversarial  Natural Language Instructions](https://arxiv.org//abs/2312.04730)`uncheck`
++ [ DeceptPrompt: Exploiting LLM-driven Code Generation via Adversarial  Natural Language Instructions](https://arxiv.org//abs/2312.04730)
 
 	Fangzhou Wu, Xiaogeng Liu, Chaowei Xiao
 
 
-+ [ Forcing Generative Models to Degenerate Ones: The Power of Data  Poisoning Attacks](https://arxiv.org//abs/2312.04748)`uncheck`
++ [ Forcing Generative Models to Degenerate Ones: The Power of Data  Poisoning Attacks](https://arxiv.org//abs/2312.04748)
 
 	Shuli Jiang, Swanand Ravindra Kadhe, Yi Zhou, Ling Cai, Nathalie Baracaldo
 
 
-+ [ BELT: Old-School Backdoor Attacks can Evade the State-of-the-Art Defense  with Backdoor Exclusivity Lifting](https://arxiv.org//abs/2312.04902)`uncheck`
++ [ BELT: Old-School Backdoor Attacks can Evade the State-of-the-Art Defense  with Backdoor Exclusivity Lifting](https://arxiv.org//abs/2312.04902)
 
 	Huming Qiu, Junjie Sun, Mi Zhang, Xudong Pan, Min Yang
 
 
-+ [ SA-Attack: Improving Adversarial Transferability of Vision-Language  Pre-training Models via Self-Augmentation](https://arxiv.org//abs/2312.04913)`uncheck`
++ [ SA-Attack: Improving Adversarial Transferability of Vision-Language  Pre-training Models via Self-Augmentation](https://arxiv.org//abs/2312.04913)
 
 	Bangyan He, Xiaojun Jia, Siyuan Liang, Tianrui Lou, Yang Liu, Xiaochun Cao
 
 
-+ [ MIMIR: Masked Image Modeling for Mutual Information-based Adversarial  Robustness](https://arxiv.org//abs/2312.04960)`uncheck`
++ [ MIMIR: Masked Image Modeling for Mutual Information-based Adversarial  Robustness](https://arxiv.org//abs/2312.04960)
 
 	Xiaoyun Xu, Shujian Yu, Jingzheng Wu, Stjepan Picek
 
 
-+ [ On the Inadequacy of Similarity-based Privacy Metrics: Reconstruction  Attacks against "Truly Anonymous Synthetic Data''](https://arxiv.org//abs/2312.05114)`uncheck`
++ [ On the Inadequacy of Similarity-based Privacy Metrics: Reconstruction  Attacks against "Truly Anonymous Synthetic Data''](https://arxiv.org//abs/2312.05114)
 
 	Georgi Ganev, Emiliano De Cristofaro
 
 
-+ [ MimicDiffusion: Purifying Adversarial Perturbation via Mimicking Clean  Diffusion Model](https://arxiv.org//abs/2312.04802)`uncheck`
++ [ MimicDiffusion: Purifying Adversarial Perturbation via Mimicking Clean  Diffusion Model](https://arxiv.org//abs/2312.04802)
 
 	Kaiyu Song, Hanjiang Lai
 
 
-+ [ Annotation-Free Group Robustness via Loss-Based Resampling](https://arxiv.org//abs/2312.04893)`uncheck`
++ [ Annotation-Free Group Robustness via Loss-Based Resampling](https://arxiv.org//abs/2312.04893)
 
 	Mahdi Ghaznavi, Hesam Asadollahzadeh, HamidReza Yaghoubi Araghi, Fahimeh Hosseini Noohdani, Mohammad Hossein Rohban, Mahdieh Soleymani Baghshah
 
 
-+ [ Diffence: Fencing Membership Privacy With Diffusion Models](https://arxiv.org//abs/2312.04692)`uncheck`
++ [ Diffence: Fencing Membership Privacy With Diffusion Models](https://arxiv.org//abs/2312.04692)
 
 	Yuefeng Peng, Ali Naseh, Amir Houmansadr
 
 
-+ [ How to guess a gradient](https://arxiv.org//abs/2312.04709)`uncheck`
-
-	Utkarsh Singhal, Brian Cheung, Kartik Chandra, Jonathan Ragan-Kelley, Joshua B. Tenenbaum, Tomaso A. Poggio, Stella X. Yu
-
-
-+ [ HC-Ref: Hierarchical Constrained Refinement for Robust Adversarial  Training of GNNs](https://arxiv.org//abs/2312.04879)`uncheck`
++ [ HC-Ref: Hierarchical Constrained Refinement for Robust Adversarial  Training of GNNs](https://arxiv.org//abs/2312.04879)
 
 	Xiaobing Pei, Haoran Yang, Gang Shen
 
 
-+ [ FedBayes: A Zero-Trust Federated Learning Aggregation to Defend Against  Adversarial Attacks](https://arxiv.org//abs/2312.04587)`uncheck`
++ [ FedBayes: A Zero-Trust Federated Learning Aggregation to Defend Against  Adversarial Attacks](https://arxiv.org//abs/2312.04587)
 
 	Marc Vucovich, Devin Quinn, Kevin Choi, Christopher Redino, Abdul Rahman, Edward Bowen
 
 
-+ [ TrustFed: A Reliable Federated Learning Framework with Malicious-Attack  Resistance](https://arxiv.org//abs/2312.04597)`uncheck`
++ [ TrustFed: A Reliable Federated Learning Framework with Malicious-Attack  Resistance](https://arxiv.org//abs/2312.04597)
 
 	Hangn Su, Jianhong Zhou, Xianhua Niu, Gang Feng
 
 
-+ [ Topology-Based Reconstruction Prevention for Decentralised Learning](https://arxiv.org//abs/2312.05248)`uncheck`
++ [ Topology-Based Reconstruction Prevention for Decentralised Learning](https://arxiv.org//abs/2312.05248)
 
-	Florine W. Dekker (1), Zekeriya Erkin (1), Mauro Conti (2 and 1) ((1) Delft University of Technology, the Netherlands and (2) Università di Padova, Italy)
+	Florine W. Dekker, Zekeriya Erkin, Mauro Conti
 
 
 ## 2023-12-09
