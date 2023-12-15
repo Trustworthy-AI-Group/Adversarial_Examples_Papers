@@ -3,6 +3,335 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers.git
+## 2023-12-14
++ [ AVA: Inconspicuous Attribute Variation-based Adversarial Attack bypassing DeepFake Detection](http://arxiv.org/abs/2312.08675)`uncheck`
+
+    Xiangtao Meng, Li Wang, Shanqing Guo, Lei Ju, Qingchuan Zhao
+
+
++ [ On the Difficulty of Defending Contrastive Learning against Backdoor Attacks](http://arxiv.org/abs/2312.09057)`uncheck`
+
+    Changjiang Li, Ren Pang, Bochuan Cao, Zhaohan Xi, Jinghui Chen, Shouling Ji, Ting Wang
+
+
++ [ Detection and Defense of Unlearnable Examples](http://arxiv.org/abs/2312.08898)`uncheck`
+
+    Yifan Zhu, Lijia Yu, Xiao-Shan Gao
+
+
++ [ Improve Robustness of Reinforcement Learning against Observation Perturbations via $l_\infty$ Lipschitz Policy Networks](http://arxiv.org/abs/2312.08751)`uncheck`
+
+    Buqing Nie, Jingtian Ji, Yangqing Fu, Yue Gao
+
+
++ [ Data and Model Poisoning Backdoor Attacks on Wireless Federated Learning, and the Defense Mechanisms: A Comprehensive Survey](http://arxiv.org/abs/2312.08667)`uncheck`     
+
+    Yichen Wan, Youyang Qu, Wei Ni, Yong Xiang, Longxiang Gao, Ekram Hossain
+
+
++ [ DRAM-Locker: A General-Purpose DRAM Protection Mechanism against Adversarial DNN Weight Attacks](http://arxiv.org/abs/2312.09027)`uncheck`
+
+    Ranyang Zhou, Sabbir Ahmed, Arman Roohi, Adnan Siraj Rakin, Shaahin Angizi
+
+
++ [ Forbidden Facts: An Investigation of Competing Objectives in Llama-2](http://arxiv.org/abs/2312.08793)`uncheck`
+
+    Tony T. Wang, Miles Wang, Kaivu Hariharan, Nir Shavit
+
+
++ [ Coevolutionary Algorithm for Building Robust Decision Trees under Minimax Regret](http://arxiv.org/abs/2312.09078)`uncheck`
+
+    Adam Żychowski, Andrew Perrault, Jacek Mańdziuk
+
+
++ [ Exploring Transferability for Randomized Smoothing](http://arxiv.org/abs/2312.09020)`uncheck`
+
+    Kai Qiu, Huishuai Zhang, Zhirong Wu, Stephen Lin
+
+
++ [ Split-Ensemble: Efficient OOD-aware Ensemble via Task and Model Splitting](http://arxiv.org/abs/2312.09148)`uncheck`
+
+    Anthony Chen, Huanrui Yang, Yulu Gan, Denis A Gudovskiy, Zhen Dong, Haofan Wang, Tomoyuki Okuno, Yohei Nakata, Shanghang Zhang, Kurt Keutzer
+
+
+## 2023-12-13
++ [ Defenses in Adversarial Machine Learning: A Survey](http://arxiv.org/abs/2312.08890)`uncheck`
+
+    Baoyuan Wu, Shaokui Wei, Mingli Zhu, Meixi Zheng, Zihao Zhu, Mingda Zhang, Hongrui Chen, Danni Yuan, Li Liu, Qingshan Liu
+
+
++ [ Robust Few-Shot Named Entity Recognition with Boundary Discrimination and Correlation Purification](http://arxiv.org/abs/2312.07961)`uncheck`
+
+    Xiaojun Xue, Chunxia Zhang, Tianxiang Xu, Zhendong Niu
+
+
++ [ Universal Adversarial Framework to Improve Adversarial Robustness for Diabetic Retinopathy Detection](http://arxiv.org/abs/2312.08193)`uncheck`
+
+    Samrat Mukherjee, Dibyanayan Bandyopadhyay, Baban Gain, Asif Ekbal
+
+
++ [ Towards Inductive Robustness: Distilling and Fostering Wave-induced Resonance in Transductive GCNs Against Graph Adversarial Attacks](http://arxiv.org/abs/2312.08651)`uncheck`
+
+    Ao Liu, Wenshan Li, Tao Li, Beibei Li, Hanyuan Huang, Pan Zhou
+
+
++ [ Scalable Ensemble-based Detection Method against Adversarial Attacks for speaker verification](http://arxiv.org/abs/2312.08622)`uncheck`
+
+    Haibin Wu, Heng-Cheng Kuo, Yu Tsao, Hung-yi Lee
+
+
++ [ Accelerating the Global Aggregation of Local Explanations](http://arxiv.org/abs/2312.07991)`uncheck`
+
+    Alon Mor, Yonatan Belinkov, Benny Kimelfeld
+
+
++ [ Erasing Self-Supervised Learning Backdoor by Cluster Activation Masking](http://arxiv.org/abs/2312.07955)`uncheck`
+
+    Shengsheng Qian, Yifei Wang, Dizhan Xue, Shengjie Zhang, Huaiwen Zhang, Changsheng Xu
+
+
++ [ Efficient Representation of the Activation Space in Deep Neural Networks](http://arxiv.org/abs/2312.08143)`uncheck`
+
+    Tanya Akumu, Celia Cintas, Girmaw Abebe Tadesse, Adebayo Oshingbesan, Skyler Speakman, Edward III McFowland
+
+
++ [ Efficient Toxic Content Detection by Bootstrapping and Distilling Large Language Models](http://arxiv.org/abs/2312.08303)`uncheck`
+
+    Jiang Zhang, Qiong Wu, Yiming Xu, Cheng Cao, Zheng Du, Konstantinos Psounis
+
+
+## 2023-12-12
++ [ Patch-MI: Enhancing Model Inversion Attacks via Patch-Based  Reconstruction](https://arxiv.org//abs/2312.07040)`uncheck`
+
+	Jonggyu Jang, Hyeonsu Lyu, Hyun Jong Yang
+
+
++ [ Radio Signal Classification by Adversarially Robust Quantum Machine Learning](http://arxiv.org/abs/2312.07821)`uncheck`
+
+    Yanqiu Wu, Eromanga Adermann, Chandra Thapa, Seyit Camtepe, Hajime Suzuki, Muhammad 
+Usman
+
+
++ [ SSTA: Salient Spatially Transformed Attack](http://arxiv.org/abs/2312.07258)`uncheck`
+
+    Renyang Liu, Wei Zhou, Sixin Wu, Jun Zhao, Kwok-Yan Lam
+
+
++ [ DTA: Distribution Transform-based Attack for Query-Limited Scenario](http://arxiv.org/abs/2312.07245)`uncheck`
+
+    Renyang Liu, Wei Zhou, Xin Jin, Song Gao, Yuanyu Wang, Ruxin Wang
+
+
++ [ May the Noise be with you: Adversarial Training without Adversarial Examples](http://arxiv.org/abs/2312.08877)`uncheck`
+
+    Ayoub Arous, Andres F Lopez-Lopera, Nael Abu-Ghazaleh, Ihsen Alouani
+
+
++ [ Focus on Hiders: Exploring Hidden Threats for Enhancing Adversarial Training](http://arxiv.org/abs/2312.07067)`uncheck`
+
+    Qian Li, Yuxiao Hu, Yinpeng Dong, Dongxiao Zhang, Yuntian Chen
+
+
++ [ Attacking the Loop: Adversarial Attacks on Graph-based Loop Closure Detection](http://arxiv.org/abs/2312.06991)`uncheck`
+
+    Jonathan J. Y. Kim, Martin Urschler, Patricia J. Riddle, Jorg S. Wicker
+
+
++ [ Collapse-Oriented Adversarial Training with Triplet Decoupling for Robust Image Retrieval](http://arxiv.org/abs/2312.07364)`uncheck`
+
+    Qiwei Tian, Chenhao Lin, Qian Li, Zhengyu Zhao, Chao Shen
+
+
++ [ ReRoGCRL: Representation-based Robustness in Goal-Conditioned Reinforcement Learning](http://arxiv.org/abs/2312.07392)`uncheck`
+
+    Xiangyu Yin, Sihao Wu, Jiaxu Liu, Meng Fang, Xingyu Zhao, Xiaowei Huang, Wenjie Ruan
+
++ [ Robust MRI Reconstruction by Smoothed Unrollin](http://arxiv.org/abs/2312.07784)`uncheck`
+
+    Shijun Liang, Van Hoang Minh Nguyen, Jinghan Jia, Ismail Alkhouri, Sijia Liu, Saiprasad Ravishankar
+
+
++ [ Cost Aware Untargeted Poisoning Attack against Graph Neural Networks,](http://arxiv.org/abs/2312.07158)`uncheck`
+
+    Yuwei Han, Yuni Lai, Yulin Zhu, Kai Zhou
+
+
++ [ EdgePruner: Poisoned Edge Pruning in Graph Contrastive Learning](http://arxiv.org/abs/2312.07022)`uncheck`
+
+    Hiroya Kato, Kento Hasegawa, Seira Hidano, Kazuhide Fukushima
+
+
++ [ Causality Analysis for Evaluating the Security of Large Language Models](http://arxiv.org/abs/2312.07876)`uncheck`
+
+    Wei Zhao, Zhe Li, Jun Sun
+
+
++ [ SimAC: A Simple Anti-Customization Method against Text-to-Image Synthesis of Diffusion Models](http://arxiv.org/abs/2312.07865)`uncheck`
+
+    Feifei Wang, Zhentao Tan, Tianyi Wei, Yue Wu, Qidong Huang
+
+
++ [ Eroding Trust In Aerial Imagery: Comprehensive Analysis and Evaluation Of Adversarial Attacks In Geospatial Systems](http://arxiv.org/abs/2312.07389)`uncheck`
+
+    Michael Lanier, Aayush Dhakal, Zhexiao Xiong, Arthur Li, Nathan Jacobs, Yevgeniy Vorobeychik
+
+
++ [ Securing Graph Neural Networks in MLaaS: A Comprehensive Realization of Query-based 
+Integrity Verification](http://arxiv.org/abs/2312.07870)`uncheck`
+
+    Bang Wu, Xingliang Yuan, Shuo Wang, Qi Li, Minhui Xue, Shirui Pan
+
+
++ [ Majority is Not Required: A Rational Analysis of the Private Double-Spend Attack from a Sub-Majority Adversary](http://arxiv.org/abs/2312.07709)`uncheck`
+
+    Yanni Georghiades, Rajesh Mishra, Karl Kreder, Sriram Vishwanath
+
+
++ [ Divide-and-Conquer Attack: Harnessing the Power of LLM to Bypass the  Censorship of Text-to-Image Generation Model](https://arxiv.org//abs/2312.07130)`uncheck`
+
+	Yimo Deng, Huangxun Chen
+
+
++ [ Safety Alignment in NLP Tasks: Weakly Aligned Summarization as an  In-Context Attack](https://arxiv.org//abs/2312.06924)`uncheck`
+
+	Yu Fu, Yufei Li, Wen Xiao, Cong Liu, Yue Dong
+
+
++ [ Adversarial Semi-Supervised Domain Adaptation for Semantic Segmentation:  A New Role for Labeled Target Samples](https://arxiv.org//abs/2312.07370)`uncheck`
+
+	Marwa Kechaou, Mokhtar Z. Alaya, Romain Hérault, Gilles Gasso
+
+
++ [ Dynamic Adversarial Attacks on Autonomous Driving Systems](https://arxiv.org//abs/2312.06701)`uncheck`
+
+	Amirhosein Chahe, Chenan Wang, Abhishek Jeyapratap, Kaidi Xu, Lifeng Zhou
+
+
++ [ AI Control: Improving Safety Despite Intentional Subversion](https://arxiv.org//abs/2312.06942)`uncheck`
+
+	Ryan Greenblatt, Buck Shlegeris, Kshitij Sachan, Fabien Roger
+
+
++ [ Task-Agnostic Privacy-Preserving Representation Learning for Federated  Learning Against Attribute Inference Attacks](https://arxiv.org//abs/2312.06989)`uncheck`
+
+	Caridad Arroyo Arevalo, Sayedeh Leila Noorbakhsh, Yun Dong, Yuan Hong, Binghui Wang
+
+
+## 2023-12-11
++ [ Towards Transferable Adversarial Attacks with Centralized Perturbation](http://arxiv.org/abs/2312.06199)`uncheck`
+
+    Shangbo Wu, Yu-an Tan, Yajie Wang, Ruinan Ma, Wencong Ma, Yuanzhang Li
+
+
++ [ MalPurifier: Enhancing Android Malware Detection with Adversarial Purification against Evasion Attacks](http://arxiv.org/abs/2312.06423)`uncheck`
+
+    Yuyang Zhou, Guang Cheng, Zongyao Chen, Shui Yu
+
+
++ [ Sparse but Strong: Crafting Adversarially Robust Graph Lottery Tickets](http://arxiv.org/abs/2312.06568)`uncheck`
+
+    Subhajit Dutta Chowdhury, Zhiyu Ni, Qingyuan Peng, Souvik Kundu, Pierluigi Nuzzo    
+
+
++ [ Reward Certification for Policy Smoothed Reinforcement Learning](http://arxiv.org/abs/2312.06436)`uncheck`
+
+    Ronghui Mu, Leandro Soriano Marcolino, Tianle Zhang, Yanghao Zhang, Xiaowei Huang, Wenjie Ruan
+
+
++ [ Activation Gradient based Poisoned Sample Detection Against Backdoor Attacks](http://arxiv.org/abs/2312.06230)`uncheck`
+
+    Danni Yuan, Shaokui Wei, Mingda Zhang, Li Liu, Baoyuan Wu
+
+
++ [ Poisoned ChatGPT Finds Work for Idle Hands: Exploring Developers' Coding Practices with Insecure Suggestions from Poisoned AI Models](http://arxiv.org/abs/2312.06227)`uncheck`
+
+    Sanghak Oh, Kiho Lee, Seonhye Park, Doowon Kim, Hyoungshick Kim
+
+
++ [ Promoting Counterfactual Robustness through Diversity](http://arxiv.org/abs/2312.06564)`uncheck`
+
+    Francesco Leofante, Nico Potyka
+
+
++ [ Adversarial Camera Patch: An Effective and Robust Physical-World Attack on Object Detectors](http://arxiv.org/abs/2312.06163)`uncheck`
+
+    Kalibinuer Tiliwalidi
+
+
++ [ Robust Graph Neural Network based on Graph Denoising](http://arxiv.org/abs/2312.06557)`uncheck`
+
+	Victor M. Tenorio, Samuel Rey, Antonio G. Marques
+
+
++ [ Privacy Preserving Multi-Agent Reinforcement Learning in Supply Chains](https://arxiv.org//abs/2312.05686)`uncheck`
+
+	Ananta Mukherjee, Peeyush Kumar, Boling Yang, Nishanth Chandran, Divya Gupta
+
+
++ [ Exploring the Limits of ChatGPT in Software Security Applications](https://arxiv.org//abs/2312.05275)`uncheck`
+
+	Fangzhou Wu, Qingzhao Zhang, Ati Priya Bajaj, Tiffany Bao, Ning Zhang, Ruoyu "Fish" Wang, Chaowei Xiao
+
+
++ [ Beyond Gradient and Priors in Privacy Attacks: Leveraging Pooler Layer  Inputs of Language Models in Federated Learning](https://arxiv.org//abs/2312.05720)`uncheck`
+
+	Jianwei Li, Sheng Liu, Qi Lei
+
+
++ [ MalPurifier: Enhancing Android Malware Detection with Adversarial  Purification against Evasion Attacks](https://arxiv.org//abs/2312.06423)`uncheck`
+
+	Yuyang Zhou, Guang Cheng, Zongyao Chen, Shui Yu
+
+
++ [ GTA: Gated Toxicity Avoidance for LM Performance Preservation](https://arxiv.org//abs/2312.06122)`uncheck`
+
+	Heegyu Kim, Hyunsouk Cho
+
+
++ [ Initialization Matters for Adversarial Transfer Learning](https://arxiv.org//abs/2312.05716)`uncheck`
+
+	Andong Hua, Jindong Gu, Zhiyu Xue, Nicholas Carlini, Eric Wong, Yao Qin
+
+
++ [ Adversarial Camera Patch: An Effective and Robust Physical-World Attack  on Object Detectors](https://arxiv.org//abs/2312.06163)`uncheck`
+
+	Kalibinuer Tiliwalidi
+
+
++ [ CAD: Photorealistic 3D Generation via Adversarial Distillation](https://arxiv.org//abs/2312.06663)`uncheck`
+
+	Ziyu Wan, Despoina Paschalidou, Ian Huang, Hongyu Liu, Bokui Shen, Xiaoyu Xiang, Jing Liao, Leonidas Guibas
+
+
++ [ Improving Adversarial Robust Fairness via Anti-Bias Soft Label  Distillation](https://arxiv.org//abs/2312.05508)`uncheck`
+
+	Shiji Zhao, Xizhe Wang, Xingxing Wei
+
+
++ [ Model Extraction Attacks Revisited](https://arxiv.org//abs/2312.05386)`uncheck`
+
+	Jiacheng Liang, Ren Pang, Changjiang Li, Ting Wang
+
+
++ [ Poisoning $\times$ Evasion: Symbiotic Adversarial Robustness for Graph  Neural Networks](https://arxiv.org//abs/2312.05502)`uncheck`
+
+	Ege Erdogan, Simon Geisler, Stephan Günnemann
+
+
++ [ A Practical Survey on Emerging Threats from AI-driven Voice Attacks: How  Vulnerable are Commercial Voice Control Systems?](https://arxiv.org//abs/2312.06010)`uncheck`
+
+	Yuanda Wang, Qiben Yan, Nikolay Ivanov, Xun Chen
+
+
++ [ DiffAIL: Diffusion Adversarial Imitation Learning](https://arxiv.org//abs/2312.06348)`uncheck`
+
+	Bingzheng Wang, Yan Zhang, Teng Pang, Guoqiang Wu, Yilong Yin
+
+
++ [ Security and Reliability Evaluation of Countermeasures implemented using  High-Level Synthesis](https://arxiv.org//abs/2312.06268)`uncheck`
+
+	Amalia Artemis Koufopoulou, Kalliopi Xevgeni, Athanasios Papadimitriou, Mihalis Psarakis, David Hely
+
 ## 2023-12-10
 + [ zkFDL: An efficient and privacy-preserving decentralized federated  learning with zero knowledge proof](https://arxiv.org//abs/2312.04579)
 
