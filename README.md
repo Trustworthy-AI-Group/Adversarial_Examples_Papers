@@ -3,6 +3,32 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers.git
+## 2023-12-15
++ [ PhasePerturbation: Speech Data Augmentation via Phase Perturbation for  Automatic Speech Recognition](https://arxiv.org//abs/2312.08571)`uncheck`
+
+	Chengxi Lei, Satwinder Singh, Feng Hou, Xiaoyun Jia, Ruili Wang
+
+
++ [ Data and Model Poisoning Backdoor Attacks on Wireless Federated  Learning, and the Defense Mechanisms: A Comprehensive Survey](https://arxiv.org//abs/2312.08667)`uncheck`
+
+	Yichen Wan, Youyang Qu, Wei Ni, Yong Xiang, Longxiang Gao, Ekram Hossain
+
+
++ [ The Earth is Flat because...: Investigating LLMs' Belief towards  Misinformation via Persuasive Conversation](https://arxiv.org//abs/2312.09085)`uncheck`
+
+	Rongwu Xu, Brian S. Lin, Shujian Yang, Tianqi Zhang, Weiyan Shi, Tianwei Zhang, Zhixuan Fang, Wei Xu, Han Qiu
+
+
++ [ Privacy Constrained Fairness Estimation for Decision Trees](https://arxiv.org//abs/2312.08413)`uncheck`
+
+	Florian van der Steen, Fré Vink, Heysem Kaya
+
+
++ [ Scalable Ensemble-based Detection Method against Adversarial Attacks for  speaker verification](https://arxiv.org//abs/2312.08622)`uncheck`
+
+	Haibin Wu, Heng-Cheng Kuo, Yu Tsao, Hung-yi Lee
+
+	
 ## 2023-12-14
 + [ AVA: Inconspicuous Attribute Variation-based Adversarial Attack bypassing DeepFake Detection](http://arxiv.org/abs/2312.08675)
 
