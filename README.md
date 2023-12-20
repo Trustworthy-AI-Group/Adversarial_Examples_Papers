@@ -4,209 +4,189 @@
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01.
 https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers.git
 ## 2023-12-18
-+ [ Annotation-Free Automatic Music Transcription with Scalable Synthetic  Data and Adversarial Domain Confusion](https://arxiv.org//abs/2312.10402)`uncheck`
++ [ Annotation-Free Automatic Music Transcription with Scalable Synthetic  Data and Adversarial Domain Confusion](https://arxiv.org//abs/2312.10402)
 
 	Gakusei Sato, Taketo Akama
 
 
-+ [ SAME: Sample Reconstruction Against Model Extraction Attacks](https://arxiv.org//abs/2312.10578)`uncheck`
++ [ SAME: Sample Reconstruction Against Model Extraction Attacks](https://arxiv.org//abs/2312.10578)
 
 	Yi Xie, Jie Zhang, Shiqian Zhao, Tianwei Zhang, Xiaofeng Chen
 
 
-+ [ Analisis Eksploratif Dan Augmentasi Data NSL-KDD Menggunakan Deep  Generative Adversarial Networks Untuk Meningkatkan Performa Algoritma Extreme  Gradient Boosting Dalam Klasifikasi Jenis Serangan Siber](https://arxiv.org//abs/2312.10669)`uncheck`
-
-	K. P. Santoso, F. A. Madany, H. Suryotrisongko
-
-
-+ [ Synthesizing Black-box Anti-forensics DeepFakes with High Visual Quality](https://arxiv.org//abs/2312.10713)`uncheck`
++ [ Synthesizing Black-box Anti-forensics DeepFakes with High Visual Quality](https://arxiv.org//abs/2312.10713)
 
 	Bing Fan, Shu Hu, Feng Ding
 
 
-+ [ Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive  Deep Learning Approach](https://arxiv.org//abs/2312.10740)`uncheck`
++ [ Unmasking Deepfake Faces from Videos Using An Explainable Cost-Sensitive  Deep Learning Approach](https://arxiv.org//abs/2312.10740)
 
 	Faysal Mahmud, Yusha Abdullah, Minhajul Islam, Tahsin Aziz
 
 
-+ [ DataElixir: Purifying Poisoned Dataset to Mitigate Backdoor Attacks via  Diffusion Models](https://arxiv.org//abs/2312.11057)`uncheck`
++ [ DataElixir: Purifying Poisoned Dataset to Mitigate Backdoor Attacks via  Diffusion Models](https://arxiv.org//abs/2312.11057)
 
 	Jiachen Zhou, Peizhuo Lv, Yibing Lan, Guozhu Meng, Kai Chen, Hualong Ma
 
 
-+ [ Adv-Diffusion: Imperceptible Adversarial Face Identity Attack via Latent  Diffusion Model](https://arxiv.org//abs/2312.11285)`uncheck`
++ [ Adv-Diffusion: Imperceptible Adversarial Face Identity Attack via Latent  Diffusion Model](https://arxiv.org//abs/2312.11285)
 
 	Decheng Liu, Xijun Wang, Chunlei Peng, Nannan Wang, Ruiming Hu, Xinbo Gao
 
 
-+ [ Bengali Intent Classification with Generative Adversarial BERT](https://arxiv.org//abs/2312.10679)`uncheck`
++ [ Bengali Intent Classification with Generative Adversarial BERT](https://arxiv.org//abs/2312.10679)
 
 	Mehedi Hasan, Mohammad Jahid Ibna Basher, Md. Tanvir Rouf Shawon
 
 
-+ [ Student as an Inherent Denoiser of Noisy Teacher](https://arxiv.org//abs/2312.10185)`uncheck`
-
-	Jiachen Zhao
-
-
-+ [ Perturbation-Invariant Adversarial Training for Neural Ranking Models:  Improving the Effectiveness-Robustness Trade-Off](https://arxiv.org//abs/2312.10329)`uncheck`
++ [ Perturbation-Invariant Adversarial Training for Neural Ranking Models:  Improving the Effectiveness-Robustness Trade-Off](https://arxiv.org//abs/2312.10329)
 
 	Yu-An Liu, Ruqing Zhang, Mingkun Zhang, Wei Chen, Maarten de Rijke, Jiafeng Guo, Xueqi Cheng
 
 
-+ [ Closing the Gap: Achieving Better Accuracy-Robustness Tradeoffs Against  Query-Based Attacks](https://arxiv.org//abs/2312.10132)`uncheck`
++ [ Closing the Gap: Achieving Better Accuracy-Robustness Tradeoffs Against  Query-Based Attacks](https://arxiv.org//abs/2312.10132)
 
 	Pascal Zimmer, Sébastien Andreina, Giorgia Azzurra Marson, Ghassan Karame
 
 
-+ [ Anomaly Score: Evaluating Generative Models and Individual Generated  Images based on Complexity and Vulnerability](https://arxiv.org//abs/2312.10634)`uncheck`
++ [ Anomaly Score: Evaluating Generative Models and Individual Generated  Images based on Complexity and Vulnerability](https://arxiv.org//abs/2312.10634)
 
 	Jaehui Hwang, Junghyuk Lee, Jong-Seok Lee
 
 
-+ [ The Ultimate Combo: Boosting Adversarial Example Transferability by  Composing Data Augmentations](https://arxiv.org//abs/2312.11309)`uncheck`
++ [ The Ultimate Combo: Boosting Adversarial Example Transferability by  Composing Data Augmentations](https://arxiv.org//abs/2312.11309)
 
 	Zebin Yun, Achi-Or Weingarten, Eyal Ronen, Mahmood Sharif
 
 
-+ [ On Robustness to Missing Video for Audiovisual Speech Recognition](https://arxiv.org//abs/2312.10088)`uncheck`
++ [ On Robustness to Missing Video for Audiovisual Speech Recognition](https://arxiv.org//abs/2312.10088)
 
 	Oscar Chang, Otavio Braga, Hank Liao, Dmitriy Serdyuk, Olivier Siohan
 
 
-+ [ Federated Learning with Instance-Dependent Noisy Labels](https://arxiv.org//abs/2312.10324)`uncheck`
-
-	Lei Wang, Jieming Bian, Jie Xu
-
-
-+ [ Rethinking Robustness of Model Attributions](https://arxiv.org//abs/2312.10534)`uncheck`
++ [ Rethinking Robustness of Model Attributions](https://arxiv.org//abs/2312.10534)
 
 	Sandesh Kamath, Sankalp Mittal, Amit Deshpande, Vineeth N Balasubramanian
 
 
-+ [ The Pros and Cons of Adversarial Robustness](https://arxiv.org//abs/2312.10911)`uncheck`
++ [ The Pros and Cons of Adversarial Robustness](https://arxiv.org//abs/2312.10911)
 
 	Yacine Izza, Joao Marques-Silva
 
 
-+ [ PPIDSG: A Privacy-Preserving Image Distribution Sharing Scheme with GAN  in Federated Learning](https://arxiv.org//abs/2312.10380)`uncheck`
++ [ PPIDSG: A Privacy-Preserving Image Distribution Sharing Scheme with GAN  in Federated Learning](https://arxiv.org//abs/2312.10380)
 
 	Yuting Ma, Yuanzhi Yao, Xiaohua Xu
 
 
-+ [ TrojFSP: Trojan Insertion in Few-shot Prompt Tuning](https://arxiv.org//abs/2312.10467)`uncheck`
++ [ TrojFSP: Trojan Insertion in Few-shot Prompt Tuning](https://arxiv.org//abs/2312.10467)
 
 	Mengxin Zheng, Jiaqi Xue, Xun Chen, YanShan Wang, Qian Lou, Lei Jiang
 
 
-+ [ TrojFair: Trojan Fairness Attacks](https://arxiv.org//abs/2312.10508)`uncheck`
++ [ TrojFair: Trojan Fairness Attacks](https://arxiv.org//abs/2312.10508)
 
 	Mengxin Zheng, Jiaqi Xue, Yi Sheng, Lei Yang, Qian Lou, Lei Jiang
 
 
-+ [ Adversarially Balanced Representation for Continuous Treatment Effect  Estimation](https://arxiv.org//abs/2312.10570)`uncheck`
++ [ Adversarially Balanced Representation for Continuous Treatment Effect  Estimation](https://arxiv.org//abs/2312.10570)
 
 	Amirreza Kazemi, Martin Ester
 
 
-+ [ Model Stealing Attack against Graph Classification with Authenticity,  Uncertainty and Diversity](https://arxiv.org//abs/2312.10943)`uncheck`
++ [ Model Stealing Attack against Graph Classification with Authenticity,  Uncertainty and Diversity](https://arxiv.org//abs/2312.10943)
 
 	Zhihao Zhu, Chenwang Wu, Rui Fan, Yi Yang, Defu Lian, Enhong Chen
 
 
-+ [ MISA: Unveiling the Vulnerabilities in Split Federated Learning](https://arxiv.org//abs/2312.11026)`uncheck`
++ [ MISA: Unveiling the Vulnerabilities in Split Federated Learning](https://arxiv.org//abs/2312.11026)
 
 	Wei Wan, Yuxuan Ning, Shengshan Hu1, Lulu Xue, Minghui Li, Leo Yu Zhang, Hai Jin
 
 
-+ [ Uncertainty-based Fairness Measures](https://arxiv.org//abs/2312.11299)`uncheck`
++ [ Uncertainty-based Fairness Measures](https://arxiv.org//abs/2312.11299)
 
 	Selim Kuzucu, Jiaee Cheong, Hatice Gunes, Sinan Kalkan
 
 
-+ [ Improving Environment Robustness of Deep Reinforcement Learning  Approaches for Autonomous Racing Using Bayesian Optimization-based Curriculum  Learning](https://arxiv.org//abs/2312.10557)`uncheck`
++ [ Improving Environment Robustness of Deep Reinforcement Learning  Approaches for Autonomous Racing Using Bayesian Optimization-based Curriculum  Learning](https://arxiv.org//abs/2312.10557)
 
 	Rohan Banerjee, Prishita Ray, Mark Campbell
 
 
-+ [ Harnessing Inherent Noises for Privacy Preservation in Quantum Machine  Learning](https://arxiv.org//abs/2312.11126)`uncheck`
++ [ Harnessing Inherent Noises for Privacy Preservation in Quantum Machine  Learning](https://arxiv.org//abs/2312.11126)
 
 	Keyi Ju, Xiaoqi Qin, Hui Zhong, Xinyue Zhang, Miao Pan, Baoling Liu
 
 
-+ [ UltraClean: A Simple Framework to Train Robust Neural Networks against  Backdoor Attacks](https://arxiv.org//abs/2312.10657)`uncheck`
++ [ UltraClean: A Simple Framework to Train Robust Neural Networks against  Backdoor Attacks](https://arxiv.org//abs/2312.10657)
 
 	Bingyin Zhao, Yingjie Lao
 
 
-+ [ A Mutation-Based Method for Multi-Modal Jailbreaking Attack Detection](https://arxiv.org//abs/2312.10766)`uncheck`
++ [ A Mutation-Based Method for Multi-Modal Jailbreaking Attack Detection](https://arxiv.org//abs/2312.10766)
 
 	Xiaoyu Zhang, Cen Zhang, Tianlin Li, Yihao Huang, Xiaojun Jia, Xiaofei Xie, Yang Liu, Chao Shen
 
 
-+ [ Federated learning with differential privacy and an untrusted aggregator](https://arxiv.org//abs/2312.10789)`uncheck`
++ [ Federated learning with differential privacy and an untrusted aggregator](https://arxiv.org//abs/2312.10789)
 
 	Kunlong Liu, Trinabh Gupta
 
 
-+ [ A Comprehensive Survey of Attack Techniques, Implementation, and  Mitigation Strategies in Large Language Models](https://arxiv.org//abs/2312.10982)`uncheck`
++ [ A Comprehensive Survey of Attack Techniques, Implementation, and  Mitigation Strategies in Large Language Models](https://arxiv.org//abs/2312.10982)
 
 	Aysan Esmradi, Daniel Wankit Yip, Chun Fai Chan
 
 
 ## 2023-12-17
-+ [ Investigating Responsible AI for Scientific Research: An Empirical Study](https://arxiv.org//abs/2312.09561)`uncheck`
++ [ Investigating Responsible AI for Scientific Research: An Empirical Study](https://arxiv.org//abs/2312.09561)
 
 	Muneera Bano, Didar Zowghi, Pip Shea, Georgina Ibarra
 
 
-+ [ Continual Adversarial Defense](https://arxiv.org//abs/2312.09481)`uncheck`
++ [ Continual Adversarial Defense](https://arxiv.org//abs/2312.09481)
 
 	Qian Wang, Yaoyao Liu, Hefei Ling, Yingwei Li, Qihao Liu, Ping Li, Jiazhong Chen, Alan Yuille, Ning Yu
 
 
-+ [ SlowTrack: Increasing the Latency of Camera-based Perception in  Autonomous Driving Using Adversarial Examples](https://arxiv.org//abs/2312.09520)`uncheck`
++ [ SlowTrack: Increasing the Latency of Camera-based Perception in  Autonomous Driving Using Adversarial Examples](https://arxiv.org//abs/2312.09520)
 
 	Chen Ma, Ningfei Wang, Qi Alfred Chen, Chao Shen
 
 
-+ [ Embodied Adversarial Attack: A Dynamic Robust Physical Attack in  Autonomous Driving](https://arxiv.org//abs/2312.09554)`uncheck`
++ [ Embodied Adversarial Attack: A Dynamic Robust Physical Attack in  Autonomous Driving](https://arxiv.org//abs/2312.09554)
 
 	Yitong Sun, Yao Huang, Xingxing Wei
 
 
-+ [ Adversarial Robustness on Image Classification with $k$-means](https://arxiv.org//abs/2312.09533)`uncheck`
++ [ Adversarial Robustness on Image Classification with $k$-means](https://arxiv.org//abs/2312.09533)
 
 	Rollin Omari, Junae Kim, Paul Montague
 
 
-+ [ Fragility, Robustness and Antifragility in Deep Learning](https://arxiv.org//abs/2312.09821)`uncheck`
++ [ Fragility, Robustness and Antifragility in Deep Learning](https://arxiv.org//abs/2312.09821)
 
 	Chandresh Pravin, Ivan Martino, Giuseppe Nicosia, Varun Ojha
 
 
-+ [ Reliable Probabilistic Classification with Neural Networks](https://arxiv.org//abs/2312.09912)`uncheck`
++ [ Reliable Probabilistic Classification with Neural Networks](https://arxiv.org//abs/2312.09912)
 
 	Harris Papadopoulos
 
 
-+ [ A Malware Classification Survey on Adversarial Attacks and Defences](https://arxiv.org//abs/2312.09636)`uncheck`
++ [ A Malware Classification Survey on Adversarial Attacks and Defences](https://arxiv.org//abs/2312.09636)
 
 	Mahesh Datta Sai Ponnuru, Likhitha Amasala, Tanu Sree Bhimavarapu, Guna Chaitanya Garikipati
 
 
-+ [ Silent Guardian: Protecting Text from Malicious Exploitation by Large  Language Models](https://arxiv.org//abs/2312.09669)`uncheck`
++ [ Silent Guardian: Protecting Text from Malicious Exploitation by Large  Language Models](https://arxiv.org//abs/2312.09669)
 
 	Jiawei Zhao, Kejiang Chen, Xiaojian Yuan, Yuang Qi, Weiming Zhang, Nenghai Yu
 
 
 ## 2023-12-16
-+ [ Reliability in Semantic Segmentation: Can We Use Synthetic Data?](https://arxiv.org//abs/2312.09231)`uncheck`
-
-	Thibaut Loiseau, Tuan-Hung Vu, Mickael Chen, Patrick Pérez, Matthieu Cord
-
-
-+ [ Towards Inductive Robustness: Distilling and Fostering Wave-induced  Resonance in Transductive GCNs Against Graph Adversarial Attacks](https://arxiv.org//abs/2312.08651)`uncheck`
++ [ Towards Inductive Robustness: Distilling and Fostering Wave-induced  Resonance in Transductive GCNs Against Graph Adversarial Attacks](https://arxiv.org//abs/2312.08651)
 
 	Ao Liu, Wenshan Li, Tao Li, Beibei Li, Hanyuan Huang, Pan Zhou
 
