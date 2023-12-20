@@ -163,6 +163,25 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 	Xiaosen Wang, Zeyuan Yin
 
 
++ [Towards Transferable Adversarial Attacks with Centralized Perturbation](http://arxiv.org/abs/2312.06199) (AAAI 2024)
+
+    Shangbo Wu, Yu-an Tan, Yajie Wang, Ruinan Ma, Wencong Ma, Yuanzhang Li
+
+
++ [The Ultimate Combo: Boosting Adversarial Example Transferability by  Composing Data Augmentations](https://arxiv.org//abs/2312.11309) (arXiv preprint arXiv:2312.11309, 2023)
+
+	Zebin Yun, Achi-Or Weingarten, Eyal Ronen, Mahmood Sharif
+
+
++ [Improving Adversarial Transferability by Stable Diffusion](http://arxiv.org/abs/2311.11017) (arXiv preprint arXiv:2311.11017, 2023)
+
+ 	Jiayang Liu, Siyu Zhu, Siyuan Liang, Jie Zhang, Han Fang, Weiming Zhang, Ee-Chien Chang 
+
+
++ [ Boost Adversarial Transferability by Uniform Scale and Mix Mask Method](https://arxiv.org//abs/2311.12051)
+
+	Tao Wang, Zijian Ying, Qianmu Li, zhichao Lian
+
 
 ### Advanced Objective Function
 
@@ -226,6 +245,11 @@ We also provide a  complete list of papers about adversarial examples [here](htt
     Qizhang Li, Yiwen Guo, Wangmeng Zuo, Hao Chen
 
 
++ [DANAA: Towards transferable attacks with double adversarial neuron  attribution](https://arxiv.org//abs/2310.10427)
+
+	Zhibo Jin, Zhiyu Zhu, Xinyi Wang, Jiayu Zhang, Jun Shen, Huaming Chen
+
+
 ### Model-related Attack
 
 + [Skip Connections Matter: On the Transferability of Adversarial Examples Generated with ResNets](https://arxiv.org/pdf/2002.05990.pdf) (ICLR 2020)
@@ -246,7 +270,7 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 + [Learning to Learn Transferable Attack](https://arxiv.org/abs/2112.06658) (AAAI 2022)
 
 	Shuman Fang, Jie Li, Xianming Lin, Rongrong Ji.
-	
+
 
 + [Boosting the adversarial transferability of surrogate model with dark knowledge](https://arxiv.org/abs/2206.08316) (arXiv preprint arXiv:2206.08316 2022)
 
@@ -308,6 +332,12 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 	Zhuoer Xu, Zhangxuan Gu, Jianping Zhang, Shiwen Cui, Changhua Meng, Weiqiang Wang
 
 
++ [Improving Adversarial Transferability via Model Alignment](https://arxiv.org//abs/2311.18495) (arXiv preprint arXiv:2311.18495, 2023)
+
+	Avery Ma, Amir-massoud Farahmand, Yangchen Pan, Philip Torr, Jindong Gu
+
+
+
 ### Ensemble-based Attack
 
 + [Delving into Transferable Adversarial Examples and Black-box Attacks](https://arxiv.org/abs/1611.02770) (ICLR 2017)
@@ -324,9 +354,11 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 
 	Yifeng Xiong, Jiadong Lin, Min Zhang, John E. Hopcroft, Kun He
 
+
 + [Efficient and Transferable Adversarial Examples from Bayesian Neural Networks](https://arxiv.org/abs/2011.05074) (UAI 2022)
 
 	Martin Gubri, Maxime Cordy, Mike Papadakis, Yves Le Traon, Koushik Sen
+
 
 + [LGV: Boosting Adversarial Example Transferability from Large Geometric Vicinity](https://arxiv.org/pdf/2207.13129.pdf) (ECCV 2022)
 
@@ -458,3 +490,30 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 + [Towards Transferable Targeted Adversarial Examples](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Towards_Transferable_Targeted_Adversarial_Examples_CVPR_2023_paper.pdf) (CVPR 2023)
 
 	Zhibo Wang, Hongshan Yang, Yunhe Feng, Peng Sun, Hengchang Guo, Zhifei Zhang, Kui Ren
+
+
+## Survey & Benchmark
+
++ [Towards Evaluating Transfer-based Attacks Systematically, Practically, and Fairly](https://arxiv.org//abs/2311.01323) (NeurIPS 2023)
+
+	Qizhang Li, Yiwen Guo, Wangmeng Zuo, Hao Chen
+
+
++ [A Survey on Transferability of Adversarial Examples across Deep Neural  Networks](https://arxiv.org//abs/2310.17626) (arXiv preprint arXiv: 2310.17626 2023)
+
+	Jindong Gu, Xiaojun Jia, Pau de Jorge, Wenqain Yu, Xinwei Liu, Avery Ma, Yuan Xun, Anjun Hu, Ashkan Khakzar, Zhijiang Li, Xiaochun Cao, Philip Torr
+
+
++ [Revisiting Transferable Adversarial Image Examples: Attack  Categorization, Evaluation Guidelines, and New Insights](https://arxiv.org//abs/2310.11850) (arXiv preprint arXiv: 2310.11850 2023)
+
+	Zhengyu Zhao, Hanwei Zhang, Renjue Li, Ronan Sicre, Laurent Amsaleg, Michael Backes, Qi Li, Chao Shen
+
+
++ [ Beyond Boundaries: A Comprehensive Survey of Transferable Attacks on AI  Systems ](https://arxiv.org//abs/2311.11796) (arXiv preprint arXiv: 2311.11796 2023)
+
+	Guangjing Wang, Ce Zhou, Yuanda Wang, Bocheng Chen, Hanqing Guo, Qiben Yan
+
+
+
+
+

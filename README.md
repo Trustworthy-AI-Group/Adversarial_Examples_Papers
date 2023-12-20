@@ -1410,11 +1410,6 @@ Xiaosen Wang, Zeyuan Yin
 	Sai Amrit Patnaik, Shivali Chansoriya, Anil K. Jain, Anoop M. Namboodiri
 
 
-+ [ Beyond Boundaries: A Comprehensive Survey of Transferable Attacks on AI Systems ](http://arxiv.org/abs/2311.11796)
-
-	Guangjing Wang, Ce Zhou, Yuanda Wang, Bocheng Chen, Hanqing Guo, Qiben Yan
-
-
 + [ Understanding Variation in Subpopulation Susceptibility to Poisoning Attacks ](http://arxiv.org/abs/2311.11544)
 
 	Evan Rose, Fnu Suya, David Evans
@@ -1875,7 +1870,7 @@ Xiaosen Wang, Zeyuan Yin
 	Lorenz Kummer, Samir Moustafa, Nils N. Kriege, Wilfried N. Gansterer
 
 
-+ [ Towards Evaluating Transfer-based Attacks Systematically, Practically,  and Fairly](https://arxiv.org//abs/2311.01323)
++ [ Towards Evaluating Transfer-based Attacks Systematically, Practically, and Fairly](https://arxiv.org//abs/2311.01323)
 
 	Qizhang Li, Yiwen Guo, Wangmeng Zuo, Hao Chen
 
