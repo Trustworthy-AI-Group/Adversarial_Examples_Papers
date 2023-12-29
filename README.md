@@ -170,144 +170,144 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 
 ## 2023-12-21
-+ [ Adversarial Markov Games: On Adaptive Decision-Based Attacks and  Defenses](https://arxiv.org//abs/2312.13435)`uncheck`
++ [ Adversarial Markov Games: On Adaptive Decision-Based Attacks and  Defenses](https://arxiv.org//abs/2312.13435)
 
 	Ilias Tsingenopoulos, Vera Rimmer, Davy Preuveneers, Fabio Pierazzi, Lorenzo Cavallaro, Wouter Joosen
 
 
-+ [ Using GPT-4 Prompts to Determine Whether Articles Contain Functional  Evidence Supporting or Refuting Variant Pathogenicity](https://arxiv.org//abs/2312.13521)`uncheck`
++ [ Using GPT-4 Prompts to Determine Whether Articles Contain Functional  Evidence Supporting or Refuting Variant Pathogenicity](https://arxiv.org//abs/2312.13521)
 
 	Samuel J. Aronson (1,2), Kalotina Machini (1,3), Pranav Sriraman (1), Jiyeon Shin (2), Emma R. Henricks (1), Charlotte Mailly (1,2), Angie J. Nottage (1), Michael Oates (1,2), Matthew S. Lebo (1,3) ((1) Mass Gneral Brigham Personalized Medicine, (2) Accelerator for Clinical Transformation, Mass General Brigham, (3) Department of Pathology, Brigham and Women's Hospital)
 
 
-+ [ SADA: Semantic adversarial unsupervised domain adaptation for Temporal  Action Localization](https://arxiv.org//abs/2312.13377)`uncheck`
++ [ SADA: Semantic adversarial unsupervised domain adaptation for Temporal  Action Localization](https://arxiv.org//abs/2312.13377)
 
 	David Pujol-Perich, Albert Clapés, Sergio Escalera
 
 
-+ [ ARBiBench: Benchmarking Adversarial Robustness of Binarized Neural  Networks](https://arxiv.org//abs/2312.13575)`uncheck`
++ [ ARBiBench: Benchmarking Adversarial Robustness of Binarized Neural  Networks](https://arxiv.org//abs/2312.13575)
 
 	Peng Zhao, Jiehua Zhang, Bowen Peng, Longguang Wang, YingMei Wei, Yu Liu, Li Liu
 
 
-+ [ Where and How to Attack? A Causality-Inspired Recipe for Generating  Counterfactual Adversarial Examples](https://arxiv.org//abs/2312.13628)`uncheck`
++ [ Where and How to Attack? A Causality-Inspired Recipe for Generating  Counterfactual Adversarial Examples](https://arxiv.org//abs/2312.13628)
 
 	Ruichu Cai, Yuxuan Zhu, Jie Qiao, Zefeng Liang, Furui Liu, Zhifeng Hao
 
 
-+ [ Manipulating Trajectory Prediction with Backdoors](https://arxiv.org//abs/2312.13863)`uncheck`
++ [ Manipulating Trajectory Prediction with Backdoors](https://arxiv.org//abs/2312.13863)
 
 	Kaouther Massoud, Kathrin Grosse, Mickael Chen, Matthieu Cord, Patrick Pérez, Alexandre Alahi
 
 
 ## 2023-12-20
-+ [ Progressive Poisoned Data Isolation for Training-time Backdoor Defense](https://arxiv.org//abs/2312.12724)`uncheck`
++ [ Progressive Poisoned Data Isolation for Training-time Backdoor Defense](https://arxiv.org//abs/2312.12724)
 
 	Yiming Chen, Haiwei Wu, Jiantao Zhou
 
 
-+ [ PGN: A perturbation generation network against deep reinforcement  learning](https://arxiv.org//abs/2312.12904)`uncheck`
++ [ PGN: A perturbation generation network against deep reinforcement  learning](https://arxiv.org//abs/2312.12904)
 
 	Xiangjuan Li, Feifan Li, Yang Li, Quan Pan
 
 
-+ [ Learning and Forgetting Unsafe Examples in Large Language Models](https://arxiv.org//abs/2312.12736)`uncheck`
++ [ Learning and Forgetting Unsafe Examples in Large Language Models](https://arxiv.org//abs/2312.12736)
 
 	Jiachen Zhao, Zhun Deng, David Madras, James Zou, Mengye Ren
 
 
-+ [ Adaptive Distribution Masked Autoencoders for Continual Test-Time  Adaptation](https://arxiv.org//abs/2312.12480)`uncheck`
++ [ Adaptive Distribution Masked Autoencoders for Continual Test-Time  Adaptation](https://arxiv.org//abs/2312.12480)
 
 	Jiaming Liu, Ran Xu, Senqiao Yang, Renrui Zhang, Qizhe Zhang, Zehui Chen, Yandong Guo, Shanghang Zhang
 
 
-+ [ Misalign, Contrast then Distill: Rethinking Misalignments in  Language-Image Pretraining](https://arxiv.org//abs/2312.12661)`uncheck`
++ [ Misalign, Contrast then Distill: Rethinking Misalignments in  Language-Image Pretraining](https://arxiv.org//abs/2312.12661)
 
 	Bumsoo Kim, Yeonsik Jo, Jinhyung Kim, Seung Hwan Kim
 
 
-+ [ Mutual-modality Adversarial Attack with Semantic Perturbation](https://arxiv.org//abs/2312.12768)`uncheck`
++ [ Mutual-modality Adversarial Attack with Semantic Perturbation](https://arxiv.org//abs/2312.12768)
 
 	Jingwen Ye, Ruonan Yu, Songhua Liu, Xinchao Wang
 
 
-+ [ Trust, But Verify: A Survey of Randomized Smoothing Techniques](https://arxiv.org//abs/2312.12608)`uncheck`
++ [ Trust, But Verify: A Survey of Randomized Smoothing Techniques](https://arxiv.org//abs/2312.12608)
 
 	Anupriya Kumari, Devansh Bhardwaj, Sukrit Jindal, Sarthak Gupta
 
 
-+ [ Stability of Graph Convolutional Neural Networks through the lens of  small perturbation analysis](https://arxiv.org//abs/2312.12934)`uncheck`
++ [ Stability of Graph Convolutional Neural Networks through the lens of  small perturbation analysis](https://arxiv.org//abs/2312.12934)
 
 	Lucia Testa, Claudio Battiloro, Stefania Sardellitti, Sergio Barbarossa
 
 
-+ [ Neural Stochastic Differential Equations with Change Points: A  Generative Adversarial Approach](https://arxiv.org//abs/2312.13152)`uncheck`
++ [ Neural Stochastic Differential Equations with Change Points: A  Generative Adversarial Approach](https://arxiv.org//abs/2312.13152)
 
 	Zhongchang Sun, Yousef El-Laham, Svitlana Vyetrenko
 
 
-+ [ SkyMask: Attack-agnostic Robust Federated Learning with Fine-grained  Learnable Masks](https://arxiv.org//abs/2312.12484)`uncheck`
++ [ SkyMask: Attack-agnostic Robust Federated Learning with Fine-grained  Learnable Masks](https://arxiv.org//abs/2312.12484)
 
 	Peishen Yan, Hao Wang, Tao Song, Yang Hua, Ruhui Ma, Ningxin Hu, Mohammad R. Haghighat, Haibing Guan
 
 
-+ [ Can Large Language Models Identify And Reason About Security  Vulnerabilities? Not Yet](https://arxiv.org//abs/2312.12575)`uncheck`
++ [ Can Large Language Models Identify And Reason About Security  Vulnerabilities? Not Yet](https://arxiv.org//abs/2312.12575)
 
 	Saad Ullah, Mingji Han, Saurabh Pujar, Hammond Pearce, Ayse Coskun, Gianluca Stringhini
 
 
 ## 2023-12-19
-+ [ A Red Teaming Framework for Securing AI in Maritime Autonomous Systems](https://arxiv.org//abs/2312.11500)`uncheck`
++ [ A Red Teaming Framework for Securing AI in Maritime Autonomous Systems](https://arxiv.org//abs/2312.11500)
 
 	Mathew J. Walter, Aaron Barrett, Kimberly Tam
 
 
-+ [ Maatphor: Automated Variant Analysis for Prompt Injection Attacks](https://arxiv.org//abs/2312.11513)`uncheck`
++ [ Maatphor: Automated Variant Analysis for Prompt Injection Attacks](https://arxiv.org//abs/2312.11513)
 
 	Ahmed Salem, Andrew Paverd, Boris Köpf
 
 
-+ [ Robust Communicative Multi-Agent Reinforcement Learning with Active  Defense](https://arxiv.org//abs/2312.11545)`uncheck`
++ [ Robust Communicative Multi-Agent Reinforcement Learning with Active  Defense](https://arxiv.org//abs/2312.11545)
 
 	Lebin Yu, Yunbo Qiu, Quanming Yao, Yuan Shen, Xudong Zhang, Jian Wang
 
 
-+ [ Curated LLM: Synergy of LLMs and Data Curation for tabular augmentation  in ultra low-data regimes](https://arxiv.org//abs/2312.12112)`uncheck`
++ [ Curated LLM: Synergy of LLMs and Data Curation for tabular augmentation  in ultra low-data regimes](https://arxiv.org//abs/2312.12112)
 
 	Nabeel Seedat, Nicolas Huynh, Boris van Breugel, Mihaela van der Schaar
 
 
-+ [ Bypassing the Safety Training of Open-Source LLMs with Priming Attacks](https://arxiv.org//abs/2312.12321)`uncheck`
++ [ Bypassing the Safety Training of Open-Source LLMs with Priming Attacks](https://arxiv.org//abs/2312.12321)
 
 	Jason Vega, Isha Chaudhary, Changming Xu, Gagandeep Singh
 
 
-+ [ Chasing Fairness in Graphs: A GNN Architecture Perspective](https://arxiv.org//abs/2312.12369)`uncheck`
++ [ Chasing Fairness in Graphs: A GNN Architecture Perspective](https://arxiv.org//abs/2312.12369)
 
 	Zhimeng Jiang, Xiaotian Han, Chao Fan, Zirui Liu, Na Zou, Ali Mostafavi, Xia Hu
 
 
-+ [ Adversarial AutoMixup](https://arxiv.org//abs/2312.11954)`uncheck`
++ [ Adversarial AutoMixup](https://arxiv.org//abs/2312.11954)
 
 	Huafeng Qin, Xin Jin, Yun Jiang, Mounim A. El-Yacoubi, Xinbo Gao
 
 
-+ [ Prompting Hard or Hardly Prompting: Prompt Inversion for Text-to-Image  Diffusion Models](https://arxiv.org//abs/2312.12416)`uncheck`
++ [ Prompting Hard or Hardly Prompting: Prompt Inversion for Text-to-Image  Diffusion Models](https://arxiv.org//abs/2312.12416)
 
 	Shweta Mahajan, Tanzila Rahman, Kwang Moo Yi, Leonid Sigal
 
 
-+ [ A Study on Transferability of Deep Learning Models for Network Intrusion  Detection](https://arxiv.org//abs/2312.11550)`uncheck`
++ [ A Study on Transferability of Deep Learning Models for Network Intrusion  Detection](https://arxiv.org//abs/2312.11550)
 
 	Shreya Ghosh, Abu Shafin Mohammad Mahdee Jameel, Aly El Gamal
 
 
-+ [ Android Malware Detection with Unbiased Confidence Guarantees](https://arxiv.org//abs/2312.11559)`uncheck`
++ [ Android Malware Detection with Unbiased Confidence Guarantees](https://arxiv.org//abs/2312.11559)
 
 	Harris Papadopoulos, Nestoras Georgiou, Charalambos Eliades, Andreas Konstantinidis
 
 
-+ [ Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number  Manipulation](https://arxiv.org//abs/2312.12422)`uncheck`
++ [ Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number  Manipulation](https://arxiv.org//abs/2312.12422)
 
 	Fabian Bäumer, Marcus Brinkmann, Jörg Schwenk
 
