@@ -3,168 +3,168 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 ## 2023-12-28
-+ [ Layer Attack Unlearning: Fast and Accurate Machine Unlearning via Layer  Level Attack and Knowledge Distillation](https://arxiv.org//abs/2312.16823)`uncheck`
++ [ Layer Attack Unlearning: Fast and Accurate Machine Unlearning via Layer  Level Attack and Knowledge Distillation](https://arxiv.org//abs/2312.16823)
 
 	Hyunjune Kim, Sangyong Lee, Simon S. Woo
 
 
-+ [ Adversarial Representation with Intra-Modal and Inter-Modal Graph  Contrastive Learning for Multimodal Emotion Recognition](https://arxiv.org//abs/2312.16778)`uncheck`
++ [ Adversarial Representation with Intra-Modal and Inter-Modal Graph  Contrastive Learning for Multimodal Emotion Recognition](https://arxiv.org//abs/2312.16778)
 
 	Yuntao Shou, Tao Meng, Wei Ai, Keqin Li
 
 
-+ [ SoK: Taming the Triangle -- On the Interplays between Fairness,  Interpretability and Privacy in Machine Learning](https://arxiv.org//abs/2312.16191)`uncheck`
++ [ SoK: Taming the Triangle -- On the Interplays between Fairness,  Interpretability and Privacy in Machine Learning](https://arxiv.org//abs/2312.16191)
 
-	Julien Ferry (LAAS-ROC), Ulrich Aïvodji (ETS), Sébastien Gambs (UQAM), Marie-José Huguet (LAAS-ROC), Mohamed Siala (LAAS-ROC)
+	Julien Ferry, Ulrich Aïvodji, Sébastien Gambs, Marie-José Huguet, Mohamed Siala
 
 
-+ [ Adversarial Attacks on Image Classification Models: Analysis and Defense](http://arxiv.org/abs/2312.16880)`uncheck`
++ [ Adversarial Attacks on Image Classification Models: Analysis and Defense](http://arxiv.org/abs/2312.16880)
 
     Jaydip Sen, Abhiraj Sen, Ananda Chatterjee
 
 
-+ [ BlackboxBench: A Comprehensive Benchmark of Black-box Adversarial Attacks](http://arxiv.org/abs/2312.16979)`uncheck`
++ [ BlackboxBench: A Comprehensive Benchmark of Black-box Adversarial Attacks](http://arxiv.org/abs/2312.16979)
 
     Meixi Zheng, Xuanchen Yan, Zihao Zhu, Hongrui Chen, Baoyuan Wu
 
 
-+ [ Attack Tree Analysis for Adversarial Evasion Attacks](http://arxiv.org/abs/2312.16957)`uncheck`
++ [ Attack Tree Analysis for Adversarial Evasion Attacks](http://arxiv.org/abs/2312.16957)
 
     Yuki Yamaguchi, Toshiaki Aoki
 
 
-+ [ DOEPatch: Dynamically Optimized Ensemble Model for Adversarial Patches Generation](http://arxiv.org/abs/2312.16907)`uncheck`
++ [ DOEPatch: Dynamically Optimized Ensemble Model for Adversarial Patches Generation](http://arxiv.org/abs/2312.16907)
 
     Wenyi Tan, Yang Li, Chenxing Zhao, Zhunga Liu, Quan Pan
 
 
-+ [ Securing NextG Systems against Poisoning Attacks on Federated Learning: A Game-Theoretic Solution](http://arxiv.org/abs/2312.17164)`uncheck`
++ [ Securing NextG Systems against Poisoning Attacks on Federated Learning: A Game-Theoretic Solution](http://arxiv.org/abs/2312.17164)
 
     Yalin E. Sagduyu, Tugba Erpek, Yi Shi
 
 
-+ [ Timeliness: A New Design Metric and a New Attack Surface](http://arxiv.org/abs/2312.17220)`uncheck`
++ [ Timeliness: A New Design Metric and a New Attack Surface](http://arxiv.org/abs/2312.17220)
 
     Priyanka Kaswan, Sennur Ulukus
 
 
 ## 2023-12-27
-+ [ Adversarial Data Poisoning for Fake News Detection: How to Make a Model  Misclassify a Target News without Modifying It](https://arxiv.org//abs/2312.15228)`uncheck`
++ [ Adversarial Data Poisoning for Fake News Detection: How to Make a Model  Misclassify a Target News without Modifying It](https://arxiv.org//abs/2312.15228)
 
 	Federico Siciliano, Luca Maiano, Lorenzo Papa, Federica Baccin, Irene Amerini, Fabrizio Silvestri
 
 
-+ [ Adversarial Attacks on LoRa Device Identification and Rogue Signal Detection with Deep Learning](http://arxiv.org/abs/2312.16715)`uncheck`
++ [ Adversarial Attacks on LoRa Device Identification and Rogue Signal Detection with Deep Learning](http://arxiv.org/abs/2312.16715)
 
     Yalin E. Sagduyu, Tugba Erpek
 
 
-+ [ Domain Generalization with Vital Phase Augmentation](http://arxiv.org/abs/2312.16451)`uncheck`
++ [ Domain Generalization with Vital Phase Augmentation](http://arxiv.org/abs/2312.16451)
 
     Ingyun Lee, Wooju Lee, Hyun Myung
 
 
 ## 2023-12-26
-+ [ From Text to Multimodal: A Comprehensive Survey of Adversarial Example Generation in Question Answering Systems](http://arxiv.org/abs/2312.16156)`uncheck` 
++ [ From Text to Multimodal: A Comprehensive Survey of Adversarial Example Generation in Question Answering Systems](http://arxiv.org/abs/2312.16156) 
 
     Gulsum Yigit, Mehmet Fatih Amasyali
 
 
-+ [ Natural Adversarial Patch Generation Method Based on Latent Diffusion Model](http://arxiv.org/abs/2312.16401)`uncheck`
++ [ Natural Adversarial Patch Generation Method Based on Latent Diffusion Model](http://arxiv.org/abs/2312.16401)
 
     Xianyi Chen, Fazhan Liu, Dong Jiang, Kai Yan
 
 
-+ [ Universal Pyramid Adversarial Training for Improved ViT Performance](http://arxiv.org/abs/2312.16339)`uncheck`
++ [ Universal Pyramid Adversarial Training for Improved ViT Performance](http://arxiv.org/abs/2312.16339)
 
     Ping-yeh Chiang, Yipin Zhou, Omid Poursaeed, Satya Narayan Shukla, Ashish Shah, Tom Goldstein, Ser-Nam Lim
 
 
-+ [ Robust Survival Analysis with Adversarial Regularization](http://arxiv.org/abs/2312.16019)`uncheck`
++ [ Robust Survival Analysis with Adversarial Regularization](http://arxiv.org/abs/2312.16019)
 
     Michael Potter, Stefano Maxenti, Michael Everett
 
 
 ## 2023-12-25
-+ [ GanFinger: GAN-Based Fingerprint Generation for Deep Neural Network Ownership Verification](http://arxiv.org/abs/2312.15617)`uncheck`
++ [ GanFinger: GAN-Based Fingerprint Generation for Deep Neural Network Ownership Verification](http://arxiv.org/abs/2312.15617)
 
     Huali Ren, Anli Yan, Xiaojun Ren, Pei-Gen Ye, Chong-zhi Gao, Zhili Zhou, Jin Li
 
 
-+ [ Adversarial Item Promotion on Visually-Aware Recommender Systems by Guided Diffusion](http://arxiv.org/abs/2312.15826)`uncheck`
++ [ Adversarial Item Promotion on Visually-Aware Recommender Systems by Guided Diffusion](http://arxiv.org/abs/2312.15826)
 
     Lijian Chen, Wei Yuan, Tong Chen, Quoc Viet Hung Nguyen, Lizhen Cui, Hongzhi Yin
 
 
-+ [ Punctuation Matters! Stealthy Backdoor Attack for Language Models](http://arxiv.org/abs/2312.15867)`uncheck`
++ [ Punctuation Matters! Stealthy Backdoor Attack for Language Models](http://arxiv.org/abs/2312.15867)
 
     Xuan Sheng, Zhicheng Li, Zhaoyang Han, Xiangmao Chang, Piji Li
 
 
 ## 2023-12-24
-+ [ Benchmarking and Defending Against Indirect Prompt Injection Attacks on  Large Language Models](https://arxiv.org//abs/2312.14197)`uncheck`
++ [ Benchmarking and Defending Against Indirect Prompt Injection Attacks on  Large Language Models](https://arxiv.org//abs/2312.14197)
 
 	Jingwei Yi, Yueqi Xie, Bin Zhu, Keegan Hines, Emre Kiciman, Guangzhong Sun, Xing Xie, Fangzhao Wu
 
 
-+ [ Hierarchical Multi-Agent Reinforcement Learning for Assessing False-Data  Injection Attacks on Transportation Networks](https://arxiv.org//abs/2312.14625)`uncheck`
++ [ Hierarchical Multi-Agent Reinforcement Learning for Assessing False-Data  Injection Attacks on Transportation Networks](https://arxiv.org//abs/2312.14625)
 
 	Taha Eghtesad, Sirui Li, Yevgeniy Vorobeychik, Aron Laszka
 
 
-+ [ AutoAugment Input Transformation for Highly Transferable Targeted  Attacks](https://arxiv.org//abs/2312.14218)`uncheck`
++ [ AutoAugment Input Transformation for Highly Transferable Targeted  Attacks](https://arxiv.org//abs/2312.14218)
 
 	Haobo Lu, Xin Liu, Kun He
 
 
-+ [ Can Machines Learn Robustly, Privately, and Efficiently?](https://arxiv.org//abs/2312.14712)`uncheck`
++ [ Can Machines Learn Robustly, Privately, and Efficiently?](https://arxiv.org//abs/2312.14712)
 
 	Youssef Allouah, Rachid Guerraoui, John Stephan
 
 
 ## 2023-12-23
-+ [ Adversarial Data Poisoning for Fake News Detection: How to Make a Model Misclassify a Target News without Modifying It](http://arxiv.org/abs/2312.15228)`uncheck`
++ [ Adversarial Data Poisoning for Fake News Detection: How to Make a Model Misclassify a Target News without Modifying It](http://arxiv.org/abs/2312.15228)
 
     Federico Siciliano, Luca Maiano, Lorenzo Papa, Federica Baccin, Irene Amerini, Fabrizio Silvestri
 
 
-+ [ Pre-trained Trojan Attacks for Visual Recognition](http://arxiv.org/abs/2312.15172)`uncheck`
++ [ Pre-trained Trojan Attacks for Visual Recognition](http://arxiv.org/abs/2312.15172)
 
     Aishan Liu, Xinwei Zhang, Yisong Xiao, Yuguang Zhou, Siyuan Liang, Jiakai Wang, Xianglong Liu, Xiaochun Cao, Dacheng Tao
 
 
 ## 2023-12-22
-+ [ MEAOD: Model Extraction Attack against Object Detectors](http://arxiv.org/abs/2312.14677)`uncheck`
++ [ MEAOD: Model Extraction Attack against Object Detectors](http://arxiv.org/abs/2312.14677)
 
     Zeyu Li, Chenghui Shi, Yuwen Pu, Xuhong Zhang, Yu Li, Jinbao Li, Shouling Ji
 
 
-+ [ Asymmetric Bias in Text-to-Image Generation with Adversarial Attacks](http://arxiv.org/abs/2312.14440)`uncheck`
++ [ Asymmetric Bias in Text-to-Image Generation with Adversarial Attacks](http://arxiv.org/abs/2312.14440)
 
     Haz Sameen Shahgir, Xianghao Kong, Greg Ver Steeg, Yue Dong
 
 
-+ [ Understanding the Regularity of Self-Attention with Optimal Transport](http://arxiv.org/abs/2312.14820)`uncheck`
++ [ Understanding the Regularity of Self-Attention with Optimal Transport](http://arxiv.org/abs/2312.14820)
 
     Valérie Castin, Pierre Ablin, Gabriel Peyré
 
 
-+ [ Attacking Byzantine Robust Aggregation in High Dimensions](http://arxiv.org/abs/2312.14461)`uncheck`
++ [ Attacking Byzantine Robust Aggregation in High Dimensions](http://arxiv.org/abs/2312.14461)
 
     Sarthak Choudhary, Aashish Kolluri, Prateek Saxena
 
 
-+ [ SODA: Protecting Proprietary Information in On-Device Machine Learning Models](http://arxiv.org/abs/2312.15036)`uncheck`
++ [ SODA: Protecting Proprietary Information in On-Device Machine Learning Models](http://arxiv.org/abs/2312.15036)
 
     Akanksha Atrey, Ritwik Sinha, Saayan Mitra, Prashant Shenoy
 
 
-+ [ Energy-based learning algorithms for analog computing: a comparative study](http://arxiv.org/abs/2312.15103)`uncheck`
++ [ Energy-based learning algorithms for analog computing: a comparative study](http://arxiv.org/abs/2312.15103)
 
     Benjamin Scellier, Maxence Ernoult, Jack Kendall, Suhas Kumar
 
 
-+ [ Adaptive Domain Inference Attack](http://arxiv.org/abs/2312.15088)`uncheck`
++ [ Adaptive Domain Inference Attack](http://arxiv.org/abs/2312.15088)
 
     Yuechun Gu, Keke Chen
 
@@ -177,7 +177,7 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 + [ Using GPT-4 Prompts to Determine Whether Articles Contain Functional  Evidence Supporting or Refuting Variant Pathogenicity](https://arxiv.org//abs/2312.13521)
 
-	Samuel J. Aronson (1,2), Kalotina Machini (1,3), Pranav Sriraman (1), Jiyeon Shin (2), Emma R. Henricks (1), Charlotte Mailly (1,2), Angie J. Nottage (1), Michael Oates (1,2), Matthew S. Lebo (1,3) ((1) Mass Gneral Brigham Personalized Medicine, (2) Accelerator for Clinical Transformation, Mass General Brigham, (3) Department of Pathology, Brigham and Women's Hospital)
+	Samuel J. Aronson, Kalotina Machini, Pranav Sriraman, Jiyeon Shin, Emma R. Henricks, Charlotte Mailly, Angie J. Nottage, Michael Oates, Matthew S. Lebo
 
 
 + [ SADA: Semantic adversarial unsupervised domain adaptation for Temporal  Action Localization](https://arxiv.org//abs/2312.13377)
