@@ -2,6 +2,74 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+## 2024-01-01
++ [ Red Teaming for Large Language Models At Scale: Tackling Hallucinations  on Mathematics Tasks](https://arxiv.org//abs/2401.00290)`uncheck`
+
+	Aleksander Buszydlik, Karol Dobiczek, Michał Teodor Okoń, Konrad Skublicki, Philip Lippmann, Jie Yang
+
+
++ [ A & B == B & A: Triggering Logical Reasoning Failures in Large Language  Models](https://arxiv.org//abs/2401.00757)`uncheck`
+
+	Yuxuan Wan, Wenxuan Wang, Yiliu Yang, Youliang Yuan, Jen-tse Huang, Pinjia He, Wenxiang Jiao, Michael R. Lyu
+
+
++ [ Explainability-Driven Leaf Disease Classification using Adversarial  Training and Knowledge Distillation](https://arxiv.org//abs/2401.00334)`uncheck`
+
+	Sebastian-Vasile Echim, Iulian-Marius Tăiatu, Dumitru-Clementin Cercel, Florin Pop
+
+
++ [ SHARE: Single-view Human Adversarial REconstruction](https://arxiv.org//abs/2401.00343)`uncheck`
+
+	Shreelekha Revankar, Shijia Liao, Yu Shen, Junbang Liang, Huaishu Peng, Ming Lin
+
+
++ [ SSL-OTA: Unveiling Backdoor Threats in Self-Supervised Learning for  Object Detection](https://arxiv.org//abs/2401.00137)`uncheck`
+
+	Qiannan Wang, Changchun Yin, Liming Fang, Lu Zhou, Zhe Liu, Run Wang, Chenhao Lin
+
+
++ [ Adversarially Trained Actor Critic for offline CMDPs](https://arxiv.org//abs/2401.00629)`uncheck`
+
+	Honghao Wei, Xiyue Peng, Xin Liu, Arnob Ghosh
+
+
+## 2023-12-31
++ [ Is It Possible to Backdoor Face Forgery Detection with Natural Triggers](http://arxiv.org/abs/2401.00414)`uncheck`
+
+    Xiaoxuan Han, Songlin Yang, Wei Wang, Ziwen He, Jing Dong
+
+
+## 2023-12-30
++ [ Explainability-Driven Leaf Disease Classification using Adversarial Training and Knowledge Distillation](http://arxiv.org/abs/2401.00334)`uncheck`
+
+    Sebastian-Vasile Echim, Iulian-Marius Tăiatu, Dumitru-Clementin Cercel, Florin Pop       
+
+
++ [ CamPro: Camera-based Anti-Facial Recognition](http://arxiv.org/abs/2401.00151)`uncheck`  
+
+    Wenjun Zhu, Yuan Sun, Jiani Liu, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu
+
+
++ [ TPatch: A Triggered Physical Adversarial Patch](http://arxiv.org/abs/2401.00148)`uncheck`
+    Wenjun Zhu, Xiaoyu Ji, Yushi Cheng, Shibo Zhang, Wenyuan Xu
+
+
++ [ A clean-label graph backdoor attack method in node classification task](http://arxiv.org/abs/2401.00163)`uncheck`
+
+    Xiaogang Xing, Ming Xu, Yujing Bai, Dongdong Yang
+
+
+## 2023-12-29
++ [ Jatmo: Prompt Injection Defense by Task-Specific Finetuning](http://arxiv.org/abs/2312.17673)`uncheck`
+
+    Julien Piet, Maha Alrashed, Chawin Sitawarin, Sizhe Chen, Zeming Wei, Elizabeth Sun, Basel Alomair, David Wagner
+
+
++ [ Towards Faithful Explanations for Text Classification with Robustness Improvement and Explanation Guided Training](http://arxiv.org/abs/2312.17591)`uncheck`
+
+    Dongfang Li, Baotian Hu, Qingcai Chen, Shan He
+
+
 ## 2023-12-28
 + [ Layer Attack Unlearning: Fast and Accurate Machine Unlearning via Layer  Level Attack and Knowledge Distillation](https://arxiv.org//abs/2312.16823)
 
