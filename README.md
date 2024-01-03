@@ -2,6 +2,57 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+## 2024-01-02
++ [ Safety and Performance, Why Not Both? Bi-Objective Optimized Model  Compression against Heterogeneous Attacks Toward AI Software Deployment](https://arxiv.org//abs/2401.00996)`uncheck`
+
+	Jie Zhu, Leye Wang, Xiao Han, Anmin Liu, Tao Xie
+
+
++ [ Teach Large Language Models to Forget Privacy](https://arxiv.org//abs/2401.00870)`uncheck`
+
+	Ran Yan, Yujun Li, Wenqian Li, Peihua Mai, Yan Pang, Yinchuan Li
+
+
++ [ PPBFL: A Privacy Protected Blockchain-based Federated Learning Model](https://arxiv.org//abs/2401.01204)`uncheck`
+
+	Yang Li, Chunhe Xia, Wanshuang Lin, Tianbo Wang
+
+
++ [ LLbezpeky: Leveraging Large Language Models for Vulnerability Detection](https://arxiv.org//abs/2
+401.01269)`uncheck`
+
+	Noble Saji Mathews, Yelizaveta Brus, Yousra Aafer, Mei Nagappan, Shane McIntosh
+
++ [ Noise-NeRF: Hide Information in Neural Radiance Fields using Trainable  Noise](https://arxiv.org//abs/2401.01216)`uncheck`
+
+	Qinglong Huang, Yong Liao, Yanbin Hao, Pengyuan Zhou
+
+
++ [ Imperio: Language-Guided Backdoor Attacks for Arbitrary Model Control](https://arxiv.org//abs/2401.01085)`uncheck`
+
+	Ka-Ho Chow, Wenqi Wei, Lei Yu
+
+
++ [ Efficient Sparse Least Absolute Deviation Regression with Differential  Privacy](https://arxiv.org//abs/2401.01294)`uncheck`
+
+	Weidong Liu, Xiaojun Mao, Xiaofei Zhang, Xin Zhang
+
+
++ [ Opening A Pandora's Box: Things You Should Know in the Era of Custom  GPTs](https://arxiv.org//abs/2401.00905)`uncheck`
+
+	Guanhong Tao, Siyuan Cheng, Zhuo Zhang, Junmin Zhu, Guangyu Shen, Xiangyu Zhang
+
+
++ [ A Novel Evaluation Framework for Assessing Resilience Against Prompt  Injection Attacks in Large Language Models](https://arxiv.org//abs/2401.00991)`uncheck`
+
+	Daniel Wankit Yip, Aysan Esmradi, Chun Fai Chan
+
+
++ [ Detection and Defense Against Prominent Attacks on Preconditioned  LLM-Integrated Virtual Assistants](https://arxiv.org//abs/2401.00994)`uncheck`
+
+	Chun Fai Chan, Daniel Wankit Yip, Aysan Esmradi
+
+
 ## 2024-01-01
 + [ Red Teaming for Large Language Models At Scale: Tackling Hallucinations  on Mathematics Tasks](https://arxiv.org//abs/2401.00290)
 
