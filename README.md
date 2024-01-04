@@ -3,52 +3,52 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 ## 2024-01-02
-+ [ Safety and Performance, Why Not Both? Bi-Objective Optimized Model  Compression against Heterogeneous Attacks Toward AI Software Deployment](https://arxiv.org//abs/2401.00996)`uncheck`
++ [ Safety and Performance, Why Not Both? Bi-Objective Optimized Model  Compression against Heterogeneous Attacks Toward AI Software Deployment](https://arxiv.org//abs/2401.00996)
 
 	Jie Zhu, Leye Wang, Xiao Han, Anmin Liu, Tao Xie
 
 
-+ [ Teach Large Language Models to Forget Privacy](https://arxiv.org//abs/2401.00870)`uncheck`
++ [ Teach Large Language Models to Forget Privacy](https://arxiv.org//abs/2401.00870)
 
 	Ran Yan, Yujun Li, Wenqian Li, Peihua Mai, Yan Pang, Yinchuan Li
 
 
-+ [ PPBFL: A Privacy Protected Blockchain-based Federated Learning Model](https://arxiv.org//abs/2401.01204)`uncheck`
++ [ PPBFL: A Privacy Protected Blockchain-based Federated Learning Model](https://arxiv.org//abs/2401.01204)
 
 	Yang Li, Chunhe Xia, Wanshuang Lin, Tianbo Wang
 
 
-+ [ LLbezpeky: Leveraging Large Language Models for Vulnerability Detection](https://arxiv.org//abs/2
-401.01269)`uncheck`
++ [ LLbezpeky: Leveraging Large Language Models for Vulnerability Detection](https://arxiv.org//abs/2401.01269)
 
 	Noble Saji Mathews, Yelizaveta Brus, Yousra Aafer, Mei Nagappan, Shane McIntosh
 
-+ [ Noise-NeRF: Hide Information in Neural Radiance Fields using Trainable  Noise](https://arxiv.org//abs/2401.01216)`uncheck`
+
++ [ Noise-NeRF: Hide Information in Neural Radiance Fields using Trainable  Noise](https://arxiv.org//abs/2401.01216)
 
 	Qinglong Huang, Yong Liao, Yanbin Hao, Pengyuan Zhou
 
 
-+ [ Imperio: Language-Guided Backdoor Attacks for Arbitrary Model Control](https://arxiv.org//abs/2401.01085)`uncheck`
++ [ Imperio: Language-Guided Backdoor Attacks for Arbitrary Model Control](https://arxiv.org//abs/2401.01085)
 
 	Ka-Ho Chow, Wenqi Wei, Lei Yu
 
 
-+ [ Efficient Sparse Least Absolute Deviation Regression with Differential  Privacy](https://arxiv.org//abs/2401.01294)`uncheck`
++ [ Efficient Sparse Least Absolute Deviation Regression with Differential  Privacy](https://arxiv.org//abs/2401.01294)
 
 	Weidong Liu, Xiaojun Mao, Xiaofei Zhang, Xin Zhang
 
 
-+ [ Opening A Pandora's Box: Things You Should Know in the Era of Custom  GPTs](https://arxiv.org//abs/2401.00905)`uncheck`
++ [ Opening A Pandora's Box: Things You Should Know in the Era of Custom  GPTs](https://arxiv.org//abs/2401.00905)
 
 	Guanhong Tao, Siyuan Cheng, Zhuo Zhang, Junmin Zhu, Guangyu Shen, Xiangyu Zhang
 
 
-+ [ A Novel Evaluation Framework for Assessing Resilience Against Prompt  Injection Attacks in Large Language Models](https://arxiv.org//abs/2401.00991)`uncheck`
++ [ A Novel Evaluation Framework for Assessing Resilience Against Prompt  Injection Attacks in Large Language Models](https://arxiv.org//abs/2401.00991)
 
 	Daniel Wankit Yip, Aysan Esmradi, Chun Fai Chan
 
 
-+ [ Detection and Defense Against Prominent Attacks on Preconditioned  LLM-Integrated Virtual Assistants](https://arxiv.org//abs/2401.00994)`uncheck`
++ [ Detection and Defense Against Prominent Attacks on Preconditioned  LLM-Integrated Virtual Assistants](https://arxiv.org//abs/2401.00994)
 
 	Chun Fai Chan, Daniel Wankit Yip, Aysan Esmradi
 
