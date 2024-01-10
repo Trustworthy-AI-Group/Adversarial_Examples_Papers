@@ -3,203 +3,178 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 ## 2024-01-09
-+ [ Deep Anomaly Detection in Text](https://arxiv.org//abs/2401.02971)`uncheck`
++ [ Deep Anomaly Detection in Text](https://arxiv.org//abs/2401.02971)
 
 	Andrei Manolache
 
 
-+ [ Human as AI Mentor: Enhanced Human-in-the-loop Reinforcement Learning  for Safe and Efficient Autonomous Driving](https://arxiv.org//abs/2401.03160)`uncheck`
++ [ Human as AI Mentor: Enhanced Human-in-the-loop Reinforcement Learning  for Safe and Efficient Autonomous Driving](https://arxiv.org//abs/2401.03160)
 
 	Zilin Huang, Zihao Sheng, Chengyuan Ma, Sikai Chen
 
 
-+ [ An Investigation of Large Language Models for Real-World Hate Speech  Detection](https://arxiv.org//abs/2401.03346)`uncheck`
++ [ An Investigation of Large Language Models for Real-World Hate Speech  Detection](https://arxiv.org//abs/2401.03346)
 
 	Keyan Guo, Alexander Hu, Jaden Mu, Ziheng Shi, Ziming Zhao, Nishant Vishwamitra, Hongxin Hu
 
 
-+ [ LLM-Powered Code Vulnerability Repair with Reinforcement Learning and  Semantic Reward](https://arxiv.org//abs/2401.03374)`uncheck`
++ [ LLM-Powered Code Vulnerability Repair with Reinforcement Learning and  Semantic Reward](https://arxiv.org//abs/2401.03374)
 
 	Nafis Tanveer Islam, Joseph Khoury, Andrew Seong, Gonzalo De La Torre Parra, Elias Bou-Harb, Peyman Najafirad
 
 
-+ [ GLOCALFAIR: Jointly Improving Global and Local Group Fairness in  Federated Learning](https://arxiv.org//abs/2401.03562)`uncheck`
++ [ GLOCALFAIR: Jointly Improving Global and Local Group Fairness in  Federated Learning](https://arxiv.org//abs/2401.03562)
 
 	Syed Irfan Ali Meerza, Luyang Liu, Jiaxin Zhang, Jian Liu
 
 
-+ [ Few-Shot Causal Representation Learning for Out-of-Distribution  Generalization on Heterogeneous Graphs](https://arxiv.org//abs/2401.03597)`uncheck`
++ [ Few-Shot Causal Representation Learning for Out-of-Distribution  Generalization on Heterogeneous Graphs](https://arxiv.org//abs/2401.03597)
 
 	Pengfei Ding, Yan Wang, Guanfeng Liu, Nan Wang
 
 
-+ [ A Large-scale Empirical Study on Improving the Fairness of Deep Learning  Models](https://arxiv.org//abs/2401.03695)`uncheck`
++ [ A Large-scale Empirical Study on Improving the Fairness of Deep Learning  Models](https://arxiv.org//abs/2401.03695)
 
 	Junjie Yang, Jiajun Jiang, Zeyu Sun, Junjie Chen
 
 
-+ [ The Butterfly Effect of Altering Prompts: How Small Changes and  Jailbreaks Affect Large Language Model Performance](https://arxiv.org//abs/2401.03729)`uncheck`
++ [ The Butterfly Effect of Altering Prompts: How Small Changes and  Jailbreaks Affect Large Language Model Performance](https://arxiv.org//abs/2401.03729)
 
 	Abel Salinas, Fred Morstatter
 
 
-+ [ Language Models Understand Numbers, at Least Partially](https://arxiv.org//abs/2401.03735)`uncheck`
-
-	Fangwei Zhu, Damai Dai, Zhifang Sui
-
-
-+ [ Transferable Learned Image Compression-Resistant Adversarial  Perturbations](https://arxiv.org//abs/2401.03115)`uncheck`
++ [ Transferable Learned Image Compression-Resistant Adversarial  Perturbations](https://arxiv.org//abs/2401.03115)
 
 	Yang Sui, Zhuohang Li, Ding Ding, Xiang Pan, Xiaozhong Xu, Shan Liu, Zhenzhong Chen
 
 
-+ [ Adaptive Boosting with Fairness-aware Reweighting Technique for Fair  Classification](https://arxiv.org//abs/2401.03097)`uncheck`
++ [ Adaptive Boosting with Fairness-aware Reweighting Technique for Fair  Classification](https://arxiv.org//abs/2401.03097)
 
 	Xiaobin Song, Zeyuan Liu, Benben Jiang
 
 
-+ [ Data-Dependent Stability Analysis of Adversarial Training](https://arxiv.org//abs/2401.03156)`uncheck`
-
-	Yihan Wang, Shuang Liu, Xiao-Shan Gao
-
-
-+ [ End-to-End Anti-Backdoor Learning on Images and Time Series](https://arxiv.org//abs/2401.03215)`uncheck`
-
-	Yujing Jiang, Xingjun Ma, Sarah Monazam Erfani, Yige Li, James Bailey
-
-
-+ [ Accurate and Scalable Estimation of Epistemic Uncertainty for Graph  Neural Networks](https://arxiv.org//abs/2401.03350)`uncheck`
++ [ Accurate and Scalable Estimation of Epistemic Uncertainty for Graph  Neural Networks](https://arxiv.org//abs/2401.03350)
 
 	Puja Trivedi, Mark Heimann, Rushil Anirudh, Danai Koutra, Jayaraman J. Thiagarajan
 
 
-+ [ Data-Driven Subsampling in the Presence of an Adversarial Actor](https://arxiv.org//abs/2401.03488)`uncheck`
-
-	Abu Shafin Mohammad Mahdee Jameel, Ahmed P. Mohamed, Jinho Yi, Aly El Gamal, Akshay Malhotra
-
-
-+ [ Logits Poisoning Attack in Federated Distillation](https://arxiv.org//abs/2401.03685)`uncheck`
-
-	Yuhan Tang, Zhiyuan Wu, Bo Gao, Tian Wen, Yuwei Wang, Sheng Sun
-
-	
 ## 2024-01-08
-+ [ Logits Poisoning Attack in Federated Distillation](http://arxiv.org/abs/2401.03685)`uncheck`
++ [ Logits Poisoning Attack in Federated Distillation](http://arxiv.org/abs/2401.03685)
 
     Yuhan Tang, Zhiyuan Wu, Bo Gao, Tian Wen, Yuwei Wang, Sheng Sun
 
 
 ## 2024-01-07
-+ [ Invisible Reflections: Leveraging Infrared Laser Reflections to Target Traffic Sign Perception](http://arxiv.org/abs/2401.03582)`uncheck`
++ [ Invisible Reflections: Leveraging Infrared Laser Reflections to Target Traffic Sign Perception](http://arxiv.org/abs/2401.03582)
 
     Takami Sato, Sri Hrushikesh Varma Bhupathiraju, Michael Clifford, Takeshi Sugawara, Qi Alfred Chen, Sara Rampazzi
 
 
-+ [ Data-Driven Subsampling in the Presence of an Adversarial Actor](http://arxiv.org/abs/2401.03488)`uncheck`
++ [ Data-Driven Subsampling in the Presence of an Adversarial Actor](http://arxiv.org/abs/2401.03488)
 
     Abu Shafin Mohammad Mahdee Jameel, Ahmed P. Mohamed, Jinho Yi, Aly El Gamal, Akshay Malhotra
 
 
-+ [ ROIC-DM: Robust Text Inference and Classification via Diffusion Model](http://arxiv.org/abs/2401.03514)`uncheck`
++ [ ROIC-DM: Robust Text Inference and Classification via Diffusion Model](http://arxiv.org/abs/2401.03514)
 
     Shilong Yuan, Wei Yuan, Tieke HE
 
 
 ## 2024-01-06
-+ [ Data-Dependent Stability Analysis of Adversarial Training](http://arxiv.org/abs/2401.03156)`uncheck`
++ [ Data-Dependent Stability Analysis of Adversarial Training](http://arxiv.org/abs/2401.03156)
 
     Yihan Wang, Shuang Liu, Xiao-Shan Gao
 
 
-+ [ End-to-End Anti-Backdoor Learning on Images and Time Series](http://arxiv.org/abs/2401.03215)`uncheck`
++ [ End-to-End Anti-Backdoor Learning on Images and Time Series](http://arxiv.org/abs/2401.03215)
 
     Yujing Jiang, Xingjun Ma, Sarah Monazam Erfani, Yige Li, James Bailey
 
 
 ## 2024-01-05
-+ [ Transferable Learned Image Compression-Resistant Adversarial Perturbations](http://arxiv.org/abs/2401.03115)`uncheck`
++ [ Transferable Learned Image Compression-Resistant Adversarial Perturbations](http://arxiv.org/abs/2401.03115)
 
     Yang Sui, Zhuohang Li, Ding Ding, Xiang Pan, Xiaozhong Xu, Shan Liu, Zhenzhong Chen
 
 
-+ [ Enhancing targeted transferability via feature space fine-tuning](http://arxiv.org/abs/2401.02727)`uncheck`
++ [ Enhancing targeted transferability via feature space fine-tuning](http://arxiv.org/abs/2401.02727)
 
     Hui Zeng, Biwei Chen, Anjie Peng
 
 
-+ [ Calibration Attack: A Framework For Adversarial Attacks Targeting Calibration](http://arxiv.org/abs/2401.02718)`uncheck`
++ [ Calibration Attack: A Framework For Adversarial Attacks Targeting Calibration](http://arxiv.org/abs/2401.02718)
 
     Stephen Obadinma, Xiaodan Zhu, Hongyu Guo
 
 
-+ [ A backdoor attack against link prediction tasks with graph neural networks](http://arxiv.org/abs/2401.02663)`uncheck`
++ [ A backdoor attack against link prediction tasks with graph neural networks](http://arxiv.org/abs/2401.02663)
 
     Jiazhu Dai, Haoyu Sun
 
 
-+ [ MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance](http://arxiv.org/abs/2401.02906)`uncheck`
++ [ MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance](http://arxiv.org/abs/2401.02906)
 
     Renjie Pi, Tianyang Han, Yueqi Xie, Rui Pan, Qing Lian, Hanze Dong, Jipeng Zhang, Tong Zhang
 
 
 ## 2024-01-04
-+ [ Vulnerabilities Unveiled: Adversarially Attacking a Multimodal Vision Langauge Model for Pathology Imaging](http://arxiv.org/abs/2401.02565)`uncheck`   
++ [ Vulnerabilities Unveiled: Adversarially Attacking a Multimodal Vision Langauge Model for Pathology Imaging](http://arxiv.org/abs/2401.02565)   
 
     Jai Prakash Veerla, Poojitha Thota, Partha Sai Guttikonda, Shirin Nilizadeh, Jacob M. Luber
 
 
-+ [ A Random Ensemble of Encrypted models for Enhancing Robustness against Adversarial Examples](http://arxiv.org/abs/2401.02633)`uncheck`
++ [ A Random Ensemble of Encrypted models for Enhancing Robustness against Adversarial Examples](http://arxiv.org/abs/2401.02633)
 
     Ryota Iijima, Sayaka Shiota, Hitoshi Kiya
 
 
-+ [ AdvSQLi: Generating Adversarial SQL Injections against Real-world WAF-as-a-service](http://arxiv.org/abs/2401.02615)`uncheck`
++ [ AdvSQLi: Generating Adversarial SQL Injections against Real-world WAF-as-a-service](http://arxiv.org/abs/2401.02615)
 
     Zhenqing Qu, Xiang Ling, Ting Wang, Xiang Chen, Shouling Ji, Chunming Wu
 
 
-+ [ Evasive Hardware Trojan through Adversarial Power Trace](http://arxiv.org/abs/2401.02342)`uncheck`
++ [ Evasive Hardware Trojan through Adversarial Power Trace](http://arxiv.org/abs/2401.02342)
 
     Behnam Omidi, Khaled N. Khasawneh, Ihsen Alouani
 
 
-+ [ Object-oriented backdoor attack against image captioning](http://arxiv.org/abs/2401.02600)`uncheck`
++ [ Object-oriented backdoor attack against image captioning](http://arxiv.org/abs/2401.02600)
 
     Meiling Li, Nan Zhong, Xinpeng Zhang, Zhenxing Qian, Sheng Li
 
 
-+ [ DEM: A Method for Certifying Deep Neural Network Classifier Outputs in Aerospace](http://arxiv.org/abs/2401.02283)`uncheck`
++ [ DEM: A Method for Certifying Deep Neural Network Classifier Outputs in Aerospace](http://arxiv.org/abs/2401.02283)
 
     Guy Katz, Natan Levy, Idan Refaeli, Raz Yerushalmi
 
 
-+ [ Secure Control of Connected and Automated Vehicles Using Trust-Aware Robust Event-Triggered Control Barrier Functions](http://arxiv.org/abs/2401.02306)`uncheck`
++ [ Secure Control of Connected and Automated Vehicles Using Trust-Aware Robust Event-Triggered Control Barrier Functions](http://arxiv.org/abs/2401.02306)
 
     H M Sabbir Ahmad, Ehsan Sabouni, Akua Dickson, Wei Xiao, Christos G. Cassandras, Wenchao Li
 
 
 ## 2024-01-03
-+ [ Towards Robust Semantic Segmentation against Patch-based Attack via Attention Refinement](http://arxiv.org/abs/2401.01750)`uncheck`
++ [ Towards Robust Semantic Segmentation against Patch-based Attack via Attention Refinement](http://arxiv.org/abs/2401.01750)
 
     Zheng Yuan, Jie Zhang, Yude Wang, Shiguang Shan, Xilin Chen
 
 
-+ [ Spy-Watermark: Robust Invisible Watermarking for Backdoor Attack](http://arxiv.org/abs/2401.02031)`uncheck`
++ [ Spy-Watermark: Robust Invisible Watermarking for Backdoor Attack](http://arxiv.org/abs/2401.02031)
 
     Ruofei Wang, Renjie Wan, Zongyu Guo, Qing Guo, Rui Huang
 
 
-+ [ FullLoRA-AT: Efficiently Boosting the Robustness of Pretrained Vision Transformers](http://arxiv.org/abs/2401.01752)`uncheck`
++ [ FullLoRA-AT: Efficiently Boosting the Robustness of Pretrained Vision Transformers](http://arxiv.org/abs/2401.01752)
 
     Zheng Yuan, Jie Zhang, Shiguang Shan
 
 
-+ [ Integrated Cyber-Physical Resiliency for Power Grids under IoT-Enabled Dynamic Botnet Attacks](http://arxiv.org/abs/2401.01963)`uncheck`
++ [ Integrated Cyber-Physical Resiliency for Power Grids under IoT-Enabled Dynamic Botnet Attacks](http://arxiv.org/abs/2401.01963)
 
     Yuhan Zhao, Juntao Chen, Quanyan Zhu
 
 
-+ [ Enhancing Generalization of Invisible Facial Privacy Cloak via Gradient Accumulation](http://arxiv.org/abs/2401.01575)`uncheck`
++ [ Enhancing Generalization of Invisible Facial Privacy Cloak via Gradient Accumulation](http://arxiv.org/abs/2401.01575)
 
     Xuannan Liu, Yaoyao Zhong, Weihong Deng, Hongzhi Shi, Xingchen Cui, Yunfeng Yin, Dongchao Wen
 
