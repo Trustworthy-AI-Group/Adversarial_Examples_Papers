@@ -463,6 +463,11 @@ We also provide a  complete list of papers about adversarial examples [here](htt
     Juanjuan Weng, Zhiming Luo, Zhun Zhong, Shaozi Li, Nicu Sebe
 
 
++ [ Enhancing targeted transferability via feature space fine-tuning](http://arxiv.org/abs/2401.02727) (ICASSP 2024)
+
+    Hui Zeng, Biwei Chen, Anjie Peng
+
+  
 ### Model-related Attack
 
 + [A little robustness goes a long way: Leveraging robust features for targeted transfer attacks](https://arxiv.org/abs/2106.02105) (NeurIPS 2021)
@@ -495,6 +500,11 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 + [Towards Transferable Targeted Adversarial Examples](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Towards_Transferable_Targeted_Adversarial_Examples_CVPR_2023_paper.pdf) (CVPR 2023)
 
 	Zhibo Wang, Hongshan Yang, Yunhe Feng, Peng Sun, Hengchang Guo, Zhifei Zhang, Kui Ren
+
+
++ [GE-AdvGAN: Improving the transferability of adversarial samples by gradient editing-based adversarial generative model](https://arxiv.org/abs/2401.06031) (SDM 2024)
+
+	Zhiyu Zhu, Huaming Chen, Xinyi Wang, Jiayu Zhang, Zhibo Jin, Kim-Kwang Raymond Choo
 
 
 ## Survey & Benchmark
