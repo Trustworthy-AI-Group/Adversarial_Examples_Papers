@@ -49,6 +49,7 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	He Zhao, Zhiwei Zeng, Yongwei Wang, Deheng Ye, Chunyan Miao
 
+
 + [ Hijacking Attacks against Neural Networks by Analyzing Training Data](https://arxiv.org//abs/2401.09740)
 
 	Yunjie Ge, Qian Wang, Huayang Huang, Qi Li, Cong Wang, Chao Shen, Lingchen Zhao, Peipei Jiang, Zheng Fang, Shenyi Zhang
@@ -101,6 +102,7 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Exploring Adversarial Attacks against Latent Diffusion Model from the Perspective of Adversarial Transferability](https://arxiv.org/abs/2401.07087)
 
 	Junxi Chen, Junhao Dong, Xiaohua Xie
+
 
 + [ Crafter: Facial Feature Crafting against Inversion-based Identity Theft on Deep Models](https://arxiv.org/abs/2401.07205)
 

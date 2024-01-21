@@ -529,6 +529,8 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 	Guangjing Wang, Ce Zhou, Yuanda Wang, Bocheng Chen, Hanqing Guo, Qiben Yan
 
 
++ [ Bag of Tricks to Boost Adversarial Transferability](https://arxiv.org/abs/2401.08734) (arXiv preprint arXiv: 2401.08734 2024)
 
+	Zeliang Zhang, Rongyi Zhu, Wei Yao, Xiaosen Wang, Chenliang Xu
 
 
