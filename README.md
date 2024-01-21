@@ -2,6 +2,179 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+
+## 2024-01-19
++ [ Uncertainty-Aware Hardware Trojan Detection Using Multimodal Deep  Learning](https://arxiv.org//abs/2401.09479)
+
+	Rahul Vishwakarma, Amin Rezaei
+
+
++ [ Power in Numbers: Robust reading comprehension by finetuning with four  adversarial sentences per example](https://arxiv.org//abs/2401.10091)
+
+	Ariel Marcus
+
+
++ [ Marrying Adapters and Mixup to Efficiently Enhance the Adversarial  Robustness of Pre-Trained Language Models for Text Classification](https://arxiv.org//abs/2401.10111)
+
+	Tuc Nguyen, Thai Le
+
+
++ [ Artwork Protection Against Neural Style Transfer Using Locally Adaptive  Adversarial Color Attack](https://arxiv.org//abs/2401.09673)
+
+	Zhongliang Guo, Kaixuan Wang, Weiye Li, Yifei Qian, Ognjen Arandjelović, Lei Fang
+
+
++ [ Cross-Modality Perturbation Synergy Attack for Person Re-identification](https://arxiv.org//abs/2401.10090)
+
+	Yunpeng Gong, others
+
+
++ [ MedBlindTuner: Towards Privacy-preserving Fine-tuning on Biomedical  Images with Transformers and Fully Homomorphic Encryption](https://arxiv.org//abs/2401.09604)
+
+	Prajwal Panzade, Daniel Takabi, Zhipeng Cai
+
+
++ [ MITS-GAN: Safeguarding Medical Imaging from Tampering with Generative  Adversarial Networks](https://arxiv.org//abs/2401.09624)
+
+	Giovanni Pasqualino, Luca Guarnera, Alessandro Ortis, Sebastiano Battiato
+
+
++ [ Universally Robust Graph Neural Networks by Preserving Neighbor  Similarity](https://arxiv.org//abs/2401.09754)
+
+	Yulin Zhu, Yuni Lai, Xing Ai, Kai Zhou
+
+
+## 2024-01-18
++ [ HGAttack: Transferable Heterogeneous Graph Adversarial Attack](https://arxiv.org//abs/2401.09945)
+
+	He Zhao, Zhiwei Zeng, Yongwei Wang, Deheng Ye, Chunyan Miao
+
++ [ Hijacking Attacks against Neural Networks by Analyzing Training Data](https://arxiv.org//abs/2401.09740)
+
+	Yunjie Ge, Qian Wang, Huayang Huang, Qi Li, Cong Wang, Chao Shen, Lingchen Zhao, Peipei Jiang, Zheng Fang, Shenyi Zhang
+
+
+## 2024-01-17
++ [MITS-GAN: Safeguarding Medical Imaging from Tampering with Generative Adversarial Networks](https://arxiv.org/abs/2401.09624)
+
+	Giovanni Pasqualino, Luca Guarnera, Alessandro Ortis, Sebastiano Battiato
+
+
++ [An Optimal Transport Approach for Computing Adversarial Training Lower Bounds in Multiclass Classification](https://arxiv.org/abs/2401.09191)
+
+	Nicolas Garcia Trillos, Matt Jacobs, Jakwang Kim, Matthew Werenski
+
+
++ [Artwork Protection Against Neural Style Transfer Using Locally Adaptive Adversarial Color Attack](https://arxiv.org/abs/2401.09673)
+
+	Zhongliang Guo, Kaixuan Wang, Weiye Li, Yifei Qian, Ognjen Arandjelović, Lei Fang
+
+
+## 2024-01-16
++ [ Bag of Tricks to Boost Adversarial Transferability](https://arxiv.org/abs/2401.08734)
+
+	Zeliang Zhang, Rongyi Zhu, Wei Yao, Xiaosen Wang, Chenliang Xu
+
+
++ [ Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning](https://arxiv.org/abs/2401.08216)
+
+	Yu Jiang, Jiyuan Shen, Ziyao Liu, Chee Wei Tan, Kwok-Yan Lam
+
+
++ [ PPR: Enhancing Dodging Attacks while Maintaining Impersonation Attacks on Face Recognition Systems](https://arxiv.org/abs/2401.08903)
+
+	Fengfan Zhou, Heifei Ling
+
+
++ [ A Generative Adversarial Attack for Multilingual Text Classifiers](https://arxiv.org/abs/2401.08255)
+
+	Tom Roth, Inigo Jauregi Unanue, Alsharif Abuadbba, Massimo Piccardi
+
+
+
+## 2024-01-15
++ [ Left-right Discrepancy for Adversarial Attack on Stereo Networks](https://arxiv.org/abs/2401.07188)
+
+	Pengfei Wang, Xiaofei Hui, Beijia Lu, Nimrod Lilith, Jun Liu, Sameer Alam
+
+
++ [ Exploring Adversarial Attacks against Latent Diffusion Model from the Perspective of Adversarial Transferability](https://arxiv.org/abs/2401.07087)
+
+	Junxi Chen, Junhao Dong, Xiaohua Xie
+
++ [ Crafter: Facial Feature Crafting against Inversion-based Identity Theft on Deep Models](https://arxiv.org/abs/2401.07205)
+
+	Shiming Wang, Zhe Ji, Liyao Xiang, Hao Zhang, Xinbing Wang, Chenghu Zhou, Bo Li
+
+
++ [ Robustness Against Adversarial Attacks via Learning Confined Adversarial Polytopes](https://arxiv.org/abs/2401.06373)
+
+	Shayan Mohajer Hamidi; Linfeng Ye
+
+
+## 2024-01-12
++ [ An Analytical Framework for Modeling and Synthesizing Malicious Attacks on ACC Vehicles](https://arxiv.org/abs/2401.06916)
+
+	Shian Wang
+
+
++ [ Adversarial Examples are Misaligned in Diffusion Model Manifolds](https://arxiv.org/abs/2401.06637)
+
+	Peter Lorenz, Ricard Durall, Janis Keuper
+
+
++ [ How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs](https://arxiv.org/abs/2401.06373)
+
+	Yi Zeng, Hongpeng Lin, Jingwen Zhang, Diyi Yang, Ruoxi Jia, Weiyan Shi
+
+
+## 2024-01-11
++ [ Combating Adversarial Attacks with Multi-Agent Debate](https://arxiv.org/abs/2401.05998)
+
+	Steffi Chern, Zhen Fan, Andy Liu
+
+
++ [ GE-AdvGAN: Improving the transferability of adversarial samples by gradient editing-based adversarial generative model](https://arxiv.org/abs/2401.06031)
+
+	Zhiyu Zhu, Huaming Chen, Xinyi Wang, Jiayu Zhang, Zhibo Jin, Kim-Kwang Raymond Choo
+
+
++ [ Universal Vulnerabilities in Large Language Models: In-context Learning Backdoor Attacks](https://arxiv.org/abs/2401.05949)
+
+	Shuai Zhao, Meihuizi Jia, Luu Anh Tuan, Jinming Wen
+
+
++ [ Can We Trust the Unlabeled Target Data? Towards Backdoor Attack and Defense on Model Adaptation](https://arxiv.org/abs/2401.06030)
+
+	Lijun Sheng, Jian Liang, Ran He, Zilei Wang, Tieniu Tan
+
+
+## 2024-01-10
++ [ Revisiting Adversarial Training at Scale](https://arxiv.org/abs/2401.04727)
+
+	Zeyu Wang, Xianhang Li, Hongru Zhu, Cihang Xie
+
+
++ [ SoK: Facial Deepfake Detectors](https://arxiv.org/abs/2401.04364)
+
+	Binh M. Le, Jiwon Kim, Shahroz Tariq, Kristen Moore, Alsharif Abuadbba, Simon S. Woo
+
+
++ [ Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://arxiv.org/abs/2401.05566)
+
+	Evan Hubinger, Carson Denison, Jesse Mu, Mike Lambert, Meg Tong, Monte MacDiarmid, Tamera Lanham, Daniel M. Ziegler, Tim Maxwell, Newton Cheng, Adam Jermyn, Amanda Askell, Ansh Radhakrishnan, Cem Anil, David Duvenaud, Deep Ganguli, Fazl Barez, Jack Clark, Kamal Ndousse, Kshitij Sachan, Michael Sellitto, Mrinank Sharma, Nova DasSarma, Roger Grosse, Shauna Kravec, Yuntao Bai, Zachary Witten, Marina Favaro, Jan Brauner, Holden Karnofsky, Paul Christiano, Samuel R. Bowman, Logan Graham, Jared Kaplan, Sören Mindermann, Ryan Greenblatt, Buck Shlegeris, Nicholas Schiefer, Ethan Perez
+
+
++ [ TrustLLM: Trustworthiness in Large Language Models](https://arxiv.org/abs/2401.05561)
+
+	Lichao Sun, Yue Huang, Haoran Wang, Siyuan Wu, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, Chaowei Xiao, Chunyuan Li, Eric Xing, Furong Huang, Hao Liu, Heng Ji, Hongyi Wang, Huan Zhang, Huaxiu Yao, Manolis Kellis, Marinka Zitnik, Meng Jiang, Mohit Bansal, James Zou, Jian Pei, Jian Liu, Jianfeng Gao, Jiawei Han, Jieyu Zhao, Jiliang Tang, Jindong Wang, John Mitchell, Kai Shu, Kaidi Xu, Kai-Wei Chang, Lifang He, Lifu Huang, Michael Backes, Neil Zhenqiang Gong, Philip S. Yu, Pin-Yu Chen, Quanquan Gu, Ran Xu, Rex Ying, Shuiwang Ji, Suman Jana, Tianlong Chen, Tianming Liu, Tianyi Zhou, Willian Wang, Xiang Li, Xiangliang Zhang, Xiao Wang, Xing Xie, Xun Chen, Xuyu Wang, Yan Liu, Yanfang Ye, Yinzhi Cao, Yong Chen, Yue Zhao
+
+
++ [ Exploring Vulnerabilities of No-Reference Image Quality Assessment Models: A Query-Based Black-Box Method](https://arxiv.org/abs/2401.05217)
+
+	Chenxi Yang, Yujia Liu, Dingquan Li, Tingting Jiang
+
+
 ## 2024-01-09
 + [ Deep Anomaly Detection in Text](https://arxiv.org//abs/2401.02971)
 
