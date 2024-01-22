@@ -4,42 +4,42 @@
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
 ## 2024-01-19
-+ [ PuriDefense: Randomized Local Implicit Adversarial Purification for  Defending Black-box Query-based Attacks](https://arxiv.org//abs/2401.10586)`uncheck`
++ [ PuriDefense: Randomized Local Implicit Adversarial Purification for  Defending Black-box Query-based Attacks](https://arxiv.org//abs/2401.10586)
 
 	Ping Guo, Zhiyuan Yang, Xi Lin, Qingchuan Zhao, Qingfu Zhang
 
 
-+ [ Pruning for Protection: Increasing Jailbreak Resistance in Aligned LLMs  Without Fine-Tuning](https://arxiv.org//abs/2401.10862)`uncheck`
++ [ Pruning for Protection: Increasing Jailbreak Resistance in Aligned LLMs  Without Fine-Tuning](https://arxiv.org//abs/2401.10862)
 
 	Adib Hasan, Ileana Rugina, Alex Wang
 
 
-+ [ Mitigating Hallucinations of Large Language Models via Knowledge  Consistent Alignment](https://arxiv.org//abs/2401.10768)`uncheck`
++ [ Mitigating Hallucinations of Large Language Models via Knowledge  Consistent Alignment](https://arxiv.org//abs/2401.10768)
 
 	Fanqi Wan, Xinting Huang, Leyang Cui, Xiaojun Quan, Wei Bi, Shuming Shi
 
 
-+ [ Differentially Private and Adversarially Robust Machine Learning: An  Empirical Evaluation](https://arxiv.org//abs/2401.10405)`uncheck`
++ [ Differentially Private and Adversarially Robust Machine Learning: An  Empirical Evaluation](https://arxiv.org//abs/2401.10405)
 
 	Janvi Thakkar, Giulio Zizzo, Sergio Maffeis
 
 
-+ [ Adversarially Robust Signed Graph Contrastive Learning from Balance  Augmentation](https://arxiv.org//abs/2401.10590)`uncheck`
++ [ Adversarially Robust Signed Graph Contrastive Learning from Balance  Augmentation](https://arxiv.org//abs/2401.10590)
 
 	Jialong Zhou, Xing Ai, Yuni Lai, Kai Zhou
 
 
-+ [ Hacking Predictors Means Hacking Cars: Using Sensitivity Analysis to  Identify Trajectory Prediction Vulnerabilities for Autonomous Driving  Security](https://arxiv.org//abs/2401.10313)`uncheck`
++ [ Hacking Predictors Means Hacking Cars: Using Sensitivity Analysis to  Identify Trajectory Prediction Vulnerabilities for Autonomous Driving  Security](https://arxiv.org//abs/2401.10313)
 
 	Marsalis Gibson, David Babazadeh, Claire Tomlin, Shankar Sastry
 
 
-+ [ A Lightweight Multi-Attack CAN Intrusion Detection System on Hybrid  FPGAs](https://arxiv.org//abs/2401.10689)`uncheck`
++ [ A Lightweight Multi-Attack CAN Intrusion Detection System on Hybrid  FPGAs](https://arxiv.org//abs/2401.10689)
 
 	Shashwat Khandelwal, Shreejith Shanker
 
 
-+ [ Real-Time Zero-Day Intrusion Detection System for Automotive Controller  Area Network on FPGAs](https://arxiv.org//abs/2401.10724)`uncheck`
++ [ Real-Time Zero-Day Intrusion Detection System for Automotive Controller  Area Network on FPGAs](https://arxiv.org//abs/2401.10724)
 
 	Shashwat Khandelwal, Shreejith Shanker
 
