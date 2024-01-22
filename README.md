@@ -44,7 +44,7 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Shashwat Khandelwal, Shreejith Shanker
 
 
-## 2024-01-19
+## 2024-01-18
 + [ Uncertainty-Aware Hardware Trojan Detection Using Multimodal Deep  Learning](https://arxiv.org//abs/2401.09479)
 
 	Rahul Vishwakarma, Amin Rezaei
@@ -85,7 +85,6 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Yulin Zhu, Yuni Lai, Xing Ai, Kai Zhou
 
 
-## 2024-01-18
 + [ HGAttack: Transferable Heterogeneous Graph Adversarial Attack](https://arxiv.org//abs/2401.09945)
 
 	He Zhao, Zhiwei Zeng, Yongwei Wang, Deheng Ye, Chunyan Miao
