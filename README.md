@@ -3,6 +3,69 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+## 2024-01-22
++ [ GI-PIP: Do We Require Impractical Auxiliary Dataset for Gradient  Inversion Attacks?](https://arxiv.org//abs/2401.11748)
+
+	Yu sun, Gaojian Xiong, Xianxun Yao, Kailang Ma, Jian Cui
+
+
++ [ Safe and Generalized end-to-end Autonomous Driving System with  Reinforcement Learning and Demonstrations](https://arxiv.org//abs/2401.11792)
+
+	Zuojin Tang, Xiaoyu Chen, YongQiang Li, Jianyu Chen
+
+
++ [ Robustness to distribution shifts of compressed networks for edge  devices](https://arxiv.org//abs/2401.12014)
+
+	Lulan Shen, Ali Edalati, Brett Meyer, Warren Gross, James J. Clark
+
+
++ [ Spotting LLMs With Binoculars: Zero-Shot Detection of Machine-Generated  Text](https://arxiv.org//abs/2401.12070)
+
+	Abhimanyu Hans, Avi Schwarzschild, Valeriia Cherepanova, Hamid Kazemi, Aniruddha Saha, Micah Goldblum, Jonas Geiping, Tom Goldstein
+
+
++ [ Text Embedding Inversion Attacks on Multilingual Language Models](https://arxiv.org//abs/2401.12192)
+
+	Yiyi Chen, Heather Lent, Johannes Bjerva
+
+
++ [ A Training-Free Defense Framework for Robust Learned Image Compression](https://arxiv.org//abs/2401.11902)
+
+	Myungseo Song, Jinyoung Choi, Bohyung Han
+
+
++ [ Privacy-Preserving Data Fusion for Traffic State Estimation: A Vertical  Federated Learning Approach](https://arxiv.org//abs/2401.11836)
+
+	Qiqing Wang, Kaidi Yang
+
+
+## 2024-01-21
++ [ Finding a Needle in the Adversarial Haystack: A Targeted Paraphrasing  Approach For Uncovering Edge Cases with Minimal Distribution Distortion](https://arxiv.org//abs/2401.11373)
+
+	Aly M. Kassem, Sherif Saad
+
+
++ [ Adversarial Augmentation Training Makes Action Recognition Models More  Robust to Realistic Video Distribution Shifts](https://arxiv.org//abs/2401.11406)
+
+	Kiyoon Kim, Shreyank N Gowda, Panagiotis Eustratiadis, Antreas Antoniou, Robert B Fisher
+
+
++ [ TetraLoss: Improving the Robustness of Face Recognition against Morphing  Attacks](https://arxiv.org//abs/2401.11598)
+
+	Mathias Ibsen, Lázaro J. González-Soler, Christian Rathgeb, Christoph Busch
+
+
++ [ How Robust Are Energy-Based Models Trained With Equilibrium Propagation?](https://arxiv.org//abs/2401.11543)
+
+	Siddharth Mansingh, Michal Kucer, Garrett Kenyon, Juston Moore, Michael Teti
+
+
+## 2024-01-20
++ [ CARE: Ensemble Adversarial Robustness Evaluation Against Adaptive  Attackers for Security Applications](https://arxiv.org//abs/2401.11126)
+
+	Hangsheng Zhang, Jiqiang Liu, Jinsong Dong
+
+
 ## 2024-01-19
 + [ PuriDefense: Randomized Local Implicit Adversarial Purification for  Defending Black-box Query-based Attacks](https://arxiv.org//abs/2401.10586)
 
