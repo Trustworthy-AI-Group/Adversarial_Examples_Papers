@@ -3,6 +3,32 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+## 2024-01-23
++ [ Securing Recommender System via Cooperative Training](https://arxiv.org//abs/2401.12700)
+
+	Qingyang Wang, Chenwang Wu, Defu Lian, Enhong Chen
+
+
++ [ DAFA: Distance-Aware Fair Adversarial Training](https://arxiv.org//abs/2401.12532)
+
+	Hyungyu Lee, Saehyung Lee, Hyemi Jang, Junsung Park, Ho Bae, Sungroh Yoon
+
+
++ [ Fast Adversarial Training against Textual Adversarial Attacks](https://arxiv.org//abs/2401.12461)
+
+	Yichen Yang, Xin Liu, Kun He
+
+
++ [ MAPPING: Debiasing Graph Neural Networks for Fair Node Classification  with Limited Sensitive Information Leakage](https://arxiv.org//abs/2401.12824)
+
+	Ying Song, Balaji Palanisamy
+
+
++ [ ToDA: Target-oriented Diffusion Attacker against Recommendation System](https://arxiv.org//abs/2401.12578)
+
+	Xiaohao Liu, Zhulin Tao, Ting Jiang, He Chang, Yunshan Ma, Xianglin Huang
+
+
 ## 2024-01-22
 + [ GI-PIP: Do We Require Impractical Auxiliary Dataset for Gradient  Inversion Attacks?](https://arxiv.org//abs/2401.11748)
 
@@ -39,6 +65,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Qiqing Wang, Kaidi Yang
 
 
++ [ Analyzing the Quality Attributes of AI Vision Models in Open  Repositories Under Adversarial Attacks](https://arxiv.org//abs/2401.12261)
+
+	Zerui Wang, Yan Liu
+
+
++ [ GRATH: Gradual Self-Truthifying for Large Language Models](https://arxiv.org//abs/2401.12292)
+
+	Weixin Chen, Bo Li
+
+
 ## 2024-01-21
 + [ Finding a Needle in the Adversarial Haystack: A Targeted Paraphrasing  Approach For Uncovering Edge Cases with Minimal Distribution Distortion](https://arxiv.org//abs/2401.11373)
 
@@ -64,6 +100,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ CARE: Ensemble Adversarial Robustness Evaluation Against Adaptive  Attackers for Security Applications](https://arxiv.org//abs/2401.11126)
 
 	Hangsheng Zhang, Jiqiang Liu, Jinsong Dong
+
+
++ [ BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models](https://arxiv.org//abs/2401.12242)
+
+	Zhen Xiang, Fengqing Jiang, Zidi Xiong, Bhaskar Ramasubramanian, Radha Poovendran, Bo Li
 
 
 ## 2024-01-19
@@ -107,6 +148,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Shashwat Khandelwal, Shreejith Shanker
 
 
++ [ The Surprising Harmfulness of Benign Overfitting for Adversarial  Robustness](https://arxiv.org//abs/2401.12236)
+
+	Yifan Hao, Tong Zhang
+
+	
 ## 2024-01-18
 + [ Uncertainty-Aware Hardware Trojan Detection Using Multimodal Deep  Learning](https://arxiv.org//abs/2401.09479)
 
