@@ -183,6 +183,11 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 	Tao Wang, Zijian Ying, Qianmu Li, zhichao Lian
 
 
++ [ Boosting the Transferability of Adversarial Examples via Local Mixup and  Adaptive Step Size](https://arxiv.org//abs/2401.13205)
+
+	Junlin Liu, Xinchen Lyu
+
+
 ### Advanced Objective Function
 
 + [Transferable Adversarial Perturbations](https://openaccess.thecvf.com/content_ECCV_2018/papers/Bruce_Hou_Transferable_Adversarial_Perturbations_ECCV_2018_paper.pdf) (ECCV 2018)

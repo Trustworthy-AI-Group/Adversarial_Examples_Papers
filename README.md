@@ -3,6 +3,27 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+## 2024-01-24
++ [ Boosting the Transferability of Adversarial Examples via Local Mixup and  Adaptive Step Size](https://arxiv.org//abs/2401.13205)
+
+	Junlin Liu, Xinchen Lyu
+
+
++ [ AdCorDA: Classifier Refinement via Adversarial Correction and Domain  Adaptation](https://arxiv.org//abs/2401.13212)
+
+	Lulan Shen, Ali Edalati, Brett Meyer, Warren Gross, James J. Clark
+
+
++ [ Multi-Agent Diagnostics for Robustness via Illuminated Diversity](https://arxiv.org//abs/2401.13460)
+
+	Mikayel Samvelyan, Davide Paglieri, Minqi Jiang, Jack Parker-Holder, Tim Rocktäschel
+
+
++ [ Can overfitted deep neural networks in adversarial training generalize?  -- An approximation viewpoint](https://arxiv.org//abs/2401.13624)
+
+	Zhongjie Shi, Fanghui Liu, Yuan Cao, Johan A.K. Suykens
+
+
 ## 2024-01-23
 + [ Securing Recommender System via Cooperative Training](https://arxiv.org//abs/2401.12700)
 
@@ -27,6 +48,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ ToDA: Target-oriented Diffusion Attacker against Recommendation System](https://arxiv.org//abs/2401.12578)
 
 	Xiaohao Liu, Zhulin Tao, Ting Jiang, He Chang, Yunshan Ma, Xianglin Huang
+
+
++ [ Digital Divides in Scene Recognition: Uncovering Socioeconomic Biases in  Deep Learning Systems](https://arxiv.org//abs/2401.13097)
+
+	Michelle R. Greene, Mariam Josyula, Wentao Si, Jennifer A. Hart
+
+
++ [ The Language Barrier: Dissecting Safety Challenges of LLMs in  Multilingual Contexts](https://arxiv.org//abs/2401.13136)
+
+	Lingfeng Shen, Weiting Tan, Sihao Chen, Yunmo Chen, Jingyu Zhang, Haoran Xu, Boyuan Zheng, Philipp Koehn, Daniel Khashabi
 
 
 ## 2024-01-22
