@@ -3,6 +3,33 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+## 2024-01-25
++ [ Unmasking and Quantifying Racial Bias of Large Language Models in  Medical Report Generation](https://arxiv.org//abs/2401.13867)
+
+	Yifan Yang, Xiaoyu Liu, Qiao Jin, Furong Huang, Zhiyong Lu
+
+
++ [ Adaptive Text Watermark for Large Language Models](https://arxiv.org//abs/2401.13927)
+
+	Yepeng Liu, Yuheng Bu
+
+
+
++ [ Sparse and Transferable Universal Singular Vectors Attack](https://arxiv.org//abs/2401.14031)
+
+	Kseniia Kuvshinova, Olga Tsymboi, Ivan Oseledets
+
+
++ [ The Risk of Federated Learning to Skew Fine-Tuning Features and  Underperform Out-of-Distribution Robustness](https://arxiv.org//abs/2401.14027)
+
+	Mengyao Du, Miao Zhang, Yuwen Pu, Kai Xu, Shouling Ji, Quanjun Yin
+
+
++ [ Information Leakage Detection through Approximate Bayes-optimal  Prediction](https://arxiv.org//abs/2401.14283)
+
+	Pritha Gupta, Marcel Wever, Eyke Hüllermeier
+
+
 ## 2024-01-24
 + [ Boosting the Transferability of Adversarial Examples via Local Mixup and  Adaptive Step Size](https://arxiv.org//abs/2401.13205)
 
@@ -22,6 +49,21 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Can overfitted deep neural networks in adversarial training generalize?  -- An approximation viewpoint](https://arxiv.org//abs/2401.13624)
 
 	Zhongjie Shi, Fanghui Liu, Yuan Cao, Johan A.K. Suykens
+
+
++ [ A Systematic Approach to Robustness Modelling for Deep Convolutional  Neural Networks](https://arxiv.org//abs/2401.13751)
+
+	Charles Meyers, Mohammad Reza Saleh Sedghpour, Tommy Löfstedt, Erik Elmroth
+
+
++ [ Don't Push the Button! Exploring Data Leakage Risks in Machine Learning  and Transfer Learning](https://arxiv.org//abs/2401.13796)
+
+	Andrea Apicella, Francesco Isgrò, Roberto Prevete
+
+
++ [ LAA-Net: Localized Artifact Attention Network for High-Quality Deepfakes  Detection](https://arxiv.org//abs/2401.13856)
+
+	Dat Nguyen, Nesryne Mejri, Inder Pal Singh, Polina Kuleshova, Marcella Astrid, Anis Kacem, Enjie Ghorbel, Djamila Aouada
 
 
 ## 2024-01-23
