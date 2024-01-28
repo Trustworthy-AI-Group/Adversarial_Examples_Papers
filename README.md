@@ -35,6 +35,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Adnan Khan, Mai A. Shaaban, Muhammad Haris Khan
 
 
++ [ Producing Plankton Classifiers that are Robust to Dataset Shift](https://arxiv.org//abs/2401.14256)
+
+	Cheng Chen, Sreenath Kyathanahally, Marta Reyes, Stefanie Merkli, Ewa Merz, Emanuele Francazi, Marvin Hoege, Francesco Pomati, Marco Baity-Jesi
+
+
 ## 2024-01-24
 + [ Boosting the Transferability of Adversarial Examples via Local Mixup and  Adaptive Step Size](https://arxiv.org//abs/2401.13205)
 
@@ -74,6 +79,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Inference Attacks Against Face Recognition Model without Classification  Layers](https://arxiv.org//abs/2401.13719)
 
 	Yuanqing Huang, Huilong Chen, Yinggui Wang, Lei Wang
+
+
++ [ A Systematic Approach to Robustness Modelling for Deep Convolutional  Neural Networks](https://arxiv.org//abs/2401.13751)
+
+	Charles Meyers, Mohammad Reza Saleh Sedghpour, Tommy Löfstedt, Erik Elmroth
 
 
 ## 2024-01-23
