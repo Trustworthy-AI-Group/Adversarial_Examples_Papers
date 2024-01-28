@@ -183,7 +183,7 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 	Tao Wang, Zijian Ying, Qianmu Li, zhichao Lian
 
 
-+ [ Boosting the Transferability of Adversarial Examples via Local Mixup and  Adaptive Step Size](https://arxiv.org//abs/2401.13205)
++ [ Boosting the Transferability of Adversarial Examples via Local Mixup and  Adaptive Step Size](https://arxiv.org//abs/2401.13205) (arXiv preprint arXiv:2401.13205, 2024)
 
 	Junlin Liu, Xinchen Lyu
 

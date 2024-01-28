@@ -30,6 +30,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Pritha Gupta, Marcel Wever, Eyke Hüllermeier
 
 
++ [ Improving Pseudo-labelling and Enhancing Robustness for Semi-Supervised  Domain Generalization](https://arxiv.org//abs/2401.13965)
+
+	Adnan Khan, Mai A. Shaaban, Muhammad Haris Khan
+
+
 ## 2024-01-24
 + [ Boosting the Transferability of Adversarial Examples via Local Mixup and  Adaptive Step Size](https://arxiv.org//abs/2401.13205)
 
@@ -64,6 +69,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ LAA-Net: Localized Artifact Attention Network for High-Quality Deepfakes  Detection](https://arxiv.org//abs/2401.13856)
 
 	Dat Nguyen, Nesryne Mejri, Inder Pal Singh, Polina Kuleshova, Marcella Astrid, Anis Kacem, Enjie Ghorbel, Djamila Aouada
+
+
++ [ Inference Attacks Against Face Recognition Model without Classification  Layers](https://arxiv.org//abs/2401.13719)
+
+	Yuanqing Huang, Huilong Chen, Yinggui Wang, Lei Wang
 
 
 ## 2024-01-23
