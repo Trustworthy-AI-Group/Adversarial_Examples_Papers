@@ -2,6 +2,41 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+## 2014-01-26
++ [ Mitigating Feature Gap for Adversarial Robustness by Feature  Disentanglement](https://arxiv.org//abs/2401.14707)
+
+	Nuoyan Zhou, Dawei Zhou, Decheng Liu, Xinbo Gao, Nannan Wang
+
+
++ [ Conserve-Update-Revise to Cure Generalization and Robustness Trade-off  in Adversarial Training](https://arxiv.org//abs/2401.14948)
+
+	Shruthi Gowda, Bahram Zonooz, Elahe Arani
+
+
++ [ BackdoorBench: A Comprehensive Benchmark and Analysis of Backdoor  Learning](https://arxiv.org//abs/2401.15002)
+
+	Baoyuan Wu, Hongrui Chen, Mingda Zhang, Zihao Zhu, Shaokui Wei, Danni Yuan, Mingli Zhu, Ruotong Wang, Li Liu, Chao Shen
+
+
++ [ Unrecognizable Yet Identifiable: Image Distortion with Preserved  Embeddings](https://arxiv.org//abs/2401.15048)
+
+	Dmytro Zakharov, Oleksandr Kuznetsov, Emanuele Frontoni
+
+
++ [ GuardML: Efficient Privacy-Preserving Machine Learning Services Through  Hybrid Homomorphic Encryption](https://arxiv.org//abs/2401.14840)
+
+	Eugene Frimpong, Khoa Nguyen, Mindaugas Budzys, Tanveer Khan, Antonis Michalas
+
+
++ [ PrivStream: An Algorithm for Streaming Differentially Private Data](https://arxiv.org//abs/2401.14577)
+
+	Girish Kumar, Thomas Strohmer, Roman Vershynin
+
+
++ [ Coca: Improving and Explaining Graph Neural Network-Based Vulnerability  Detection Systems](https://arxiv.org//abs/2401.14886)
+
+	Sicong Cao, Xiaobing Sun, Xiaoxue Wu, David Lo, Lili Bo, Bin Li, Wei Liu
+
 
 ## 2024-01-25
 + [ Unmasking and Quantifying Racial Bias of Large Language Models in  Medical Report Generation](https://arxiv.org//abs/2401.13867)
