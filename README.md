@@ -2,7 +2,81 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
-## 2014-01-26
+
+## 2024-01-29
++ [ Adversarial Training on Purification (AToP): Advancing Both Robustness  and Generalization](https://arxiv.org//abs/2401.16352)
+
+	Guang Lin, Chao Li, Jianhai Zhang, Toshihisa Tanaka, Qibin Zhao
+
+
++ [ Finding Challenging Metaphors that Confuse Pretrained Language Models](https://arxiv.org//abs/2401.16012)
+
+	Yucheng Li, Frank Guerin, Chenghua Lin
+
+
++ [ Transparency Attacks: How Imperceptible Image Layers Can Fool AI  Perception](https://arxiv.org//abs/2401.15817)
+
+	Forrest McKee, David Noever
+
+
++ [ TransTroj: Transferable Backdoor Attacks to Pre-trained Models via  Embedding Indistinguishability](https://arxiv.org//abs/2401.15883)
+
+	Hao Wang, Tao Xiang, Shangwei Guo, Jialing He, Hangcheng Liu, Tianwei Zhang
+
+
++ [ AdvNF: Reducing Mode Collapse in Conditional Normalising Flows using  Adversarial Learning](https://arxiv.org//abs/2401.15948)
+
+	Vikas Kanaujia, Mathias S. Scheurer, Vipul Arora
+
+
++ [ Red-Teaming for Generative AI: Silver Bullet or Security Theater?](https://arxiv.org//abs/2401.15897)
+
+	Michael Feffer, Anusha Sinha, Zachary C. Lipton, Hoda Heidari
+
+
++ [ LESSON: Multi-Label Adversarial False Data Injection Attack for Deep  Learning Locational Detection](https://arxiv.org//abs/2401.16001)
+
+	Jiwei Tian, Chao Shen, Buhong Wang, Xiaofang Xia, Meng Zhang, Chenhao Lin, Qian Li
+
+
+## 2024-01-28
++ [ Lips Are Lying: Spotting the Temporal Inconsistency between Audio and  Visual in Lip-Syncing DeepFakes](https://arxiv.org//abs/2401.15668)
+
+	Weifeng Liu, Tianyi She, Jiawei Liu, Run Wang, Dongyu Yao, Ziyou Liang
+
+
++ [ Addressing Noise and Efficiency Issues in Graph-Based Machine Learning  Models From the Perspective of Adversarial Attack](https://arxiv.org//abs/2401.15615)
+
+	Yongyu Wang
+
+
++ [ Integrating Differential Privacy and Contextual Integrity](https://arxiv.org//abs/2401.15774)
+
+	Sebastian Benthall, Rachel Cummings
+
+
+## 2024-01-27
++ [ L-AutoDA: Leveraging Large Language Models for Automated Decision-based  Adversarial Attacks](https://arxiv.org//abs/2401.15335)
+
+	Ping Guo, Fei Liu, Xi Lin, Qingchuan Zhao, Qingfu Zhang
+
+
++ [ Style-News: Incorporating Stylized News Generation and Adversarial  Verification for Neural Fake News Detection](https://arxiv.org//abs/2401.15509)
+
+	Wei-Yao Wang, Yu-Chieh Chang, Wen-Chih Peng
+
+
++ [ Multi-Trigger Backdoor Attacks: More Triggers, More Threats](https://arxiv.org//abs/2401.15295)
+
+	Yige Li, Xingjun Ma, Jiabo He, Hanxun Huang, Yu-Gang Jiang
+
+
++ [ Asymptotic Behavior of Adversarial Training Estimator under  $\ell_\infty$-Perturbation](https://arxiv.org//abs/2401.15262)
+
+	Yiling Xie, Xiaoming Huo
+
+
+## 2024-01-26
 + [ Mitigating Feature Gap for Adversarial Robustness by Feature  Disentanglement](https://arxiv.org//abs/2401.14707)
 
 	Nuoyan Zhou, Dawei Zhou, Decheng Liu, Xinbo Gao, Nannan Wang
@@ -36,6 +110,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Coca: Improving and Explaining Graph Neural Network-Based Vulnerability  Detection Systems](https://arxiv.org//abs/2401.14886)
 
 	Sicong Cao, Xiaobing Sun, Xiaoxue Wu, David Lo, Lili Bo, Bin Li, Wei Liu
+
+
++ [ Better Representations via Adversarial Training in Pre-Training: A  Theoretical Perspective](https://arxiv.org//abs/2401.15248)
+
+	Yue Xing, Xiaofeng Lin, Qifan Song, Yi Xu, Belinda Zeng, Guang Cheng
+
+
++ [ MEA-Defender: A Robust Watermark against Model Extraction Attack](https://arxiv.org//abs/2401.15239)
+
+	Peizhuo Lv, Hualong Ma, Kai Chen, Jiachen Zhou, Shengzhi Zhang, Ruigang Liang, Shenchen Zhu, Pan Li, Yingjun Zhang
 
 
 ## 2024-01-25
