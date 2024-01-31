@@ -3,6 +3,67 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+## 2024-01-30
++ [ Detection and Recovery Against Deep Neural Network Fault Injection  Attacks Based on Contrastive Learning](https://arxiv.org//abs/2401.16766)
+
+	Chenan Wang, Pu Zhao, Siyue Wang, Xue Lin
+
+
++ [ Can Large Language Models be Trusted for Evaluation? Scalable  Meta-Evaluation of LLMs as Evaluators via Agent Debate](https://arxiv.org//abs/2401.16788)
+
+	Steffi Chern, Ethan Chern, Graham Neubig, Pengfei Liu
+
+
++ [ Finetuning Large Language Models for Vulnerability Detection](https://arxiv.org//abs/2401.17010)
+
+	Alexey Shestov, Anton Cheshkov, Rodion Levichev, Ravil Mussabayev, Pavel Zadorozhny, Evgeny Maslov, Chibirev Vadim, Egor Bulychev
+
+
++ [ Robust Prompt Optimization for Defending Language Models Against  Jailbreaking Attacks](https://arxiv.org//abs/2401.17263)
+
+	Andy Zhou, Bo Li, Haohan Wang
+
+
++ [ Gradient-Based Language Model Red Teaming](https://arxiv.org//abs/2401.16656)
+
+	Nevan Wichers, Carson Denison, Ahmad Beirami
+
+
++ [ Single Word Change is All You Need: Designing Attacks and Defenses for  Text Classifiers](https://arxiv.org//abs/2401.17196)
+
+	Lei Xu, Sarah Alnegheimish, Laure Berti-Equille, Alfredo Cuesta-Infante, Kalyan Veeramachaneni
+
+
++ [ Weak-to-Strong Jailbreaking on Large Language Models](https://arxiv.org//abs/2401.17256)
+
+	Xuandong Zhao, Xianjun Yang, Tianyu Pang, Chao Du, Lei Li, Yu-Xiang Wang, William Yang Wang
+
+
++ [ Optimal-Landmark-Guided Image Blending for Face Morphing Attacks](https://arxiv.org//abs/2401.16722)
+
+	Qiaoyun He, Zongyong Deng, Zuyuan He, Qijun Zhao
+
+
++ [ Towards Assessing the Synthetic-to-Measured Adversarial Vulnerability of  SAR ATR](https://arxiv.org//abs/2401.17038)
+
+	Bowen Peng, Bo Peng, Jingyuan Xia, Tianpeng Liu, Yongxiang Liu, Li Liu
+
+
++ [ Revisiting Gradient Pruning: A Dual Realization for Defending against  Gradient Attacks](https://arxiv.org//abs/2401.16687)
+
+	Lulu Xue, Shengshan Hu, Ruizhi Zhao, Leo Yu Zhang, Shengqing Hu, Lichao Sun, Dezhong Yao
+
+
++ [ Systematically Assessing the Security Risks of AI/ML-enabled Connected  Healthcare Systems](https://arxiv.org//abs/2401.17136)
+
+	Mohammed Elnawawy, Mohammadreza Hallajiyan, Gargi Mitra, Shahrear Iqbal, Karthik Pattabiraman
+
+
++ [ Provably Robust Multi-bit Watermarking for AI-generated Text via Error  Correction Code](https://arxiv.org//abs/2401.16820)
+
+	Wenjie Qu, Dong Yin, Zixin He, Wei Zou, Tianyang Tao, Jinyuan Jia, Jiaheng Zhang
+
+
 ## 2024-01-29
 + [ Adversarial Training on Purification (AToP): Advancing Both Robustness  and Generalization](https://arxiv.org//abs/2401.16352)
 
@@ -37,6 +98,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ LESSON: Multi-Label Adversarial False Data Injection Attack for Deep  Learning Locational Detection](https://arxiv.org//abs/2401.16001)
 
 	Jiwei Tian, Chao Shen, Buhong Wang, Xiaofang Xia, Meng Zhang, Chenhao Lin, Qian Li
+
+
++ [ Effective Controllable Bias Mitigation for Classification and Retrieval  using Gate Adapters](https://arxiv.org//abs/2401.16457)
+
+	Shahed Masoudian, Cornelia Volaucnik, Markus Schedl, Shahed Masoudian
 
 
 ## 2024-01-28
