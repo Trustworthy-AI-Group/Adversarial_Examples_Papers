@@ -2,6 +2,22 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+## 2024-01-31
++ [ Manipulating Predictions over Discrete Inputs in Machine Teaching](https://arxiv.org//abs/2401.17865)
+
+	Xiaodong Wu, Yufei Han, Hayssam Dahrouj, Jianbing Ni, Zhenwen Liang, Xiangliang Zhang
+
+
++ [ Unified Physical-Digital Face Attack Detection](https://arxiv.org//abs/2401.17699)
+
+	Hao Fang, Ajian Liu, Haocheng Yuan, Junze Zheng, Dingheng Zeng, Yanhong Liu, Jiankang Deng, Sergio Escalera, Xiaoming Liu, Jun Wan, Zhen Lei
+
+
++ [ Logit Poisoning Attack in Distillation-based Federated Learning and its  Countermeasures](https://arxiv.org//abs/2401.17746)
+
+	Yonghao Yu, Shunan Zhu, Jinglu Hu
+
+
 
 ## 2024-01-30
 + [ Detection and Recovery Against Deep Neural Network Fault Injection  Attacks Based on Contrastive Learning](https://arxiv.org//abs/2401.16766)
@@ -62,6 +78,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Provably Robust Multi-bit Watermarking for AI-generated Text via Error  Correction Code](https://arxiv.org//abs/2401.16820)
 
 	Wenjie Qu, Dong Yin, Zixin He, Wei Zou, Tianyang Tao, Jinyuan Jia, Jiaheng Zhang
+
+
++ [ AdvGPS: Adversarial GPS for Multi-Agent Perception Attack](https://arxiv.org//abs/2401.17499)
+
+	Jinlong Li, Baolu Li, Xinyu Liu, Jianwu Fang, Felix Juefei-Xu, Qing Guo, Hongkai Yu
 
 
 ## 2024-01-29
@@ -223,6 +244,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Producing Plankton Classifiers that are Robust to Dataset Shift](https://arxiv.org//abs/2401.14256)
 
 	Cheng Chen, Sreenath Kyathanahally, Marta Reyes, Stefanie Merkli, Ewa Merz, Emanuele Francazi, Marvin Hoege, Francesco Pomati, Marco Baity-Jesi
+
+
++ [ Decentralized Federated Learning: A Survey on Security and Privacy](https://arxiv.org//abs/2401.17319)
+
+	Ehsan Hallaji, Roozbeh Razavi-Far, Mehrdad Saif, Boyu Wang, Qiang Yang
 
 
 ## 2024-01-24
