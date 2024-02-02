@@ -2,6 +2,42 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+## 2024-02-01
++ [ Hidding the Ghostwriters: An Adversarial Evaluation of AI-Generated  Student Essay Detection](https://arxiv.org//abs/2402.00412)
+
+	Xinlin Peng, Ying Zhou, Ben He, Le Sun, Yingfei Sun
+
+
++ [ Safety of Multimodal Large Language Models on Images and Text](https://arxiv.org//abs/2402.00357)
+
+	Xin Liu, Yichen Zhu, Yunshi Lan, Chao Yang, Yu Qiao
+
+
++ [ Masked Conditional Diffusion Model for Enhancing Deepfake Detection](https://arxiv.org//abs/2402.00541)
+
+	Tiewen Chen, Shanmin Yang, Shu Hu, Zhenghan Fang, Ying Fu, Xi Wu, Xin Wang
+
+
++ [ Vision-LLMs Can Fool Themselves with Self-Generated Typographic Attacks](https://arxiv.org//abs/2402.00626)
+
+	Maan Qraitem, Nazia Tasnim, Kate Saenko, Bryan A. Plummer
+
+
++ [ Approximating Optimal Morphing Attacks using Template Inversion](https://arxiv.org//abs/2402.00695)
+
+	Laurent Colbois, Hatef Otroshi Shahreza, Sébastien Marcel
+
+
++ [ Tropical Decision Boundaries for Neural Networks Are Robust Against  Adversarial Attacks](https://arxiv.org//abs/2402.00576)
+
+	Kurt Pasque, Christopher Teska, Ruriko Yoshida, Keiji Miura, Jefferson Huang
+
+
++ [Short: Benchmarking Transferable Adversarial Attacks](https://arxiv.org/abs/2402.00418)
+
+	Zhibo Jin, Jiayu Zhang, Zhiyu Zhu, Huaming Chen
+
+
 ## 2024-01-31
 + [ Manipulating Predictions over Discrete Inputs in Machine Teaching](https://arxiv.org//abs/2401.17865)
 

@@ -539,3 +539,6 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 	Zeliang Zhang, Rongyi Zhu, Wei Yao, Xiaosen Wang, Chenliang Xu
 
 
++ [Short: Benchmarking Transferable Adversarial Attacks](https://arxiv.org/abs/2402.00418)
+
+	Zhibo Jin, Jiayu Zhang, Zhiyu Zhu, Huaming Chen
