@@ -38,6 +38,36 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Zhibo Jin, Jiayu Zhang, Zhiyu Zhu, Huaming Chen
 
 
++ [ Large Language Models Based Fuzzing Techniques: A Survey](https://arxiv.org//abs/2402.00350)
+
+	Linghan Huang, Peizhou Zhao, Huaming Chen, Lei Ma
+
+
++ [ Investigating Bias Representations in Llama 2 Chat via Activation  Steering](https://arxiv.org//abs/2402.00402)
+
+	Dawn Lu, Nina Rimsky
+
+
++ [ Invariance-powered Trustworthy Defense via Remove Then Restore](https://arxiv.org//abs/2402.00304)
+
+	Xiaowei Fu, Yuhang Zhou, Lina Ma, Lei Zhang
+
+
++ [ Safety of Multimodal Large Language Models on Images and Text](https://arxiv.org//abs/2402.00357)
+
+	Xin Liu, Yichen Zhu, Yunshi Lan, Chao Yang, Yu Qiao
+
+
++ [ Vision-LLMs Can Fool Themselves with Self-Generated Typographic Attacks](https://arxiv.org//abs/2402.00626)
+
+	Maan Qraitem, Nazia Tasnim, Kate Saenko, Bryan A. Plummer
+
+
++ [ Survey of Privacy Threats and Countermeasures in Federated Learning](https://arxiv.org//abs/2402.00342)
+
+	Masahiro Hayashitani, Junki Mori, Isamu Teranishi
+
+
 ## 2024-01-31
 + [ Manipulating Predictions over Discrete Inputs in Machine Teaching](https://arxiv.org//abs/2401.17865)
 
@@ -53,6 +83,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Yonghao Yu, Shunan Zhu, Jinglu Hu
 
+
++ [ Adversarial Quantum Machine Learning: An Information-Theoretic  Generalization Analysis](https://arxiv.org//abs/2402.00176)
+
+	Petros Georgiou, Sharu Theresa Jose, Osvaldo Simeone
 
 
 ## 2024-01-30
