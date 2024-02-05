@@ -2,6 +2,42 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+## 2024-02-02
++ [ Trustworthy Distributed AI Systems: Robustness, Privacy, and Governance](https://arxiv.org//abs/2402.01096)
+
+	Wenqi Wei, Ling Liu
+
+
++ [ STAA-Net: A Sparse and Transferable Adversarial Attack for Speech  Emotion Recognition](https://arxiv.org//abs/2402.01227)
+
+	Yi Chang, Zhao Ren, Zixing Zhang, Xin Jing, Kun Qian, Xi Shao, Bin Hu, Tanja Schultz, Björn W. Schuller
+
+
++ [ Delving into Decision-based Black-box Attacks on Semantic Segmentation](https://arxiv.org//abs/2402.01220)
+
+	Zhaoyu Chen, Zhengyang Shan, Jingwen Chang, Kaixun Jiang, Dingkang Yang, Yiting Cheng, Wenqiang Zhang
+
+
++ [ Synthetic Data for the Mitigation of Demographic Biases in Face  Recognition](https://arxiv.org//abs/2402.01472)
+
+	Pietro Melzi, Christian Rathgeb, Ruben Tolosana, Ruben Vera-Rodriguez, Aythami Morales, Dominik Lawatsch, Florian Domin, Maxim Schaubert
+
+
++ [ Cheating Suffix: Targeted Attack to Text-To-Image Diffusion Models with  Multi-Modal Priors](https://arxiv.org//abs/2402.01369)
+
+	Dingcheng Yang, Yang Bai, Xiaojun Jia, Yang Liu, Xiaochun Cao, Wenjian Yu
+
+
++ [ SignSGD with Federated Defense: Harnessing Adversarial Attacks through  Gradient Sign Decoding](https://arxiv.org//abs/2402.01340)
+
+	Chanho Park, Namyoon Lee
+
+
++ [ On the Transferability of Large-Scale Self-Supervision to Few-Shot Audio  Classification](https://arxiv.org//abs/2402.01274)
+
+	Calum Heggan, Sam Budgett, Timothy Hosepedales, Mehrdad Yeghoobi
+
+
 ## 2024-02-01
 + [ Hidding the Ghostwriters: An Adversarial Evaluation of AI-Generated  Student Essay Detection](https://arxiv.org//abs/2402.00412)
 
@@ -68,6 +104,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Masahiro Hayashitani, Junki Mori, Isamu Teranishi
 
 
++ [ FairEHR-CLP: Towards Fairness-Aware Clinical Predictions with  Contrastive Learning in Multimodal Electronic Health Records](https://arxiv.org//abs/2402.00955)
+
+	Yuqing Wang, Malvika Pillai, Yun Zhao, Catherine Curtin, Tina Hernandez-Boussard
+
+
++ [ BrainLeaks: On the Privacy-Preserving Properties of Neuromorphic  Architectures against Model Inversion Attacks](https://arxiv.org//abs/2402.00906)
+
+	Hamed Poursiami, Ihsen Alouani, Maryam Parsa
+
+
 ## 2024-01-31
 + [ Manipulating Predictions over Discrete Inputs in Machine Teaching](https://arxiv.org//abs/2401.17865)
 
@@ -87,6 +133,21 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Adversarial Quantum Machine Learning: An Information-Theoretic  Generalization Analysis](https://arxiv.org//abs/2402.00176)
 
 	Petros Georgiou, Sharu Theresa Jose, Osvaldo Simeone
+
+
++ [ Common Sense Reasoning for Deep Fake Detection](https://arxiv.org//abs/2402.00126)
+
+	Yue Zhang, Ben Colman, Ali Shahriyari, Gaurav Bharaj
+
+
++ [ Privacy and Security Implications of Cloud-Based AI Services : A Survey](https://arxiv.org//abs/2402.00896)
+
+	Alka Luqman, Riya Mahesh, Anupam Chattopadhyay
+
+
++ [ An Early Categorization of Prompt Injection Attacks on Large Language  Models](https://arxiv.org//abs/2402.00898)
+
+	Sippo Rossi, Alisia Marianne Michel, Raghava Rao Mukkamala, Jason Bennett Thatcher
 
 
 ## 2024-01-30
@@ -153,6 +214,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ AdvGPS: Adversarial GPS for Multi-Agent Perception Attack](https://arxiv.org//abs/2401.17499)
 
 	Jinlong Li, Baolu Li, Xinyu Liu, Jianwu Fang, Felix Juefei-Xu, Qing Guo, Hongkai Yu
+
+
++ [ Security and Privacy Challenges of Large Language Models: A Survey](https://arxiv.org//abs/2402.00888)
+
+	Badhan Chandra Das, M. Hadi Amini, Yanzhao Wu
+
+
++ [ Large Language Models in Cybersecurity: State-of-the-Art](https://arxiv.org//abs/2402.00891)
+
+	Farzad Nourmohammadzadeh Motlagh, Mehrdad Hajizadeh, Mehryar Majd, Pejman Najafi, Feng Cheng, Christoph Meinel
 
 
 ## 2024-01-29
@@ -2526,11 +2597,6 @@ Xiaosen Wang, Zeyuan Yin
 
 
 ## 2023-11-23
-+ [ Security and Privacy Challenges in Deep Learning Models](https://arxiv.org//abs/2311.13744)
-
-	Gopichandh Golla
-
-
 + [ Exploring Methods for Cross-lingual Text Style Transfer: The Case of  Text Detoxification](https://arxiv.org//abs/2311.13937)
 
 	Daryna Dementieva, Daniil Moskovskiy, David Dale, Alexander Panchenko
