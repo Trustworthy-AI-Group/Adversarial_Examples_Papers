@@ -2,6 +2,98 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+## 2024-02-05
++ [ Exploiting Class Probabilities for Black-box Sentence-level Attacks](https://arxiv.org//abs/2402.02695)
+
+	Raha Moraffah, Huan Liu
+
+
++ [ A Generative Approach to Surrogate-based Black-box Attacks](https://arxiv.org//abs/2402.02732)
+
+	Raha Moraffah, Huan Liu
+
+
++ [ Evading Data Contamination Detection for Language Models is (too) Easy](https://arxiv.org//abs/2402.02823)
+
+	Jasper Dekoninck, Mark Niklas Müller, Maximilian Baader, Marc Fischer, Martin Vechev
+
+
++ [ Homograph Attacks on Maghreb Sentiment Analyzers](https://arxiv.org//abs/2402.03171)
+
+	Fatima Zahra Qachfar, Rakesh M. Verma
+
+
++ [ Conversation Reconstruction Attack Against GPT Models](https://arxiv.org//abs/2402.02987)
+
+	Junjie Chu, Zeyang Sha, Michael Backes, Yang Zhang
+
+
++ [ GUARD: Role-playing to Generate Natural-language Jailbreakings to Test  Guideline Adherence of Large Language Models](https://arxiv.org//abs/2402.03299)
+
+	Haibo Jin, Ruoxi Chen, Andy Zhou, Jinyin Chen, Yang Zhang, Haohan Wang
+
+
++ [ Transcending Adversarial Perturbations: Manifold-Aided Adversarial  Examples with Legitimate Semantics](https://arxiv.org//abs/2402.03095)
+
+	Shuai Li, Xiaoyu Jiang, Xiaoguang Ma
+
+
++ [ DisDet: Exploring Detectability of Backdoor Attack on Diffusion Models](https://arxiv.org//abs/2402.02739)
+
+	Yang Sui, Huy Phan, Jinqi Xiao, Tianfang Zhang, Zijie Tang, Cong Shi, Yan Wang, Yingying Chen, Bo Yuan
+
+
++ [ Time-Distributed Backdoor Attacks on Federated Spiking Learning](https://arxiv.org//abs/2402.02886)
+
+	Gorka Abad, Stjepan Picek, Aitor Urbieta
+
+
++ [ Adversarial Data Augmentation for Robust Speaker Verification](https://arxiv.org//abs/2402.02699)
+
+	Zhenyu Zhou, Junhui Chen, Namin Wang, Lantian Li, Dong Wang
+
+
+## 2024-02-04
++ [ DeSparsify: Adversarial Attack Against Token Sparsification Mechanisms  in Vision Transformers](https://arxiv.org//abs/2402.02554)
+
+	Oryan Yehezkel, Alon Zolfi, Amit Baras, Yuval Elovici, Asaf Shabtai
+
+
++ [ PROSAC: Provably Safe Certification for Machine Learning Models under  Adversarial Attacks](https://arxiv.org//abs/2402.02629)
+
+	Ziquan Liu, Zhuo Zhi, Ilija Bogunovic, Carsten Gerner-Beuerle, Miguel Rodrigues
+
+## 2024-02-03
++ [ Seeing is not always believing: The Space of Harmless Perturbations](https://arxiv.org//abs/2402.02095)
+
+	Lu Chen, Shaofeng Li, Benhao Huang, Fan Yang, Zheng Li, Jie Li, Yuan Luo
+
+
++ [ Towards Optimal Adversarial Robust Q-learning with Bellman  Infinity-error](https://arxiv.org//abs/2402.02165)
+
+	Haoran Li, Zicheng Zhang, Wang Luo, Congying Han, Yudong Hu, Tiande Guo, Shichen Liao
+
+
++ [ Rethinking the Starting Point: Enhancing Performance and Fairness of  Federated Learning via Collaborative Pre-Training](https://arxiv.org//abs/2402.02225)
+
+	Yun-Wei Chu, Dong-Jun Han, Seyyedali Hosseinalipour, Christopher G. Brinton
+
+
++ [ Data Poisoning for In-context Learning](https://arxiv.org//abs/2402.02160)
+
+	Pengfei He, Han Xu, Yue Xing, Hui Liu, Makoto Yamada, Jiliang Tang
+
+
++ [ Universal Post-Training Reverse-Engineering Defense Against Backdoors in  Deep Neural Networks](https://arxiv.org//abs/2402.02034)
+
+	Xi Li, Hang Wang, David J. Miller, George Kesidis
+
+
++ [ MixedNUTS: Training-Free Accuracy-Robustness Balance via Nonlinearly  Mixed Classifiers](https://arxiv.org//abs/2402.02263)
+
+	Yatong Bai, Mo Zhou, Vishal M. Patel, Somayeh Sojoudi
+
+
 ## 2024-02-02
 + [ Trustworthy Distributed AI Systems: Robustness, Privacy, and Governance](https://arxiv.org//abs/2402.01096)
 
@@ -36,6 +128,26 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ On the Transferability of Large-Scale Self-Supervision to Few-Shot Audio  Classification](https://arxiv.org//abs/2402.01274)
 
 	Calum Heggan, Sam Budgett, Timothy Hosepedales, Mehrdad Yeghoobi
+
+
++ [ $σ$-zero: Gradient-based Optimization of $\ell_0$-norm Adversarial  Examples](https://arxiv.org//abs/2402.01879)
+
+	Antonio Emanuele Cinà, Francesco Villani, Maura Pintor, Lea Schönherr, Battista Biggio, Marcello Pelillo
+
+
++ [ Position Paper: Assessing Robustness, Privacy, and Fairness in Federated  Learning Integrated with Foundation Models](https://arxiv.org//abs/2402.01857)
+
+	Xi Li, Jiaqi Wang
+
+
++ [ HQA-Attack: Toward High Quality Black-Box Hard-Label Adversarial Attack  on Text](https://arxiv.org//abs/2402.01806)
+
+	Han Liu, Zhi Xu, Xiaotong Zhang, Feng Zhang, Fenglong Ma, Hongyang Chen, Hong Yu, Xianchao Zhang
+
+
++ [ Preference Poisoning Attacks on Reward Model Learning](https://arxiv.org//abs/2402.01920)
+
+	Junlin Wu, Jiongxiao Wang, Chaowei Xiao, Chenguang Wang, Ning Zhang, Yevgeniy Vorobeychik
 
 
 ## 2024-02-01
