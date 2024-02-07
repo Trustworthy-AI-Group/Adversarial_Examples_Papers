@@ -2,6 +2,53 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+
+## 2024-02-06
++ [ Partially Recentralization Softmax Loss for Vision-Language Models  Robustness](https://arxiv.org//abs/2402.03627)
+
+	Hao Wang, Xin Zhang, Jinzhe Jiang, Yaqian Zhao, Chen Li
+
+
++ [ A Survey of Privacy Threats and Defense in Vertical Federated Learning:  From Model Life Cycle Perspective](https://arxiv.org//abs/2402.03688)
+
+	Lei Yu, Meng Han, Yiming Li, Changting Lin, Yao Zhang, Mingyang Zhang, Yan Liu, Haiqin Weng, Yuseok Jeon, Ka-Ho Chow, Stacy Patterson
+
+
++ [ Boosting Adversarial Transferability across Model Genus by  Deformation-Constrained Warping](https://arxiv.org//abs/2402.03951)
+
+	Qinliang Lin, Cheng Luo, Zenghao Niu, Xilin He, Weicheng Xie, Yuanbo Hou, Linlin Shen, Siyang Song
+
+
++ [ Prioritizing Safeguarding Over Autonomy: Risks of LLM Agents for Science](https://arxiv.org//abs/2402.04247)
+
+	Xiangru Tang, Qiao Jin, Kunlun Zhu, Tongxin Yuan, Yichi Zhang, Wangchunshu Zhou, Meng Qu, Yilun Zhao, Jian Tang, Zhuosheng Zhang, Arman Cohan, Zhiyong Lu, Mark Gerstein
+
+
++ [ HarmBench: A Standardized Evaluation Framework for Automated Red Teaming  and Robust Refusal](https://arxiv.org//abs/2402.04249)
+
+	Mantas Mazeika, Long Phan, Xuwang Yin, Andy Zou, Zifan Wang, Norman Mu, Elham Sakhaee, Nathaniel Li, Steven Basart, Bo Li, David Forsyth, Dan Hendrycks
+
+
++ [ Measuring Implicit Bias in Explicitly Unbiased Large Language Models](https://arxiv.org//abs/2402.04105)
+
+	Xuechunzi Bai, Angelina Wang, Ilia Sucholutsky, Thomas L. Griffiths
+
+
++ [ Privacy Leakage on DNNs: A Survey of Model Inversion Attacks and  Defenses](https://arxiv.org//abs/2402.04013)
+
+	Hao Fang, Yixiang Qiu, Hongyao Yu, Wenbo Yu, Jiawei Kong, Baoli Chong, Bin Chen, Xuan Wang, Shu-Tao Xia
+
+
++ [ Fairness and Privacy Guarantees in Federated Contextual Bandits](https://arxiv.org//abs/2402.03531)
+
+	Sambhav Solanki, Shweta Jain, Sujit Gujar
+
+
++ [ PAC-Bayesian Adversarially Robust Generalization Bounds for Graph Neural  Network](https://arxiv.org//abs/2402.04038)
+
+	Tan Sun, Junhong Lin
+
+
 ## 2024-02-05
 + [ Exploiting Class Probabilities for Black-box Sentence-level Attacks](https://arxiv.org//abs/2402.02695)
 
@@ -51,6 +98,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Adversarial Data Augmentation for Robust Speaker Verification](https://arxiv.org//abs/2402.02699)
 
 	Zhenyu Zhou, Junhui Chen, Namin Wang, Lantian Li, Dong Wang
+
+
++ [ Arabic Synonym BERT-based Adversarial Examples for Text Classification](https://arxiv.org//abs/2402.03477)
+
+	Norah Alshahrani, Saied Alshahrani, Esma Wali, Jeanna Matthews
+
+
++ [ Generalization Properties of Adversarial Training for $\ell_0$-Bounded  Adversarial Attacks](https://arxiv.org//abs/2402.03576)
+
+	Payam Delgosha, Hamed Hassani, Ramtin Pedarsani
 
 
 ## 2024-02-04
@@ -148,6 +205,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Preference Poisoning Attacks on Reward Model Learning](https://arxiv.org//abs/2402.01920)
 
 	Junlin Wu, Jiongxiao Wang, Chaowei Xiao, Chenguang Wang, Ning Zhang, Yevgeniy Vorobeychik
+
+
++ [ SpecFormer: Guarding Vision Transformer Robustness via Maximum Singular  Value Penalization](https://arxiv.org//abs/2402.03317)
+
+	Xixu Hu, Runkai Zheng, Jindong Wang, Cheuk Hang Leung, Qi Wu, Xing Xie
 
 
 ## 2024-02-01
