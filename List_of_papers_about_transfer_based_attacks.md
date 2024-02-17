@@ -188,6 +188,11 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 	Junlin Liu, Xinchen Lyu
 
 
++ [ Boosting Adversarial Transferability across Model Genus by  Deformation-Constrained Warping](https://arxiv.org//abs/2402.03951) (AAAI 2024)
+
+	Qinliang Lin, Cheng Luo, Zenghao Niu, Xilin He, Weicheng Xie, Yuanbo Hou, Linlin Shen, Siyang Song
+
+
 ### Advanced Objective Function
 
 + [Transferable Adversarial Perturbations](https://openaccess.thecvf.com/content_ECCV_2018/papers/Bruce_Hou_Transferable_Adversarial_Perturbations_ECCV_2018_paper.pdf) (ECCV 2018)
