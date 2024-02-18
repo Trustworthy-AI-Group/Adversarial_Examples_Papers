@@ -43,6 +43,7 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Romain Ilbert, Ambroise Odonnat, Vasilii Feofanov, Aladin Virmaux, Giuseppe Paolo, Themis Palpanas, Ievgen Redko
 
+
 + [ PAL: Proxy-Guided Black-Box Attack on Large Language Models](https://arxiv.org//abs/2402.09674)
 
 	Chawin Sitawarin, Norman Mu, David Wagner, Alexandre Araujo
@@ -67,6 +68,25 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Achraf Azize, Debabrota Basu
 
+
++ [ A Trembling House of Cards? Mapping Adversarial Attacks against Language  Agents](https://arxiv.org//abs/2402.10196)
+
+	Lingbo Mo, Zeyi Liao, Boyuan Zheng, Yu Su, Chaowei Xiao, Huan Sun
+
+
++ [ Camouflage is all you need: Evaluating and Enhancing Language Model  Robustness Against Camouflage Adversarial Attacks](https://arxiv.org//abs/2402.09874)
+
+	Álvaro Huertas-García, Alejandro Martín, Javier Huertas-Tato, David Camacho
+
+
++ [ Risk-Sensitive Soft Actor-Critic for Robust Deep Reinforcement Learning  under Distribution Shifts](https://arxiv.org//abs/2402.09992)
+
+	Tobias Enders, James Harrison, Maximilian Schiffer
+
+
++ [ How Much Does Each Datapoint Leak Your Privacy? Quantifying the  Per-datum Membership Leakage](https://arxiv.org//abs/2402.10065)
+
+	Achraf Azize, Debabrota Basu
 
 
 ## 2024-02-14
@@ -115,6 +135,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Zhiyuan Chang, Mingyang Li, Yi Liu, Junjie Wang, Qing Wang, Yang Liu
 
 
++ [ Why Does Differential Privacy with Large Epsilon Defend Against  Practical Membership Inference Attacks?](https://arxiv.org//abs/2402.09540)
+
+	Andrew Lowy, Zhuohang Li, Jing Liu, Toshiaki Koike-Akino, Kieran Parsons, Ye Wang
+
+
 ## 2024-02-13
 + [ Data Reconstruction Attacks and Defenses: A Systematic Evaluation](https://arxiv.org//abs/2402.09478)
 
@@ -149,6 +174,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast](https://arxiv.org/abs/2402.08567)
 
 	Xiangming Gu, Xiaosen Zheng, Tianyu Pang, Chao Du, Qian Liu, Ye Wang, Jing Jiang, Min Lin
+
+
++ [ Oracle-Efficient Differentially Private Learning with Public Data](https://arxiv.org//abs/2402.09483)
+
+	Adam Block, Mark Bun, Rathin Desai, Abhishek Shetty, Steven Wu
 
 
 ## 2024-02-12
