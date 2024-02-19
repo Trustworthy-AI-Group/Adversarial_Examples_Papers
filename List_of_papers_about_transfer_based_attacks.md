@@ -113,7 +113,7 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 	Junhua Zou, Zhisong Pan, Junyang Qiu, Xin Liu, Ting Rui, Wei Li
 
 
-+ [Admix: Enhancing the Transferability of Adversarial Attacks](https://arxiv.org/abs/2102.00436) (arXiv preprint arXiv:2102.00436 2021)
++ [Admix: Enhancing the Transferability of Adversarial Attacks](https://arxiv.org/abs/2102.00436) (ICCV 2021)
 
 	Xiaosen Wang, Xuanran He, Jingdong Wang, Kun He
 
@@ -148,7 +148,7 @@ We also provide a  complete list of papers about adversarial examples [here](htt
     Jianping Zhang, Jen-tse Huang, Wenxuan Wang, Yichen Li, Weibin Wu, Xiaosen Wang, Yuxin Su, Michael Lyu
 
 
-+ [Boosting Adversarial Transferability with Learnable Patch-wise Masks](https://arxiv.org/abs/2306.15931) (arXiv preprint arXiv:2306.15931, 2023)
++ [Boosting Adversarial Transferability with Learnable Patch-wise Masks](https://arxiv.org/abs/2306.15931) (TMM 2023)
 
     Xingxing Wei, Shiji Zhao
 
@@ -544,6 +544,6 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 	Zeliang Zhang, Rongyi Zhu, Wei Yao, Xiaosen Wang, Chenliang Xu
 
 
-+ [Short: Benchmarking Transferable Adversarial Attacks](https://arxiv.org/abs/2402.00418)
++ [Short: Benchmarking Transferable Adversarial Attacks](https://arxiv.org/abs/2402.00418) (NDSS Workshop, 2024)
 
 	Zhibo Jin, Jiayu Zhang, Zhiyu Zhu, Huaming Chen

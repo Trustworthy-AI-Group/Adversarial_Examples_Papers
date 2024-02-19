@@ -3,6 +3,32 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+## 2024-02-16
++ [ Connect the dots: Dataset Condensation, Differential Privacy, and  Adversarial Uncertainty](https://arxiv.org//abs/2402.10423)
+
+	Kenneth Odoh
+
+
++ [ Adversarial Curriculum Graph Contrastive Learning with Pair-wise  Augmentation](https://arxiv.org//abs/2402.10468)
+
+	Xinjian Zhao, Liang Zhang, Yang Liu, Ruocheng Guo, Xiangyu Zhao
+
+
++ [ Zero-shot sampling of adversarial entities in biomedical question  answering](https://arxiv.org//abs/2402.10527)
+
+	R. Patrick Xian, Alex J. Lee, Vincent Wang, Qiming Cui, Russell Ro, Reza Abbasi-Asl
+
+
++ [ Universal Prompt Optimizer for Safe Text-to-Image Generation](https://arxiv.org//abs/2402.10882)
+
+	Zongyu Wu, Hongcheng Gao, Yueze Wang, Xiang Zhang, Suhang Wang
+
+
++ [ Uncertainty, Calibration, and Membership Inference Attacks: An  Information-Theoretic Perspective](https://arxiv.org//abs/2402.10686)
+
+	Meiyi Zhu, Caili Guo, Chunyan Feng, Osvaldo Simeone
+
+
 ## 2024-02-15
 + [ Generating Visual Stimuli from EEG Recordings using Transformer-encoder  based EEG encoder and GAN](https://arxiv.org//abs/2402.10115)
 
@@ -87,6 +113,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ How Much Does Each Datapoint Leak Your Privacy? Quantifying the  Per-datum Membership Leakage](https://arxiv.org//abs/2402.10065)
 
 	Achraf Azize, Debabrota Basu
+
+
++ [ Backdoor Attack against One-Class Sequential Anomaly Detection Models](https://arxiv.org//abs/2402.10283)
+
+	He Cheng, Shuhan Yuan
 
 
 ## 2024-02-14
