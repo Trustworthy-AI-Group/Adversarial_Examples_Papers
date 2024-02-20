@@ -2,6 +2,78 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+## 2024-02-19
++ [ ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs](https://arxiv.org//abs/2402.11753)
+
+	Fengqing Jiang, Zhangchen Xu, Luyao Niu, Zhen Xiang, Bhaskar Ramasubramanian, Bo Li, Radha Poovendran
+
+
++ [ ChatGPT Based Data Augmentation for Improved Parameter-Efficient  Debiasing of LLMs](https://arxiv.org//abs/2402.11764)
+
+	Pengrui Han, Rafal Kocielnik, Adhithya Saravanan, Roy Jiang, Or Sharir, Anima Anandkumar
+
+
++ [ Acquiring Clean Language Models from Backdoor Poisoned Datasets by  Downscaling Frequency Space](https://arxiv.org//abs/2402.12026)
+
+	Zongru Wu, Zhuosheng Zhang, Pengzhou Cheng, Gongshen Liu
+
+
++ [ Defending Against Weight-Poisoning Backdoor Attacks for  Parameter-Efficient Fine-Tuning](https://arxiv.org//abs/2402.12168)
+
+	Shuai Zhao, Leilei Gan, Luu Anh Tuan, Jie Fu, Lingjuan Lyu, Meihuizi Jia, Jinming Wen
+
+
++ [ Dynamic Environment Responsive Online Meta-Learning with Fairness  Awareness](https://arxiv.org//abs/2402.12319)
+
+	Chen Zhao, Feng Mi, Xintao Wu, Kai Jiang, Latifur Khan, Feng Chen
+
+
++ [ Query-Based Adversarial Prompt Generation](https://arxiv.org//abs/2402.12329)
+
+	Jonathan Hayase, Ema Borevkovic, Nicholas Carlini, Florian Tramèr, Milad Nasr
+
+
++ [ AICAttack: Adversarial Image Captioning Attack with Attention-Based  Optimization](https://arxiv.org//abs/2402.11940)
+
+	Jiyao Li, Mingze Ni, Yifei Dong, Tianqing Zhu, Wei Liu
+
+
++ [ Adversarial Feature Alignment: Balancing Robustness and Accuracy in Deep  Learning via Adversarial Training](https://arxiv.org//abs/2402.12187)
+
+	Leo Hyun Park, Jaeuk Kim, Myung Gyo Oh, Jaewoo Park, Taekyoung Kwon
+
+
++ [ Privacy-Preserving Low-Rank Adaptation for Latent Diffusion Models](https://arxiv.org//abs/2402.11989)
+
+	Zihao Luo, Xilie Xu, Feng Liu, Yun Sing Koh, Di Wang, Jingfeng Zhang
+
+
+## 2024-02-18
++ [ How Susceptible are Large Language Models to Ideological Manipulation?](https://arxiv.org//abs/2402.11725)
+
+	Kai Chen, Zihao He, Jun Yan, Taiwei Shi, Kristina Lerman
+
+
+## 2024-02-17
++ [ Token-Ensemble Text Generation: On Attacking the Automatic AI-Generated  Text Detection](https://arxiv.org//abs/2402.11167)
+
+	Fan Huang, Haewoon Kwak, Jisun An
+
+
++ [ Maintaining Adversarial Robustness in Continuous Learning](https://arxiv.org//abs/2402.11196)
+
+	Xiaolei Ru, Xiaowei Cao, Zijia Liu, Jack Murdoch Moore, Xin-Ya Zhang, Xia Zhu, Wenjia Wei, Gang Yan
+
+
++ [ Disclosure and Mitigation of Gender Bias in LLMs](https://arxiv.org//abs/2402.11190)
+
+	Xiangjue Dong, Yibo Wang, Philip S. Yu, James Caverlee
+
+
++ [ A White-Box False Positive Adversarial Attack Method on Contrastive Loss  Based Offline Handwritten Signature Verification Models](https://arxiv.org//abs/2308.08925)
+
+	Zhongliang Guo, Weiye Li, Yifei Qian, Ognjen Arandjelović, Lei Fang
+
 
 ## 2024-02-16
 + [ Connect the dots: Dataset Condensation, Differential Privacy, and  Adversarial Uncertainty](https://arxiv.org//abs/2402.10423)
@@ -27,6 +99,26 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Uncertainty, Calibration, and Membership Inference Attacks: An  Information-Theoretic Perspective](https://arxiv.org//abs/2402.10686)
 
 	Meiyi Zhu, Caili Guo, Chunyan Feng, Osvaldo Simeone
+
+
++ [ ASGEA: Exploiting Logic Rules from Align-Subgraphs for Entity Alignment](https://arxiv.org//abs/2402.11000)
+
+	Yangyifei Luo, Zhuo Chen, Lingbing Guo, Qian Li, Wenxuan Zeng, Zhixin Cai, Jianxin Li
+
+
++ [ The Male CEO and the Female Assistant: Probing Gender Biases in  Text-To-Image Models Through Paired Stereotype Test](https://arxiv.org//abs/2402.11089)
+
+	Yixin Wan, Kai-Wei Chang
+
+
++ [ VQAttack: Transferable Adversarial Attacks on Visual Question Answering  via Pre-trained Models](https://arxiv.org//abs/2402.11083)
+
+	Ziyi Yin, Muchao Ye, Tianrong Zhang, Jiaqi Wang, Han Liu, Jinghui Chen, Ting Wang, Fenglong Ma
+
+
++ [ DART: A Principled Approach to Adversarially Robust Unsupervised Domain  Adaptation](https://arxiv.org//abs/2402.11120)
+
+	Yunjuan Wang, Hussein Hazimeh, Natalia Ponomareva, Alexey Kurakin, Ibrahim Hammoud, Raman Arora
 
 
 ## 2024-02-15

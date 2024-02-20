@@ -347,6 +347,15 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 	Avery Ma, Amir-massoud Farahmand, Yangchen Pan, Philip Torr, Jindong Gu
 
 
++ [AGS: Affordable and Generalizable Substitute Training for Transferable Adversarial Attack](). (AAAI 2024)
+
+	Ruikui Wang, Yuanfang Guo, Yunhong Wang
+
+
++ [Improving the Adversarial Transferability of Vision Transformers with VirtualDense Connection](). (AAAI 2024)
+
+	Jianping Zhang, Yizhan Huang, Zhuoer Xu, Weibin Wu, Michael R. Lyu
+
 
 ### Ensemble-based Attack
 
@@ -465,7 +474,7 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 
 + [Introducing Competition to Boost the Transferability of Targeted Adversarial Examples through Clean Feature Mixup](https://arxiv.org/abs/2305.14846) (CVPR 2023)
 
-	Junyoung Byun; Myung-Joon Kwon; Seungju Cho; Yoonji Kim; Changick Kim
+	Junyoung Byun, Myung-Joon Kwon, Seungju Cho, Yoonji Kim, Changick Kim
 
 
 + [Logit Margin Matters: Improving Transferable Targeted Adversarial Attack by Logit Calibration](https://arxiv.org/abs/2303.03680) (TIFS 2023)
@@ -511,6 +520,10 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 
 	Zhibo Wang, Hongshan Yang, Yunhe Feng, Peng Sun, Hengchang Guo, Zhifei Zhang, Kui Ren
 
+
++ [LFAA: Crafting Transferable Targeted Adversarial Examples with Low-Frequency Perturbations](https://arxiv.org/abs/2310.20175) (ECAI 2023)
+
+	Kunyu Wang, Juluan Shi, Wenxuan Wang
 
 + [GE-AdvGAN: Improving the transferability of adversarial samples by gradient editing-based adversarial generative model](https://arxiv.org/abs/2401.06031) (SDM 2024)
 
