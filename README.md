@@ -2,6 +2,33 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+
+## 2024-02-20
++ [ TRAP: Targeted Random Adversarial Prompt Honeypot for Black-Box  Identification](https://arxiv.org//abs/2402.12991)
+
+	Martin Gubri, Dennis Ulmer, Hwaran Lee, Sangdoo Yun, Seong Joon Oh
+
+
++ [ VGMShield: Mitigating Misuse of Video Generative Models](https://arxiv.org//abs/2402.13126)
+
+	Yan Pang, Yang Zhang, Tianhao Wang
+
+
++ [ Indiscriminate Data Poisoning Attacks on Pre-trained Feature Extractors](https://arxiv.org//abs/2402.12626)
+
+	Yiwei Lu, Matthew Y.R. Yang, Gautam Kamath, Yaoliang Yu
+
+
++ [ Beyond Worst-case Attacks: Robust RL with Adaptive Defense via  Non-dominated Policies](https://arxiv.org//abs/2402.12673)
+
+	Xiangyu Liu, Chenghao Deng, Yanchao Sun, Yongyuan Liang, Furong Huang
+
+
++ [ Defending Jailbreak Prompts via In-Context Adversarial Game](https://arxiv.org//abs/2402.13148)
+
+	Yujun Zhou, Yufei Han, Haomin Zhuang, Taicheng Guo, Kehan Guo, Zhenwen Liang, Hongyan Bao, Xiangliang Zhang
+
+
 ## 2024-02-19
 + [ ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs](https://arxiv.org//abs/2402.11753)
 
@@ -46,6 +73,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Privacy-Preserving Low-Rank Adaptation for Latent Diffusion Models](https://arxiv.org//abs/2402.11989)
 
 	Zihao Luo, Xilie Xu, Feng Liu, Yun Sing Koh, Di Wang, Jingfeng Zhang
+
+
++ [ Emulated Disalignment: Safety Alignment for Large Language Models May  Backfire!](https://arxiv.org//abs/2402.12343)
+
+	Zhanhui Zhou, Jie Liu, Zhichen Dong, Jiaheng Liu, Chao Yang, Wanli Ouyang, Yu Qiao
+
+
++ [ Attacks on Node Attributes in Graph Neural Networks](https://arxiv.org//abs/2402.12426)
+
+	Ying Xu, Michael Lanier, Anindya Sarkar, Yevgeniy Vorobeychik
 
 
 ## 2024-02-18

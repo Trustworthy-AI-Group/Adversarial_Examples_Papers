@@ -352,7 +352,7 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 	Ruikui Wang, Yuanfang Guo, Yunhong Wang
 
 
-+ [Improving the Adversarial Transferability of Vision Transformers with VirtualDense Connection](). (AAAI 2024)
++ [Improving the Adversarial Transferability of Vision Transformers with Virtual Dense Connection](). (AAAI 2024)
 
 	Jianping Zhang, Yizhan Huang, Zhuoer Xu, Weibin Wu, Michael R. Lyu
 
