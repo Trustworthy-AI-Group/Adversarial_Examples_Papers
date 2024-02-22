@@ -2,6 +2,57 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+## 2024-02-21
++ [ Large Language Models are Vulnerable to Bait-and-Switch Attacks for  Generating Harmful Content](https://arxiv.org//abs/2402.13926)
+
+	Federico Bianchi, James Zou
+
+
++ [ SDXL-Lightning: Progressive Adversarial Diffusion Distillation](https://arxiv.org//abs/2402.13929)
+
+	Shanchuan Lin, Anran Wang, Xiao Yang
+
+
++ [ GradSafe: Detecting Unsafe Prompts for LLMs via Safety-Critical Gradient  Analysis](https://arxiv.org//abs/2402.13494)
+
+	Yueqi Xie, Minghong Fang, Renjie Pi, Neil Gong
+
+
++ [ Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on  Zero-shot LLM Assessment](https://arxiv.org//abs/2402.14016)
+
+	Vyas Raina, Adian Liusie, Mark Gales
+
+
++ [ Learning to Poison Large Language Models During Instruction Tuning](https://arxiv.org//abs/2402.13459)
+
+	Yao Qiang, Xiangyu Zhou, Saleh Zare Zade, Mohammad Amin Roshani, Douglas Zytko, Dongxiao Zhu
+
+
++ [ Coercing LLMs to do and reveal (almost) anything](https://arxiv.org//abs/2402.14020)
+
+	Jonas Geiping, Alex Stein, Manli Shu, Khalid Saifullah, Yuxin Wen, Tom Goldstein
+
+
++ [ Robustness of Deep Neural Networks for Micro-Doppler Radar  Classification](https://arxiv.org//abs/2402.13651)
+
+	Mikolaj Czerkawski, Carmine Clemente, Craig MichieCraig Michie, Christos Tachtatzis
+
+
++ [ VL-Trojan: Multimodal Instruction Backdoor Attacks against  Autoregressive Visual Language Models](https://arxiv.org//abs/2402.13851)
+
+	Jiawei Liang, Siyuan Liang, Man Luo, Aishan Liu, Dongchen Han, Ee-Chien Chang, Xiaochun Cao
+
+
++ [ Stealthy Adversarial Attacks on Stochastic Multi-Armed Bandits](https://arxiv.org//abs/2402.13487)
+
+	Zhiwei Wang, Huazheng Wang, Hongning Wang
+
+
++ [ AttackGNN: Red-Teaming GNNs in Hardware Security Using Reinforcement  Learning](https://arxiv.org//abs/2402.13946)
+
+	Vasudev Gohil, Satwik Patnaik, Dileep Kalathil, Jeyavijayan Rajendran
+
+
 
 ## 2024-02-20
 + [ TRAP: Targeted Random Adversarial Prompt Honeypot for Black-Box  Identification](https://arxiv.org//abs/2402.12991)
