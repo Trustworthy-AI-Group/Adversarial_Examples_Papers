@@ -53,6 +53,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Vasudev Gohil, Satwik Patnaik, Dileep Kalathil, Jeyavijayan Rajendran
 
 
++ [ Uncertainty-driven and Adversarial Calibration Learning for Epicardial  Adipose Tissue Segmentation](https://arxiv.org//abs/2402.14349)
+
+	Kai Zhao, Zhiming Liu, Jiaqi Liu, Jingbiao Zhou, Bihong Liao, Huifang Tang, Qiuyu Wang, Chunquan Li
+
+
++ [ Fake Resume Attacks: Data Poisoning on Online Job Platforms](https://arxiv.org//abs/2402.14124)
+
+	Michiharu Yamashita, Thanh Tran, Dongwon Lee
+
+
 
 ## 2024-02-20
 + [ TRAP: Targeted Random Adversarial Prompt Honeypot for Black-Box  Identification](https://arxiv.org//abs/2402.12991)
@@ -505,6 +515,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Comprehensive Assessment of Jailbreak Attacks Against LLMs](https://arxiv.org/abs/2402.05668)
 
 	Junjie Chu, Yugeng Liu, Ziqing Yang, Xinyue Shen, Michael Backes, Yang Zhang
+
+
++ [ Savvy: Trustworthy Autonomous Vehicles Architecture](https://arxiv.org//abs/2402.14580)
+
+	Ali Shoker, Rehana Yasmin, Paulo Esteves-Verissimo
 
 
 ## 2024-02-07
