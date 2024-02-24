@@ -2,6 +2,23 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+
+## 2024-02-22
++ [ Rethinking Invariance Regularization in Adversarial Training to Improve  Robustness-Accuracy Trade-off](https://arxiv.org//abs/2402.14648)
+
+	Futa Waseda, Isao Echizen
+
+
++ [ Does the Generator Mind its Contexts? An Analysis of Generative Model  Faithfulness under Context Transfer](https://arxiv.org//abs/2402.14488)
+
+	Xinshuo Hu, Baotian Hu, Dongfang Li, Xiaoguang Li, Lifeng Shang
+
+
++ [ Noise-BERT: A Unified Perturbation-Robust Framework with Noise Alignment  Pre-training for Noisy Slot Filling Task](https://arxiv.org//abs/2402.14494)
+
+	Jinxu Zhao, Guanting Dong, Yueyan Qiu, Tingfeng Hui, Xiaoshuai Song, Daichi Guo, Weiran Xu
+
+
 ## 2024-02-21
 + [ Large Language Models are Vulnerable to Bait-and-Switch Attacks for  Generating Harmful Content](https://arxiv.org//abs/2402.13926)
 
