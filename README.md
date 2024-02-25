@@ -19,6 +19,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Jinxu Zhao, Guanting Dong, Yueyan Qiu, Tingfeng Hui, Xiaoshuai Song, Daichi Guo, Weiran Xu
 
 
++ [ Quadruplet Loss For Improving the Robustness to Face Morphing Attacks](https://arxiv.org//abs/2402.14665)
+
+	Iurii Medvedev, Nuno Gonçalves
+
+
++ [ BeTAIL: Behavior Transformer Adversarial Imitation Learning from Human  Racing Gameplay](https://arxiv.org//abs/2402.14194)
+
+	Catherine Weaver, Chen Tang, Ce Hao, Kenta Kawamoto, Masayoshi Tomizuka, Wei Zhan
+
+
 ## 2024-02-21
 + [ Large Language Models are Vulnerable to Bait-and-Switch Attacks for  Generating Harmful Content](https://arxiv.org//abs/2402.13926)
 
