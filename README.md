@@ -3,6 +3,22 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+## 2024-02-23
++ [ On the Duality Between Sharpness-Aware Minimization and Adversarial  Training](https://arxiv.org//abs/2402.15152)
+
+	Yihao Zhang, Hangzhou He, Jingyu Zhu, Huanran Chen, Yifei Wang, Zeming Wei
+
+
++ [ ProTIP: Probabilistic Robustness Verification on Text-to-Image Diffusion  Models against Stochastic Perturbation](https://arxiv.org//abs/2402.15429)
+
+	Yi Zhang, Yun Tang, Wenjie Ruan, Xiaowei Huang, Siddartha Khastgir, Paul Jennings, Xingyu Zhao
+
+
++ [ A First Look at GPT Apps: Landscape and Vulnerability](https://arxiv.org//abs/2402.15105)
+
+	Zejun Zhang, Li Zhang, Xin Yuan, Anlan Zhang, Mengwei Xu, Feng Qian
+
+
 ## 2024-02-22
 + [ Rethinking Invariance Regularization in Adversarial Training to Improve  Robustness-Accuracy Trade-off](https://arxiv.org//abs/2402.14648)
 
@@ -27,6 +43,31 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ BeTAIL: Behavior Transformer Adversarial Imitation Learning from Human  Racing Gameplay](https://arxiv.org//abs/2402.14194)
 
 	Catherine Weaver, Chen Tang, Ce Hao, Kenta Kawamoto, Masayoshi Tomizuka, Wei Zhan
+
+
++ [ COBIAS: Contextual Reliability in Bias Assessment](https://arxiv.org//abs/2402.14889)
+
+	Priyanshul Govil, Vamshi Krishna Bonagiri, Manas Gaur, Ponnurangam Kumaraguru, Sanorita Dey
+
+
++ [ Stop Reasoning! When Multimodal LLMs with Chain-of-Thought Reasoning  Meets Adversarial Images](https://arxiv.org//abs/2402.14899)
+
+	Zefeng Wang, Zhen Han, Shuo Chen, Fan Xue, Zifeng Ding, Xun Xiao, Volker Tresp, Philip Torr, Jindong Gu
+
+
++ [ Mitigating Fine-tuning Jailbreak Attack with Backdoor Enhanced Alignment](https://arxiv.org//abs/2402.14968)
+
+	Jiongxiao Wang, Jiazhao Li, Yiquan Li, Xiangyu Qi, Muhao Chen, Junjie Hu, Yixuan Li, Bo Li, Chaowei Xiao
+
+
++ [ Mudjacking: Patching Backdoor Vulnerabilities in Foundation Models](https://arxiv.org//abs/2402.14977)
+
+	Hongbin Liu, Michael K. Reiter, Neil Zhenqiang Gong
+
+
++ [ SoK: Analyzing Adversarial Examples: A Framework to Study Adversary  Knowledge](https://arxiv.org//abs/2402.14937)
+
+	Lucas Fenaux, Florian Kerschbaum
 
 
 ## 2024-02-21
@@ -88,6 +129,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Fake Resume Attacks: Data Poisoning on Online Job Platforms](https://arxiv.org//abs/2402.14124)
 
 	Michiharu Yamashita, Thanh Tran, Dongwon Lee
+
+
++ [ Semantic Mirror Jailbreak: Genetic Algorithm Based Jailbreak Prompts  Against Open-source LLMs](https://arxiv.org//abs/2402.14872)
+
+	Xiaoxia Li, Siyuan Liang, Jiyi Zhang, Han Fang, Aishan Liu, Ee-Chien Chang
 
 
 
@@ -177,6 +223,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ How Susceptible are Large Language Models to Ideological Manipulation?](https://arxiv.org//abs/2402.11725)
 
 	Kai Chen, Zihao He, Jun Yan, Taiwei Shi, Kristina Lerman
+
+
++ [ Stealthy Attack on Large Language Model based Recommendation](https://arxiv.org//abs/2402.14836)
+
+	Jinghao Zhang, Yuting Liu, Qiang Liu, Shu Wu, Guibing Guo, Liang Wang
 
 
 ## 2024-02-17
