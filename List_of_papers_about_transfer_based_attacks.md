@@ -128,6 +128,11 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 	Yuyang Long, Qilong Zhang, Boheng Zeng, Lianli Gao, Xianglong Liu, Jian Zhang, Jingkuan Song
 
 
++ [Adaptive Image Transformations for Transfer-based Adversarial Attack](https://arxiv.org/abs/2111.13844) (ECCV 2022)
+
+	Zheng Yuan, Jie Zhang, Shiguang Shan
+
+
 + [MaskBlock: Transferable Adversarial Examples with Bayes Approach](https://arxiv.org/abs/2208.06538) (arXiv preprint arXiv:2208.06538, 2022)
 
     Mingyuan Fan, Cen Chen, Ximeng Liu, Wenzhong Guo
@@ -260,6 +265,9 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 	Zhibo Jin, Zhiyu Zhu, Xinyi Wang, Jiayu Zhang, Jun Shen, Huaming Chen
 
 
++ [Fuzziness-tuned: Improving the Transferability of Adversarial Examples](https://arxiv.org/abs/2303.10078) (arXiv preprint arXiv:2303.10078 2023)
+
+	Xiangyuan Yang, Jie Lin, Hanlin Zhang, Xinyu Yang, Peng Zhao
 ### Model-related Attack
 
 + [Skip Connections Matter: On the Transferability of Adversarial Examples Generated with ResNets](https://arxiv.org/pdf/2002.05990.pdf) (ICLR 2020)

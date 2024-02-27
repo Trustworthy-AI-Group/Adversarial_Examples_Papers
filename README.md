@@ -3,6 +3,84 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+## 2024-02-26
++ [ Referee Can Play: An Alternative Approach to Conditional Generation via  Model Inversion](https://arxiv.org//abs/2402.16305)
+
+	Xuantong Liu, Tianyang Hu, Wenjia Wang, Kenji Kawaguchi, Yuan Yao
+
+
++ [ Investigating Deep Watermark Security: An Adversarial Transferability  Perspective](https://arxiv.org//abs/2402.16397)
+
+	Biqing Qi, Junqi Gao, Yiang Luo, Jianxing Liu, Ligang Wu, Bowen Zhou
+
+
++ [ Training Implicit Generative Models via an Invariant Statistical Loss](https://arxiv.org//abs/2402.16435)
+
+	José Manuel de Frutos, Pablo M. Olmos, Manuel A. Vázquez, Joaquín Míguez
+
+
++ [ CodeChameleon: Personalized Encryption Framework for Jailbreaking Large  Language Models](https://arxiv.org//abs/2402.16717)
+
+	Huijie Lv, Xiao Wang, Yuansen Zhang, Caishuang Huang, Shihan Dou, Junjie Ye, Tao Gui, Qi Zhang, Xuanjing Huang
+
+
++ [ Immunization against harmful fine-tuning attacks](https://arxiv.org//abs/2402.16382)
+
+	Domenic Rosati, Jan Wehner, Kai Williams, Łukasz Bartoszcze, Jan Batzner, Hassan Sajjad, Frank Rudzicz
+
+
++ [ RoCoIns: Enhancing Robustness of Large Language Models through  Code-Style Instructions](https://arxiv.org//abs/2402.16431)
+
+	Yuansen Zhang, Xiao Wang, Zhiheng Xi, Han Xia, Tao Gui, Qi Zhang, Xuanjing Huang
+
+
++ [ ShieldLM: Empowering LLMs as Aligned, Customizable and Explainable  Safety Detectors](https://arxiv.org//abs/2402.16444)
+
+	Zhexin Zhang, Yida Lu, Jingyuan Ma, Di Zhang, Rui Li, Pei Ke, Hao Sun, Lei Sha, Zhifang Sui, Hongning Wang, Minlie Huang
+
+
++ [ Unveiling Vulnerability of Self-Attention](https://arxiv.org//abs/2402.16470)
+
+	Khai Jiet Liong, Hongqiu Wu, Hai Zhao
+
+
++ [ Edge Detectors Can Make Deep Convolutional Neural Networks More Robust](https://arxiv.org//abs/2402.16479)
+
+	Jin Ding, Jie-Chao Zhao, Yong-Zhi Sun, Ping Tan, Jia-Wei Wang, Ji-En Ma, You-Tong Fang
+
+
++ [ Improving the JPEG-resistance of Adversarial Attacks on Face Recognition  by Interpolation Smoothing](https://arxiv.org//abs/2402.16586)
+
+	Kefu Guo, Fengfan Zhou, Hefei Ling, Ping Li, Hui Liu
+
+
+## 2024-02-25
++ [ From Noise to Clarity: Unraveling the Adversarial Suffix of Large  Language Model Attacks via Translation of Text Embeddings](https://arxiv.org//abs/2402.16006)
+
+	Hao Wang, Hao Li, Minlie Huang, Lei Sha
+
+
++ [ Defending Large Language Models against Jailbreak Attacks via Semantic  Smoothing](https://arxiv.org//abs/2402.16192)
+
+	Jiabao Ji, Bairu Hou, Alexander Robey, George J. Pappas, Hamed Hassani, Yang Zhang, Eric Wong, Shiyu Chang
+
+
++ [ Adversarial-Robust Transfer Learning for Medical Imaging via Domain  Assimilation](https://arxiv.org//abs/2402.16005)
+
+	Xiaohui Chen, Tie Luo
+
+
+## 2024-02-24
++ [ LLMs Can Defend Themselves Against Jailbreaking in a Practical Manner: A  Vision Paper](https://arxiv.org//abs/2402.15727)
+
+	Daoyuan Wu, Shuai Wang, Yang Liu, Ning Liu
+
+
++ [ RAUCA: A Novel Physical Adversarial Attack on Vehicle Detectors via  Robust and Accurate Camouflage Generation](https://arxiv.org//abs/2402.15853)
+
+	Jiawei Zhou, Linye Lyu, Daojing He, Yu Li
+
+
 ## 2024-02-23
 + [ On the Duality Between Sharpness-Aware Minimization and Adversarial  Training](https://arxiv.org//abs/2402.15152)
 
@@ -17,6 +95,21 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ A First Look at GPT Apps: Landscape and Vulnerability](https://arxiv.org//abs/2402.15105)
 
 	Zejun Zhang, Li Zhang, Xin Yuan, Anlan Zhang, Mengwei Xu, Feng Qian
+
+
++ [ Fast Adversarial Attacks on Language Models In One GPU Minute](https://arxiv.org//abs/2402.15570)
+
+	Vinu Sankar Sadasivan, Shoumik Saha, Gaurang Sriramanan, Priyatham Kattakinda, Atoosa Chegini, Soheil Feizi
+
+
++ [ Distilling Adversarial Robustness Using Heterogeneous Teachers](https://arxiv.org//abs/2402.15586)
+
+	Jieren Deng, Aaron Palmer, Rigel Mahmood, Ethan Rathbun, Jinbo Bi, Kaleel Mahmood, Derek Aguiar
+
+
++ [ Low-Frequency Black-Box Backdoor Attack via Evolutionary Algorithm](https://arxiv.org//abs/2402.15653)
+
+	Yanqi Qiao, Dazhuang Liu, Rui Wang, Kaitai Liang
 
 
 ## 2024-02-22
