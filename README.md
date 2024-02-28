@@ -3,6 +3,62 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+## 2024-02-27
++ [ Speak Out of Turn: Safety Vulnerability of Large Language Models in  Multi-turn Dialogue](https://arxiv.org//abs/2402.17262)
+
+	Zhenhong Zhou, Jiuyang Xiang, Haopeng Chen, Quan Liu, Zherui Li, Sen Su
+
+
++ [ FairBelief - Assessing Harmful Beliefs in Language Models](https://arxiv.org//abs/2402.17389)
+
+	Mattia Setzu, Marta Marchiori Manerba, Pasquale Minervini, Debora Nozza
+
+
++ [ Extreme Miscalibration and the Illusion of Adversarial Robustness](https://arxiv.org//abs/2402.17509)
+
+	Vyas Raina, Samson Tan, Volkan Cevher, Aditya Rawal, Sheng Zha, George Karypis
+
+
++ [ Enhancing Quality of Compressed Images by Mitigating Enhancement Bias  Towards Compression Domain](https://arxiv.org//abs/2402.17200)
+
+	Qunliang Xing, Mai Xu, Shengxi Li, Xin Deng, Meisong Zheng, Huaida Liu, Ying Chen
+
+
++ [ Preserving Fairness Generalization in Deepfake Detection](https://arxiv.org//abs/2402.17229)
+
+	Li Lin, Xinan He, Yan Ju, Xin Wang, Feng Ding, Shu Hu
+
+
++ [ Black-box Adversarial Attacks Against Image Quality Assessment Models](https://arxiv.org//abs/2402.17533)
+
+	Yu Ran, Ao-Xiang Zhang, Mingjie Li, Weixuan Tang, Yuan-Gen Wang
+
+
++ [ Structure-Guided Adversarial Training of Diffusion Models](https://arxiv.org//abs/2402.17563)
+
+	Ling Yang, Haotian Qian, Zhilong Zhang, Jingwei Liu, Bin Cui
+
+
++ [ Towards Fairness-Aware Adversarial Learning](https://arxiv.org//abs/2402.17729)
+
+	Yanghao Zhang, Tianle Zhang, Ronghui Mu, Xiaowei Huang, Wenjie Ruan
+
+
++ [ Model X-ray:Detect Backdoored Models via Decision Boundary](https://arxiv.org//abs/2402.17465)
+
+	Yanghao Su, Jie Zhang, Ting Xu, Tianwei Zhang, Weiming Zhang, Nenghai Yu
+
+
++ [ Robustness-Congruent Adversarial Training for Secure Machine Learning  Model Updates](https://arxiv.org//abs/2402.17390)
+
+	Daniele Angioni, Luca Demetrio, Maura Pintor, Luca Oneto, Davide Anguita, Battista Biggio, Fabio Roli
+
+
++ [ Evaluation of Predictive Reliability to Foster Trust in Artificial  Intelligence. A case study in Multiple Sclerosis](https://arxiv.org//abs/2402.17554)
+
+	Lorenzo Peracchio, Giovanna Nicora, Enea Parimbelli, Tommaso Mario Buonocore, Roberto Bergamaschi, Eleonora Tavazzi, Arianna Dagliati, Riccardo Bellazzi
+
+
 ## 2024-02-26
 + [ Referee Can Play: An Alternative Approach to Conditional Generation via  Model Inversion](https://arxiv.org//abs/2402.16305)
 
@@ -54,6 +110,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Kefu Guo, Fengfan Zhou, Hefei Ling, Ping Li, Hui Liu
 
 
++ [ On the (In)feasibility of ML Backdoor Detection as an Hypothesis Testing  Problem](https://arxiv.org//abs/2402.16926)
+
+	Georg Pichler, Marco Romanelli, Divya Prakash Manivannan, Prashanth Krishnamurthy, Farshad Khorrami, Siddharth Garg
+
+
++ [ A Curious Case of Remarkable Resilience to Gradient Attacks via Fully  Convolutional and Differentiable Front End with a Skip Connection](https://arxiv.org//abs/2402.17018)
+
+	Leonid Boytsov, Ameya Joshi, Filipe Condessa
+
+
 ## 2024-02-25
 + [ From Noise to Clarity: Unraveling the Adversarial Suffix of Large  Language Model Attacks via Translation of Text Embeddings](https://arxiv.org//abs/2402.16006)
 
@@ -68,6 +134,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Adversarial-Robust Transfer Learning for Medical Imaging via Domain  Assimilation](https://arxiv.org//abs/2402.16005)
 
 	Xiaohui Chen, Tie Luo
+
+
++ [ DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM  Jailbreakers](https://arxiv.org//abs/2402.16914)
+
+	Xirui Li, Ruochen Wang, Minhao Cheng, Tianyi Zhou, Cho-Jui Hsieh
 
 
 ## 2024-02-24
@@ -110,6 +181,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Low-Frequency Black-Box Backdoor Attack via Evolutionary Algorithm](https://arxiv.org//abs/2402.15653)
 
 	Yanqi Qiao, Dazhuang Liu, Rui Wang, Kaitai Liang
+
+
++ [ The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented  Generation (RAG)](https://arxiv.org//abs/2402.16893)
+
+	Shenglai Zeng, Jiankun Zhang, Pengfei He, Yue Xing, Yiding Liu, Han Xu, Jie Ren, Shuaiqiang Wang, Dawei Yin, Yi Chang, Jiliang Tang
 
 
 ## 2024-02-22
