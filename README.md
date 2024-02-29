@@ -3,6 +3,23 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+## 2024-02-28
++ [ Making Them Ask and Answer: Jailbreaking Large Language Models in Few  Queries via Disguise and Reconstruction](https://arxiv.org//abs/2402.18104)
+
+	Tong Liu, Yingjie Zhang, Zhe Zhao, Yinpeng Dong, Guozhu Meng, Kai Chen
+
+
++ [ Enhancing Tracking Robustness with Auxiliary Adversarial Defense  Networks](https://arxiv.org//abs/2402.17976)
+
+	Zhewei Wu, Ruilong Yu, Qihe Liu, Shuying Cheng, Shilin Qiu, Shijie Zhou
+
+
++ [ Catastrophic Overfitting: A Potential Blessing in Disguise](https://arxiv.org//abs/2402.18211)
+
+	Mengnan Zhao, Lihe Zhang, Yuqiu Kong, Baocai Yin
+
+
+
 ## 2024-02-27
 + [ Speak Out of Turn: Safety Vulnerability of Large Language Models in  Multi-turn Dialogue](https://arxiv.org//abs/2402.17262)
 
@@ -57,6 +74,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Evaluation of Predictive Reliability to Foster Trust in Artificial  Intelligence. A case study in Multiple Sclerosis](https://arxiv.org//abs/2402.17554)
 
 	Lorenzo Peracchio, Giovanna Nicora, Enea Parimbelli, Tommaso Mario Buonocore, Roberto Bergamaschi, Eleonora Tavazzi, Arianna Dagliati, Riccardo Bellazzi
+
+
++ [ LLM-Resistant Math Word Problem Generation via Adversarial Attacks](https://arxiv.org//abs/2402.17916)
+
+	Roy Xie, Chengxuan Huang, Junlin Wang, Bhuwan Dhingra
+
+
++ [ Adversarial example soups: averaging multiple adversarial examples  improves transferability without increasing additional generation time](https://arxiv.org//abs/2402.18370)
+
+	Bo Yang, Hengwei Zhang, Chenwei Li, Jindong Wang
 
 
 ## 2024-02-26
