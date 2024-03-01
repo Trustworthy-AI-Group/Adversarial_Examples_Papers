@@ -3,6 +3,32 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+## 2024-02-29
+ [ Differentially Private Worst-group Risk Minimization](https://arxiv.org//abs/2402.19437)
+
+	Xinyu Zhou, Raef Bassily
+
+
++ [ Utilizing Local Hierarchy with Adversarial Training for Hierarchical  Text Classification](https://arxiv.org//abs/2402.18825)
+
+	Zihan Wang, Peiyi Wang, Houfeng Wang
+
+
++ [ MPAT: Building Robust Deep Neural Networks against Textual Adversarial  Attacks](https://arxiv.org//abs/2402.18792)
+
+	Fangyuan Zhang, Huichi Zhou, Shuangjiao Li, Hongtao Wang
+
+
++ [ PRSA: Prompt Reverse Stealing Attacks against Large Language Models](https://arxiv.org//abs/2402.19200)
+
+	Yong Yang, Xuhong Zhang, Yi Jiang, Xi Chen, Haoyu Wang, Shouling Ji, Zonghui Wang
+
+
++ [ Unraveling Adversarial Examples against Speaker Identification --  Techniques for Attack Detection and Victim Model Classification](https://arxiv.org//abs/2402.19355)
+
+	Sonal Joshi, Thomas Thebaud, Jesús Villalba, Najim Dehak
+
+
 ## 2024-02-28
 + [ Making Them Ask and Answer: Jailbreaking Large Language Models in Few  Queries via Disguise and Reconstruction](https://arxiv.org//abs/2402.18104)
 
@@ -18,6 +44,25 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Mengnan Zhao, Lihe Zhang, Yuqiu Kong, Baocai Yin
 
+
++ [ A New Era in LLM Security: Exploring Security Concerns in Real-World  LLM-based Systems](https://arxiv.org//abs/2402.18649)
+
+	Fangzhou Wu, Ning Zhang, Somesh Jha, Patrick McDaniel, Chaowei Xiao
+
+
++ [ Unveiling Privacy, Memorization, and Input Curvature Links](https://arxiv.org//abs/2402.18726)
+
+	Deepak Ravikumar, Efstathia Soufleri, Abolfazl Hashemi, Kaushik Roy
+
+
++ [ Model Pairing Using Embedding Translation for Backdoor Attack Detection  on Open-Set Classification Tasks](https://arxiv.org//abs/2402.18718)
+
+	Alexander Unnervik, Hatef Otroshi Shahreza, Anjith George, Sébastien Marcel
+
+
++ [ Pre-training Differentially Private Models with Limited Public Data](https://arxiv.org//abs/2402.18752)
+
+	Zhiqi Bu, Xinwei Zhang, Mingyi Hong, Sheng Zha, George Karypis
 
 
 ## 2024-02-27
