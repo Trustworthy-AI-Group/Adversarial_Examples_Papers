@@ -29,6 +29,36 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Sonal Joshi, Thomas Thebaud, Jesús Villalba, Najim Dehak
 
 
++ [ Syntactic Ghost: An Imperceptible General-purpose Backdoor Attacks on  Pre-trained Language Models](https://arxiv.org//abs/2402.18945)
+
+	Pengzhou Cheng, Wei Du, Zongru Wu, Fengwei Zhang, Libo Chen, Gongshen Liu
+
+
++ [ Watermark Stealing in Large Language Models](https://arxiv.org//abs/2402.19361)
+
+	Nikola Jovanović, Robin Staab, Martin Vechev
+
+
++ [ PrivatEyes: Appearance-based Gaze Estimation Using Federated Secure  Multi-Party Computation](https://arxiv.org//abs/2402.18970)
+
+	Mayar Elfares, Pascal Reisert, Zhiming Hu, Wenwu Tang, Ralf Küsters, Andreas Bulling
+
+
++ [ Typographic Attacks in Large Multimodal Models Can be Alleviated by More  Informative Prompts](https://arxiv.org//abs/2402.19150)
+
+	Hao Cheng, Erjia Xiao, Renjing Xu
+
+
++ [ Assessing Visually-Continuous Corruption Robustness of Neural Networks  Relative to Human Performance](https://arxiv.org//abs/2402.19401)
+
+	Huakun Shen, Boyue Caroline Hu, Krzysztof Czarnecki, Lina Marsso, Marsha Chechik
+
+
++ [ Verification of Neural Networks' Global Robustness](https://arxiv.org//abs/2402.19322)
+
+	Anan Kabaha, Dana Drachsler-Cohen
+
+
 ## 2024-02-28
 + [ Making Them Ask and Answer: Jailbreaking Large Language Models in Few  Queries via Disguise and Reconstruction](https://arxiv.org//abs/2402.18104)
 
@@ -63,6 +93,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Pre-training Differentially Private Models with Limited Public Data](https://arxiv.org//abs/2402.18752)
 
 	Zhiqi Bu, Xinwei Zhang, Mingyi Hong, Sheng Zha, George Karypis
+
+
++ [ Exploring Privacy and Fairness Risks in Sharing Diffusion Models: An  Adversarial Perspective](https://arxiv.org//abs/2402.18607)
+
+	Xinjian Luo, Yangfan Jiang, Fei Wei, Yuncheng Wu, Xiaokui Xiao, Beng Chin Ooi
 
 
 ## 2024-02-27
