@@ -59,6 +59,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Anan Kabaha, Dana Drachsler-Cohen
 
 
++ [ Whispers that Shake Foundations: Analyzing and Mitigating False Premise  Hallucinations in Large Language Models](https://arxiv.org//abs/2402.19103)
+
+	Hongbang Yuan, Pengfei Cao, Zhuoran Jin, Yubo Chen, Daojian Zeng, Kang Liu, Jun Zhao
+
+
++ [ Pointing out the Shortcomings of Relation Extraction Models with  Semantically Motivated Adversarials](https://arxiv.org//abs/2402.19076)
+
+	Gennaro Nolano, Moritz Blum, Basil Ell, Philipp Cimiano
+
+
 ## 2024-02-28
 + [ Making Them Ask and Answer: Jailbreaking Large Language Models in Few  Queries via Disguise and Reconstruction](https://arxiv.org//abs/2402.18104)
 
