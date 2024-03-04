@@ -3,6 +3,33 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+## 2024-03-01
++ [ AXOLOTL: Fairness through Assisted Self-Debiasing of Large Language  Model Outputs](https://arxiv.org//abs/2403.00198)
+
+	Sana Ebrahimi, Kaiwen Chen, Abolfazl Asudeh, Gautam Das, Nick Koudas
+
+
++ [ Robust Deep Reinforcement Learning Through Adversarial Attacks and  Training : A Survey](https://arxiv.org//abs/2403.00420)
+
+	Lucas Schott, Josephine Delas, Hatem Hajri, Elies Gherbi, Reda Yaich, Nora Boulahia-Cuppens, Frederic Cuppens, Sylvain Lamprier
+
+
++ [ DPP-Based Adversarial Prompt Searching for Lanugage Models](https://arxiv.org//abs/2403.00292)
+
+	Xu Zhang, Xiaojun Wan
+
+
++ [ Robustifying a Policy in Multi-Agent RL with Diverse Cooperative  Behavior and Adversarial Style Sampling for Assistive Tasks](https://arxiv.org//abs/2403.00344)
+
+	Tayuki Osa, Tatsuya Harada
+
+
++ [ Attacking Delay-based PUFs with Minimal Adversary Model](https://arxiv.org//abs/2403.00464)
+
+	Hongming Fei, Owen Millwood, Prosanta Gope, Jack Miskelly, Biplab Sikdar
+
+
+
 ## 2024-02-29
 + [ Differentially Private Worst-group Risk Minimization](https://arxiv.org//abs/2402.19437)
 
@@ -67,6 +94,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Pointing out the Shortcomings of Relation Extraction Models with  Semantically Motivated Adversarials](https://arxiv.org//abs/2402.19076)
 
 	Gennaro Nolano, Moritz Blum, Basil Ell, Philipp Cimiano
+
+
++ [ LoRA-as-an-Attack! Piercing LLM Safety Under The Share-and-Play Scenario](https://arxiv.org//abs/2403.00108)
+
+	Hongyi Liu, Zirui Liu, Ruixiang Tang, Jiayi Yuan, Shaochen Zhong, Yu-Neng Chuang, Li Li, Rui Chen, Xia Hu
 
 
 ## 2024-02-28
