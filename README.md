@@ -2,6 +2,33 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+## 2024-03-05
++ [ FLGuard: Byzantine-Robust Federated Learning via Ensemble of Contrastive  Models](https://arxiv.org//abs/2403.02846)
+
+	Younghan Lee, Yungi Cho, Woorim Han, Ho Bae, Yunheung Paek
+
+
++ [ Recall-Oriented Continual Learning with Generative Adversarial  Meta-Model](https://arxiv.org//abs/2403.03082)
+
+	Haneol Kang, Dong-Wan Choi
+
+
++ [ Towards Robust Federated Learning via Logits Calibration on Non-IID Data](https://arxiv.org//abs/2403.02803)
+
+	Yu Qiao, Apurba Adhikary, Chaoning Zhang, Choong Seon Hong
+
+
++ [ XAI-Based Detection of Adversarial Attacks on Deepfake Detectors](https://arxiv.org//abs/2403.02955)
+
+	Ben Pinhasov, Raz Lapid, Rony Ohayon, Moshe Sipper, Yehudit Aperstein
+
+
++ [ Here Comes The AI Worm: Unleashing Zero-click Worms that Target  GenAI-Powered Applications](https://arxiv.org//abs/2403.02817)
+
+	Stav Cohen, Ron Bitton, Ben Nassi
+
+
+
 ## 2024-03-02
 + [Query Recovery from Easy to Hard: Jigsaw Attack against SSE](https://arxiv.org/abs/2403.01155)
 
