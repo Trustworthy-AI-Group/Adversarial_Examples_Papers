@@ -2,6 +2,47 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+## 2024-03-06
++ [ Do You Trust Your Model? Emerging Malware Threats in the Deep Learning  Ecosystem](https://arxiv.org//abs/2403.03593)
+
+	Dorjan Hitaj, Giulio Pagnotta, Fabio De Gaspari, Sediola Ruko, Briland Hitaj, Luigi V. Mancini, Fernando Perez-Cruz
+
+
++ [ Adversarial Infrared Geometry: Using Geometry to Perform Adversarial  Attack against Infrared Pedestrian Detectors](https://arxiv.org//abs/2403.03674)
+
+	Kalibinuer Tiliwalidi
+
+
++ [ Advancing Out-of-Distribution Detection through Data Purification and  Dynamic Activation Function Design](https://arxiv.org//abs/2403.03412)
+
+	Yingrui Ji, Yao Zhu, Zhigang Li, Jiansheng Chen, Yunlong Kong, Jingbo Chen
+
+
++ [ Probing the Robustness of Time-series Forecasting Models with  CounterfacTS](https://arxiv.org//abs/2403.03508)
+
+	Håkon Hanisch Kjærnli, Lluis Mas-Ribas, Aida Ashrafi, Gleb Sizov, Helge Langseth, Odd Erik Gundersen
+
+
++ [ Learning Adversarial MDPs with Stochastic Hard Constraints](https://arxiv.org//abs/2403.03672)
+
+	Francesco Emanuele Stradi, Matteo Castiglioni, Alberto Marchesi, Nicola Gatti
+
+
++ [ Verified Training for Counterfactual Explanation Robustness under Data  Shift](https://arxiv.org//abs/2403.03773)
+
+	Anna P. Meyer, Yuhao Zhang, Aws Albarghouthi, Loris D'Antoni
+
+
++ [ DeepEclipse: How to Break White-Box DNN-Watermarking Schemes](https://arxiv.org//abs/2403.03590)
+
+	Alessandro Pegoraro, Carlotta Segna, Kavita Kumari, Ahmad-Reza Sadeghi
+
+
++ [ Neural Exec: Learning (and Learning from) Execution Triggers for Prompt  Injection Attacks](https://arxiv.org//abs/2403.03792)
+
+	Dario Pasquini, Martin Strohmeier, Carmela Troncoso
+
+
 ## 2024-03-05
 + [ FLGuard: Byzantine-Robust Federated Learning via Ensemble of Contrastive  Models](https://arxiv.org//abs/2403.02846)
 
@@ -28,9 +69,14 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Stav Cohen, Ron Bitton, Ben Nassi
 
 
+## 2024-03-03
++ [ GuardT2I: Defending Text-to-Image Models from Adversarial Prompts](https://arxiv.org/abs/2403.01446)
+
+	Yijun Yang, Ruiyuan Gao, Xiao Yang, Jianyuan Zhong, Qiang Xu
+
 
 ## 2024-03-02
-+ [Query Recovery from Easy to Hard: Jigsaw Attack against SSE](https://arxiv.org/abs/2403.01155)
++ [ Query Recovery from Easy to Hard: Jigsaw Attack against SSE](https://arxiv.org/abs/2403.01155)
 
 	Hao Nie, Wei Wang, Peng Xu, Xianglong Zhang, Laurence T. Yang, Kaitai Liang
 
