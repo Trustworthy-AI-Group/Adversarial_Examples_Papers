@@ -2,6 +2,22 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+## 2024-03-07
++ [ Privacy-preserving Fine-tuning of Large Language Models through Flatness](https://arxiv.org//abs/2403.04124)
+
+	Tiejin Chen, Longchao Da, Huixue Zhou, Pingzhi Li, Kaixiong Zhou, Tianlong Chen, Hua Wei
+
+
++ [ A Domain Translation Framework with an Adversarial Denoising Diffusion  Model to Generate Synthetic Datasets of Echocardiography Images](https://arxiv.org//abs/2403.04612)
+
+	Cristiana Tiago, Sten Roar Snare, Jurica Sprem, Kristin McLeod
+
+
++ [ Membership Inference Attacks and Privacy in Topic Modeling](https://arxiv.org//abs/2403.04451)
+
+	Nico Manzonelli, Wanrong Zhang, Salil Vadhan
+
+
 ## 2024-03-06
 + [ Do You Trust Your Model? Emerging Malware Threats in the Deep Learning  Ecosystem](https://arxiv.org//abs/2403.03593)
 
@@ -41,6 +57,21 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Neural Exec: Learning (and Learning from) Execution Triggers for Prompt  Injection Attacks](https://arxiv.org//abs/2403.03792)
 
 	Dario Pasquini, Martin Strohmeier, Carmela Troncoso
+
+
++ [ Unsupervised Contrastive Learning for Robust RF Device Fingerprinting  Under Time-Domain Shift](https://arxiv.org//abs/2403.04036)
+
+	Jun Chen, Weng-Keen Wong, Bechir Hamdaoui
+
+
++ [ Improving Adversarial Training using Vulnerability-Aware Perturbation  Budget](https://arxiv.org//abs/2403.04070)
+
+	Olukorede Fakorede, Modeste Atsague, Jin Tian
+
+
++ [ Effect of Ambient-Intrinsic Dimension Gap on Adversarial Vulnerability](https://arxiv.org//abs/2403.03967)
+
+	Rajdeep Haldar, Yue Xing, Qifan Song
 
 
 ## 2024-03-05
