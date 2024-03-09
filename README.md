@@ -74,6 +74,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Rajdeep Haldar, Yue Xing, Qifan Song
 
 
++ [ Belief-Enriched Pessimistic Q-Learning against Adversarial State  Perturbations](https://arxiv.org//abs/2403.04050)
+
+	Xiaolin Sun, Zizhan Zheng
+
+
 ## 2024-03-05
 + [ FLGuard: Byzantine-Robust Federated Learning via Ensemble of Contrastive  Models](https://arxiv.org//abs/2403.02846)
 
