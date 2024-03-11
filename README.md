@@ -2,6 +2,53 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+
+## 2024-03-08
++ [ Predicting Single-cell Drug Sensitivity by Adaptive Weighted Feature for  Adversarial Multi-source Domain Adaptation](https://arxiv.org//abs/2403.05260)
+
+	Wei Duan, Hui Liu
+
+
++ [ Exploring the Adversarial Frontier: Quantifying Robustness via  Adversarial Hypervolume](https://arxiv.org//abs/2403.05100)
+
+	Ping Guo, Cheng Gong, Xi Lin, Zhiyuan Yang, Qingfu Zhang
+
+
++ [ Overcoming Reward Overoptimization via Adversarial Policy Optimization  with Lightweight Uncertainty Estimation](https://arxiv.org//abs/2403.05171)
+
+	Xiaoying Zhang, Jean-Francois Ton, Wei Shen, Hongning Wang, Yang Liu
+
+
++ [ Towards Multimodal Sentiment Analysis Debiasing via Bias Purification](https://arxiv.org//abs/2403.05023)
+
+	Dingkang Yang, Mingcheng Li, Dongling Xiao, Yang Liu, Kun Yang, Zhaoyu Chen, Yuzheng Wang, Peng Zhai, Ke Li, Lihua Zhang
+
+
++ [ The Impact of Quantization on the Robustness of Transformer-based Text  Classifiers](https://arxiv.org//abs/2403.05365)
+
+	Seyed Parsa Neshaei, Yasaman Boreshban, Gholamreza Ghassem-Sani, Seyed Abolghasem Mirroshandel
+
+
++ [ Hide in Thicket: Generating Imperceptible and Rational Adversarial  Perturbations on 3D Point Clouds](https://arxiv.org//abs/2403.05247)
+
+	Tianrui Lou, Xiaojun Jia, Jindong Gu, Li Liu, Siyuan Liang, Bangyan He, Xiaochun Cao
+
+
++ [ Federated Learning Method for Preserving Privacy in Face Recognition  System](https://arxiv.org//abs/2403.05344)
+
+	Enoch Solomon, Abraham Woubie
+
+
++ [ EVD4UAV: An Altitude-Sensitive Benchmark to Evade Vehicle Detection in  UAV](https://arxiv.org//abs/2403.05422)
+
+	Huiming Sun, Jiacheng Guo, Zibo Meng, Tianyun Zhang, Jianwu Fang, Yuewei Lin, Hongkai Yu
+
+
++ [ Adversarial Sparse Teacher: Defense Against Distillation-Based Model  Stealing Attacks Using Adversarial Examples](https://arxiv.org//abs/2403.05181)
+
+	Eda Yilmaz, Hacer Yalim Keles
+
+
 ## 2024-03-07
 + [ Privacy-preserving Fine-tuning of Large Language Models through Flatness](https://arxiv.org//abs/2403.04124)
 
@@ -16,6 +63,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Membership Inference Attacks and Privacy in Topic Modeling](https://arxiv.org//abs/2403.04451)
 
 	Nico Manzonelli, Wanrong Zhang, Salil Vadhan
+
+
++ [ Automatic and Universal Prompt Injection Attacks against Large Language  Models](https://arxiv.org//abs/2403.04957)
+
+	Xiaogeng Liu, Zhiyuan Yu, Yizhe Zhang, Ning Zhang, Chaowei Xiao
 
 
 ## 2024-03-06
@@ -79,6 +131,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Xiaolin Sun, Zizhan Zheng
 
 
++ [ Fooling Neural Networks for Motion Forecasting via Adversarial Attacks](https://arxiv.org//abs/2403.04954)
+
+	Edgar Medina, Leyong Loh
+
+
 ## 2024-03-05
 + [ FLGuard: Byzantine-Robust Federated Learning via Ensemble of Contrastive  Models](https://arxiv.org//abs/2403.02846)
 
@@ -105,16 +162,31 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Stav Cohen, Ron Bitton, Ben Nassi
 
 
++ [ Enhancing Security in Federated Learning through Adaptive  Consensus-Based Model Update Validation](https://arxiv.org//abs/2403.04803)
+
+	Zahir Alsulaimawi
+
+
 ## 2024-03-03
 + [ GuardT2I: Defending Text-to-Image Models from Adversarial Prompts](https://arxiv.org/abs/2403.01446)
 
 	Yijun Yang, Ruiyuan Gao, Xiao Yang, Jianyuan Zhong, Qiang Xu
 
 
++ [ Breaking Down the Defenses: A Comparative Survey of Attacks on Large  Language Models](https://arxiv.org//abs/2403.04786)
+
+	Arijit Ghosh Chowdhury, Md Mofijul Islam, Vaibhav Kumar, Faysal Hossain Shezan, Vaibhav Kumar, Vinija Jain, Aman Chadha
+
+
 ## 2024-03-02
 + [ Query Recovery from Easy to Hard: Jigsaw Attack against SSE](https://arxiv.org/abs/2403.01155)
 
 	Hao Nie, Wei Wang, Peng Xu, Xianglong Zhang, Laurence T. Yang, Kaitai Liang
+
+
++ [ AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks](https://arxiv.org//abs/2403.04783)
+
+	Yifan Zeng, Yiran Wu, Xiao Zhang, Huazheng Wang, Qingyun Wu
 
 
 ## 2024-03-01
