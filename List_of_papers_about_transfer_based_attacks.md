@@ -143,11 +143,6 @@ We also provide a  complete list of papers about adversarial examples [here](htt
     Xiaosen Wang, Zeliang Zhang, Jianping Zhang
 
 
-+ [Boosting Adversarial Transferability by Block Shuffle and Rotation](https://arxiv.org/abs/2308.10299) (arXiv preprint arXiv:2308.10299, 2023)
-
-    Kunyu Wang, Xuanran He, Wenxuan Wang, Xiaosen Wang
-
-
 + [Improving the Transferability of Adversarial Samples by Path-Augmented Method](https://arxiv.org/abs/2303.15735) (CVPR 2023)
 
     Jianping Zhang, Jen-tse Huang, Wenxuan Wang, Yichen Li, Weibin Wu, Xiaosen Wang, Yuxin Su, Michael Lyu
@@ -186,6 +181,11 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 + [ Boost Adversarial Transferability by Uniform Scale and Mix Mask Method](https://arxiv.org//abs/2311.12051) (arXiv preprint arXiv:2311.12051, 2023)
 
 	Tao Wang, Zijian Ying, Qianmu Li, zhichao Lian
+
+
++ [Boosting Adversarial Transferability by Block Shuffle and Rotation](https://arxiv.org/abs/2308.10299) (CVPR 2024)
+
+    Kunyu Wang, Xuanran He, Wenxuan Wang, Xiaosen Wang
 
 
 + [ Boosting the Transferability of Adversarial Examples via Local Mixup and  Adaptive Step Size](https://arxiv.org//abs/2401.13205) (arXiv preprint arXiv:2401.13205, 2024)
@@ -268,6 +268,7 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 + [Fuzziness-tuned: Improving the Transferability of Adversarial Examples](https://arxiv.org/abs/2303.10078) (arXiv preprint arXiv:2303.10078 2023)
 
 	Xiangyuan Yang, Jie Lin, Hanlin Zhang, Xinyu Yang, Peng Zhao
+
 ### Model-related Attack
 
 + [Skip Connections Matter: On the Transferability of Adversarial Examples Generated with ResNets](https://arxiv.org/pdf/2002.05990.pdf) (ICLR 2020)

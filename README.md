@@ -3,6 +3,65 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+## 2024-03-11
++ [ Poisoning Programs by Un-Repairing Code: Security Concerns of  AI-generated Code](https://arxiv.org//abs/2403.06675)
+
+	Cristina Improta
+
+
++ [ Data-Independent Operator: A Training-Free Artifact Representation  Extractor for Generalizable Deepfake Detection](https://arxiv.org//abs/2403.06803)
+
+	Chuangchuang Tan, Ping Liu, RenShuai Tao, Huan Liu, Yao Zhao, Baoyuan Wu, Yunchao Wei
+
+
++ [ PeerAiD: Improving Adversarial Distillation from a Specialized Peer  Tutor](https://arxiv.org//abs/2403.06668)
+
+	Jaewon Jung, Hongsun Jang, Jaeyong Song, Jinho Lee
+
+
++ [ Dynamic Perturbation-Adaptive Adversarial Training on Medical Image  Classification](https://arxiv.org//abs/2403.06798)
+
+	Shuai Li, Xiaoguang Ma, Shancheng Jiang, Lu Meng
+
+
++ [ Intra-Section Code Cave Injection for Adversarial Evasion Attacks on  Windows PE Malware File](https://arxiv.org//abs/2403.06428)
+
+	Kshitiz Aryal, Maanak Gupta, Mahmoud Abdelsalam, Moustafa Saleh
+
+
++ [ Real is not True: Backdoor Attacks Against Deepfake Detection](https://arxiv.org//abs/2403.06610)
+
+	Hong Sun, Ziqiang Li, Lei Liu, Bin Li
+
+
++ [ Stealing Part of a Production Language Model](https://arxiv.org//abs/2403.06634)
+
+	Nicholas Carlini, Daniel Paleka, Krishnamurthy Dj Dvijotham, Thomas Steinke, Jonathan Hayase, A. Feder Cooper, Katherine Lee, Matthew Jagielski, Milad Nasr, Arthur Conmy, Eric Wallace, David Rolnick, Florian Tramèr
+
+
+## 2024-03-10
++ [ In-context Prompt Learning for Test-time Vision Recognition with Frozen  Vision-language Model](https://arxiv.org//abs/2403.06126)
+
+	Junhui Yin, Xinyu Zhang, Lin Wu, Xianghua Xie, Xiaojie Wang
+
+
++ [ Federated Learning: Attacks, Defenses, Opportunities, and Challenges](https://arxiv.org//abs/2403.06067)
+
+	Ghazaleh Shirvani, Saeid Ghasemshirazi, Behzad Beigzadeh
+
+
+
+## 2024-03-09
++ [ Towards Deviation-Robust Agent Navigation via Perturbation-Aware  Contrastive Learning](https://arxiv.org//abs/2403.05770)
+
+	Bingqian Lin, Yanxin Long, Yi Zhu, Fengda Zhu, Xiaodan Liang, Qixiang Ye, Liang Lin
+
+
++ [ Hard-label based Small Query Black-box Adversarial Attack](https://arxiv.org//abs/2403.06014)
+
+	Jeonghwan Park, Paul Miller, Niall McLaughlin
+
+
 ## 2024-03-08
 + [ Predicting Single-cell Drug Sensitivity by Adaptive Weighted Feature for  Adversarial Multi-source Domain Adaptation](https://arxiv.org//abs/2403.05260)
 
