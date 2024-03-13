@@ -3,6 +3,42 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+## 2024-03-12
++ [ Disentangling Policy from Offline Task Representation Learning via  Adversarial Data Augmentation](https://arxiv.org//abs/2403.07261)
+
+	Chengxing Jia, Fuxiang Zhang, Yi-Chen Li, Chen-Xiao Gao, Xu-Hui Liu, Lei Yuan, Zongzhang Zhang, Yang Yu
+
+
++ [ A Bayesian Approach to OOD Robustness in Image Classification](https://arxiv.org//abs/2403.07277)
+
+	Prakhar Kaushik, Adam Kortylewski, Alan Yuille
+
+
++ [ Exploring Safety Generalization Challenges of Large Language Models via  Code](https://arxiv.org//abs/2403.07865)
+
+	Qibing Ren, Chang Gao, Jing Shao, Junchi Yan, Xin Tan, Wai Lam, Lizhuang Ma
+
+
++ [ Truth-Aware Context Selection: Mitigating the Hallucinations of Large  Language Models Being Misled by Untruthful Contexts](https://arxiv.org//abs/2403.07556)
+
+	Tian Yu, Shaolei Zhang, Yang Feng
+
+
++ [ Calibrating Multi-modal Representations: A Pursuit of Group Robustness  without Annotations](https://arxiv.org//abs/2403.07241)
+
+	Chenyu You, Yifei Min, Weicheng Dai, Jasjeet S. Sekhon, Lawrence Staib, James S. Duncan
+
+
++ [ Backdoor Attack with Mode Mixture Latent Modification](https://arxiv.org//abs/2403.07463)
+
+	Hongwei Zhang, Xiaoyin Xu, Dongsheng An, Xianfeng Gu, Min Zhang
+
+
++ [ FairRR: Pre-Processing for Group Fairness through Randomized Response](https://arxiv.org//abs/2403.07780)
+
+	Xianli Zeng, Joshua Ward, Guang Cheng
+
+
 ## 2024-03-11
 + [ Poisoning Programs by Un-Repairing Code: Security Concerns of  AI-generated Code](https://arxiv.org//abs/2403.06675)
 
@@ -37,6 +73,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Stealing Part of a Production Language Model](https://arxiv.org//abs/2403.06634)
 
 	Nicholas Carlini, Daniel Paleka, Krishnamurthy Dj Dvijotham, Thomas Steinke, Jonathan Hayase, A. Feder Cooper, Katherine Lee, Matthew Jagielski, Milad Nasr, Arthur Conmy, Eric Wallace, David Rolnick, Florian Tramèr
+
+
++ [ Improving deep learning with prior knowledge and cognitive models: A  survey on enhancing explainability, adversarial robustness and zero-shot  learning](https://arxiv.org//abs/2403.07078)
+
+	Fuseinin Mumuni, Alhassan Mumuni
 
 
 ## 2024-03-10
