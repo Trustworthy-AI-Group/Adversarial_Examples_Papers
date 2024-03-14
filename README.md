@@ -3,6 +3,38 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+## 2024-03-13
++ [ Robust Decision Aggregation with Adversarial Experts](https://arxiv.org//abs/2403.08222)
+
+	Yongkang Guo, Yuqing Kong
+
+
++ [ Versatile Defense Against Adversarial Attacks on Image Recognition](https://arxiv.org//abs/2403.08170)
+
+	Haibo Zhang, Zhihua Yao, Kouichi Sakurai
+
+
++ [ RAF-GI: Towards Robust, Accurate and Fast-Convergent Gradient Inversion  Attack in Federated Learning](https://arxiv.org//abs/2403.08383)
+
+	Can Liu, Jin Wang, Dongyang Yu
+
+
++ [ AIGCs Confuse AI Too: Investigating and Explaining Synthetic  Image-induced Hallucinations in Large Vision-Language Models](https://arxiv.org//abs/2403.08542)
+
+	Yifei Gao, Jiaqi Wang, Zhiyu Lin, Jitao Sang
+
+
++ [ Advancing Security in AI Systems: A Novel Approach to Detecting  Backdoors in Deep Neural Networks](https://arxiv.org//abs/2403.08208)
+
+	Khondoker Murad Hossain, Tim Oates
+
+
++ [ SoK: Reducing the Vulnerability of Fine-tuned Language Models to  Membership Inference Attacks](https://arxiv.org//abs/2403.08481)
+
+	Guy Amit, Abigail Goldsteen, Ariel Farkash
+
+
+
 ## 2024-03-12
 + [ Disentangling Policy from Offline Task Representation Learning via  Adversarial Data Augmentation](https://arxiv.org//abs/2403.07261)
 
@@ -37,6 +69,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ FairRR: Pre-Processing for Group Fairness through Randomized Response](https://arxiv.org//abs/2403.07780)
 
 	Xianli Zeng, Joshua Ward, Guang Cheng
+
+
++ [ LiveCodeBench: Holistic and Contamination Free Evaluation of Large  Language Models for Code](https://arxiv.org//abs/2403.07974)
+
+	Naman Jain, King Han, Alex Gu, Wen-Ding Li, Fanjia Yan, Tianjun Zhang, Sida Wang, Armando Solar-Lezama, Koushik Sen, Ion Stoica
 
 
 ## 2024-03-11
@@ -90,6 +127,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Ghazaleh Shirvani, Saeid Ghasemshirazi, Behzad Beigzadeh
 
+
+
++ [ Attacking Transformers with Feature Diversity Adversarial Perturbation](https://arxiv.org//abs/2403.07942)
+
+	Chenxing Gao, Hang Zhou, Junqing Yu, YuTeng Ye, Jiale Cai, Junle Wang, Wei Yang
 
 
 ## 2024-03-09
