@@ -2,6 +2,47 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+## 2024-03-14
++ [ ADEdgeDrop: Adversarial Edge Dropping for Robust Graph Neural Networks](https://arxiv.org//abs/2403.09171)
+
+	Zhaoliang Chen, Zhihao Wu, Ylli Sadikaj, Claudia Plant, Hong-Ning Dai, Shiping Wang, Wenzhong Guo
+
+
++ [ Adversarial Training with OCR Modality Perturbation for Scene-Text  Visual Question Answering](https://arxiv.org//abs/2403.09288)
+
+	Zhixuan Shen, Haonan Luo, Sijia Li, Tianrui Li
+
+
++ [ AdaShield: Safeguarding Multimodal Large Language Models from  Structure-based Attack via Adaptive Shield Prompting](https://arxiv.org//abs/2403.09513)
+
+	Yu Wang, Xiaogeng Liu, Yu Li, Muhao Chen, Chaowei Xiao
+
+
++ [ VDNA-PR: Using General Dataset Representations for Robust Sequential  Visual Place Recognition](https://arxiv.org//abs/2403.09025)
+
+	Benjamin Ramtoula, Daniele De Martini, Matthew Gadd, Paul Newman
+
+
++ [ Impact of Synthetic Images on Morphing Attack Detection Using a Siamese  Network](https://arxiv.org//abs/2403.09380)
+
+	Juan Tapia, Christoph Busch
+
+
++ [ Anomaly Detection by Adapting a pre-trained Vision Language Model](https://arxiv.org//abs/2403.09493)
+
+	Yuxuan Cai, Xinwei He, Dingkang Liang, Ao Tong, Xiang Bai
+
+
++ [ Soften to Defend: Towards Adversarial Robustness via Self-Guided Label  Refinement](https://arxiv.org//abs/2403.09101)
+
+	Daiwei Yu, Zhuorong Li, Lina Wei, Canghong Jin, Yun Zhang, Sixian Chan
+
+
++ [ Adversarial Fine-tuning of Compressed Neural Networks for Joint  Improvement of Robustness and Efficiency](https://arxiv.org//abs/2403.09441)
+
+	Hallgrimur Thorsteinsson, Valdemar J Henriksen, Tong Chen, Raghavendra Selvan
+
+
 
 ## 2024-03-13
 + [ Robust Decision Aggregation with Adversarial Experts](https://arxiv.org//abs/2403.08222)
@@ -1342,6 +1383,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Enyan Dai, Minhua Lin, Suhang Wang
 
+
+
++ [ Adversarially Robust Deepfake Detection via Adversarial Feature  Similarity Learning](https://arxiv.org//abs/2403.08806)
+
+	Sarwar Khan
 
 
 ## 2024-02-05
