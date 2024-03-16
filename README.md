@@ -43,6 +43,26 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Hallgrimur Thorsteinsson, Valdemar J Henriksen, Tong Chen, Raghavendra Selvan
 
 
++ [ AVIBench: Towards Evaluating the Robustness of Large Vision-Language  Model on Adversarial Visual-Instructions](https://arxiv.org//abs/2403.09346)
+
+	Hao Zhang, Wenqi Shao, Hong Liu, Yongqiang Ma, Ping Luo, Yu Qiao, Kaipeng Zhang
+
+
++ [ Counterfactual contrastive learning: robust representations via causal  image synthesis](https://arxiv.org//abs/2403.09605)
+
+	Melanie Roschewitz, Fabio De Sousa Ribeiro, Tian Xia, Galvin Khara, Ben Glocker
+
+
++ [ Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text  Transformation](https://arxiv.org//abs/2403.09572)
+
+	Yunhao Gou, Kai Chen, Zhili Liu, Lanqing Hong, Hang Xu, Zhenguo Li, Dit-Yan Yeung, James T. Kwok, Yu Zhang
+
+
++ [ Ciphertext-Only Attack on a Secure $k$-NN Computation on Cloud](https://arxiv.org//abs/2403.09080)
+
+	Shyam Murthy, Santosh Kumar Upadhyaya, Srinivas Vivek
+
+
 
 ## 2024-03-13
 + [ Robust Decision Aggregation with Adversarial Experts](https://arxiv.org//abs/2403.08222)
