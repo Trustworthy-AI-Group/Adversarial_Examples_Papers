@@ -63,6 +63,21 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Shyam Murthy, Santosh Kumar Upadhyaya, Srinivas Vivek
 
 
++ [ Optimistic Verifiable Training by Controlling Hardware Nondeterminism](https://arxiv.org//abs/2403.09603)
+
+	Megha Srivastava, Simran Arora, Dan Boneh
+
+
++ [ Evaluating LLMs for Gender Disparities in Notable Persons](https://arxiv.org//abs/2403.09148)
+
+	Lauren Rhue, Sofie Goethals, Arun Sundararajan
+
+
++ [ Shake to Leak: Fine-tuning Diffusion Models Can Amplify the Generative  Privacy Risk](https://arxiv.org//abs/2403.09450)
+
+	Zhangheng Li, Junyuan Hong, Bo Li, Zhangyang Wang
+
+
 
 ## 2024-03-13
 + [ Robust Decision Aggregation with Adversarial Experts](https://arxiv.org//abs/2403.08222)
