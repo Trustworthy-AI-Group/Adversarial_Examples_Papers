@@ -2,6 +2,59 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+
+## 2024-03-15
++ [ Global Convergence Guarantees for Federated Policy Gradient Methods with  Adversaries](https://arxiv.org//abs/2403.09940)
+
+	Swetha Ganesh, Jiayu Chen, Gugan Thoppe, Vaneet Aggarwal
+
+
++ [ Benchmarking Zero-Shot Robustness of Multimodal Foundation Models: A  Pilot Study](https://arxiv.org//abs/2403.10499)
+
+	Chenguang Wang, Ruoxi Jia, Xin Liu, Dawn Song
+
+
++ [ Revisiting Adversarial Training under Long-Tailed Distributions](https://arxiv.org//abs/2403.10073)
+
+	Xinli Yue, Ningping Mou, Qian Wang, Lingchen Zhao
+
+
++ [ Benchmarking Adversarial Robustness of Image Shadow Removal with  Shadow-adaptive Attacks](https://arxiv.org//abs/2403.10076)
+
+	Chong Wang, Yi Yu, Lanqing Guo, Bihan Wen
+
+
++ [ Mitigating Dialogue Hallucination for Large Multi-modal Models via  Adversarial Instruction Tuning](https://arxiv.org//abs/2403.10492)
+
+	Dongmin Park, Zhaofang Qian, Guangxing Han, Ser-Nam Lim
+
+
++ [ Towards Adversarially Robust Dataset Distillation by Curvature  Regularization](https://arxiv.org//abs/2403.10045)
+
+	Eric Xue, Yijiang Li, Haoyang Liu, Yifan Shen, Haohan Wang
+
+
++ [ Generation is better than Modification: Combating High Class Homophily  Variance in Graph Anomaly Detection](https://arxiv.org//abs/2403.10339)
+
+	Rui Zhang, Dawei Cheng, Xin Liu, Jie Yang, Yi Ouyang, Xian Wu, Yefeng Zheng
+
+
++ [ Federated Learning with Anomaly Detection via Gradient and  Reconstruction Analysis](https://arxiv.org//abs/2403.10000)
+
+	Zahir Alsulaimawi
+
+
++ [ Securing Federated Learning with Control-Flow Attestation: A Novel  Framework for Enhanced Integrity and Resilience against Adversarial Attacks](https://arxiv.org//abs/2403.10005)
+
+	Zahir Alsulaimawi
+
+
++ [ Interactive Trimming against Evasive Online Data Manipulation Attacks: A  Game-Theoretic Approach](https://arxiv.org//abs/2403.10313)
+
+	Yue Fu, Qingqing Ye, Rong Du, Haibo Hu
+
+
+
 ## 2024-03-14
 + [ ADEdgeDrop: Adversarial Edge Dropping for Robust Graph Neural Networks](https://arxiv.org//abs/2403.09171)
 
@@ -76,6 +129,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Shake to Leak: Fine-tuning Diffusion Models Can Amplify the Generative  Privacy Risk](https://arxiv.org//abs/2403.09450)
 
 	Zhangheng Li, Junyuan Hong, Bo Li, Zhangyang Wang
+
+
++ [ An Image Is Worth 1000 Lies: Adversarial Transferability across Prompts  on Vision-Language Models](https://arxiv.org//abs/2403.09766)
+
+	Haochen Luo, Jindong Gu, Fengyuan Liu, Philip Torr
+
+
++ [ Robust Subgraph Learning by Monitoring Early Training Representations](https://arxiv.org//abs/2403.09901)
+
+	Sepideh Neshatfar, Salimeh Yasaei Sekeh
 
 
 
