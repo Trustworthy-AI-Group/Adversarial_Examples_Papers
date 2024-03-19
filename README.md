@@ -3,6 +3,78 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+## 2024-03-18
++ [ Problem space structural adversarial attacks for Network Intrusion  Detection Systems based on Graph Neural Networks](https://arxiv.org//abs/2403.11830)
+
+	Andrea Venturi, Dario Stabili, Mirco Marchetti
+
+
+
++ [ A Toolbox for Surfacing Health Equity Harms and Biases in Large Language  Models](https://arxiv.org//abs/2403.12025)
+
+	Stephen R. Pfohl, Heather Cole-Lewis, Rory Sayres, Darlene Neal, Mercy Asiedu, Awa Dieng, Nenad Tomasev, Qazi Mamunur Rashid, Shekoofeh Azizi, Negar Rostamzadeh, Liam G. McCoy, Leo Anthony Celi, Yun Liu, Mike Schaekermann, Alanna Walton, Alicia Parrish, Chirag Nagpal, Preeti Singh, Akeiylah Dewitt, Philip Mansfield, Sushant Prakash, Katherine Heller, Alan Karthikesalingam, Christopher Semturs, Joelle Barral, Greg Corrado, Yossi Matias, Jamila Smith-Loud, Ivor Horn, Karan Singhal
+
+
++ [ Defense Against Adversarial Attacks on No-Reference Image Quality Models  with Gradient Norm Regularization](https://arxiv.org//abs/2403.11397)
+
+	Yujia Liu, Chenxi Yang, Dingquan Li, Jianhao Ding, Tingting Jiang
+
+
++ [ SSAP: A Shape-Sensitive Adversarial Patch for Comprehensive Disruption  of Monocular Depth Estimation in Autonomous Navigation Applications](https://arxiv.org//abs/2403.11515)
+
+	Amira Guesmi, Muhammad Abdullah Hanif, Ihsen Alouani, Bassem Ouni, Muhammad Shafique
+
+
++ [ LocalStyleFool: Regional Video Style Transfer Attack Using Segment  Anything Model](https://arxiv.org//abs/2403.11656)
+
+	Yuxin Cao, Jinghao Li, Xi Xiao, Derui Wang, Minhui Xue, Hao Ge, Wei Liu, Guangwu Hu
+
+
++ [ Diffusion Denoising as a Certified Defense against Clean-label Poisoning](https://arxiv.org//abs/2403.11981)
+
+	Sanghyun Hong, Nicholas Carlini, Alexey Kurakin
+
+
++ [ Diffusion-Reinforcement Learning Hierarchical Motion Planning in  Adversarial Multi-agent Games](https://arxiv.org//abs/2403.10794)
+
+	Zixuan Wu, Sean Ye, Manisha Natarajan, Matthew C. Gombolay
+
+
+
+## 2024-03-17
++ [ RobustSentEmbed: Robust Sentence Embeddings Using Adversarial  Self-Supervised Contrastive Learning](https://arxiv.org//abs/2403.11082)
+
+	Javad Rafiei Asl, Prajwal Panzade, Eduardo Blanco, Daniel Takabi, Zhipeng Cai
+
+
++ [ COLEP: Certifiably Robust Learning-Reasoning Conformal Prediction via  Probabilistic Circuits](https://arxiv.org//abs/2403.11348)
+
+	Mintong Kang, Nezihe Merve Gürel, Linyi Li, Bo Li
+
+
++ [ A Modified Word Saliency-Based Adversarial Attack on Text Classification  Models](https://arxiv.org//abs/2403.11297)
+
+	Hetvi Waghela, Sneha Rakshit, Jaydip Sen
+
+
+## 2024-03-16
++ [ Improving Adversarial Transferability of Visual-Language Pre-training  Models through Collaborative Multimodal Interaction](https://arxiv.org//abs/2403.10883)
+
+	Jiyuan Fu, Zhaoyu Chen, Kaixun Jiang, Haijing Guo, Jiafeng Wang, Shuyong Gao, Wenqiang Zhang
+
+
++ [ Understanding Robustness of Visual State Space Models for Image  Classification](https://arxiv.org//abs/2403.10935)
+
+	Chengbin Du, Yanxi Li, Chang Xu
+
+
++ [ Adversarial Knapsack and Secondary Effects of Common Information for  Cyber Operations](https://arxiv.org//abs/2403.10789)
+
+	Jon Goohs, Georgel Savin, Lucas Starks, Josiah Dykstra, William Casey
+
+
+
+
 ## 2024-03-15
 + [ Global Convergence Guarantees for Federated Policy Gradient Methods with  Adversaries](https://arxiv.org//abs/2403.09940)
 
@@ -52,6 +124,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Interactive Trimming against Evasive Online Data Manipulation Attacks: A  Game-Theoretic Approach](https://arxiv.org//abs/2403.10313)
 
 	Yue Fu, Qingqing Ye, Rong Du, Haibo Hu
+
+
++ [ Backdoor Secrets Unveiled: Identifying Backdoor Data with Optimized  Scaled Prediction Consistency](https://arxiv.org//abs/2403.10717)
+
+	Soumyadeep Pal, Yuguang Yao, Ren Wang, Bingquan Shen, Sijia Liu
 
 
 
@@ -139,6 +216,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Robust Subgraph Learning by Monitoring Early Training Representations](https://arxiv.org//abs/2403.09901)
 
 	Sepideh Neshatfar, Salimeh Yasaei Sekeh
+
+
++ [ Counter-Samples: A Stateless Strategy to Neutralize Black Box  Adversarial Attacks](https://arxiv.org//abs/2403.10562)
+
+	Roey Bokobza, Yisroel Mirsky
 
 
 
