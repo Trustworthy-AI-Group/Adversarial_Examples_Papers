@@ -3,11 +3,21 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+## 2024-03-19
++ [ Electioneering the Network: Dynamic Multi-Step Adversarial Attacks for  Community Canvassing](https://arxiv.org//abs/2403.12399)
+
+	Saurabh Sharma, Ambuj SIngh
+
+
++ [ FairSIN: Achieving Fairness in Graph Neural Networks through Sensitive  Information Neutralization](https://arxiv.org//abs/2403.12474)
+
+	Cheng Yang, Jixi Liu, Yunhe Yan, Chuan Shi
+
+
 ## 2024-03-18
 + [ Problem space structural adversarial attacks for Network Intrusion  Detection Systems based on Graph Neural Networks](https://arxiv.org//abs/2403.11830)
 
 	Andrea Venturi, Dario Stabili, Mirco Marchetti
-
 
 
 + [ A Toolbox for Surfacing Health Equity Harms and Biases in Large Language  Models](https://arxiv.org//abs/2403.12025)
@@ -38,6 +48,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Diffusion-Reinforcement Learning Hierarchical Motion Planning in  Adversarial Multi-agent Games](https://arxiv.org//abs/2403.10794)
 
 	Zixuan Wu, Sean Ye, Manisha Natarajan, Matthew C. Gombolay
+
+
++ [ Improving LoRA in Privacy-preserving Federated Learning](https://arxiv.org//abs/2403.12313)
+
+	Youbang Sun, Zitao Li, Yaliang Li, Bolin Ding
 
 
 
