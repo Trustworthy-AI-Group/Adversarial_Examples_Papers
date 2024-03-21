@@ -3,6 +3,28 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+## 2024-03-20
++ [ BadEdit: Backdooring large language models by model editing](https://arxiv.org//abs/2403.13355)
+
+	Yanzhou Li, Tianlin Li, Kangjie Chen, Jian Zhang, Shangqing Liu, Wenhan Wang, Tianwei Zhang, Yang Liu
+
+
++ [ Deepfake Detection without Deepfakes: Generalization via Synthetic  Frequency Patterns Injection](https://arxiv.org//abs/2403.13479)
+
+	Davide Alessandro Coccomini, Roberto Caldelli, Claudio Gennaro, Giuseppe Fiameni, Giuseppe Amato, Fabrizio Falchi
+
+
++ [ Have You Poisoned My Data? Defending Neural Networks against Data  Poisoning](https://arxiv.org//abs/2403.13523)
+
+	Fabio De Gaspari, Dorjan Hitaj, Luigi V. Mancini
+
+
++ [ Adversarial Attacks and Defenses in Automated Control Systems: A  Comprehensive Benchmark](https://arxiv.org//abs/2403.13502)
+
+	Vitaliy Pozdnyakov, Aleksandr Kovalenko, Ilya Makarov, Mikhail Drobyshevskiy, Kirill Lukyanov
+
+
+
 ## 2024-03-19
 + [ Electioneering the Network: Dynamic Multi-Step Adversarial Attacks for  Community Canvassing](https://arxiv.org//abs/2403.12399)
 
@@ -12,6 +34,26 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ FairSIN: Achieving Fairness in Graph Neural Networks through Sensitive  Information Neutralization](https://arxiv.org//abs/2403.12474)
 
 	Cheng Yang, Jixi Liu, Yunhe Yan, Chuan Shi
+
+
++ [ RigorLLM: Resilient Guardrails for Large Language Models against  Undesired Content](https://arxiv.org//abs/2403.13031)
+
+	Zhuowen Yuan, Zidi Xiong, Yi Zeng, Ning Yu, Ruoxi Jia, Dawn Song, Bo Li
+
+
++ [ Robust NAS under adversarial training: benchmark, theory, and beyond](https://arxiv.org//abs/2403.13134)
+
+	Yongtao Wu, Fanghui Liu, Carl-Johann Simon-Gabriel, Grigorios G Chrysos, Volkan Cevher
+
+
++ [ ADAPT to Robustify Prompt Tuning Vision Transformers](https://arxiv.org//abs/2403.13196)
+
+	Masih Eskandar, Tooba Imtiaz, Zifeng Wang, Jennifer Dy
+
+
++ [ Analyzing the Impact of Partial Sharing on the Resilience of Online  Federated Learning Against Model Poisoning Attacks](https://arxiv.org//abs/2403.13108)
+
+	Ehsan Lari, Vinay Chakravarthi Gogineni, Reza Arablouei, Stefan Werner
 
 
 ## 2024-03-18
@@ -53,6 +95,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Improving LoRA in Privacy-preserving Federated Learning](https://arxiv.org//abs/2403.12313)
 
 	Youbang Sun, Zitao Li, Yaliang Li, Bolin Ding
+
+
++ [ Impart: An Imperceptible and Effective Label-Specific Backdoor Attack](https://arxiv.org//abs/2403.13017)
+
+	Jingke Zhao, Zan Wang, Yongwei Wang, Lanjun Wang
+
+
++ [ Invisible Backdoor Attack Through Singular Value Decomposition](https://arxiv.org//abs/2403.13018)
+
+	Wenmin Chen, Xiaowei Xu
 
 
 
