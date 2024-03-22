@@ -3,6 +3,38 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+## 2024-03-21
++ [ SoftPatch: Unsupervised Anomaly Detection with Noisy Data](https://arxiv.org//abs/2403.14233)
+
+	Xi Jiang, Ying Chen, Qiang Nie, Yong Liu, Jianlin Liu, Bin-Bin Gao, Jun Liu, Chengjie Wang, Feng Zheng
+
+
++ [ Locating and Mitigating Gender Bias in Large Language Models](https://arxiv.org//abs/2403.14409)
+
+	Yuchen Cai, Ding Cao, Rongxi Guo, Yaqin Wen, Guiquan Liu, Enhong Chen
+
+
++ [ Detoxifying Large Language Models via Knowledge Editing](https://arxiv.org//abs/2403.14472)
+
+	Mengru Wang, Ningyu Zhang, Ziwen Xu, Zekun Xi, Shumin Deng, Yunzhi Yao, Qishen Zhang, Linyi Yang, Jindong Wang, Huajun Chen
+
+
++ [ MMIDR: Teaching Large Language Model to Interpret Multimodal  Misinformation via Knowledge Distillation](https://arxiv.org//abs/2403.14171)
+
+	Longzheng Wang, Xiaohan Xu, Lei Zhang, Jiarui Lu, Yongxiu Xu, Hongbo Xu, Chuang Zhang
+
+
++ [ Adversary-Robust Graph-Based Learning of WSIs](https://arxiv.org//abs/2403.14489)
+
+	Saba Heidari Gheshlaghi, Milan Aryal, Nasim Yahyasoltani, Masoud Ganji
+
+
++ [ Rethinking Adversarial Inverse Reinforcement Learning: From the Angles  of Policy Imitation and Transferable Reward Recovery](https://arxiv.org//abs/2403.14593)
+
+	Yangchun Zhang, Yirui Zhou
+
+
+
 ## 2024-03-20
 + [ BadEdit: Backdooring large language models by model editing](https://arxiv.org//abs/2403.13355)
 
