@@ -34,6 +34,20 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Yangchun Zhang, Yirui Zhou
 
 
++ [ Improving the Robustness of Large Language Models via Consistency  Alignment](https://arxiv.org//abs/2403.14221)
+
+	Zhao Yukun, Yan Lingyong, Sun Weiwei, Xing Guoliang, Wang Shuaiqiang, Meng Chong, Cheng Zhicong, Ren Zhaochun, Yin Dawei
+
+
++ [ Rethinking Adversarial Inverse Reinforcement Learning: From the Angles  of Policy Imitation and Transferable Reward Recovery](https://arxiv.org//abs/2403.14593)
+
+	Yangchun Zhang, Yirui Zhou
+
+
++ [ Adversary-Augmented Simulation to evaluate client-fairness on  HyperLedger Fabric](https://arxiv.org//abs/2403.14342)
+
+	Erwan Mahe, Rouwaida Abdallah, Sara Tucci-Piergiovanni, Pierre-Yves Piriou
+
 
 ## 2024-03-20
 + [ BadEdit: Backdooring large language models by model editing](https://arxiv.org//abs/2403.13355)
@@ -54,6 +68,22 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Adversarial Attacks and Defenses in Automated Control Systems: A  Comprehensive Benchmark](https://arxiv.org//abs/2403.13502)
 
 	Vitaliy Pozdnyakov, Aleksandr Kovalenko, Ilya Makarov, Mikhail Drobyshevskiy, Kirill Lukyanov
+
+
++ [ Reducing Large Language Model Bias with Emphasis on 'Restricted  Industries': Automated Dataset Augmentation and Prejudice Quantification](https://arxiv.org//abs/2403.13925)
+
+	Devam Mondal, Carlo Lipizzi
+
+
+
++ [ Multi-Modal Hallucination Control by Visual Information Grounding](https://arxiv.org//abs/2403.14003)
+
+	Alessandro Favero, Luca Zancato, Matthew Trager, Siddharth Choudhary, Pramuditha Perera, Alessandro Achille, Ashwin Swaminathan, Stefano Soatto
+
+
++ [ Optimal Transport for Fairness: Archival Data Repair using Small  Research Data Sets](https://arxiv.org//abs/2403.13864)
+
+	Abigail Langbridge, Anthony Quinn, Robert Shorten
 
 
 
