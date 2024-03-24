@@ -49,6 +49,26 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Erwan Mahe, Rouwaida Abdallah, Sara Tucci-Piergiovanni, Pierre-Yves Piriou
 
 
++ [ FIT-RAG: Black-Box RAG with Factual Information and Token Reduction](https://arxiv.org//abs/2403.14374)
+
+	Yuren Mao, Xuemei Dong, Wenyi Xu, Yunjun Gao, Bin Wei, Ying Zhang
+
+
++ [ Adversary-Robust Graph-Based Learning of WSIs](https://arxiv.org//abs/2403.14489)
+
+	Saba Heidari Gheshlaghi, Milan Aryal, Nasim Yahyasoltani, Masoud Ganji
+
+
++ [ Safeguarding Medical Image Segmentation Datasets against Unauthorized  Training via Contour- and Texture-Aware Perturbations](https://arxiv.org//abs/2403.14250)
+
+	Xun Lin, Yi Yu, Song Xia, Jue Jiang, Haoran Wang, Zitong Yu, Yizhong Liu, Ying Fu, Shuai Wang, Wenzhong Tang, Alex Kot
+
+
++ [ HETAL: Efficient Privacy-preserving Transfer Learning with Homomorphic  Encryption](https://arxiv.org//abs/2403.14111)
+
+	Seewoo Lee, Garam Lee, Jung Woo Kim, Junbum Shin, Mun-Kyu Lee
+
+
 ## 2024-03-20
 + [ BadEdit: Backdooring large language models by model editing](https://arxiv.org//abs/2403.13355)
 
