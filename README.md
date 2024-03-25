@@ -2,6 +2,21 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+## 2024-03-22
++ [ A Transfer Attack to Image Watermarks](https://arxiv.org//abs/2403.15365)
+
+	Yuepeng Hu, Zhengyuan Jiang, Moyang Guo, Neil Gong
+
+
++ [ Clean-image Backdoor Attacks](https://arxiv.org//abs/2403.15010)
+
+	Dazhong Rong, Shuheng Shen, Xinyi Fu, Peng Qian, Jianhai Chen, Qinming He, Xing Fu, Weiqiang Wang
+
+
++ [ Robust optimization for adversarial learning with finite sample  complexity guarantees](https://arxiv.org//abs/2403.15207)
+
+	André Bertolace, Konstatinos Gatsis, Kostas Margellos
+
 
 ## 2024-03-21
 + [ SoftPatch: Unsupervised Anomaly Detection with Noisy Data](https://arxiv.org//abs/2403.14233)
@@ -67,6 +82,21 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ HETAL: Efficient Privacy-preserving Transfer Learning with Homomorphic  Encryption](https://arxiv.org//abs/2403.14111)
 
 	Seewoo Lee, Garam Lee, Jung Woo Kim, Junbum Shin, Mun-Kyu Lee
+
+
++ [ Improving Robustness to Model Inversion Attacks via Sparse Coding  Architectures](https://arxiv.org//abs/2403.14772)
+
+	Sayanton V. Dibbo, Adam Breuer, Juston Moore, Michael Teti
+
+
++ [ Protected group bias and stereotypes in Large Language Models](https://arxiv.org//abs/2403.14727)
+
+	Hadas Kotek, David Q. Sun, Zidi Xiu, Margit Bowler, Christopher Klein
+
+
++ [ Diffusion Attack: Leveraging Stable Diffusion for Naturalistic Image  Attacking](https://arxiv.org//abs/2403.14778)
+
+	Qianyu Guo, Jiaming Fu, Yawen Lu, Dongming Gan
 
 
 ## 2024-03-20
