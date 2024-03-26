@@ -2,6 +2,66 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+
+## 2024-03-25
++ [ $\textit{LinkPrompt}$: Natural and Universal Adversarial Attacks on  Prompt-based Language Models](https://arxiv.org//abs/2403.16432)
+
+	Yue Xu, Wenjie Wang
+
+
++ [ The Anatomy of Adversarial Attacks: Concept-based XAI Dissection](https://arxiv.org//abs/2403.16782)
+
+	Georgii Mikriukov, Gesina Schwalbe, Franz Motzkus, Korinna Bade
+
+
++ [ Generating Potent Poisons and Backdoors from Scratch with Guided  Diffusion](https://arxiv.org//abs/2403.16365)
+
+	Hossein Souri, Arpit Bansal, Hamid Kazemi, Liam Fowl, Aniruddha Saha, Jonas Geiping, Andrew Gordon Wilson, Rama Chellappa, Tom Goldstein, Micah Goldblum
+
+
++ [ Ensemble Adversarial Defense via Integration of Multiple Dispersed Low  Curvature Models](https://arxiv.org//abs/2403.16405)
+
+	Kaikang Zhao, Xi Chen, Wei Huang, Liuxin Ding, Xianglong Kong, Fan Zhang
+
+
++ [ Revealing Vulnerabilities of Neural Networks in Parameter Learning and  Defense Against Explanation-Aware Backdoors](https://arxiv.org//abs/2403.16569)
+
+	Md Abdul Kadir, GowthamKrishna Addluri, Daniel Sonntag
+
+
++ [ CipherFormer: Efficient Transformer Private Inference with Low Round  Complexity](https://arxiv.org//abs/2403.16860)
+
+	Weize Wang, Yi Kuang
+
+
+## 2024-03-24
++ [ Unlearning Backdoor Threats: Enhancing Backdoor Defense in Multimodal  Contrastive Learning via Local Token Unlearning](https://arxiv.org//abs/2403.16257)
+
+	Siyuan Liang, Kuanrong Liu, Jiajun Gong, Jiawei Liang, Yuan Xun, Ee-Chien Chang, Xiaochun Cao
+
+
++ [ Robust Diffusion Models for Adversarial Purification](https://arxiv.org//abs/2403.16067)
+
+	Guang Lin, Zerui Tao, Jianhai Zhang, Toshihisa Tanaka, Qibin Zhao
+
+
++ [ Subspace Defense: Discarding Adversarial Perturbations by Learning a  Subspace for Clean Signals](https://arxiv.org//abs/2403.16176)
+
+	Rui Zheng, Yuhao Zhou, Zhiheng Xi, Tao Gui, Qi Zhang, Xuanjing Huang
+
+
+
+## 2024-03-23
++ [ Adversarial Defense Teacher for Cross-Domain Object Detection under Poor  Visibility Conditions](https://arxiv.org//abs/2403.15786)
+
+	Kaiwen Wang, Yinzhe Shen, Martin Lauer
+
+
++ [ An Embarrassingly Simple Defense Against Backdoor Attacks On SSL](https://arxiv.org//abs/2403.15918)
+
+	Aryan Satpathy, Nilaksh, Dhruva Rajwade
+
+
 ## 2024-03-22
 + [ A Transfer Attack to Image Watermarks](https://arxiv.org//abs/2403.15365)
 
@@ -16,6 +76,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Robust optimization for adversarial learning with finite sample  complexity guarantees](https://arxiv.org//abs/2403.15207)
 
 	André Bertolace, Konstatinos Gatsis, Kostas Margellos
+
+
++ [ Twin Auto-Encoder Model for Learning Separable Representation in  Cyberattack Detection](https://arxiv.org//abs/2403.15509)
+
+	Phai Vu Dinh, Quang Uy Nguyen, Thai Hoang Dinh, Diep N. Nguyen, Bao Son Pham, Eryk Dutkiewicz
+
+
++ [ Differentially Private Next-Token Prediction of Large Language Models](https://arxiv.org//abs/2403.15638)
+
+	James Flemings, Meisam Razaviyayn, Murali Annavaram
 
 
 ## 2024-03-21
