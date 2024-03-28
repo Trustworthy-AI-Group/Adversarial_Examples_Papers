@@ -3,6 +3,32 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+## 2024-03-27
++ [ Manipulating Neural Path Planners via Slight Perturbations](https://arxiv.org//abs/2403.18256)
+
+	Zikang Xiong, Suresh Jagannathan
+
+
++ [ CosalPure: Learning Concept from Group Images for Robust Co-Saliency  Detection](https://arxiv.org//abs/2403.18554)
+
+	Jiayi Zhu, Qing Guo, Felix Juefei-Xu, Yihao Huang, Yang Liu, Geguang Pu
+
+
++ [ Safe and Robust Reinforcement-Learning: Principles and Practice](https://arxiv.org//abs/2403.18539)
+
+	Taku Yamagata, Raul Santos-Rodriguez
+
+
++ [ Bayesian Learned Models Can Detect Adversarial Malware For Free](https://arxiv.org//abs/2403.18309)
+
+	Bao Gia Doan, Dang Quang Nguyen, Paul Montague, Tamas Abraham, Olivier De Vel, Seyit Camtepe, Salil S. Kanhere, Ehsan Abbasnejad, Damith C. Ranasinghe
+
+
++ [ MisGUIDE : Defense Against Data-Free Deep Learning Model Extraction](https://arxiv.org//abs/2403.18580)
+
+	Mahendra Gurve, Sankar Behera, Satyadev Ahlawat, Yamuna Prasad
+
+
 ## 2024-03-26
 + [ Out-of-distribution Rumor Detection via Test-Time Adaptation](https://arxiv.org//abs/2403.17735)
 
@@ -32,6 +58,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Boosting Adversarial Training via Fisher-Rao Norm-based Regularization](https://arxiv.org//abs/2403.17520)
 
 	Xiangyu Yin, Wenjie Ruan
+
+
++ [ Securing GNNs: Explanation-Based Identification of Backdoored Training  Graphs](https://arxiv.org//abs/2403.18136)
+
+	Jane Downer, Ren Wang, Binghui Wang
 
 
 ## 2024-03-25
