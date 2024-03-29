@@ -3,6 +3,17 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+## 2024-03-28
++ [ MMCert: Provable Defense against Adversarial Attacks to Multi-modal  Models](https://arxiv.org//abs/2403.19080)
+
+	Yanting Wang, Hongye Fu, Wei Zou, Jinyuan Jia
+
+
++ [ MedBN: Robust Test-Time Adaptation against Malicious Test Samples](https://arxiv.org//abs/2403.19326)
+
+	Hyejin Park, Jeongyeon Hwang, Sunung Mun, Sangdon Park, Jungseul Ok
+
+
 ## 2024-03-27
 + [ Manipulating Neural Path Planners via Slight Perturbations](https://arxiv.org//abs/2403.18256)
 
@@ -27,6 +38,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ MisGUIDE : Defense Against Data-Free Deep Learning Model Extraction](https://arxiv.org//abs/2403.18580)
 
 	Mahendra Gurve, Sankar Behera, Satyadev Ahlawat, Yamuna Prasad
+
+
++ [ Robustness and Visual Explanation for Black Box Image, Video, and ECG  Signal Classification with Reinforcement Learning](https://arxiv.org//abs/2403.18985)
+
+	Soumyendu Sarkar, Ashwin Ramesh Babu, Sajad Mousavi, Vineet Gundecha, Avisek Naug, Sahand Ghorbanpour
 
 
 ## 2024-03-26
@@ -63,6 +79,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Securing GNNs: Explanation-Based Identification of Backdoored Training  Graphs](https://arxiv.org//abs/2403.18136)
 
 	Jane Downer, Ren Wang, Binghui Wang
+
+
++ [ Targeted Visualization of the Backbone of Encoder LLMs](https://arxiv.org//abs/2403.18872)
+
+	Isaac Roberts, Alexander Schulz, Luca Hermes, Barbara Hammer
 
 
 ## 2024-03-25

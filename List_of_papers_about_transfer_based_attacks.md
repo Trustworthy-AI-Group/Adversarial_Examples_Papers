@@ -356,12 +356,12 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 	Avery Ma, Amir-massoud Farahmand, Yangchen Pan, Philip Torr, Jindong Gu
 
 
-+ [AGS: Affordable and Generalizable Substitute Training for Transferable Adversarial Attack](). (AAAI 2024)
++ [AGS: Affordable and Generalizable Substitute Training for Transferable Adversarial Attack](https://ojs.aaai.org/index.php/AAAI/article/view/28365). (AAAI 2024)
 
 	Ruikui Wang, Yuanfang Guo, Yunhong Wang
 
 
-+ [Improving the Adversarial Transferability of Vision Transformers with Virtual Dense Connection](). (AAAI 2024)
++ [Improving the Adversarial Transferability of Vision Transformers with Virtual Dense Connection](https://ojs.aaai.org/index.php/AAAI/article/view/28541). (AAAI 2024)
 
 	Jianping Zhang, Yizhan Huang, Zhuoer Xu, Weibin Wu, Michael R. Lyu
 
