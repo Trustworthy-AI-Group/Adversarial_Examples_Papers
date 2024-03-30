@@ -14,6 +14,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Hyejin Park, Jeongyeon Hwang, Sunung Mun, Sangdon Park, Jungseul Ok
 
 
++ [ Towards Understanding Dual BN In Hybrid Adversarial Training](https://arxiv.org//abs/2403.19150)
+
+	Chenshuang Zhang, Chaoning Zhang, Kang Zhang, Axi Niu, Junmo Kim, In So Kweon
+
+
++ [ Improving Adversarial Data Collection by Supporting Annotators: Lessons  from GAHD, a German Hate Speech Dataset](https://arxiv.org//abs/2403.19559)
+
+	Janis Goldzycher, Paul Röttger, Gerold Schneider
+
+
 ## 2024-03-27
 + [ Manipulating Neural Path Planners via Slight Perturbations](https://arxiv.org//abs/2403.18256)
 
