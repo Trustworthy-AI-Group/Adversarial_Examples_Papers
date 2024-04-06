@@ -38,6 +38,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Liv d'Aliberti, Evan Gronberg, Joseph Kovba
 
 
++ [ Accurate Low-Degree Polynomial Approximation of Non-polynomial Operators  for Fast Private Inference in Homomorphic Encryption](https://arxiv.org//abs/2404.03216)
+
+	Jianming Tong, Jingtian Dang, Anupam Golder, Callie Hao, Arijit Raychowdhury, Tushar Krishna
+
+
 ## 2024-04-03
 + [ JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal  Large Language Models against Jailbreak Attacks](https://arxiv.org//abs/2404.03027)
 
