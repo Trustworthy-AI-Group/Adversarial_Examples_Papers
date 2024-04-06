@@ -2,6 +2,117 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+## 2024-04-04
++ [ Knowledge Distillation-Based Model Extraction Attack using Private  Counterfactual Explanations](https://arxiv.org//abs/2404.03348)
+
+	Fatima Ezzeddine, Omran Ayoub, Silvia Giordano
+
+
++ [ Learn When (not) to Trust Language Models: A Privacy-Centric Adaptive  Model-Aware Approach](https://arxiv.org//abs/2404.03514)
+
+	Chengkai Huang, Rui Wang, Kaige Xie, Tong Yu, Lina Yao
+
+
++ [ A Comparative Analysis of Word-Level Metric Differential Privacy:  Benchmarking The Privacy-Utility Trade-off](https://arxiv.org//abs/2404.03324)
+
+	Stephen Meisenbacher, Nihildev Nandakumar, Alexandra Klymenko, Florian Matthes
+
+
++ [ Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak  Attacks?](https://arxiv.org//abs/2404.03411)
+
+	Shuo Chen, Zhen Han, Bailan He, Zifeng Ding, Wenqian Yu, Philip Torr, Volker Tresp, Jindong Gu
+
+
++ [ Meta Invariance Defense Towards Generalizable Robustness to Unknown  Adversarial Attacks](https://arxiv.org//abs/2404.03340)
+
+	Lei Zhang, Yuhang Zhou, Yi Yang, Xinbo Gao
+
+
++ [ Learn What You Want to Unlearn: Unlearning Inversion Attacks against  Machine Unlearning](https://arxiv.org//abs/2404.03233)
+
+	Hongsheng Hu, Shuo Wang, Tian Dong, Minhui Xue
+
+
++ [ Privacy-Enhancing Technologies for Artificial Intelligence-Enabled  Systems](https://arxiv.org//abs/2404.03509)
+
+	Liv d'Aliberti, Evan Gronberg, Joseph Kovba
+
+
+## 2024-04-03
++ [ JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal  Large Language Models against Jailbreak Attacks](https://arxiv.org//abs/2404.03027)
+
+	Weidi Luo, Siyuan Ma, Xiaogeng Liu, Xiaoyu Guo, Chaowei Xiao
+
+
++ [ Adversarial Attacks and Dimensionality in Text Classifiers](https://arxiv.org/abs/2404.02660)
+
+	Nandish Chattopadhyay, Atreya Goswami, Anupam Chattopadhyay
+
+
++ [ Learn to Disguise: Avoid Refusal Responses in LLM's Defense via a Multi-agent Attacker-Disguiser Game](https://arxiv.org/abs/2404.02532)
+
+	Qianqiao Xu, Zhiliang Tian, Hongyan Wu, Zhen Huang, Yiping Song, Feng Liu, Dongsheng Li
+
+
+## 2024-04-02
++ [ Jailbreaking Prompt Attack: A Controllable Adversarial Attack against  Diffusion Models](https://arxiv.org//abs/2404.02928)
+
+	Jiachen Ma, Anda Cao, Zhiqing Xiao, Jie Zhang, Chao Ye, Junbo Zhao
+
+
++ [ Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks](https://arxiv.org/abs/2404.02151)
+
+	Maksym Andriushchenko, Francesco Croce, Nicolas Flammarion
+
+
++ [ Humanizing Machine-Generated Content: Evading AI-Text Detection through Adversarial Attack](https://arxiv.org/abs/2404.01907)
+
+	Ying Zhou, Ben He, Le Sun
+
+
++ [ Red-Teaming Segment Anything Model](https://arxiv.org/abs/2404.02067)
+
+	Krzysztof Jankowski, Bartlomiej Sobieski, Mateusz Kwiatkowski, Jakub Szulc, Michal Janik, Hubert Baniecki, Przemyslaw Biecek
+
+
++ [ Towards Robust 3D Pose Transfer with Adversarial Learning](https://arxiv.org/abs/2404.02242)
+
+	Haoyu Chen, Hao Tang, Ehsan Adeli, Guoying Zhao
+
+
++ [ Exploring Backdoor Vulnerabilities of Chat Models](https://arxiv.org/abs/2404.02406)
+
+	Yunzhuo Hao, Wenkai Yang, Yankai Lin
+
+
+## 2024-04-01
++ [ BadPart: Unified Black-box Adversarial Patch Attacks against Pixel-wise Regression Tasks](https://arxiv.org/abs/2404.00924)
+
+	Zhiyuan Cheng, Zhaoyi Liu, Tengda Guo, Shiwei Feng, Dongfang Liu, Mingjie Tang, Xiangyu Zhang
+
+
++ [ Multi-granular Adversarial Attacks against Black-box Neural Ranking Models](https://arxiv.org/abs/2404.01574)
+
+	Yu-An Liu, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Yixing Fan, Xueqi Cheng
+
+
++ [ UFID: A Unified Framework for Input-level Backdoor Detection on Diffusion Models](https://arxiv.org/abs/2404.01101)
+
+	Zihan Guan, Mengxuan Hu, Sheng Li, Anil Vullikanti
+
+
+## 2024-03-31
++ [ An Unsupervised Adversarial Autoencoder for Cyber Attack Detection in  Power Distribution Grids](https://arxiv.org//abs/2404.02923)
+
+	Mehdi Jabbari Zideh, Mohammad Reza Khalghani, Sarika Khushalani Solanki
+
+
+## 2024-03-30
++ [ STBA: Towards Evaluating the Robustness of DNNs for Query-Limited Black-box Scenario](https://arxiv.org/abs/2404.00362)
+
+	Renyang Liu, Kwok-Yan Lam, Wei Zhou, Sixing Wu, Jun Zhao, Dongting Hu, Mingming Gong
+
+
 ## 2024-03-29
 + [ Benchmarking the Robustness of Temporal Action Detection Models Against  Temporal Corruptions](https://arxiv.org//abs/2403.20254)
 
