@@ -430,6 +430,11 @@ We also provide a  complete list of papers about adversarial examples [here](htt
     Woo Jae Kim, Seunghoon Hong, Sung-Eui Yoon
 
 
++ [GE-AdvGAN: Improving the transferability of adversarial samples by gradient editing-based adversarial generative model](https://arxiv.org/abs/2401.06031) (SDM 2024)
+
+	Zhiyu Zhu, Huaming Chen, Xinyi Wang, Jiayu Zhang, Zhibo Jin, Kim-Kwang Raymond Choo
+
+
 ## Targeted Attack
 
 ### Input Transformation-based Attack
@@ -533,10 +538,6 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 + [LFAA: Crafting Transferable Targeted Adversarial Examples with Low-Frequency Perturbations](https://arxiv.org/abs/2310.20175) (ECAI 2023)
 
 	Kunyu Wang, Juluan Shi, Wenxuan Wang
-
-+ [GE-AdvGAN: Improving the transferability of adversarial samples by gradient editing-based adversarial generative model](https://arxiv.org/abs/2401.06031) (SDM 2024)
-
-	Zhiyu Zhu, Huaming Chen, Xinyi Wang, Jiayu Zhang, Zhibo Jin, Kim-Kwang Raymond Choo
 
 
 ## Survey & Benchmark
