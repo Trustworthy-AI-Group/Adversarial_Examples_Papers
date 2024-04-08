@@ -2,6 +2,33 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+## 2024-04-05
++ [ Precision Guided Approach to Mitigate Data Poisoning Attacks in  Federated Learning](https://arxiv.org//abs/2404.04139)
+
+	K Naveen Kumar, C Krishna Mohan, Aravind Machiry
+
+
++ [ Watermark-based Detection and Attribution of AI-Generated Content](https://arxiv.org//abs/2404.04254)
+
+	Zhengyuan Jiang, Moyang Guo, Yuepeng Hu, Neil Zhenqiang Gong
+
+
++ [ Evaluating Adversarial Robustness: A Comparison Of FGSM, Carlini-Wagner  Attacks, And The Role of Distillation as Defense Mechanism](https://arxiv.org//abs/2404.04245)
+
+	Trilokesh Ranjan Sarkar, Nilanjan Das, Pralay Sankar Maitra, Bijoy Some, Ritwik Saha, Orijita Adhikary, Bishal Bose, Jaydip Sen
+
+
++ [ Re-pseudonymization Strategies for Smart Meter Data Are Not Robust to  Deep Learning Profiling Attacks](https://arxiv.org//abs/2404.03948)
+
+	Ana-Maria Cretu, Miruna Rusu, Yves-Alexandre de Montjoye
+
+
++ [ You Can Use But Cannot Recognize: Preserving Visual Privacy in Deep  Neural Networks](https://arxiv.org//abs/2404.04098)
+
+	Qiushi Li, Yan Zhang, Ju Ren, Qi Li, Yaoxue Zhang
+
+
+
 ## 2024-04-04
 + [ Knowledge Distillation-Based Model Extraction Attack using Private  Counterfactual Explanations](https://arxiv.org/abs/2404.03348)
 
