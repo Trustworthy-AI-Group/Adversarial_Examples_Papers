@@ -2,6 +2,110 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-04-08
++ [ SoK: Gradient Leakage in Federated Learning](https://arxiv.org//abs/2404.05403)
+
+	Jiacheng Du, Jiahui Hu, Zhibo Wang, Peng Sun, Neil Zhenqiang Gong, Kui Ren
+
+
++ [ Best-of-Venom: Attacking RLHF by Injecting Poisoned Preference Data](https://arxiv.org//abs/2404.05530)
+
+	Tim Baumgärtner, Yang Gao, Dana Alon, Donald Metzler
+
+
++ [ Investigating the Impact of Quantization on Adversarial Robustness](https://arxiv.org//abs/2404.05639)
+
+	Qun Li, Yuan Meng, Chen Tang, Jiacheng Jiang, Zhi Wang
+
+
++ [ David and Goliath: An Empirical Evaluation of Attacks and Defenses for  QNNs at the Deep Edge](https://arxiv.org//abs/2404.05688)
+
+	Miguel Costa, Sandro Pinto
+
+
++ [ Semantic Stealth: Adversarial Text Attacks on NLP Using Several Methods](https://arxiv.org//abs/2404.05159)
+
+	Roopkatha Dey, Aivy Debnath, Sayak Kumar Dutta, Kaustav Ghosh, Arijit Mitra, Arghya Roy Chowdhury, Jaydip Sen
+
+
++ [ Out-of-Distribution Data: An Acquaintance of Adversarial Examples -- A  Survey](https://arxiv.org//abs/2404.05219)
+
+	Naveen Karunanayake, Ravin Gunawardena, Suranga Seneviratne, Sanjay Chawla
+
+
++ [ BruSLeAttack: A Query-Efficient Score-Based Black-Box Sparse Adversarial  Attack](https://arxiv.org//abs/2404.05311)
+
+	Viet Quoc Vo, Ehsan Abbasnejad, Damith C. Ranasinghe
+
+
++ [ Certified PEFTSmoothing: Parameter-Efficient Fine-Tuning with Randomized  Smoothing](https://arxiv.org//abs/2404.05350)
+
+	Chengyan Fu, Wenjie Wang
+
+
++ [ Flexible Fairness Learning via Inverse Conditional Permutation](https://arxiv.org//abs/2404.05678)
+
+	Yuheng Lai, Leying Guan
+
++ [ Enabling Privacy-Preserving Cyber Threat Detection with Federated  Learning](https://arxiv.org//abs/2404.05130)
+
+	Yu Bi, Yekai Li, Xuan Feng, Xianghang Mi
+
+
+
+# 2024-04-07
++ [ Inference-Time Rule Eraser: Distilling and Removing Bias Rules to  Mitigate Bias in Deployed Models](https://arxiv.org//abs/2404.04814)
+
+	Yi Zhang, Jitao Sang
+
+
++ [ Hidden You Malicious Goal Into Benigh Narratives: Jailbreak Large  Language Models through Logic Chain Injection](https://arxiv.org//abs/2404.04849)
+
+	Zhilong Wang, Yebo Cao, Peng Liu
+
+
++ [ SemEval-2024 Task 2: Safe Biomedical Natural Language Inference for  Clinical Trials](https://arxiv.org//abs/2404.04963)
+
+	Mael Jullien, Marco Valentino, André Freitas
+
+
++ [ How much reliable is ChatGPT's prediction on Information Extraction  under Input Perturbations?](https://arxiv.org//abs/2404.05088)
+
+	Ishani Mondal, Abhilasha Sancheti
+
+
++ [ Privacy-Preserving Traceable Functional Encryption for Inner Product](https://arxiv.org//abs/2404.04861)
+
+	Muyao Qiu, Jinguang Han
+
+
+
+# 2024-04-06
++ [ Trustless Audits without Revealing Data or Models](https://arxiv.org//abs/2404.04500)
+
+	Suppakit Waiwitlikhit, Ion Stoica, Yi Sun, Tatsunori Hashimoto, Daniel Kang
+
+
++ [ Data Poisoning Attacks on Off-Policy Policy Evaluation Methods](https://arxiv.org//abs/2404.04714)
+
+	Elita Lobo, Harvineet Singh, Marek Petrik, Cynthia Rudin, Himabindu Lakkaraju
+
+
++ [ D$^3$: Scaling Up Deepfake Detection by Learning from Discrepancy](https://arxiv.org//abs/2404.04584)
+
+	Yongqi Yang, Zhihao Qian, Ye Zhu, Yu Wu
+
+
++ [ Structured Gradient-based Interpretations via Norm-Regularized  Adversarial Training](https://arxiv.org//abs/2404.04647)
+
+	Shizhan Gong, Qi Dou, Farzan Farnia
+
+
++ [ CANEDERLI: On The Impact of Adversarial Training and Transferability on  CAN Intrusion Detection Systems](https://arxiv.org//abs/2404.04648)
+
+	Francesco Marchiori, Mauro Conti
+
+
 ## 2024-04-05
 + [ Precision Guided Approach to Mitigate Data Poisoning Attacks in  Federated Learning](https://arxiv.org//abs/2404.04139)
 
@@ -26,6 +130,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ You Can Use But Cannot Recognize: Preserving Visual Privacy in Deep  Neural Networks](https://arxiv.org//abs/2404.04098)
 
 	Qiushi Li, Yan Zhang, Ju Ren, Qi Li, Yaoxue Zhang
+
+
++ [ Increased LLM Vulnerabilities from Fine-tuning and Quantization](https://arxiv.org//abs/2404.04392)
+
+	Divyanshu Kumar, Anurakt Kumar, Sahil Agarwal, Prashanth Harshangi
 
 
 
