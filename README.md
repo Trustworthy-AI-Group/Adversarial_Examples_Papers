@@ -2,6 +2,33 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-04-09
++ [ Differential Privacy for Anomaly Detection: Analyzing the Trade-off  Between Privacy and Explainability](https://arxiv.org//abs/2404.06144)
+
+	Fatima Ezzeddine, Mirna Saad, Omran Ayoub, Davide Andreoletti, Martin Gjoreski, Ihab Sbeity, Marc Langheinrich, Silvia Giordano
+
+
++ [ LRR: Language-Driven Resamplable Continuous Representation against  Adversarial Tracking Attacks](https://arxiv.org//abs/2404.06247)
+
+	Jianlang Chen, Xuhong Ren, Qing Guo, Felix Juefei-Xu, Di Lin, Wei Feng, Lei Ma, Jianjun Zhao
+
+
++ [ On adversarial training and the 1 Nearest Neighbor classifier](https://arxiv.org//abs/2404.06313)
+
+	Amir Hagai, Yair Weiss
+
+
++ [ Towards Robust Domain Generation Algorithm Classification](https://arxiv.org//abs/2404.06236)
+
+	Arthur Drichel, Marc Meyer, Ulrike Meyer
+
+
++ [ Privacy-preserving Scanpath Comparison for Pervasive Eye Tracking](https://arxiv.org//abs/2404.06216)
+
+	Suleyman Ozdel, Efe Bozkir, Enkelejda Kasneci
+
+
+
 # 2024-04-08
 + [ SoK: Gradient Leakage in Federated Learning](https://arxiv.org//abs/2404.05403)
 
@@ -51,6 +78,25 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Yu Bi, Yekai Li, Xuan Feng, Xianghang Mi
 
+
++ [ Negative Preference Optimization: From Catastrophic Collapse to  Effective Unlearning](https://arxiv.org//abs/2404.05868)
+
+	Ruiqi Zhang, Licong Lin, Yu Bai, Song Mei
+
+
++ [ Eraser: Jailbreaking Defense in Large Language Models via Unlearning  Harmful Knowledge](https://arxiv.org//abs/2404.05880)
+
+	Weikai Lu, Ziqian Zeng, Jianwei Wang, Zhengdong Lu, Zelin Chen, Huiping Zhuang, Cen Chen
+
+
++ [ Privacy-Preserving Deep Learning Using Deformable Operators for Secure  Task Learning](https://arxiv.org//abs/2404.05828)
+
+	Fabian Perez, Jhon Lopez, Henry Arguello
+
+
++ [ Quantum Adversarial Learning for Kernel Methods](https://arxiv.org//abs/2404.05824)
+
+	Giuseppe Montalbano, Leonardo Banchi
 
 
 # 2024-04-07
