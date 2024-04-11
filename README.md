@@ -2,6 +2,43 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-04-10
++ [ Towards a Game-theoretic Understanding of Explanation-based Membership  Inference Attacks](https://arxiv.org//abs/2404.07139)
+
+	Kavita Kumari, Murtuza Jadliwala, Sumit Kumar Jha, Anindya Maiti
+
+
++ [ SafeGen: Mitigating Unsafe Content Generation in Text-to-Image Models](https://arxiv.org//abs/2404.06666)
+
+	Xinfeng Li, Yuchen Yang, Jiangyi Deng, Chen Yan, Yanjiao Chen, Xiaoyu Ji, Wenyuan Xu
+
+
++ [ How to Craft Backdoors with Unlabeled Data Alone?](https://arxiv.org//abs/2404.06694)
+
+	Yifei Wang, Wenhan Ma, Yisen Wang
+
+
++ [ Logit Calibration and Feature Contrast for Robust Federated Learning on  Non-IID Data](https://arxiv.org//abs/2404.06776)
+
+	Yu Qiao, Chaoning Zhang, Apurba Adhikary, Choong Seon Hong
+
+
++ [ Adversarial purification for no-reference image-quality metrics:  applicability study and new methods](https://arxiv.org//abs/2404.06957)
+
+	Aleksandr Gushchin, Anna Chistyakova, Vladislav Minashkin, Anastasia Antsiferova, Dmitriy Vatolin
+
+
++ [ Simpler becomes Harder: Do LLMs Exhibit a Coherent Behavior on  Simplified Corpora?](https://arxiv.org//abs/2404.06838)
+
+	Miriam Anschütz, Edoardo Mosca, Georg Groh
+
+
++ [ Poisoning Prevention in Federated Learning and Differential Privacy via  Stateful Proofs of Execution](https://arxiv.org//abs/2404.06721)
+
+	Norrathep Rattanavipanon, Ivan de Oliviera Nunes
+
+
+
 # 2024-04-09
 + [ Differential Privacy for Anomaly Detection: Analyzing the Trade-off  Between Privacy and Explainability](https://arxiv.org//abs/2404.06144)
 
