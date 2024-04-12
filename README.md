@@ -2,6 +2,42 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-04-11
++ [ Differentially Private GANs for Generating Synthetic Indoor Location  Data](https://arxiv.org//abs/2404.07366)
+
+	Vahideh Moghtadaiee, Mina Alishahi, Milad Rabiei
+
+
++ [ Differentially Private Reinforcement Learning with Self-Play](https://arxiv.org//abs/2404.07559)
+
+	Dan Qiao, Yu-Xiang Wang
+
+
++ [ Fragile Model Watermark for integrity protection: leveraging boundary  volatility and sensitive sample-pairing](https://arxiv.org//abs/2404.07572)
+
+	ZhenZhe Gao, Zhenjun Tang, Zhaoxia Yin, Baoyuan Wu, Yue Lu
+
+
++ [ AmpleGCG: Learning a Universal and Transferable Generative Model of  Adversarial Suffixes for Jailbreaking Both Open and Closed LLMs](https://arxiv.org//abs/2404.07921)
+
+	Zeyi Liao, Huan Sun
+
+
++ [ Privacy preserving layer partitioning for Deep Neural Network models](https://arxiv.org//abs/2404.07437)
+
+	Kishore Rajasekar, Randolph Loh, Kar Wai Fok, Vrizlynn L. L. Thing
+
+
++ [ Enhancing Network Intrusion Detection Performance using Generative  Adversarial Networks](https://arxiv.org//abs/2404.07464)
+
+	Xinxing Zhao, Kar Wai Fok, Vrizlynn L. L. Thing
+
+
++ [ Backdoor Contrastive Learning via Bi-level Trigger Optimization](https://arxiv.org//abs/2404.07863)
+
+	Weiyu Sun, Xinyu Zhang, Hao Lu, Yingcong Chen, Ting Wang, Jinghui Chen, Lu Lin
+
+
 # 2024-04-10
 + [ Towards a Game-theoretic Understanding of Explanation-based Membership  Inference Attacks](https://arxiv.org//abs/2404.07139)
 
@@ -63,6 +99,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Privacy-preserving Scanpath Comparison for Pervasive Eye Tracking](https://arxiv.org//abs/2404.06216)
 
 	Suleyman Ozdel, Efe Bozkir, Enkelejda Kasneci
+
+
++ [ Sandwich attack: Multi-language Mixture Adaptive Attack on LLMs](https://arxiv.org//abs/2404.07242)
+
+	Bibek Upadhayay, Vahid Behzadan
 
 
 
@@ -187,6 +228,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ CANEDERLI: On The Impact of Adversarial Training and Transferability on  CAN Intrusion Detection Systems](https://arxiv.org//abs/2404.04648)
 
 	Francesco Marchiori, Mauro Conti
+
+
++ [ Goal-guided Generative Prompt Injection Attack on Large Language Models](https://arxiv.org//abs/2404.07234)
+
+	Chong Zhang, Mingyu Jin, Qinkai Yu, Chengzhi Liu, Haochen Xue, Xiaobo Jin
 
 
 ## 2024-04-05
