@@ -2,6 +2,57 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-04-12
++ [ A Survey of Neural Network Robustness Assessment in Image Recognition](https://arxiv.org//abs/2404.08285)
+
+	Jie Wang, Jun Ai, Minyan Lu, Haoran Su, Dan Yu, Yutao Zhang, Junda Zhu, Jingyu Liu
+
+
++ [ Adversarial Imitation Learning via Boosting](https://arxiv.org//abs/2404.08513)
+
+	Jonathan D. Chang, Dhruv Sreenivas, Yingbing Huang, Kianté Brantley, Wen Sun
+
+
++ [ VertAttack: Taking advantage of Text Classifiers' horizontal vision](https://arxiv.org//abs/2404.08538)
+
+	Jonathan Rusert
+
+
++ [ Practical Region-level Attack against Segment Anything Models](https://arxiv.org//abs/2404.08255)
+
+	Yifan Shen, Zhengyuan Li, Gang Wang
+
+
++ [ Struggle with Adversarial Defense? Try Diffusion](https://arxiv.org//abs/2404.08273)
+
+	Yujie Li, Yanbin Wang, Haitao xu, Bin Liu, Jianguo Sun, Zhenhao Guo, Wenrui Ma
+
+
++ [ Counterfactual Explanations for Face Forgery Detection via Adversarial  Removal of Artifacts](https://arxiv.org//abs/2404.08341)
+
+	Yang Li, Songlin Yang, Wei Wang, Ziwen He, Bo Peng, Jing Dong
+
+
++ [ Joint Physical-Digital Facial Attack Detection Via Simulating Spoofing  Clues](https://arxiv.org//abs/2404.08450)
+
+	Xianhua He, Dashuang Liang, Song Yang, Zhanlong Hao, Hui Ma, Binjie Mao, Xi Li, Yao Wang, Pengfei Yan, Ajian Liu
+
+
++ [ On the Robustness of Language Guidance for Low-Level Vision Tasks:  Findings from Depth Estimation](https://arxiv.org//abs/2404.08540)
+
+	Agneet Chatterjee, Tejas Gokhale, Chitta Baral, Yezhou Yang
+
+
++ [ Anti-Byzantine Attacks Enabled Vehicle Selection for Asynchronous  Federated Learning in Vehicular Edge Computing](https://arxiv.org//abs/2404.08444)
+
+	Cui Zhang, Xiao Xu, Qiong Wu, Pingyi Fan, Qiang Fan, Huiling Zhu, Jiangzhou Wang
+
+
++ [ FCert: Certifiably Robust Few-Shot Classification in the Era of  Foundation Models](https://arxiv.org//abs/2404.08631)
+
+	Yanting Wang, Wei Zou, Jinyuan Jia
+
+
 # 2024-04-11
 + [ Differentially Private GANs for Generating Synthetic Indoor Location  Data](https://arxiv.org//abs/2404.07366)
 
@@ -36,6 +87,26 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Backdoor Contrastive Learning via Bi-level Trigger Optimization](https://arxiv.org//abs/2404.07863)
 
 	Weiyu Sun, Xinyu Zhang, Hao Lu, Yingcong Chen, Ting Wang, Jinghui Chen, Lu Lin
+
+
++ [ Latent Guard: a Safety Framework for Text-to-image Generation](https://arxiv.org//abs/2404.08031)
+
+	Runtao Liu, Ashkan Khakzar, Jindong Gu, Qifeng Chen, Philip Torr, Fabio Pizzati
+
+
++ [ LLM Agents can Autonomously Exploit One-day Vulnerabilities](https://arxiv.org//abs/2404.08144)
+
+	Richard Fang, Rohan Bindu, Akul Gupta, Daniel Kang
+
+
++ [ Persistent Classification: A New Approach to Stability of Data and  Adversarial Examples](https://arxiv.org//abs/2404.08069)
+
+	Brian Bell, Michael Geyer, David Glickenstein, Keaton Hamm, Carlos Scheidegger, Amanda Fernandez, Juston Moore
+
+
++ [ Eliminating Catastrophic Overfitting Via Abnormal Adversarial Examples  Regularization](https://arxiv.org//abs/2404.08154)
+
+	Runqi Lin, Chaojian Yu, Tongliang Liu
 
 
 # 2024-04-10
@@ -151,6 +222,7 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Flexible Fairness Learning via Inverse Conditional Permutation](https://arxiv.org//abs/2404.05678)
 
 	Yuheng Lai, Leying Guan
+
 
 + [ Enabling Privacy-Preserving Cyber Threat Detection with Federated  Learning](https://arxiv.org//abs/2404.05130)
 
