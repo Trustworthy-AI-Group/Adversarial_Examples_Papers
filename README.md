@@ -2,6 +2,88 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+
+# 2024-04-15
++ [ Privacy at a Price: Exploring its Dual Impact on AI Fairness](https://arxiv.org//abs/2404.09391)
+
+	Mengmeng Yang, Ming Ding, Youyang Qu, Wei Ni, David Smith, Thierry Rakotoarivelo
+
+
++ [ Watermark-embedded Adversarial Examples for Copyright Protection against  Diffusion Models](https://arxiv.org//abs/2404.09401)
+
+	Peifei Zhu, Tsubasa Takahashi, Hirokatsu Kataoka
+
+
++ [ Improving Weakly-Supervised Object Localization Using Adversarial  Erasing and Pseudo Label](https://arxiv.org//abs/2404.09475)
+
+	Byeongkeun Kang, Sinhae Cha, Yeejin Lee
+
+
++ [ Beyond Noise: Privacy-Preserving Decentralized Learning with Virtual  Nodes](https://arxiv.org//abs/2404.09536)
+
+	Sayan Biswas, Mathieu Even, Anne-Marie Kermarrec, Laurent Massoulie, Rafael Pires, Rishi Sharma, Martijn de Vos
+
+
++ [ Privacy-Preserving Intrusion Detection using Convolutional Neural  Networks](https://arxiv.org//abs/2404.09625)
+
+	Martin Kodys, Zhongmin Dai, Vrizlynn L. L. Thing
+
+
++ [ Mitigating the Curse of Dimensionality for Certified Robustness via Dual  Randomized Smoothing](https://arxiv.org//abs/2404.09586)
+
+	Song Xia, Yu Yi, Xudong Jiang, Henghui Ding
+
+
++ [ Ti-Patch: Tiled Physical Adversarial Patch for no-reference video  quality metrics](https://arxiv.org//abs/2404.09961)
+
+	Victoria Leonenkova, Ekaterina Shumitskaya, Anastasia Antsiferova, Dmitriy Vatolin
+
+
++ [ On the Efficiency of Privacy Attacks in Federated Learning](https://arxiv.org//abs/2404.09430)
+
+	Nawrin Tabassum, Ka-Ho Chow, Xuyu Wang, Wenbin Zhang, Yanzhao Wu
+
+
++ [ Privacy-Preserving Federated Unlearning with Certified Client Removal](https://arxiv.org//abs/2404.09724)
+
+	Ziyao Liu, Huanyi Ye, Yu Jiang, Jiyuan Shen, Jiale Guo, Ivan Tjuawinata, Kwok-Yan Lam
+
+
+
+
+# 2024-04-14
++ [ Make Split, not Hijack: Preventing Feature-Space Hijacking Attacks in  Split Learning](https://arxiv.org//abs/2404.09265)
+
+	Tanveer Khan, Mindaugas Budzys, Antonis Michalas
+
+
++ [ FaceCat: Enhancing Face Recognition Security with a Unified Generative  Model Framework](https://arxiv.org//abs/2404.09193)
+
+	Jiawei Chen, Xiao Yang, Yinpeng Dong, Hang Su, Jianteng Peng, Zhaoxia Yin
+
+
++ [ Adversarial Robustness Limits via Scaling-Law and Human-Alignment  Studies](https://arxiv.org//abs/2404.09349)
+
+	Brian R. Bartoldson, James Diffenderfer, Konstantinos Parasyris, Bhavya Kailkhura
+
+
+# 2024-04-13
++ [ Proof-of-Learning with Incentive Security](https://arxiv.org//abs/2404.09005)
+
+	Zishuo Zhao, Zhixuan Fang, Xuechao Wang, Yuan Zhou
+
+
++ [ CodeCloak: A Method for Evaluating and Mitigating Code Leakage by LLM  Code Assistants](https://arxiv.org//abs/2404.09066)
+
+	Amit Finkman, Eden Bar-Kochva, Avishag Shapira, Dudu Mimran, Yuval Elovici, Asaf Shabtai
+
+
++ [ Stability and Generalization in Free Adversarial Training](https://arxiv.org//abs/2404.08980)
+
+	Xiwei Cheng, Kexin Fu, Farzan Farnia
+
+
+
 # 2024-04-12
 + [ A Survey of Neural Network Robustness Assessment in Image Recognition](https://arxiv.org//abs/2404.08285)
 
@@ -51,6 +133,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ FCert: Certifiably Robust Few-Shot Classification in the Era of  Foundation Models](https://arxiv.org//abs/2404.08631)
 
 	Yanting Wang, Wei Zou, Jinyuan Jia
+
+
++ [ LazyDP: Co-Designing Algorithm-Software for Scalable Training of  Differentially Private Recommendation Models](https://arxiv.org//abs/2404.08847)
+
+	Juntaek Lim, Youngeun Kwon, Ranggi Hwang, Kiwan Maeng, G. Edward Suh, Minsoo Rhu
 
 
 # 2024-04-11
@@ -175,6 +262,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Sandwich attack: Multi-language Mixture Adaptive Attack on LLMs](https://arxiv.org//abs/2404.07242)
 
 	Bibek Upadhayay, Vahid Behzadan
+
+
++ [ Towards Building a Robust Toxicity Predictor](https://arxiv.org//abs/2404.08690)
+
+	Dmitriy Bespalov, Sourav Bhabesh, Yi Xiang, Liutong Zhou, Yanjun Qi
 
 
 
@@ -305,6 +397,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Goal-guided Generative Prompt Injection Attack on Large Language Models](https://arxiv.org//abs/2404.07234)
 
 	Chong Zhang, Mingyu Jin, Qinkai Yu, Chengzhi Liu, Haochen Xue, Xiaobo Jin
+
+
++ [ ALERT: A Comprehensive Benchmark for Assessing Large Language Models'  Safety through Red Teaming](https://arxiv.org//abs/2404.08676)
+
+	Simone Tedeschi, Felix Friedrich, Patrick Schramowski, Kristian Kersting, Roberto Navigli, Huu Nguyen, Bo Li
 
 
 ## 2024-04-05
