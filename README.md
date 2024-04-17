@@ -2,6 +2,47 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-04-16
++ [ Private Attribute Inference from Images with Vision-Language Models](https://arxiv.org//abs/2404.10618)
+
+	Batuhan Tömekçe, Mark Vero, Robin Staab, Martin Vechev
+
+
++ [ Towards a Novel Perspective on Adversarial Examples Driven by Frequency](https://arxiv.org//abs/2404.10202)
+
+	Zhun Zhang, Yi Zeng, Qihe Liu, Shijie Zhou
+
+
++ [ Unveiling the Misuse Potential of Base Large Language Models via  In-Context Learning](https://arxiv.org//abs/2404.10552)
+
+	Xiao Wang, Tianze Chen, Xianjun Yang, Qi Zhang, Xun Zhao, Dahua Lin
+
+
++ [ Self-playing Adversarial Language Game Enhances LLM Reasoning](https://arxiv.org//abs/2404.10642)
+
+	Pengyu Cheng, Tianhao Hu, Han Xu, Zhisong Zhang, Yong Dai, Lei Han, Nan Du
+
+
++ [ Efficiently Adversarial Examples Generation for Visual-Language Models  under Targeted Transfer Scenarios using Diffusion Models](https://arxiv.org//abs/2404.10335)
+
+	Qi Guo, Shanmin Pang, Xiaojun Jia, Qing Guo
+
+
++ [ Adversarial Identity Injection for Semantic Face Image Synthesis](https://arxiv.org//abs/2404.10408)
+
+	Giuseppe Tarollo, Tomaso Fontanini, Claudio Ferrari, Guido Borghi, Andrea Prati
+
+
++ [ Do Counterfactual Examples Complicate Adversarial Training?](https://arxiv.org//abs/2404.10588)
+
+	Eric Yeats, Cameron Darwin, Eduardo Ortega, Frank Liu, Hai Li
+
+
++ [ Nearly Optimal Algorithms for Contextual Dueling Bandits from  Adversarial Feedback](https://arxiv.org//abs/2404.10776)
+
+	Qiwei Di, Jiafan He, Quanquan Gu
+
+
 
 # 2024-04-15
 + [ Privacy at a Price: Exploring its Dual Impact on AI Fairness](https://arxiv.org//abs/2404.09391)
@@ -47,6 +88,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Privacy-Preserving Federated Unlearning with Certified Client Removal](https://arxiv.org//abs/2404.09724)
 
 	Ziyao Liu, Huanyi Ye, Yu Jiang, Jiyuan Shen, Jiale Guo, Ivan Tjuawinata, Kwok-Yan Lam
+
+
++ [ Deceiving to Enlighten: Coaxing LLMs to Self-Reflection for Enhanced  Bias Detection and Mitigation](https://arxiv.org//abs/2404.10160)
+
+	Ruoxi Cheng, Haoxuan Ma, Shuirong Cao
+
+
++ [ AIGeN: An Adversarial Approach for Instruction Generation in VLN](https://arxiv.org//abs/2404.10054)
+
+	Niyati Rawal, Roberto Bigazzi, Lorenzo Baraldi, Rita Cucchiara
 
 
 
