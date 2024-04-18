@@ -2,6 +2,43 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-04-17
++ [ TransLinkGuard: Safeguarding Transformer Models Against Model Stealing  in Edge Deployment](https://arxiv.org//abs/2404.11121)
+
+	Qinfeng Li, Zhiqiang Shen, Zhenghan Qin, Yangfan Xie, Xuhong Zhang, Tianyu Du, Jianwei Yin
+
+
++ [ Sampling-based Pseudo-Likelihood for Membership Inference Attacks](https://arxiv.org//abs/2404.11262)
+
+	Masahiro Kaneko, Youmi Ma, Yuki Wata, Naoaki Okazaki
+
+
++ [ A Federated Learning Approach to Privacy Preserving Offensive Language  Identification](https://arxiv.org//abs/2404.11470)
+
+	Marcos Zampieri, Damith Premasiri, Tharindu Ranasinghe
+
+
++ [ GenFighter: A Generative and Evolutive Textual Attack Removal](https://arxiv.org//abs/2404.11538)
+
+	Md Athikul Islam, Edoardo Serra, Sushil Jajodia
+
+
++ [ The Victim and The Beneficiary: Exploiting a Poisoned Model to Train a  Clean Model on Poisoned Data](https://arxiv.org//abs/2404.11265)
+
+	Zixuan Zhu, Rui Wang, Cong Zou, Lihua Jing
+
+
++ [ Detector Collapse: Backdooring Object Detection to Catastrophic Overload  or Blindness](https://arxiv.org//abs/2404.11357)
+
+	Hangtao Zhang, Shengshan Hu, Yichen Wang, Leo Yu Zhang, Ziqi Zhou, Xianlong Wang, Yanjun Zhang, Chao Chen
+
+
++ [ Clipped SGD Algorithms for Privacy Preserving Performative Prediction:  Bias Amplification and Remedies](https://arxiv.org//abs/2404.10995)
+
+	Qiang Li, Michal Yemini, Hoi-To Wai
+
+
+
 # 2024-04-16
 + [ Private Attribute Inference from Images with Vision-Language Models](https://arxiv.org//abs/2404.10618)
 
@@ -41,6 +78,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Nearly Optimal Algorithms for Contextual Dueling Bandits from  Adversarial Feedback](https://arxiv.org//abs/2404.10776)
 
 	Qiwei Di, Jiafan He, Quanquan Gu
+
+
++ [ Differentially Private Optimization with Sparse Gradients](https://arxiv.org//abs/2404.10881)
+
+	Badih Ghazi, Cristóbal Guzmán, Pritish Kamath, Ravi Kumar, Pasin Manurangsi
 
 
 
@@ -100,6 +142,9 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Niyati Rawal, Roberto Bigazzi, Lorenzo Baraldi, Rita Cucchiara
 
 
++ [ Black-box Adversarial Transferability: An Empirical Study in  Cybersecurity Perspective](https://arxiv.org//abs/2404.10796)
+
+	Khushnaseeb Roshan, Aasim Zafar
 
 
 # 2024-04-14
@@ -132,6 +177,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Stability and Generalization in Free Adversarial Training](https://arxiv.org//abs/2404.08980)
 
 	Xiwei Cheng, Kexin Fu, Farzan Farnia
+
+
++ [ Multimodal Attack Detection for Action Recognition Models](https://arxiv.org//abs/2404.10790)
+
+	Furkan Mumcu, Yasin Yilmaz
 
 
 
@@ -189,6 +239,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ LazyDP: Co-Designing Algorithm-Software for Scalable Training of  Differentially Private Recommendation Models](https://arxiv.org//abs/2404.08847)
 
 	Juntaek Lim, Youngeun Kwon, Ranggi Hwang, Kiwan Maeng, G. Edward Suh, Minsoo Rhu
+
+
++ [ PASA: Attack Agnostic Unsupervised Adversarial Detection using  Prediction & Attribution Sensitivity Analysis](https://arxiv.org//abs/2404.10789)
+
+	Dipkamal Bhusal, Md Tanvirul Alam, Monish K. Veerabhadran, Michael Clifford, Sara Rampazzi, Nidhi Rastogi
 
 
 # 2024-04-11
