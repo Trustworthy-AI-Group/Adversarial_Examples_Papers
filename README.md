@@ -2,6 +2,53 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-04-18
++ [ Fortify the Guardian, Not the Treasure: Resilient Adversarial Detectors](https://arxiv.org//abs/2404.12120)
+
+	Raz Lapid, Almog Dubin, Moshe Sipper
+
+
++ [ Introducing v0.5 of the AI Safety Benchmark from MLCommons](https://arxiv.org//abs/2404.12241)
+
+	Bertie Vidgen, Adarsh Agrawal, Ahmed M. Ahmed, Victor Akinwande, Namir Al-Nuaimi, Najla Alfaraj, Elie Alhajjar, Lora Aroyo, Trupti Bavalatti, Borhane Blili-Hamelin, Kurt Bollacker, Rishi Bomassani, Marisa Ferrara Boston, Siméon Campos, Kal Chakra, Canyu Chen, Cody Coleman, Zacharie Delpierre Coudert, Leon Derczynski, Debojyoti Dutta, Ian Eisenberg, James Ezick, Heather Frase, Brian Fuller, Ram Gandikota, Agasthya Gangavarapu, Ananya Gangavarapu, James Gealy, Rajat Ghosh, James Goel, Usman Gohar, Sujata Goswami, Scott A. Hale, Wiebke Hutiri, Joseph Marvin Imperial, Surgan Jandial, Nick Judd, Felix Juefei-Xu, Foutse Khomh, Bhavya Kailkhura, Hannah Rose Kirk, Kevin Klyman, Chris Knotz, Michael Kuchnik, Shachi H. Kumar, Chris Lengerich, Bo Li, Zeyi Liao, Eileen Peters Long, Victor Lu, Yifan Mai, et al. (46 additional authors not shown)
+
+
++ [ Advancing the Robustness of Large Language Models through Self-Denoised  Smoothing](https://arxiv.org//abs/2404.12274)
+
+	Jiabao Ji, Bairu Hou, Zhen Zhang, Guanhua Zhang, Wenqi Fan, Qing Li, Yang Zhang, Gaowen Liu, Sijia Liu, Shiyu Chang
+
+
++ [ Enhance Robustness of Language Models Against Variation Attack through  Graph Integration](https://arxiv.org//abs/2404.12014)
+
+	Zi Xiong, Lizhi Qing, Yangyang Kang, Jiawei Liu, Hongsong Li, Changlong Sun, Xiaozhong Liu, Wei Lu
+
+
++ [ Uncovering Safety Risks in Open-source LLMs through Concept Activation  Vector](https://arxiv.org//abs/2404.12038)
+
+	Zhihao Xu, Ruixuan Huang, Xiting Wang, Fangzhao Wu, Jing Yao, Xing Xie
+
+
++ [ Utilizing Adversarial Examples for Bias Mitigation and Accuracy  Enhancement](https://arxiv.org//abs/2404.11819)
+
+	Pushkar Shukla, Dhruv Srikanth, Lee Cohen, Matthew Turk
+
+
++ [ FedMID: A Data-Free Method for Using Intermediate Outputs as a Defense  Mechanism Against Poisoning Attacks in Federated Learning](https://arxiv.org//abs/2404.11905)
+
+	Sungwon Han, Hyeonho Song, Sungwon Park, Meeyoung Cha
+
+
++ [ A Mean-Field Analysis of Neural Gradient Descent-Ascent: Applications to  Functional Conditional Moment Equations](https://arxiv.org//abs/2404.12312)
+
+	Yuchen Zhu, Yufeng Zhang, Zhaoran Wang, Zhuoran Yang, Xiaohong Chen
+
+
++ [ KDk: A Defense Mechanism Against Label Inference Attacks in Vertical  Federated Learning](https://arxiv.org//abs/2404.12369)
+
+	Marco Arazzi, Serena Nicolazzo, Antonino Nocera
+
+
+
 # 2024-04-17
 + [ TransLinkGuard: Safeguarding Transformer Models Against Model Stealing  in Edge Deployment](https://arxiv.org//abs/2404.11121)
 
@@ -36,6 +83,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Clipped SGD Algorithms for Privacy Preserving Performative Prediction:  Bias Amplification and Remedies](https://arxiv.org//abs/2404.10995)
 
 	Qiang Li, Michal Yemini, Hoi-To Wai
+
+
++ [ Exploring DNN Robustness Against Adversarial Attacks Using Approximate  Multipliers](https://arxiv.org//abs/2404.11665)
+
+	Mohammad Javad Askarizadeh, Ebrahim Farahmand, Jorge Castro-Godinez, Ali Mahani, Laura Cabrera-Quiros, Carlos Salazar-Garcia
+
+
++ [ A Secure and Trustworthy Network Architecture for Federated Learning  Healthcare Applications](https://arxiv.org//abs/2404.11698)
+
+	Antonio Boiano, Marco Di Gennaro, Luca Barbieri, Michele Carminati, Monica Nicoli, Alessandro Redondi, Stefano Savazzi, Albert Sund Aillet, Diogo Reis Santos, Luigi Serio
 
 
 
