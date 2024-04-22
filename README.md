@@ -2,10 +2,71 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-04-19
++ [ How Real Is Real? A Human Evaluation Framework for Unrestricted  Adversarial Examples](https://arxiv.org//abs/2404.12653)
+
+	Dren Fazlija, Arkadij Orlov, Johanna Schrader, Monty-Maximilian Zühlke, Michael Rohs, Daniel Kudenko
+
+
++ [ A Clean-graph Backdoor Attack against Graph Convolutional Networks with  Poisoned Label Only](https://arxiv.org//abs/2404.12704)
+
+	Jiazhu Dai, Haoyu Sun
+
+
++ [ AED-PADA:Improving Generalizability of Adversarial Example Detection via  Principal Adversarial Domain Adaptation](https://arxiv.org//abs/2404.12635)
+
+	Heqi Peng, Yunhong Wang, Ruijie Yang, Beichen Li, Rui Wang, Yuanfang Guo
+
+
++ [ MLSD-GAN -- Generating Strong High Quality Face Morphing Attacks using  Latent Semantic Disentanglement](https://arxiv.org//abs/2404.12679)
+
+	Aravinda Reddy PN, Raghavendra Ramachandra, Krothapalli Sreenivasa Rao, Pabitra Mitra
+
+
++ [ PATE-TripleGAN: Privacy-Preserving Image Synthesis with Gaussian  Differential Privacy](https://arxiv.org//abs/2404.12730)
+
+	Zepeng Jiang, Weiwei Ni, Yifan Zhang
+
+
++ [ Robust CLIP-Based Detector for Exposing Diffusion Model-Generated Images](https://arxiv.org//abs/2404.12908)
+
+	Santosh, Li Lin, Irene Amerini, Xin Wang, Shu Hu
+
+
++ [ SA-Attack: Speed-adaptive stealthy adversarial attack on trajectory  prediction](https://arxiv.org//abs/2404.12612)
+
+	Huilin Yin, Jiaxiang Li, Pengju Zhen, Jun Yan
+
+
++ [ LSP Framework: A Compensatory Model for Defeating Trigger Reverse  Engineering via Label Smoothing Poisoning](https://arxiv.org//abs/2404.12852)
+
+	Beichen Li, Yuanfang Guo, Heqi Peng, Yangxi Li, Yunhong Wang
+
+
++ [ Defending against Data Poisoning Attacks in Federated Learning via User  Elimination](https://arxiv.org//abs/2404.12778)
+
+	Nick Galanis
+
+
++ [ The Power of Words: Generating PowerShell Attacks from Natural Language](https://arxiv.org//abs/2404.12893)
+
+	Pietro Liguori, Christian Marescalco, Roberto Natella, Vittorio Orbinato, Luciano Pianese
+
+
++ [ Physical Backdoor Attack can Jeopardize Driving with  Vision-Large-Language Models](https://arxiv.org//abs/2404.12916)
+
+	Zhenyang Ni, Rui Ye, Yuxi Wei, Zhen Xiang, Yanfeng Wang, Siheng Chen
+
+
 # 2024-04-18
 + [ Fortify the Guardian, Not the Treasure: Resilient Adversarial Detectors](https://arxiv.org//abs/2404.12120)
 
 	Raz Lapid, Almog Dubin, Moshe Sipper
+
+
++ [ Proteus: Preserving Model Confidentiality during Graph Optimizations](https://arxiv.org//abs/2404.12512)
+
+	Yubo Gao, Maryam Haghifam, Christina Giannoula, Renbo Tu, Gennady Pekhimenko, Nandita Vijaykumar
 
 
 + [ Introducing v0.5 of the AI Safety Benchmark from MLCommons](https://arxiv.org//abs/2404.12241)
