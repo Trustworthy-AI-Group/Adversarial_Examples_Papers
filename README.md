@@ -2,6 +2,58 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-04-23
++ [ Talk Too Much: Poisoning Large Language Models under Token Limit](https://arxiv.org//abs/2404.14795)
+
+	Jiaming He, Wenbo Jiang, Guanyu Hou, Wenshu Fan, Rui Zhang, Hongwei Li
+
+
++ [ A Customer Level Fraudulent Activity Detection Benchmark for Enhancing  Machine Learning Model Research and Evaluation](https://arxiv.org//abs/2404.14746)
+
+	Phoebe Jing, Yijing Gao, Xianlong Zeng
+
+
++ [ Leverage Variational Graph Representation For Model Poisoning on  Federated Learning](https://arxiv.org//abs/2404.15042)
+
+	Kai Li, Xin Yuan, Jingjing Zheng, Wei Ni, Falko Dressler, Abbas Jamalipour
+
+
++ [ Formal Verification of Graph Convolutional Networks with Uncertain Node  Features and Uncertain Graph Structure](https://arxiv.org//abs/2404.15065)
+
+	Tobias Ladner, Michael Eichelbeck, Matthias Althoff
+
+
++ [ Manipulating Recommender Systems: A Survey of Poisoning Attacks and  Countermeasures](https://arxiv.org//abs/2404.14942)
+
+	Thanh Toan Nguyen, Quoc Viet Hung Nguyen, Thanh Tam Nguyen, Thanh Trung Huynh, Thanh Thi Nguyen, Matthias Weidlich, Hongzhi Yin
+
+
++ [ Double Privacy Guard: Robust Traceable Adversarial Watermarking against  Face Recognition](https://arxiv.org//abs/2404.14693)
+
+	Yunming Zhang, Dengpan Ye, Sipeng Shen, Caiyun Xie, Ziyi Liu, Jiacheng Deng, Long Tang
+
+
++ [ Every Breath You Don't Take: Deepfake Speech Detection Using Breath](https://arxiv.org//abs/2404.15143)
+
+	Seth Layton, Thiago De Andrade, Daniel Olszewski, Kevin Warren, Carrie Gates, Kevin Butler, Patrick Traynor
+
+
++ [ Rethinking LLM Memorization through the Lens of Adversarial Compression](https://arxiv.org//abs/2404.15146)
+
+	Avi Schwarzschild, Zhili Feng, Pratyush Maini, Zachary C. Lipton, J. Zico Kolter
+
+
++ [ Competition Report: Finding Universal Jailbreak Backdoors in Aligned  LLMs](https://arxiv.org//abs/2404.14461)
+
+	Javier Rando, Francesco Croce, Kryštof Mitka, Stepan Shabalin, Maksym Andriushchenko, Nicolas Flammarion, Florian Tramèr
+
+
++ [ The Adversarial AI-Art: Understanding, Generation, Detection, and  Benchmarking](https://arxiv.org//abs/2404.14581)
+
+	Yuying Li, Zeyan Liu, Junyi Zhao, Liangqin Ren, Fengjun Li, Jiebo Luo, Bo Luo
+
+
+
 # 2024-04-22
 + [ Protecting Your LLMs with Information Bottleneck](https://arxiv.org//abs/2404.13968)
 
@@ -115,6 +167,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Jie Peng, Weiyu Li, Qing Ling
 
 
++ [ LLMs in Web-Development: Evaluating LLM-Generated PHP code unveiling  vulnerabilities and limitations](https://arxiv.org//abs/2404.14459)
+
+	Rebeka Tóth, Tamas Bisztray, László Erdodi
+
+
 # 2024-04-20
 + [ Pixel is a Barrier: Diffusion Models Are More Adversarially Robust Than  We Think](https://arxiv.org//abs/2404.13320)
 
@@ -140,6 +197,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Yuan Zhou, Rose Qingyang Hu, Yi Qian
 
+
+
++ [ Generative Subspace Adversarial Active Learning for Outlier Detection in  Multiple Views of High-dimensional Data](https://arxiv.org//abs/2404.14451)
+
+	Jose Cribeiro-Ramallo, Vadim Arzamasov, Federico Matteucci, Denis Wambold, Klemens Böhm
 
 
 # 2024-04-19
