@@ -2,6 +2,63 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-04-24
++ [ A General Black-box Adversarial Attack on Graph-based Fake News  Detectors](https://arxiv.org//abs/2404.15744)
+
+	Peican Zhu, Zechen Pan, Yang Liu, Jiwei Tian, Keke Tang, Zhen Wang
+
+
++ [ Steal Now and Attack Later: Evaluating Robustness of Object Detection  against Black-box Adversarial Attacks](https://arxiv.org//abs/2404.15881)
+
+	Erh-Chung Chen, Pin-Yu Chen, I-Hsin Chung, Che-Rung Lee
+
+
++ [ Universal Adversarial Triggers Are Not Universal](https://arxiv.org//abs/2404.16020)
+
+	Nicholas Meade, Arkil Patel, Siva Reddy
+
+
++ [ 3D Face Morphing Attack Generation using Non-Rigid Registration](https://arxiv.org//abs/2404.15765)
+
+	Jag Mohan Singh, Raghavendra Ramachandra
+
+
++ [ Vision Transformer-based Adversarial Domain Adaptation](https://arxiv.org//abs/2404.15817)
+
+	Yahan Li, Yuan Wu
+
+
++ [ Beyond Deepfake Images: Detecting AI-Generated Videos](https://arxiv.org//abs/2404.15955)
+
+	Danial Samadi Vahdati, Tai D. Nguyen, Aref Azizpour, Matthew C. Stamm
+
+
++ [ MISLEAD: Manipulating Importance of Selected features for Learning  Epsilon in Evasion Attack Deception](https://arxiv.org//abs/2404.15656)
+
+	Vidit Khazanchi, Pavan Kulkarni, Yuvaraj Govindarajulu, Manojkumar Parmar
+
+
++ [ CLAD: Robust Audio Deepfake Detection Against Manipulation Attacks with  Contrastive Learning](https://arxiv.org//abs/2404.15854)
+
+	Haolin Wu, Jing Chen, Ruiying Du, Cong Wu, Kun He, Xingcan Shang, Hao Ren, Guowen Xu
+
+
++ [ Security Analysis of WiFi-based Sensing Systems: Threats from  Perturbation Attacks](https://arxiv.org//abs/2404.15587)
+
+	Hangcheng Cao, Wenbin Huang, Guowen Xu, Xianhao Chen, Ziyang He, Jingyang Hu, Hongbo Jiang, Yuguang Fang
+
+
++ [ PoisonedFL: Model Poisoning Attacks to Federated Learning via  Multi-Round Consistency](https://arxiv.org//abs/2404.15611)
+
+	Yueqi Xie, Minghong Fang, Neil Zhenqiang Gong
+
+
++ [ Noise Variance Optimization in Differential Privacy: A Game-Theoretic  Approach Through Per-Instance Differential Privacy](https://arxiv.org//abs/2404.15686)
+
+	Sehyun Ryu, Jonggyu Jang, Hyun Jong Yang
+
+
+
 # 2024-04-23
 + [ Talk Too Much: Poisoning Large Language Models under Token Limit](https://arxiv.org//abs/2404.14795)
 
@@ -51,6 +108,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ The Adversarial AI-Art: Understanding, Generation, Detection, and  Benchmarking](https://arxiv.org//abs/2404.14581)
 
 	Yuying Li, Zeyan Liu, Junyi Zhao, Liangqin Ren, Fengjun Li, Jiebo Luo, Bo Luo
+
+
++ [ Insufficient Statistics Perturbation: Stable Estimators for Private  Least Squares](https://arxiv.org//abs/2404.15409)
+
+	Gavin Brown, Jonathan Hayase, Samuel Hopkins, Weihao Kong, Xiyang Liu, Sewoong Oh, Juan C. Perdomo, Adam Smith
 
 
 
@@ -170,6 +232,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ LLMs in Web-Development: Evaluating LLM-Generated PHP code unveiling  vulnerabilities and limitations](https://arxiv.org//abs/2404.14459)
 
 	Rebeka Tóth, Tamas Bisztray, László Erdodi
+
+
++ [ Robust EEG-based Emotion Recognition Using an Inception and Two-sided  Perturbation Model](https://arxiv.org//abs/2404.15373)
+
+	Shadi Sartipi, Mujdat Cetin
 
 
 # 2024-04-20
