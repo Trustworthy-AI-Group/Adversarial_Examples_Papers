@@ -2,6 +2,48 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-04-25
++ [ Constructing Optimal Noise Channels for Enhanced Robustness in Quantum  Machine Learning](https://arxiv.org//abs/2404.16417)
+
+	David Winderl, Nicola Franco, Jeanette Miriam Lorenz
+
+
++ [ Towards Precise Observations of Neural Model Robustness in  Classification](https://arxiv.org//abs/2404.16457)
+
+	Wenchuan Mu, Kwan Hui Lim
+
+
++ [ Energy-Latency Manipulation of Multi-modal Large Language Models via  Verbose Samples](https://arxiv.org//abs/2404.16557)
+
+	Kuofeng Gao, Jindong Gu, Yang Bai, Shu-Tao Xia, Philip Torr, Wei Liu, Zhifeng Li
+
+
++ [ Understanding Privacy Risks of Embeddings Induced by Large Language  Models](https://arxiv.org//abs/2404.16587)
+
+	Zhihao Zhu, Ninglu Shao, Defu Lian, Chenwang Wu, Zheng Liu, Yi Yang, Enhong Chen
+
+
++ [ Don't Say No: Jailbreaking LLM by Suppressing Refusal](https://arxiv.org//abs/2404.16369)
+
+	Yukai Zhou, Wenjie Wang
+
+
++ [ PAD: Patch-Agnostic Defense against Adversarial Patch Attacks](https://arxiv.org//abs/2404.16452)
+
+	Lihua Jing, Rui Wang, Wenqi Ren, Xin Dong, Cong Zou
+
+
++ [ Differentially Private Federated Learning: Servers Trustworthiness,  Estimation, and Statistical Inference](https://arxiv.org//abs/2404.16287)
+
+	Zhe Zhang, Ryumei Nakada, Linjun Zhang
+
+
++ [ Boosting Model Resilience via Implicit Adversarial Data Augmentation](https://arxiv.org//abs/2404.16307)
+
+	Xiaoling Zhou, Wei Ye, Zhemg Lee, Rui Xie, Shikun Zhang
+
+
+
 # 2024-04-24
 + [ A General Black-box Adversarial Attack on Graph-based Fake News  Detectors](https://arxiv.org//abs/2404.15744)
 
@@ -56,6 +98,31 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Noise Variance Optimization in Differential Privacy: A Game-Theoretic  Approach Through Per-Instance Differential Privacy](https://arxiv.org//abs/2404.15686)
 
 	Sehyun Ryu, Jonggyu Jang, Hyun Jong Yang
+
+
++ [ Advancing Recommender Systems by mitigating Shilling attacks](https://arxiv.org//abs/2404.16177)
+
+	Aditya Chichani, Juzer Golwala, Tejas Gundecha, Kiran Gawande
+
+
++ [ Investigating the prompt leakage effect and black-box defenses for  multi-turn LLM interactions](https://arxiv.org//abs/2404.16251)
+
+	Divyansh Agarwal, Alexander R. Fabbri, Philippe Laban, Shafiq Joty, Caiming Xiong, Chien-Sheng Wu
+
+
++ [ An Analysis of Recent Advances in Deepfake Image Detection in an  Evolving Threat Landscape](https://arxiv.org//abs/2404.16212)
+
+	Sifat Muhammad Abdullah, Aravind Cheruvu, Shravya Kanchi, Taejoong Chung, Peng Gao, Murtuza Jadliwala, Bimal Viswanath
+
+
++ [ Enhancing Privacy in Face Analytics Using Fully Homomorphic Encryption](https://arxiv.org//abs/2404.16255)
+
+	Bharat Yalavarthi, Arjun Ramesh Kaushik, Arun Ross, Vishnu Boddeti, Nalini Ratha
+
+
++ [ A Comparative Analysis of Adversarial Robustness for Quantum and  Classical Machine Learning Models](https://arxiv.org//abs/2404.16154)
+
+	Maximilian Wendlinger, Kilian Tscharke, Pascal Debus
 
 
 
