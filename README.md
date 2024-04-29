@@ -2,6 +2,53 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-04-26
++ [ Talking Nonsense: Probing Large Language Models' Understanding of  Adversarial Gibberish Inputs](https://arxiv.org//abs/2404.17120)
+
+	Valeriia Cherepanova, James Zou
+
+
++ [ Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered  Applications](https://arxiv.org//abs/2404.17196)
+
+	Quan Zhang, Binqi Zeng, Chijin Zhou, Gwihwan Go, Heyuan Shi, Yu Jiang
+
+
++ [ Enhancing Privacy and Security of Autonomous UAV Navigation](https://arxiv.org//abs/2404.17225)
+
+	Vatsal Aggarwal, Arjun Ramesh Kaushik, Charanjit Jutla, Nalini Ratha
+
+
++ [ M3BAT: Unsupervised Domain Adaptation for Multimodal Mobile Sensing with  Multi-Branch Adversarial Training](https://arxiv.org//abs/2404.17391)
+
+	Lakmal Meegahapola, Hamza Hassoune, Daniel Gatica-Perez
+
+
++ [ Defending Spiking Neural Networks against Adversarial Attacks through  Image Purification](https://arxiv.org//abs/2404.17092)
+
+	Weiran Chen, Qi Sun, Qi Xu
+
+
++ [ Adversarial Reweighting with $α$-Power Maximization for Domain  Adaptation](https://arxiv.org//abs/2404.17275)
+
+	Xiang Gu, Xi Yu, Yan Yang, Jian Sun, Zongben Xu
+
+
++ [ Estimating the Robustness Radius for Randomized Smoothing with  100$\times$ Sample Efficiency](https://arxiv.org//abs/2404.17371)
+
+	Emmanouil Seferis, Stefanos Kollias, Chih-Hong Cheng
+
+
++ [ Adversarial Consistency and the Uniqueness of the Adversarial Bayes  Classifier](https://arxiv.org//abs/2404.17358)
+
+	Natalie S. Frank
+
+
++ [ Evaluations of Machine Learning Privacy Defenses are Misleading](https://arxiv.org//abs/2404.17399)
+
+	Michael Aerni, Jie Zhang, Florian Tramèr
+
+
+
 # 2024-04-25
 + [ Constructing Optimal Noise Channels for Enhanced Robustness in Quantum  Machine Learning](https://arxiv.org//abs/2404.16417)
 
@@ -41,6 +88,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Boosting Model Resilience via Implicit Adversarial Data Augmentation](https://arxiv.org//abs/2404.16307)
 
 	Xiaoling Zhou, Wei Ye, Zhemg Lee, Rui Xie, Shikun Zhang
+
+
++ [ Generating Minimalist Adversarial Perturbations to Test Object-Detection  Models: An Adaptive Multi-Metric Evolutionary Search Approach](https://arxiv.org//abs/2404.17020)
+
+	Cristopher McIntyre-Garcia, Adrien Heymans, Beril Borali, Won-Sook Lee, Shiva Nejati
+
+
++ [ A Notion of Uniqueness for the Adversarial Bayes Classifier](https://arxiv.org//abs/2404.16956)
+
+	Natalie S. Frank
 
 
 
@@ -123,6 +180,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ A Comparative Analysis of Adversarial Robustness for Quantum and  Classical Machine Learning Models](https://arxiv.org//abs/2404.16154)
 
 	Maximilian Wendlinger, Kilian Tscharke, Pascal Debus
+
+
++ [ Attacks on Third-Party APIs of Large Language Models](https://arxiv.org//abs/2404.16891)
+
+	Wanru Zhao, Vidit Khazanchi, Haodi Xing, Xuanli He, Qiongkai Xu, Nicholas Donald Lane
 
 
 
@@ -304,6 +366,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Robust EEG-based Emotion Recognition Using an Inception and Two-sided  Perturbation Model](https://arxiv.org//abs/2404.15373)
 
 	Shadi Sartipi, Mujdat Cetin
+
+
++ [ AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs](https://arxiv.org//abs/2404.16873)
+
+	Anselm Paulus, Arman Zharmagambetov, Chuan Guo, Brandon Amos, Yuandong Tian
 
 
 # 2024-04-20
