@@ -2,6 +2,111 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-05-03
++ [ Impact of Architectural Modifications on Deep Learning Adversarial  Robustness](https://arxiv.org//abs/2405.01934)
+
+	Firuz Juraev, Mohammed Abuhamad, Simon S. Woo, George K Thiruvathukal, Tamer Abuhmed
+
+
++ [ From Attack to Defense: Insights into Deep Learning Security Measures in  Black-Box Settings](https://arxiv.org//abs/2405.01963)
+
+	Firuz Juraev, Mohammed Abuhamad, Eric Chan-Tin, George K. Thiruvathukal, Tamer Abuhmed
+
+
++ [ Adversarial Botometer: Adversarial Analysis for Social Bot Detection](https://arxiv.org//abs/2405.02016)
+
+	Shaghayegh Najari, Davood Rafiee, Mostafa Salehi, Reza Farahbakhsh
+
+
++ [ Zero-Sum Positional Differential Games as a Framework for Robust  Reinforcement Learning: Deep Q-Learning Approach](https://arxiv.org//abs/2405.02044)
+
+	Anton Plaksin, Vitaly Kalev
+
+
++ [ Uniformly Stable Algorithms for Adversarial Training and Beyond](https://arxiv.org//abs/2405.01817)
+
+	Jiancong Xiao, Jiawei Zhang, Zhi-Quan Luo, Asuman Ozdaglar
+
+
++ [ A Novel Approach to Guard from Adversarial Attacks using Stable  Diffusion](https://arxiv.org//abs/2405.01838)
+
+	Trinath Sai Subhash Reddy Pittala, Uma Maheswara Rao Meleti, Geethakrishna Puligundla
+
+
++ [ Optimistic Regret Bounds for Online Learning in Adversarial Markov  Decision Processes](https://arxiv.org//abs/2405.02188)
+
+	Sang Bin Moon, Abolfazl Hashemi
+
+
+
+# 2024-05-02
++ [ PVF (Parameter Vulnerability Factor): A Quantitative Metric Measuring AI  Vulnerability and Resilience Against Parameter Corruptions](https://arxiv.org//abs/2405.01741)
+
+	Xun Jiao, Fred Lin, Harish D. Dixit, Joel Coburn, Abhinav Pandey, Han Wang, Jianyu Huang, Venkat Ramesh, Wang Xu, Daniel Moore, Sriram Sankar
+
+
++ [ Privacy-aware Berrut Approximated Coded Computing for Federated Learning](https://arxiv.org//abs/2405.01704)
+
+	Xavier Martínez Luaña, Rebeca P. Díaz Redondo, Manuel Fernández Veiga
+
+
++ [ Robust Risk-Sensitive Reinforcement Learning with Conditional  Value-at-Risk](https://arxiv.org//abs/2405.01718)
+
+	Xinyi Ni, Lifeng Lai
+
+
++ [ Adversarial Attacks on Reinforcement Learning Agents for Command and  Control](https://arxiv.org//abs/2405.01693)
+
+	Ahaan Dabholkar, James Z. Hare, Mark Mittrick, John Richardson, Nicholas Waytowich, Priya Narayanan, Saurabh Bagchi
+
+
++ [ ATTAXONOMY: Unpacking Differential Privacy Guarantees Against Practical  Adversaries](https://arxiv.org//abs/2405.01716)
+
+	Rachel Cummings, Shlomi Hod, Jayshree Sarathy, Marika Swanberg
+
+
++ [ Explainability Guided Adversarial Evasion Attacks on Malware Detectors](https://arxiv.org//abs/2405.01728)
+
+	Kshitiz Aryal, Maanak Gupta, Mahmoud Abdelsalam, Moustafa Saleh
+
+
+# 2024-05-01
++ [ Robustness of graph embedding methods for community detection](https://arxiv.org/abs/2405.00636)
+
+	Zhi-Feng Wei, Pablo Moriano, Ramakrishnan Kannan
+
+
++ [ Certified Adversarial Robustness of Machine Learning-based Malware Detectors via (De)Randomized Smoothing](https://arxiv.org/abs/2405.00392)
+
+	Daniel Gibert, Luca Demetrio, Giulio Zizzo, Quan Le, Jordi Planes, Battista Biggio
+
+
+# 2024-04-30
++ [ Transferring Troubles: Cross-Lingual Transferability of Backdoor Attacks in LLMs with Instruction Tuning](https://arxiv.org/abs/2404.19597)
+
+	Xuanli He, Jun Wang, Qiongkai Xu, Pasquale Minervini, Pontus Stenetorp, Benjamin I. P. Rubinstein, Trevor Cohn
+
+
++ [ AttackBench: Evaluating Gradient-based Attacks for Adversarial Examples](https://arxiv.org/abs/2404.19460)
+
+	Antonio Emanuele Cinà, Jérôme Rony, Maura Pintor, Luca Demetrio, Ambra Demontis, Battista Biggio, Ismail Ben Ayed, Fabio Roli
+
+
++ [ ASAM: Boosting Segment Anything Model with Adversarial Tuning](https://arxiv.org/abs/2405.00256)
+
+	Bo Li, Haoke Xiao, Lv Tang
+
+
++ [ Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective](https://arxiv.org/abs/2404.19382)
+
+	Xiaoxuan Han, Songlin Yang, Wei Wang, Yang Li, Jing Dong
+
+
++ [Revisiting the Adversarial Robustness of Vision Language Models: a Multimodal Perspective](https://arxiv.org/abs/2404.19287)
+
+	Wanqi Zhou, Shuanghao Bai, Qibin Zhao, Badong Chen
+
+
 # 2024-04-29
 + [ Do Neutral Prompts Produce Insecure Code? FormAI-v2 Dataset: Labelling  Vulnerabilities in Code Generated by Large Language Models](https://arxiv.org//abs/2404.18353)
 
@@ -910,6 +1015,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Eliminating Catastrophic Overfitting Via Abnormal Adversarial Examples  Regularization](https://arxiv.org//abs/2404.08154)
 
 	Runqi Lin, Chaojian Yu, Tongliang Liu
+
+
++ [ CodeFort: Robust Training for Code Generation Models](https://arxiv.org//abs/2405.01567)
+
+	Yuhao Zhang, Shiqi Wang, Haifeng Qian, Zijian Wang, Mingyue Shang, Linbo Liu, Sanjay Krishna Gouda, Baishakhi Ray, Murali Krishna Ramanathan, Xiaofei Ma, Anoop Deoras
 
 
 # 2024-04-10
