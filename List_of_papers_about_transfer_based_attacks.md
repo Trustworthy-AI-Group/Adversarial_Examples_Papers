@@ -366,6 +366,11 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 	Jianping Zhang, Yizhan Huang, Zhuoer Xu, Weibin Wu, Michael R. Lyu
 
 
++ [ Exploring Frequencies via Feature Mixing and Meta-Learning for Improving  Adversarial Transferability](https://arxiv.org//abs/2405.03193) (arXiv preprint arXiv:2405.03193, 2024)
+
+	Juanjuan Weng, Zhiming Luo, Shaozi Li
+
+
 ### Ensemble-based Attack
 
 + [Delving into Transferable Adversarial Examples and Black-box Attacks](https://arxiv.org/abs/1611.02770) (ICLR 2017)
