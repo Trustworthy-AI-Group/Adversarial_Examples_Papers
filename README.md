@@ -2,6 +2,67 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-05-07
++ [Enhancing Scalability of Metric Differential Privacy via Secret Dataset Partitioning and Benders Decomposition](https://arxiv.org//abs/2405.04344)
+
+	Chenxi Qiu
+
+
++ [Locally Differentially Private In-Context Learning](https://arxiv.org//abs/2405.04032)
+
+	Chunyan Zheng, Keke Sun, Wenhao Zhao, Haibo Zhou, Lixin Jiang, Shaoyang Song, Chunlai Zhou
+
+
++ [A2-DIDM: Privacy-preserving Accumulator-enabled Auditing for Distributed Identity of DNN Model](https://arxiv.org//abs/2405.04108)
+
+	Tianxiu Xie, Keke Gai, Jing Yu, Liehuang Zhu, Kim-Kwang Raymond Choo
+
+
++ [Revisiting character-level adversarial attacks](https://arxiv.org//abs/2405.04346)
+
+	Elias Abad Rocamora, Yongtao Wu, Fanghui Liu, Grigorios G. Chrysos, Volkan Cevher
+
+
++ [IPFed: Identity protected federated learning for user authentication](https://arxiv.org//abs/2405.03955)
+
+	Yosuke Kaga, Yusei Suzuki, Kenta Takahashi
+
+
++ [Exposing AI-generated Videos: A Benchmark Dataset and a Local-and-Global Temporal Defect Based Detection Method](https://arxiv.org//abs/2405.04133)
+
+	Peisong He, Leyao Zhu, Jiaxing Li, Shiqi Wang, Haoliang Li
+
+
++ [Breast Histopathology Image Retrieval by Attention-based Adversarially Regularized Variational Graph Autoencoder with Contrastive Learning-Based Feature Extraction](https://arxiv.org//abs/2405.04211)
+
+	Nematollah Saeidi, Hossein Karshenas, Bijan Shoushtarian, Sepideh Hatamikia, Ramona Woitek, Amirreza Mahbod
+
+
++ [Effective and Robust Adversarial Training against Data and Label Corruptions](https://arxiv.org//abs/2405.04191)
+
+	Peng-Fei Zhang, Zi Huang, Xin-Shun Xu, Guangdong Bai
+
+
++ [Unlearning Backdoor Attacks through Gradient-Based Model Pruning](https://arxiv.org//abs/2405.03918)
+
+	Kealan Dunnett, Reza Arablouei, Dimity Miller, Volkan Dedeoglu, Raja Jurdak
+
+
++ [Explainability-Informed Targeted Malware Misclassification](https://arxiv.org//abs/2405.04010)
+
+	Quincy Card, Kshitiz Aryal, Maanak Gupta
+
+
++ [Enabling Privacy-Preserving and Publicly Auditable Federated Learning](https://arxiv.org//abs/2405.04029)
+
+	Huang Zeng, Anjia Yang, Jian Weng, Min-Rong Chen, Fengjun Xiao, Yi Liu, Ye Yao
+
+
++ [A Stealthy Wrongdoer: Feature-Oriented Reconstruction Attack against Split Learning](https://arxiv.org//abs/2405.04115)
+
+	Xiaoyang Xu, Mengda Yang, Wenzhe Yi, Ziang Li, Juan Wang, Hongxin Hu, Yong Zhuang, Yaxin Liu
+
+
 # 2024-05-06
 + [ To Each (Textual Sequence) Its Own: Improving Memorized-Data Unlearning  in Large Language Models](https://arxiv.org//abs/2405.03097)
 
@@ -63,6 +124,46 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Saleh Khalaj Monfared, Kyle Mitard, Andrew Cannon, Domenic Forte, Shahin Tajik
 
 
++ [Is ReLU Adversarially Robust?](https://arxiv.org//abs/2405.03777)
+
+	Korn Sooksatra, Greg Hamerly, Pablo Rivas
+
+
++ [On Adversarial Examples for Text Classification by Perturbing Latent Representations](https://arxiv.org//abs/2405.03789)
+
+	Korn Sooksatra, Bikram Khanal, Pablo Rivas
+
+
++ [Enhancing O-RAN Security: Evasion Attacks and Robust Defenses for Graph Reinforcement Learning-based Connection Management](https://arxiv.org//abs/2405.03891)
+
+	Ravikumar Balakrishnan, Marius Arvinte, Nageen Himayat, Hosein Nikopour, Hassnaa Moustafa
+
+
++ [Is ReLU Adversarially Robust?](https://arxiv.org//abs/2405.03777)
+
+	Korn Sooksatra, Greg Hamerly, Pablo Rivas
+
+
++ [On Adversarial Examples for Text Classification by Perturbing Latent Representations](https://arxiv.org//abs/2405.03789)
+
+	Korn Sooksatra, Bikram Khanal, Pablo Rivas
+
+
++ [Enhancing O-RAN Security: Evasion Attacks and Robust Defenses for Graph Reinforcement Learning-based Connection Management](https://arxiv.org//abs/2405.03891)
+
+	Ravikumar Balakrishnan, Marius Arvinte, Nageen Himayat, Hosein Nikopour, Hassnaa Moustafa
+
+
++ [Generative adversarial learning with optimal input dimension and its adaptive generator architecture](https://arxiv.org//abs/2405.03723)
+
+	Zhiyao Tan, Ling Zhou, Huazhen Lin
+
+
++ [Secure Inference for Vertically Partitioned Data Using Multiparty Homomorphic Encryption](https://arxiv.org//abs/2405.03775)
+
+	Shuangyi Chen, Yue Ju, Zhongwen Zhu, Ashish Khisti
+
+
 # 2024-05-05
 + [ Safe Reinforcement Learning with Learned Non-Markovian Safety  Constraints](https://arxiv.org//abs/2405.03005)
 
@@ -119,6 +220,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ Metric Differential Privacy at the User-Level](https://arxiv.org//abs/2405.02665)
 
 	Jacob Imola, Amrita Roy Chowdhury, Kamalika Chaudhuri
+
+
++ [Your Network May Need to Be Rewritten: Network Adversarial Based on High-Dimensional Function Graph Decomposition](https://arxiv.org//abs/2405.03712)
+
+	Xiaoyan Su, Yinghao Zhu, Run Li
 
 
 
