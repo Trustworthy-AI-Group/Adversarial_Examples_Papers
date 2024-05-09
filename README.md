@@ -2,6 +2,52 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-05-08
++ [Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution](https://arxiv.org//abs/2405.04825)
+
+	Shuo Shao, Yiming Li, Hongwei Yao, Yiling He, Zhan Qin, Kui Ren
+
+
++ [The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio](https://arxiv.org//abs/2405.04880)
+
+	Yuankun Xie, Yi Lu, Ruibo Fu, Zhengqi Wen, Zhiyong Wang, Jianhua Tao, Xin Qi, Xiaopeng Wang, Yukun Liu, Haonan Cheng, Long Ye, Yi Sun
+
+
++ [BiasKG: Adversarial Knowledge Graphs to Induce Bias in Large Language Models](https://arxiv.org//abs/2405.04756)
+
+	Chu Fei Luo, Ahmad Ghawanmeh, Xiaodan Zhu, Faiza Khan Khattak
+
+
++ [Mitigating Bias Using Model-Agnostic Data Attribution](https://arxiv.org//abs/2405.05031)
+
+	Sander De Coninck, Wei-Cheng Wang, Sam Leroux, Pieter Simoens
+
+
++ [Espresso: Robust Concept Filtering in Text-to-Image Models](https://arxiv.org//abs/2404.19227)
+
+	Anudeep Das, Vasisht Duddu, Rui Zhang, N. Asokan
+
+
++ [Towards Efficient Training and Evaluation of Robust Models against $l_0$ Bounded Adversarial Perturbations](https://arxiv.org//abs/2405.05075)
+
+	Xuyang Zhong, Yixiao Huang, Chen Liu
+
+
++ [Adversarial Threats to Automatic Modulation Open Set Recognition in Wireless Networks](https://arxiv.org//abs/2405.05022)
+
+	Yandie Yang, Sicheng Zhang, Kuixian Li, Qiao Tian, Yun Lin
+
+
++ [HackCar: a test platform for attacks and defenses on a cost-contained automotive architecture](https://arxiv.org//abs/2405.05023)
+
+	Dario Stabili, Filip Valgimigli, Edoardo Torrini, Mirco Marchetti
+
+
++ [Systematic Use of Random Self-Reducibility against Physical Attacks](https://arxiv.org//abs/2405.05193)
+
+	Ferhat Erata, TingHung Chiu, Anthony Etim, Srilalith Nampally, Tejas Raju, Rajashree Ramu, Ruzica Piskac, Timos Antonopoulos, Wenjie Xiong, Jakub Szefer
+
+
 # 2024-05-07
 + [Enhancing Scalability of Metric Differential Privacy via Secret Dataset Partitioning and Benders Decomposition](https://arxiv.org//abs/2405.04344)
 
@@ -162,6 +208,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Secure Inference for Vertically Partitioned Data Using Multiparty Homomorphic Encryption](https://arxiv.org//abs/2405.03775)
 
 	Shuangyi Chen, Yue Ju, Zhongwen Zhu, Ashish Khisti
+
+
++ [Differentially Private Federated Learning without Noise Addition: When is it Possible?](https://arxiv.org//abs/2405.04551)
+
+	Jiang Zhang, Yahya H Ezzeldin, Ahmed Roushdy Elkordy, Konstantinos Psounis, Salman Avestimehr
+
+
++ [Differentially Private Synthetic Data with Private Density Estimation](https://arxiv.org//abs/2405.04554)
+
+	Nikolija Bojkovic, Po-Ling Loh
 
 
 # 2024-05-05
