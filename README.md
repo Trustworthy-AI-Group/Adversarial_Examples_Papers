@@ -2,6 +2,62 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-05-09
++ [Towards Robust Physical-world Backdoor Attacks on Lane Detection](https://arxiv.org//abs/2405.05553)
+
+	Xinwei Zhang, Aishan Liu, Tianyuan Zhang, Siyuan Liang, Xianglong Liu
+
+
++ [Trustworthy AI-Generative Content in Intelligent 6G Network: Adversarial, Privacy, and Fairness](https://arxiv.org//abs/2405.05930)
+
+	Siyuan Li, Xi Lin, Yaju Liu, Jianhua Li
+
+
++ [Chain of Attack: a Semantic-Driven Contextual Multi-Turn attacker for LLM](https://arxiv.org//abs/2405.05610)
+
+	Xikang Yang, Xuehai Tang, Songlin Hu, Jizhong Han
+
+
++ [Towards Accurate and Robust Architectures via Neural Architecture Search](https://arxiv.org//abs/2405.05502)
+
+	Yuwei Ou, Yuqi Feng, Yanan Sun
+
+
++ [Universal Adversarial Perturbations for Vision-Language Pre-trained Models](https://arxiv.org//abs/2405.05524)
+
+	Peng-Fei Zhang, Zi Huang, Guangdong Bai
+
+
++ [Poisoning-based Backdoor Attacks for Arbitrary Target Label with Positive Triggers](https://arxiv.org//abs/2405.05573)
+
+	Binxiao Huang, Jason Chun Lok, Chang Liu, Ngai Wong
+
+
++ [Model Inversion Robustness: Can Transfer Learning Help?](https://arxiv.org//abs/2405.05588)
+
+	Sy-Tuyen Ho, Koh Jun Hao, Keshigeyan Chandrasegaran, Ngoc-Bao Nguyen, Ngai-Man Cheung
+
+
++ [Privacy-Preserving Edge Federated Learning for Intelligent Mobile-Health Systems](https://arxiv.org//abs/2405.05611)
+
+	Amin Aminifar, Matin Shokri, Amir Aminifar
+
+
++ [Link Stealing Attacks Against Inductive Graph Neural Networks](https://arxiv.org//abs/2405.05784)
+
+	Yixin Wu, Xinlei He, Pascal Berrang, Mathias Humbert, Michael Backes, Neil Zhenqiang Gong, Yang Zhang
+
+
++ [A Linear Reconstruction Approach for Attribute Inference Attacks against Synthetic Data](https://arxiv.org//abs/2301.10053)
+
+	Meenatchi Sundaram Muthu Selva Annamalai, Andrea Gadotti, Luc Rocher
+
+
++ [High-Performance Privacy-Preserving Matrix Completion for Trajectory Recovery](https://arxiv.org//abs/2405.05789)
+
+	Jiahao Guo, An-Bao Xu
+
+
 # 2024-05-08
 + [Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution](https://arxiv.org//abs/2405.04825)
 
@@ -46,6 +102,21 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Systematic Use of Random Self-Reducibility against Physical Attacks](https://arxiv.org//abs/2405.05193)
 
 	Ferhat Erata, TingHung Chiu, Anthony Etim, Srilalith Nampally, Tejas Raju, Rajashree Ramu, Ruzica Piskac, Timos Antonopoulos, Wenjie Xiong, Jakub Szefer
+
+
++ [Poser: Unmasking Alignment Faking LLMs by Manipulating Their Internals](https://arxiv.org//abs/2405.05466)
+
+	Joshua Clymer, Caden Juang, Severin Field
+
+
++ [Adversary-Guided Motion Retargeting for Skeleton Anonymization](https://arxiv.org//abs/2405.05428)
+
+	Thomas Carr, Depeng Xu, Aidong Lu
+
+
++ [Model Reconstruction Using Counterfactual Explanations: Mitigating the Decision Boundary Shift](https://arxiv.org//abs/2405.05369)
+
+	Pasan Dissanayake, Sanghamitra Dutta
 
 
 # 2024-05-07
