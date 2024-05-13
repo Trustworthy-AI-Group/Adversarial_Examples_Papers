@@ -2,6 +2,47 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-05-10
++ [Towards Guaranteed Safe AI: A Framework for Ensuring Robust and Reliable AI Systems](https://arxiv.org//abs/2405.06624)
+
+	David "davidad" Dalrymple, Joar Skalse, Yoshua Bengio, Stuart Russell, Max Tegmark, Sanjit Seshia, Steve Omohundro, Christian Szegedy, Ben Goldhaber, Nora Ammann, Alessandro Abate, Joe Halpern, Clark Barrett, Ding Zhao, Tan Zhi-Xuan, Jeannette Wing, Joshua Tenenbaum
+
+
++ [Concealing Backdoor Model Updates in Federated Learning by Trigger-Optimized Data Poisoning](https://arxiv.org//abs/2405.06206)
+
+	Yujie Zhang, Neil Gong, Michael K. Reiter
+
+
++ [Disttack: Graph Adversarial Attacks Toward Distributed GNN Training](https://arxiv.org//abs/2405.06247)
+
+	Yuxiang Zhang, Xin Liu, Meng Wu, Wei Yan, Mingyu Yan, Xiaochun Ye, Dongrui Fan
+
+
++ [Exploring the Interplay of Interpretability and Robustness in Deep Neural Networks: A Saliency-guided Approach](https://arxiv.org//abs/2405.06278)
+
+	Amira Guesmi, Nishant Suresh Aswani, Muhammad Shafique
+
+
++ [Improving Transferable Targeted Adversarial Attack via Normalized Logit Calibration and Truncated Feature Mixing](https://arxiv.org//abs/2405.06340)
+
+	Juanjuan Weng, Zhiming Luo, Shaozi Li
+
+
++ [Evaluating Adversarial Robustness in the Spatial Frequency Domain](https://arxiv.org//abs/2405.06345)
+
+	Keng-Hsin Liao, Chin-Yuan Yeh, Hsi-Wen Chen, Ming-Syan Chen
+
+
++ [Certified $\ell_2$ Attribution Robustness via Uniformly Smoothed Attributions](https://arxiv.org//abs/2405.06361)
+
+	Fan Wang, Adams Wai-Kin Kong
+
+
++ [Risks of Practicing Large Language Models in Smart Grid: Threat Modeling and Validation](https://arxiv.org//abs/2405.06237)
+
+	Jiangnan Li, Yingyuan Yang, Jinyuan Sun
+
+
 # 2024-05-09
 + [Towards Robust Physical-world Backdoor Attacks on Lane Detection](https://arxiv.org//abs/2405.05553)
 
@@ -56,6 +97,26 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [High-Performance Privacy-Preserving Matrix Completion for Trajectory Recovery](https://arxiv.org//abs/2405.05789)
 
 	Jiahao Guo, An-Bao Xu
+
+
++ [Special Characters Attack: Toward Scalable Training Data Extraction From Large Language Models](https://arxiv.org//abs/2405.05990)
+
+	Yang Bai, Ge Pei, Jindong Gu, Yong Yang, Xingjun Ma
+
+
++ [Muting Whisper: A Universal Acoustic Adversarial Attack on Speech Foundation Models](https://arxiv.org//abs/2405.06134)
+
+	Vyas Raina, Rao Ma, Charles McGhee, Kate Knill, Mark Gales
+
+
++ [BB-Patch: BlackBox Adversarial Patch-Attack using Zeroth-Order Optimization](https://arxiv.org//abs/2405.06049)
+
+	Satyadwyoom Kumar, Saurabh Gupta, Arun Balaji Buduru
+
+
++ [Hard Work Does Not Always Pay Off: Poisoning Attacks on Neural Architecture Search](https://arxiv.org//abs/2405.06073)
+
+	Zachary Coalson, Huazheng Wang, Qingyun Wu, Sanghyun Hong
 
 
 # 2024-05-08
