@@ -2,6 +2,51 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-05-13
++ [GLiRA: Black-Box Membership Inference Attack via Knowledge Distillation](https://arxiv.org//abs/2405.07562)
+
+	Andrey V. Galichin, Mikhail Pautov, Alexey Zhavoronkin, Oleg Y. Rogov, Ivan Oseledets
+
+
++ [Environmental Matching Attack Against Unmanned Aerial Vehicles Object Detection](https://arxiv.org//abs/2405.07595)
+
+	Dehong Kong, Siyuan Liang, Wenqi Ren
+
+
++ [CrossCert: A Cross-Checking Detection Approach to Patch Robustness Certification for Deep Learning Models](https://arxiv.org//abs/2405.07668)
+
+	Qilin Zhou, Zhengyuan Wei, Haipeng Wang, Bo Jiang, W.K. Chan
+
+
++ [RAID: A Shared Benchmark for Robust Evaluation of Machine-Generated Text Detectors](https://arxiv.org//abs/2405.07940)
+
+	Liam Dugan, Alyssa Hwang, Filip Trhlik, Josh Magnus Ludan, Andrew Zhu, Hainiu Xu, Daphne Ippolito, Chris Callison-Burch
+
+
++ [Backdoor Removal for Generative Large Language Models](https://arxiv.org//abs/2405.07667)
+
+	Haoran Li, Yulin Chen, Zihao Zheng, Qi Hu, Chunkit Chan, Heshan Liu, Yangqiu Song
+
+
+
+# 2024-05-12
++ [VALID: a Validated Algorithm for Learning in Decentralized Networks with Possible Adversarial Presence](https://arxiv.org//abs/2405.07316)
+
+	Mayank Bakshi, Sara Ghasvarianjahromi, Yauhen Yakimenka, Allison Beemer, Oliver Kosut, Joerg Kliewer
+
+
+
+# 2024-05-11
++ [Shadow-Free Membership Inference Attacks: Recommender Systems Are More Vulnerable Than You Thought](https://arxiv.org//abs/2405.07018)
+
+	Xiaoxiao Chi, Xuyun Zhang, Yan Wang, Lianyong Qi, Amin Beheshti, Xiaolong Xu, Kim-Kwang Raymond Choo, Shuo Wang, Hongsheng Hu
+
+
++ [Disrupting Style Mimicry Attacks on Video Imagery](https://arxiv.org//abs/2405.06865)
+
+	Josephine Passananti, Stanley Wu, Shawn Shan, Haitao Zheng, Ben Y. Zhao
+
+
 # 2024-05-10
 + [Towards Guaranteed Safe AI: A Framework for Ensuring Robust and Reliable AI Systems](https://arxiv.org//abs/2405.06624)
 
@@ -41,6 +86,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Risks of Practicing Large Language Models in Smart Grid: Threat Modeling and Validation](https://arxiv.org//abs/2405.06237)
 
 	Jiangnan Li, Yingyuan Yang, Jinyuan Sun
+
+
++ [PLeak: Prompt Leaking Attacks against Large Language Model Applications](https://arxiv.org//abs/2405.06823)
+
+	Bo Hui, Haolin Yuan, Neil Gong, Philippe Burlina, Yinzhi Cao
+
+
++ [LLM-Generated Black-box Explanations Can Be Adversarially Helpful](https://arxiv.org//abs/2405.06800)
+
+	Rohan Ajwani, Shashidhar Reddy Javaji, Frank Rudzicz, Zining Zhu
 
 
 # 2024-05-09
