@@ -2,6 +2,42 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-05-14
++ [Can we Defend Against the Unknown? An Empirical Study About Threshold Selection for Neural Network Monitoring](https://arxiv.org//abs/2405.08654)
+
+	Khoi Tran Dang, Kevin Delmas, Jérémie Guiochet, Joris Guérin
+
+
++ [Towards Safe Large Language Models for Medicine](https://arxiv.org//abs/2403.03744)
+
+	Tessa Han, Aounon Kumar, Chirag Agarwal, Himabindu Lakkaraju
+
+
++ [SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models](https://arxiv.org//abs/2405.08317)
+
+	Raghuveer Peri, Sai Muralidhar Jayanthi, Srikanth Ronanki, Anshu Bhatia, Karel Mundnich, Saket Dingliwal, Nilaksh Das, Zejiang Hou, Goeric Huybrechts, Srikanth Vishnubhotla, Daniel Garcia-Romero, Sundararajan Srinivasan, Kyu J Han, Katrin Kirchhoff
+
+
++ [UnMarker: A Universal Attack on Defensive Watermarking](https://arxiv.org//abs/2405.08363)
+
+	Andre Kassis, Urs Hengartner
+
+
++ [Certifying Robustness of Graph Convolutional Networks for Node Perturbation with Polyhedra Abstract Interpretation](https://arxiv.org//abs/2405.08645)
+
+	Boqi Chen, Kristóf Marussy, Oszkár Semeráth, Gunter Mussbacher, Dániel Varró
+
+
++ [Differentially Private Federated Learning: A Systematic Review](https://arxiv.org//abs/2405.08299)
+
+	Jie Fu, Yuan Hong, Xinpeng Ling, Leixia Wang, Xun Ran, Zhiyu Sun, Wendy Hui Wang, Zhili Chen, Yang Cao
+
+
++ [Work-in-Progress: Crash Course: Can (Under Attack) Autonomous Driving Beat Human Drivers?](https://arxiv.org//abs/2405.08466)
+
+	Francesco Marchiori, Alessandro Brighente, Mauro Conti
+
+
 # 2024-05-13
 + [GLiRA: Black-Box Membership Inference Attack via Knowledge Distillation](https://arxiv.org//abs/2405.07562)
 
@@ -26,6 +62,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Backdoor Removal for Generative Large Language Models](https://arxiv.org//abs/2405.07667)
 
 	Haoran Li, Yulin Chen, Zihao Zheng, Qi Hu, Chunkit Chan, Heshan Liu, Yangqiu Song
+
+
++ [Evaluating Google's Protected Audience Protocol](https://arxiv.org//abs/2405.08102)
+
+	Minjun Long, David Evans
 
 
 
