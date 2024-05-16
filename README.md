@@ -2,6 +2,33 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-05-15
++ [Identity Overlap Between Face Recognition Train/Test Data: Causing Optimistic Bias in Accuracy Measurement](https://arxiv.org//abs/2405.09403)
+
+	Haiyu Wu, Sicong Tian, Jacob Gutierrez, Aman Bhatta, Kağan Öztürk, Kevin W. Bowyer
+
+
++ [Efficient LLM Jailbreak via Adaptive Dense-to-sparse Constrained Optimization](https://arxiv.org//abs/2405.09113)
+
+	Kai Hu, Weichen Yu, Tianjun Yao, Xiang Li, Wenhe Liu, Lijun Yu, Yining Li, Kai Chen, Zhiqiang Shen, Matt Fredrikson
+
+
++ [Cross-Input Certified Training for Universal Perturbations](https://arxiv.org//abs/2405.09176)
+
+	Changming Xu, Gagandeep Singh
+
+
++ [Towards Evaluating the Robustness of Automatic Speech Recognition Systems via Audio Style Transfer](https://arxiv.org//abs/2405.09470)
+
+	Weifei Jin, Yuxin Cao, Junjie Su, Qi Shen, Kai Ye, Derui Wang, Jie Hao, Ziyao Liu
+
+
++ [Words Blending Boxes. Obfuscating Queries in Information Retrieval using Differential Privacy](https://arxiv.org//abs/2405.09306)
+
+	Francesco Luigi De Faveri, Guglielmo Faggioli, Nicola Ferro
+
+
+
 # 2024-05-14
 + [Can we Defend Against the Unknown? An Empirical Study About Threshold Selection for Neural Network Monitoring](https://arxiv.org//abs/2405.08654)
 
@@ -36,6 +63,26 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Work-in-Progress: Crash Course: Can (Under Attack) Autonomous Driving Beat Human Drivers?](https://arxiv.org//abs/2405.08466)
 
 	Francesco Marchiori, Alessandro Brighente, Mauro Conti
+
+
++ [Adversarial Machine Learning Threats to Spacecraft](https://arxiv.org//abs/2405.08834)
+
+	Rajiv Thummala, Shristi Sharma, Matteo Calabrese, Gregory Falco
+
+
++ [Neural Collapse Meets Differential Privacy: Curious Behaviors of NoisyGD with Near-perfect Representation Learning](https://arxiv.org//abs/2405.08920)
+
+	Chendi Wang, Yuqing Zhu, Weijie J. Su, Yu-Xiang Wang
+
+
++ [The Pitfalls and Promise of Conformal Inference Under Adversarial Attacks](https://arxiv.org//abs/2405.08886)
+
+	Ziquan Liu, Yufei Cui, Yan Yan, Yi Xu, Xiangyang Ji, Xue Liu, Antoni B. Chan
+
+
++ [RS-Reg: Probabilistic and Robust Certified Regression Through Randomized Smoothing](https://arxiv.org//abs/2405.08892)
+
+	Aref Miri Rekavandi, Olga Ohrimenko, Benjamin I.P. Rubinstein
 
 
 # 2024-05-13
