@@ -2,6 +2,48 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-05-16
++ [Box-Free Model Watermarks Are Prone to Black-Box Removal Attacks](https://arxiv.org//abs/2405.09863)
+
+	Haonan An, Guang Hua, Zhiping Lin, Yuguang Fang
+
+
++ [DiffAM: Diffusion-based Adversarial Makeup Transfer for Facial Privacy Protection](https://arxiv.org//abs/2405.09882)
+
+	Yuhao Sun, Lingyun Yu, Hongtao Xie, Jiaming Li, Yongdong Zhang
+
+
++ [Keep It Private: Unsupervised Privatization of Online Text](https://arxiv.org//abs/2405.10260)
+
+	Calvin Bao, Marine Carpuat
+
+
++ [SecureLLM: Using Compositionality to Build Provably Secure Language Models for Private, Sensitive, and Secret Data](https://arxiv.org//abs/2405.09805)
+
+	Abdulrahman Alabdulakreem, Christian M Arnold, Yerim Lee, Pieter M Feenstra, Boris Katz, Andrei Barbu
+
+
++ [Infrared Adversarial Car Stickers](https://arxiv.org//abs/2405.09924)
+
+	Xiaopei Zhu, Yuqiu Liu, Zhanhao Hu, Jianmin Li, Xiaolin Hu
+
+
++ [Adversarial Robustness for Visual Grounding of Multimodal Large Language Models](https://arxiv.org//abs/2405.09981)
+
+	Kuofeng Gao, Yang Bai, Jiawang Bai, Yong Yang, Shu-Tao Xia
+
+
++ [IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency](https://arxiv.org//abs/2405.09786)
+
+	Linshan Hou, Ruili Feng, Zhongyun Hua, Wei Luo, Leo Yu Zhang, Yiming Li
+
+
++ [Manifold Integrated Gradients: Riemannian Geometry for Feature Attribution](https://arxiv.org//abs/2405.09800)
+
+	Eslam Zaher, Maciej Trzaskowski, Quan Nguyen, Fred Roosta
+
+
+
 # 2024-05-15
 + [Identity Overlap Between Face Recognition Train/Test Data: Causing Optimistic Bias in Accuracy Measurement](https://arxiv.org//abs/2405.09403)
 
@@ -26,6 +68,21 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Words Blending Boxes. Obfuscating Queries in Information Retrieval using Differential Privacy](https://arxiv.org//abs/2405.09306)
 
 	Francesco Luigi De Faveri, Guglielmo Faggioli, Nicola Ferro
+
+
++ [Training Deep Learning Models with Hybrid Datasets for Robust Automatic Target Detection on real SAR images](https://arxiv.org//abs/2405.09588)
+
+	Benjamin Camus, Théo Voillemin, Corentin Le Barbu, Jean-Christophe Louvigné, Carole Belloni, Emmanuel Vallée
+
+
++ [Properties that allow or prohibit transferability of adversarial attacks among quantized networks](https://arxiv.org//abs/2405.09598)
+
+	Abhishek Shrestha, Jürgen Großmann
+
+
++ [DP-RuL: Differentially-Private Rule Learning for Clinical Decision Support Systems](https://arxiv.org//abs/2405.09721)
+
+	Josephine Lamp, Lu Feng, David Evans
 
 
 
