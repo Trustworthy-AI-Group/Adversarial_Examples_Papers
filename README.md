@@ -2,6 +2,38 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-05-17
++ [Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors](https://arxiv.org//abs/2405.10529)
+
+	Jiachen Sun, Changsheng Wang, Jiongxiao Wang, Yiwei Zhang, Chaowei Xiao
+
+
++ [Not All Prompts Are Secure: A Switchable Backdoor Attack Against Pre-trained Vision Transformers](https://arxiv.org//abs/2405.10612)
+
+	Sheng Yang, Jiawang Bai, Kuofeng Gao, Yong Yang, Yiming Li, Shu-tao Xia
+
+
++ [Multicenter Privacy-Preserving Model Training for Deep Learning Brain Metastases Autosegmentation](https://arxiv.org//abs/2405.10870)
+
+	Yixing Huang, Zahra Khodabakhshi, Ahmed Gomaa, Manuel Schmidt, Rainer Fietkau, Matthias Guckenberger, Nicolaus Andratschke, Christoph Bert, Stephanie Tanadini-Lang, Florian Putz
+
+
++ [Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective](https://arxiv.org//abs/2405.10757)
+
+	Zhiwei Zhang, Minhua Lin, Enyan Dai, Suhang Wang
+
+
++ [Boosting Few-Pixel Robustness Verification via Covering Verification Designs](https://arxiv.org//abs/2405.10924)
+
+	Yuval Shapira, Naor Wiesel, Shahar Shabelman, Dana Drachsler-Cohen
+
+
++ [Generative AI for Secure and Privacy-Preserving Mobile Crowdsensing](https://arxiv.org//abs/2405.10521)
+
+	Yaoqi Yang, Bangning Zhang, Daoxing Guo, Hongyang Du, Zehui Xiong, Dusit Niyato, Zhu Han
+
+
+
 # 2024-05-16
 + [Box-Free Model Watermarks Are Prone to Black-Box Removal Attacks](https://arxiv.org//abs/2405.09863)
 
@@ -41,6 +73,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Manifold Integrated Gradients: Riemannian Geometry for Feature Attribution](https://arxiv.org//abs/2405.09800)
 
 	Eslam Zaher, Maciej Trzaskowski, Quan Nguyen, Fred Roosta
+
+
++ [Dealing Doubt: Unveiling Threat Models in Gradient Inversion Attacks under Federated Learning, A Survey and Taxonomy](https://arxiv.org//abs/2405.10376)
+
+	Yichuan Shi, Olivera Kotevska, Viktor Reshniak, Abhishek Singh, Ramesh Raskar
+
+
++ [Adversarial Robustness Guarantees for Quantum Classifiers](https://arxiv.org//abs/2405.10360)
+
+	Neil Dowling, Maxwell T. West, Angus Southwell, Azar C. Nakhl, Martin Sevior, Muhammad Usman, Kavan Modi
 
 
 
