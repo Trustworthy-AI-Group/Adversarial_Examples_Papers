@@ -2,6 +2,62 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-05-21
++ [Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models](https://arxiv.org//abs/2405.12523)
+
+	Jiaqi Li, Qianshan Wei, Chuanyi Zhang, Guilin Qi, Miaozeng Du, Yongrui Chen, Sheng Bi
+
+
++ [Tiny Refinements Elicit Resilience: Toward Efficient Prefix-Model Against LLM Red-Teaming](https://arxiv.org//abs/2405.12604)
+
+	Jiaxu Liu, Xiangyu Yin, Sihao Wu, Jianhong Wang, Meng Fang, Xinping Yi, Xiaowei Huang
+
+
++ [Generative AI and Large Language Models for Cyber Security: All Insights You Need](https://arxiv.org//abs/2405.12750)
+
+	Mohamed Amine Ferrag, Fatima Alwahedi, Ammar Battah, Bilel Cherif, Abdechakour Mechri, Norbert Tihanyi
+
+
++ [Transparency Distortion Robustness for SOTA Image Segmentation Tasks](https://arxiv.org//abs/2405.12864)
+
+	Volker Knauthe, Arne Rak, Tristan Wirth, Thomas Pöllabauer, Simon Metzler, Arjan Kuijper, Dieter W. Fellner
+
+
++ [Nearest is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks](https://arxiv.org//abs/2405.12725)
+
+	Boheng Li, Yishuo Cai, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li
+
+
++ [Spatial-aware Attention Generative Adversarial Network for Semi-supervised Anomaly Detection in Medical Image](https://arxiv.org//abs/2405.12872)
+
+	Zerui Zhang, Zhichao Sun, Zelong Liu, Bo Du, Rui Yu, Zhou Zhao, Yongchao Xu
+
+
++ [Robust Classification via a Single Diffusion Model](https://arxiv.org//abs/2305.15241)
+
+	Huanran Chen, Yinpeng Dong, Zhengyi Wang, Xiao Yang, Chengqi Duan, Hang Su, Jun Zhu
+
+
++ [Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers](https://arxiv.org//abs/2405.12424)
+
+	Fan Shi, Chong Zhang, Takahiro Miki, Joonho Lee, Marco Hutter, Stelian Coros
+
+
++ [How to Train a Backdoor-Robust Model on a Poisoned Dataset without Auxiliary Data?](https://arxiv.org//abs/2405.12719)
+
+	Yuwen Pu, Jiahao Chen, Chunyi Zhou, Zhou Feng, Qingming Li, Chunqiang Hu, Shouling Ji
+
+
++ [A Stealthy Backdoor Attack for Without-Label-Sharing Split Learning](https://arxiv.org//abs/2405.12751)
+
+	Yuwen Pu, Zhuoyuan Ding, Jiahao Chen, Chunyi Zhou, Qingming Li, Chunqiang Hu, Shouling Ji
+
+
++ [Rethinking the Vulnerabilities of Face Recognition Systems:From a Practical Perspective](https://arxiv.org//abs/2405.12786)
+
+	Jiahao Chen, Zhiqiang Shen, Yuwen Pu, Chunyi Zhou, Shouling Ji
+
+
 # 2024-05-20
 + [Fed-Credit: Robust Federated Learning with Credibility Management](https://arxiv.org//abs/2405.11758)
 
@@ -36,6 +92,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [GAN-GRID: A Novel Generative Attack on Smart Grid Stability Prediction](https://arxiv.org//abs/2405.12076)
 
 	Emad Efatinasab, Alessandro Brighente, Mirco Rampazzo, Nahal Azadi, Mauro Conti
+
+
++ [Adaptive Batch Normalization Networks for Adversarial Robustness](https://arxiv.org//abs/2405.11708)
+
+	Shao-Yuan Lo, Vishal M. Patel
+
+
++ [Efficient Model-Stealing Attacks Against Inductive Graph Neural Networks](https://arxiv.org//abs/2405.12295)
+
+	Marcin Podhajski, Jan Dubiński, Franziska Boenisch, Adam Dziedzic, Agnieszka Pregowska, Tomasz Michalak
 
 
 
@@ -73,6 +139,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Sketches-based join size estimation under local differential privacy](https://arxiv.org//abs/2405.11419)
 
 	Meifan Zhang, Xin Liu, Lihua Yin
+
+
++ [BOSC: A Backdoor-based Framework for Open Set Synthetic Image Attribution](https://arxiv.org//abs/2405.11491)
+
+	Jun Wang, Benedetta Tondi, Mauro Barni
 
 
 
@@ -120,6 +191,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Detecting Complex Multi-step Attacks with Explainable Graph Neural Network](https://arxiv.org//abs/2405.11335)
 
 	Wei Liu, Peng Gao, Haotian Zhang, Ke Li, Weiyong Yang, Xingshen Wei, Shuji Wu
+
+
++ [MediCLIP: Adapting CLIP for Few-shot Medical Image Anomaly Detection](https://arxiv.org//abs/2405.11315)
+
+	Ximiao Zhang, Min Xu, Dehui Qiu, Ruixin Yan, Ning Lang, Xiuzhuang Zhou
 
 
 # 2024-05-17

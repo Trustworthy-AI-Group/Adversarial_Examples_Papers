@@ -269,6 +269,12 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 
 	Xiangyuan Yang, Jie Lin, Hanlin Zhang, Xinyu Yang, Peng Zhao
 
+
++ [Improving the transferability of adversarial examples through black-box feature attacks](https://www.sciencedirect.com/science/article/abs/pii/S0925231224006349) (Neurocomputing 2024)
+
+	Maoyuan Wang, Jinwei Wang, Bin Ma, Xiangyuan Luo
+
+
 ### Model-related Attack
 
 + [Skip Connections Matter: On the Transferability of Adversarial Examples Generated with ResNets](https://arxiv.org/pdf/2002.05990.pdf) (ICLR 2020)
