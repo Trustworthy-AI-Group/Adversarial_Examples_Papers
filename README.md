@@ -2,6 +2,88 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-05-24
++ [How Does Bayes Error Limit Probabilistic Robust Accuracy](https://arxiv.org//abs/2405.14923)
+
+	Ruihan Zhang, Jun Sun
+
+
++ [RFLPA: A Robust Federated Learning Framework against Poisoning Attacks with Secure Aggregation](https://arxiv.org//abs/2405.15182)
+
+	Peihua Mai, Ran Yan, Yan Pang
+
+
++ [Coordinated Disclosure for AI: Beyond Security Vulnerabilities](https://arxiv.org//abs/2402.07039)
+
+	Sven Cattell, Avijit Ghosh, Lucie-Aimée Kaffee
+
+
++ [Robust Diffusion Models for Adversarial Purification](https://arxiv.org//abs/2403.16067)
+
+	Guang Lin, Zerui Tao, Jianhai Zhang, Toshihisa Tanaka, Qibin Zhao
+
+
++ [Certifiably Robust RAG against Retrieval Corruption](https://arxiv.org//abs/2405.15556)
+
+	Chong Xiang, Tong Wu, Zexuan Zhong, David Wagner, Danqi Chen, Prateek Mittal
+
+
++ [Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models](https://arxiv.org//abs/2405.15234)
+
+	Yimeng Zhang, Xin Chen, Jinghan Jia, Yihua Zhang, Chongyu Fan, Jiancheng Liu, Mingyi Hong, Ke Ding, Sijia Liu
+
+
++ [BDetCLIP: Multimodal Prompting Contrastive Test-Time Backdoor Detection](https://arxiv.org//abs/2405.15269)
+
+	Yuwei Niu, Shuo He, Qi Wei, Feng Liu, Lei Feng
+
+
++ [Scale-Invariant Feature Disentanglement via Adversarial Learning for UAV-based Object Detection](https://arxiv.org//abs/2405.15465)
+
+	Fan Liu, Liang Yao, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Jun Zhou, Xiruo Jiang
+
+
++ [Better Membership Inference Privacy Measurement through Discrepancy](https://arxiv.org//abs/2405.15140)
+
+	Ruihan Wu, Pengrun Huang, Kamalika Chaudhuri
+
+
++ [Adversarial Attacks on Hidden Tasks in Multi-Task Learning](https://arxiv.org//abs/2405.15244)
+
+	Yu Zhe, Rei Nagaike, Daiki Nishiyama, Kazuto Fukuchi, Jun Sakuma
+
+
++ [Decaf: Data Distribution Decompose Attack against Federated Learning](https://arxiv.org//abs/2405.15316)
+
+	Zhiyang Dai, Chunyi Zhou, Anmin Fu
+
+
++ [Lost in the Averages: A New Specific Setup to Evaluate Membership Inference Attacks Against Machine Learning Models](https://arxiv.org//abs/2405.15423)
+
+	Florent Guépin, Nataša Krčo, Matthieu Meeus, Yves-Alexandre de Montjoye
+
+
++ [DAGER: Exact Gradient Inversion for Large Language Models](https://arxiv.org//abs/2405.15586)
+
+	Ivo Petrov, Dimitar I. Dimitrov, Maximilian Baader, Mark Niklas Müller, Martin Vechev
+
+
++ [Efficient Adversarial Training in LLMs with Continuous Attacks](https://arxiv.org//abs/2405.15589)
+
+	Sophie Xhonneux, Alessandro Sordoni, Stephan Günnemann, Gauthier Gidel, Leo Schwinn
+
+
++ [TrojanForge: Adversarial Hardware Trojan Examples with Reinforcement Learning](https://arxiv.org//abs/2405.15184)
+
+	Amin Sarihi, Peter Jamieson, Ahmad Patooghy, Abdel-Hameed A. Badawy
+
+
++ [Adversarial Imitation Learning from Visual Observations using Latent Information](https://arxiv.org//abs/2309.17371)
+
+	Vittorio Giammarino, James Queeney, Ioannis Ch. Paschalidis
+
+
+
 # 2024-05-23
 + [Learning to Transform Dynamically for Better Adversarial Transferability](https://arxiv.org//abs/2405.14077)
 
@@ -76,6 +158,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Nearly Tight Black-Box Auditing of Differentially Private Machine Learning](https://arxiv.org//abs/2405.14106)
 
 	Meenatchi Sundaram Muthu Selva Annamalai, Emiliano De Cristofaro
+
+
++ [Generating camera failures as a class of physics-based adversarial examples](https://arxiv.org//abs/2405.15033)
+
+	Manav Prabhakar, Jwalandhar Girnar, Arpan Kusari
+
+
++ [Universal Robustness via Median Randomized Smoothing for Real-World Super-Resolution](https://arxiv.org//abs/2405.14934)
+
+	Zakariya Chaouai, Mohamed Tamaazousti
 
 
 
