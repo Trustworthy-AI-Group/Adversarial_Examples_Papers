@@ -96,6 +96,11 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 	Wenshuo Ma, Yidong Li, Xiaofeng Jia, Wei Xu
 
 
++ [Enhancing Adversarial Transferability Through Neighborhood Conditional Sampling](https://arxiv.org//abs/2405.16181)
+
+	Chunlin Qiu, Yiheng Duan, Lingchen Zhao, Qian Wang
+
+
 ### Input Transformation-based Attack
 
 + [Improving Transferability of Adversarial Examples with Input Diversity](https://arxiv.org/abs/1803.06978) (CVPR 2019)

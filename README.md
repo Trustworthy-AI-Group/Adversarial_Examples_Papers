@@ -2,6 +2,146 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-05-27
++ [TrojFM: Resource-efficient Backdoor Attacks against Very Large Foundation Models](https://arxiv.org//abs/2405.16783)
+
+	Yuzhou. Nie, Yanting. Wang, Jinyuan. Jia, Michael J. De Lucia, Nathaniel D. Bastian, Wenbo. Guo, Dawn. Song
+
+
++ [Tokenization Matters! Degrading Large Language Models through Challenging Their Tokenization](https://arxiv.org//abs/2405.17067)
+
+	Dixuan Wang, Yanda Li, Junyuan Jiang, Zepeng Ding, Guochao Jiang, Jiaqing Liang, Deqing Yang
+
+
++ [A One-Layer Decoder-Only Transformer is a Two-Layer RNN: With an Application to Certified Robustness](https://arxiv.org//abs/2405.17361)
+
+	Yuhao Zhang, Aws Albarghouthi, Loris D'Antoni
+
+
++ [Exploiting the Layered Intrinsic Dimensionality of Deep Models for Practical Adversarial Training](https://arxiv.org//abs/2405.17130)
+
+	Enes Altinisik, Safa Messaoud, Husrev Taha Sencar, Hassan Sajjad, Sanjay Chawla
+
+
++ [Privacy-Aware Visual Language Models](https://arxiv.org//abs/2405.17423)
+
+	Laurens Samson, Nimrod Barazani, Sennay Ghebreab, Yuki M. Asano
+
+
++ [Anonymization Prompt Learning for Facial Privacy-Preserving Text-to-Image Generation](https://arxiv.org//abs/2405.16895)
+
+	Liang Shi, Jie Zhang, Shiguang Shan
+
+
++ [Adversarial Attacks on Both Face Recognition and Face Anti-spoofing Models](https://arxiv.org//abs/2405.16940)
+
+	Fengfan Zhou, Qianyu Zhou, Xiangtai Li, Xuequan Lu, Lizhuang Ma, Hefei Ling
+
+
++ [Spectral regularization for adversarially-robust representation learning](https://arxiv.org//abs/2405.17181)
+
+	Sheng Yang, Jacob A. Zavatone-Veth, Cengiz Pehlevan
+
+
++ [Safe LoRA: the Silver Lining of Reducing Safety Risks when Fine-tuning Large Language Models](https://arxiv.org//abs/2405.16833)
+
+	Chia-Yi Hsu, Yu-Lin Tsai, Chih-Hsun Lin, Pin-Yu Chen, Chia-Mu Yu, Chun-Ying Huang
+
+
++ [The Uncanny Valley: Exploring Adversarial Robustness from a Flatness Perspective](https://arxiv.org//abs/2405.16918)
+
+	Nils Philipp Walter, Linara Adilova, Jilles Vreeken, Michael Kamp
+
+
++ [OSLO: One-Shot Label-Only Membership Inference Attacks](https://arxiv.org//abs/2405.16978)
+
+	Yuefeng Peng, Jaechul Roh, Subhransu Maji, Amir Houmansadr
+
+
++ [Navigating the Safety Landscape: Measuring Risks in Finetuning Large Language Models](https://arxiv.org//abs/2405.17374)
+
+	ShengYun Peng, Pin-Yu Chen, Matthew Hull, Duen Horng Chau
+
+
+
+# 2024-05-26
++ [Automatic Jailbreaking of the Text-to-Image Generative AI Systems](https://arxiv.org//abs/2405.16567)
+
+	Minseon Kim, Hyomin Lee, Boqing Gong, Huishuai Zhang, Sung Ju Hwang
+
+
++ [Visualizing the Shadows: Unveiling Data Poisoning Behaviors in Federated Learning](https://arxiv.org//abs/2405.16707)
+
+	Xueqing Zhang, Junkai Zhang, Ka-Ho Chow, Juntao Chen, Ying Mao, Mohamed Rahouti, Xiang Li, Yuchen Liu, Wenqi Wei
+
+
++ [Intruding with Words: Towards Understanding Graph Injection Attacks at the Text Level](https://arxiv.org//abs/2405.16405)
+
+	Runlin Lei, Yuwei Hu, Yuchen Ren, Zhewei Wei
+
+
++ [Provably Mitigating Overoptimization in RLHF: Your SFT Loss is Implicitly an Adversarial Regularizer](https://arxiv.org//abs/2405.16436)
+
+	Zhihan Liu, Miao Lu, Shenao Zhang, Boyi Liu, Hongyi Guo, Yingxiang Yang, Jose Blanchet, Zhaoran Wang
+
+
++ [Partial train and isolate, mitigate backdoor attack](https://arxiv.org//abs/2405.16488)
+
+	Yong Li, Han Gao
+
+
++ [Pruning for Robust Concept Erasing in Diffusion Models](https://arxiv.org//abs/2405.16534)
+
+	Tianyun Yang, Juan Cao, Chang Xu
+
+
+# 2024-05-25
++ [Diffusion-Reward Adversarial Imitation Learning](https://arxiv.org//abs/2405.16194)
+
+	Chun-Mao Lai, Hsiang-Chun Wang, Ping-Chun Hsieh, Yu-Chiang Frank Wang, Min-Hung Chen, Shao-Hua Sun
+
+
++ [Breaking the False Sense of Security in Backdoor Defense through Re-Activation Attack](https://arxiv.org//abs/2405.16134)
+
+	Mingli Zhu, Siyuan Liang, Baoyuan Wu
+
+
++ [Enhancing Adversarial Transferability Through Neighborhood Conditional Sampling](https://arxiv.org//abs/2405.16181)
+
+	Chunlin Qiu, Yiheng Duan, Lingchen Zhao, Qian Wang
+
+
++ [Detecting Adversarial Data via Perturbation Forgery](https://arxiv.org//abs/2405.16226)
+
+	Qian Wang, Chen Li, Yuchen Luo, Hefei Ling, Ping Li, Jiazhong Chen, Shijuan Huang, Ning Yu
+
+
++ [Enhancing Consistency-Based Image Generation via Adversarialy-Trained Classification and Energy-Based Discrimination](https://arxiv.org//abs/2405.16260)
+
+	Shelly Golan, Roy Ganz, Michael Elad
+
+
++ [R.A.C.E.: Robust Adversarial Concept Erasure for Secure Text-to-Image Diffusion Model](https://arxiv.org//abs/2405.16341)
+
+	Changhoon Kim, Kyle Min, Yezhou Yang
+
+
++ [Certifying Adapters: Enabling and Enhancing the Certification of Classifier Adversarial Robustness](https://arxiv.org//abs/2405.16036)
+
+	Jieren Deng, Hanbin Hong, Aaron Palmer, Xin Zhou, Jinbo Bi, Kaleel Mahmood, Yuan Hong, Derek Aguiar
+
+
++ [Mitigating Backdoor Attack by Injecting Proactive Defensive Backdoor](https://arxiv.org//abs/2405.16112)
+
+	Shaokui Wei, Hongyuan Zha, Baoyuan Wu
+
+
++ [Layer-Aware Analysis of Catastrophic Overfitting: Revealing the Pseudo-Robust Shortcut Dependency](https://arxiv.org//abs/2405.16262)
+
+	Runqi Lin, Chaojian Yu, Bo Han, Hang Su, Tongliang Liu
+
+
+
 # 2024-05-24
 + [How Does Bayes Error Limit Probabilistic Robust Accuracy](https://arxiv.org//abs/2405.14923)
 
@@ -81,6 +221,31 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Adversarial Imitation Learning from Visual Observations using Latent Information](https://arxiv.org//abs/2309.17371)
 
 	Vittorio Giammarino, James Queeney, Ioannis Ch. Paschalidis
+
+
++ [Evaluating the Adversarial Robustness of Retrieval-Based In-Context Learning for Large Language Models](https://arxiv.org//abs/2405.15984)
+
+	Simon Chi Lok Yu, Jie He, Pasquale Minervini, Jeff Z. Pan
+
+
++ [A Neurosymbolic Framework for Bias Correction in CNNs](https://arxiv.org//abs/2405.15886)
+
+	Parth Padalkar, Natalia Ślusarz, Ekaterina Komendantskaya, Gopal Gupta
+
+
++ [Robust width: A lightweight and certifiable adversarial defense](https://arxiv.org//abs/2405.15971)
+
+	Jonathan Peck, Bart Goossens
+
+
++ [Can Implicit Bias Imply Adversarial Robustness?](https://arxiv.org//abs/2405.15942)
+
+	Hancheng Min, René Vidal
+
+
++ [BadGD: A unified data-centric framework to identify gradient descent vulnerabilities](https://arxiv.org//abs/2405.15979)
+
+	Chi-Hua Wang, Guang Cheng
 
 
 
