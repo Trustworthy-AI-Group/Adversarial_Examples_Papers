@@ -2,6 +2,53 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-05-28
++ [Defending Large Language Models Against Jailbreak Attacks via Layer-specific Editing](https://arxiv.org//abs/2405.18166)
+
+	Wei Zhao, Zhe Li, Yige Li, Ye Zhang, Jun Sun
+
+
++ [Safe Reinforcement Learning in Black-Box Environments via Adaptive Shielding](https://arxiv.org//abs/2405.18180)
+
+	Daniel Bethell, Simos Gerasimou, Radu Calinescu, Calum Imrie
+
+
++ [Rethinking Pruning for Backdoor Mitigation: An Optimization Perspective](https://arxiv.org//abs/2405.17746)
+
+	Nan Li, Haiyang Yu, Ping Yi
+
+
++ [Magnitude-based Neuron Pruning for Backdoor Defens](https://arxiv.org//abs/2405.17750)
+
+	Nan Li, Haoyu Jiang, Ping Yi
+
+
++ [White-box Multimodal Jailbreaks Against Large Vision-Language Models](https://arxiv.org//abs/2405.17894)
+
+	Ruofan Wang, Xingjun Ma, Hanxu Zhou, Chuanjun Ji, Guangnan Ye, Yu-Gang Jiang
+
+
++ [ATM: Adversarial Tuning Multi-agent System Makes a Robust Retrieval-Augmented Generator](https://arxiv.org//abs/2405.18111)
+
+	Junda Zhu, Lingyong Yan, Haibo Shi, Dawei Yin, Lei Sha
+
+
++ [Towards Unified Robustness Against Both Backdoor and Adversarial Attacks](https://arxiv.org//abs/2405.17929)
+
+	Zhenxing Niu, Yuyao Sun, Qiguang Miao, Rong Jin, Gang Hua
+
+
++ [Cross-Context Backdoor Attacks against Graph Prompt Learning](https://arxiv.org//abs/2405.17984)
+
+	Xiaoting Lyu, Yufei Han, Wei Wang, Hangwei Qian, Ivor Tsang, Xiangliang Zhang
+
+
++ [Channel Reciprocity Based Attack Detection for Securing UWB Ranging by Autoencoder](https://arxiv.org//abs/2405.18255)
+
+	Wenlong Gou, Chuanhang Yu, Juntao Ma, Gang Wu, Vladimir Mordachev
+
+
+
 # 2024-05-27
 + [TrojFM: Resource-efficient Backdoor Attacks against Very Large Foundation Models](https://arxiv.org//abs/2405.16783)
 
@@ -61,6 +108,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Navigating the Safety Landscape: Measuring Risks in Finetuning Large Language Models](https://arxiv.org//abs/2405.17374)
 
 	ShengYun Peng, Pin-Yu Chen, Matthew Hull, Duen Horng Chau
+
+
++ [TIMA: Text-Image Mutual Awareness for Balancing Zero-Shot Adversarial Robustness and Generalization Ability](https://arxiv.org//abs/2405.17678)
+
+	Fengji Ma, Li Liu, Hei Victor Cheng
 
 
 
@@ -139,6 +191,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Layer-Aware Analysis of Catastrophic Overfitting: Revealing the Pseudo-Robust Shortcut Dependency](https://arxiv.org//abs/2405.16262)
 
 	Runqi Lin, Chaojian Yu, Bo Han, Hang Su, Tongliang Liu
+
+
++ [Secure Hierarchical Federated Learning in Vehicular Networks Using Dynamic Client Selection and Anomaly Detection](https://arxiv.org//abs/2405.17497)
+
+	M. Saeid HaghighiFard, Sinem Coleri
 
 
 
