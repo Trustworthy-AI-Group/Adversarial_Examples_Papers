@@ -2,6 +2,68 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-05-30
++ [HOLMES: to Detect Adversarial Examples with Multiple Detectors](https://arxiv.org//abs/2405.19956)
+
+	Jing Wen
+
+
++ [Efficient LLM-Jailbreaking by Introducing Visual Modality](https://arxiv.org//abs/2405.20015)
+
+	Zhenxing Niu, Yuyao Sun, Haodong Ren, Haoxuan Ji, Quan Wang, Xiaoke Ma, Gang Hua, Rong Jin
+
+
++ [Context Injection Attacks on Large Language Models](https://arxiv.org//abs/2405.20234)
+
+	Cheng'an Wei, Kai Chen, Yue Zhao, Yujia Gong, Lu Xiang, Shenchen Zhu
+
+
++ [Large Language Model Watermark Stealing With Mixed Integer Programming](https://arxiv.org//abs/2405.19677)
+
+	Zhaoxi Zhang, Xiaomei Zhang, Yanjun Zhang, Leo Yu Zhang, Chao Chen, Shengshan Hu, Asif Gill, Shirui Pan
+
+
++ [AutoBreach: Universal and Adaptive Jailbreaking with Efficient Wordplay-Guided Optimization](https://arxiv.org//abs/2405.19668)
+
+	Jiawei Chen, Xiao Yang, Zhengwei Fang, Yu Tian, Yinpeng Dong, Zhaoxia Yin, Hang Su
+
+
++ [DiffPhysBA: Diffusion-based Physical Backdoor Attack against Person Re-Identification in Real-World](https://arxiv.org//abs/2405.19990)
+
+	Wenli Sun, Xinyang Jiang, Dongsheng Li, Cairong Zhao
+
+
++ [Typography Leads Semantic Diversifying: Amplifying Adversarial Transferability across Multimodal Large Language Models](https://arxiv.org//abs/2405.20090)
+
+	Hao Cheng, Erjia Xiao, Jiahang Cao, Le Yang, Kaidi Xu, Jindong Gu, Renjing Xu
+
+
++ [Unveiling and Mitigating Backdoor Vulnerabilities based on Unlearning Weight Changes and Backdoor Activeness](https://arxiv.org//abs/2405.20291)
+
+	Weilin Lin, Li Liu, Shaokui Wei, Jianze Li, Hui Xiong
+
+
++ [BAN: Detecting Backdoors Activated by Adversarial Neuron Noise](https://arxiv.org//abs/2405.19928)
+
+	Xiaoyun Xu, Zhuoran Liu, Stefanos Koffas, Shujian Yu, Stjepan Picek
+
+
++ [Reconstruction Attacks on Machine Unlearning: Simple Models are Vulnerable](https://arxiv.org//abs/2405.20272)
+
+	Martin Bertran, Shuai Tang, Michael Kearns, Jamie Morgenstern, Aaron Roth, Zhiwei Steven Wu
+
+
++ [Evaluating the Effectiveness and Robustness of Visual Similarity-based Phishing Detection Models](https://arxiv.org//abs/2405.19598)
+
+	Fujiao Ji, Kiho Lee, Hyungjoon Koo, Wenhao You, Euijin Choo, Hyoungshick Kim, Doowon Kim
+
+
++ [Defensive Prompt Patch: A Robust and Interpretable Defense of LLMs against Jailbreak Attacks](https://arxiv.org//abs/2405.20099)
+
+	Chen Xiong, Xiangyu Qi, Pin-Yu Chen, Tsung-Yi Ho
+
+
+
 # 2024-05-29
 + [Leveraging Many-To-Many Relationships for Defending Against Visual-Language Adversarial Attacks](https://arxiv.org//abs/2405.18770)
 
@@ -56,6 +118,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Node Injection Attack Based on Label Propagation Against Graph Neural Network](https://arxiv.org//abs/2405.18824)
 
 	Peican Zhu, Zechen Pan, Keke Tang, Xiaodong Cui, Jinhuan Wang, Qi Xuan
+
+
++ [AI Risk Management Should Incorporate Both Safety and Security](https://arxiv.org//abs/2405.19524)
+
+	Xiangyu Qi, Yangsibo Huang, Yi Zeng, Edoardo Debenedetti, Jonas Geiping, Luxi He, Kaixuan Huang, Udari Madhushani, Vikash Sehwag, Weijia Shi, Boyi Wei, Tinghao Xie, Danqi Chen, Pin-Yu Chen, Jeffrey Ding, Ruoxi Jia, Jiaqi Ma, Arvind Narayanan, Weijie J Su, Mengdi Wang, Chaowei Xiao, Bo Li, Dawn Song, Peter Henderson, Prateek Mittal
+
+
++ [Diffusion Policy Attacker: Crafting Adversarial Attacks for Diffusion-based Policies](https://arxiv.org//abs/2405.19424)
+
+	Yipu Chen, Haotian Xue, Yongxin Chen
 
 
 # 2024-05-28
@@ -369,6 +441,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [BadGD: A unified data-centric framework to identify gradient descent vulnerabilities](https://arxiv.org//abs/2405.15979)
 
 	Chi-Hua Wang, Guang Cheng
+
+
++ [Robustifying Safety-Aligned Large Language Models through Clean Data Curation](https://arxiv.org//abs/2405.19358)
+
+	Xiaoqun Liu, Jiacheng Liang, Muchao Ye, Zhaohan Xi
+
+
++ [ART: Automatic Red-teaming for Text-to-Image Models to Protect Benign Users](https://arxiv.org//abs/2405.19360)
+
+	Guanlin Li, Kangjie Chen, Shudong Zhang, Jie Zhang, Tianwei Zhang
 
 
 
