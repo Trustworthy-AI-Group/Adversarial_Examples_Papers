@@ -2,6 +2,62 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-05-29
++ [Leveraging Many-To-Many Relationships for Defending Against Visual-Language Adversarial Attacks](https://arxiv.org//abs/2405.18770)
+
+	Futa Waseda, Antonio Tejero-de-Pablos
+
+
++ [EntProp: High Entropy Propagation for Improving Accuracy and Robustness](https://arxiv.org//abs/2405.18931)
+
+	Shohei Enomoto
+
+
++ [Verifiably Robust Conformal Prediction](https://arxiv.org//abs/2405.18942)
+
+	Linus Jeary, Tom Kuipers, Mehran Hosseini, Nicola Paoletti
+
+
++ [DiveR-CT: Diversity-enhanced Red Teaming with Relaxing Constraints](https://arxiv.org//abs/2405.19026)
+
+	Andrew Zhao, Quentin Xu, Matthieu Lin, Shenzhi Wang, Yong-jin Liu, Zilong Zheng, Gao Huang
+
+
++ [Convex neural network synthesis for robustness in the 1-norm](https://arxiv.org//abs/2405.19029)
+
+	Ross Drummond, Chris Guiver, Matthew C. Turner
+
+
++ [Efficient Black-box Adversarial Attacks via Bayesian Optimization Guided by a Function Prior](https://arxiv.org//abs/2405.19098)
+
+	Shuyu Cheng, Yibo Miao, Yinpeng Dong, Xiao Yang, Xiao-Shan Gao, Jun Zhu
+
+
++ [Model Agnostic Defense against Adversarial Patch Attacks on Object Detection in Unmanned Aerial Vehicles](https://arxiv.org//abs/2405.19179)
+
+	Saurabh Pathak, Samridha Shrestha, Abdelrahman AlMahmoud
+
+
++ [Robust Entropy Search for Safe Efficient Bayesian Optimization](https://arxiv.org//abs/2405.19059)
+
+	Dorina Weichert, Alexander Kister, Patrick Link, Sebastian Houben, Gunar Ernis
+
+
++ [Voice Jailbreak Attacks Against GPT-4o](https://arxiv.org//abs/2405.19103)
+
+	Xinyue Shen, Yixin Wu, Michael Backes, Yang Zhang
+
+
++ [PermLLM: Private Inference of Large Language Models within 3 Seconds under WAN](https://arxiv.org//abs/2405.18744)
+
+	Fei Zheng, Chaochao Chen, Zhongxuan Han, Xiaolin Zheng
+
+
++ [Node Injection Attack Based on Label Propagation Against Graph Neural Network](https://arxiv.org//abs/2405.18824)
+
+	Peican Zhu, Zechen Pan, Keke Tang, Xiaodong Cui, Jinhuan Wang, Qi Xuan
+
+
 # 2024-05-28
 + [Defending Large Language Models Against Jailbreak Attacks via Layer-specific Editing](https://arxiv.org//abs/2405.18166)
 
@@ -46,6 +102,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Channel Reciprocity Based Attack Detection for Securing UWB Ranging by Autoencoder](https://arxiv.org//abs/2405.18255)
 
 	Wenlong Gou, Chuanhang Yu, Juntao Ma, Gang Wu, Vladimir Mordachev
+
+
++ [Learning diverse attacks on large language models for robust red-teaming and safety tuning](https://arxiv.org//abs/2405.18540)
+
+	Seanie Lee, Minsu Kim, Lynn Cherif, David Dobre, Juho Lee, Sung Ju Hwang, Kenji Kawaguchi, Gauthier Gidel, Yoshua Bengio, Nikolay Malkin, Moksh Jain
+
+
++ [Lazy Safety Alignment for Large Language Models against Harmful Fine-tuning](https://arxiv.org//abs/2405.18641)
+
+	Tiansheng Huang, Sihao Hu, Fatih Ilhan, Selim Furkan Tekin, Ling Liu
 
 
 
