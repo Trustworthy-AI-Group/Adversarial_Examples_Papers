@@ -2,6 +2,47 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-06-04
++ [Certifiably Byzantine-Robust Federated Conformal Prediction](https://arxiv.org//abs/2406.01960)
+
+	Mintong Kang, Zhen Lin, Jimeng Sun, Cao Xiao, Bo Li
+
+
++ [CR-UTP: Certified Robustness against Universal Text Perturbations](https://arxiv.org//abs/2406.01873)
+
+	Qian Lou, Xin Liang, Jiaqi Xue, Yancheng Zhang, Rui Xie, Mengxin Zheng
+
+
++ [QROA: A Black-Box Query-Response Optimization Attack on LLMs](https://arxiv.org//abs/2406.02044)
+
+	Hussein Jawad, Nicolas J.-B. BRUNEL (LaMME)
+
+
++ [MoLA: Motion Generation and Editing with Latent Diffusion Enhanced by Adversarial Training](https://arxiv.org//abs/2406.01867)
+
+	Kengo Uchida, Takashi Shibuya, Yuhta Takida, Naoki Murata, Shusuke Takahashi, Yuki Mitsufuji
+
+
++ [SVASTIN: Sparse Video Adversarial Attack via Spatio-Temporal Invertible Neural Networks](https://arxiv.org//abs/2406.01894)
+
+	Yi Pan, Jun-Jie Huang, Zihan Chen, Wentao Zhao, Ziyue Wang
+
+
++ [Advancing Generalized Transfer Attack with Initialization Derived Bilevel Optimization and Dynamic Sequence Truncation](https://arxiv.org//abs/2406.02064)
+
+	Yaohua Liu, Jiaxin Gao, Xuan Liu, Xianghao Jiao, Xin Fan, Risheng Liu
+
+
++ [Effects of Exponential Gaussian Distribution on (Double Sampling) Randomized Smoothing](https://arxiv.org//abs/2406.02309)
+
+	Youwei Shu, Xi Xiao, Derui Wang, Yuxin Cao, Siji Chen, Jason Xue, Linyi Li, Bo Li
+
+
++ [Ai-Sampler: Adversarial Learning of Markov kernels with involutive maps](https://arxiv.org//abs/2406.02490)
+
+	Evgenii Egorov, Ricardo Valperga, Efstratios Gavves
+
+
 # 2024-06-03
 + [BadRAG: Identifying Vulnerabilities in Retrieval Augmented Generation of Large Language Models](https://arxiv.org//abs/2406.00083)
 
@@ -63,6 +104,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Fang Yu, Ya-Yu Chi, Yu-Fang Chen
 
 
++ [Reproducibility Study on Adversarial Attacks Against Robust Transformer Trackers](https://arxiv.org//abs/2406.01765)
+
+	Fatemeh Nourilenjan Nokabadi, Jean-François Lalonde, Christian Gagné
+
+
++ [Model for Peanuts: Hijacking ML Models without Training Access is Possible](https://arxiv.org//abs/2406.01708)
+
+	Mahmoud Ghorbel, Halima Bouzidi, Ioan Marius Bilasco, Ihsen Alouani
+
+
 
 # 2024-06-02
 + [Stealing Image-to-Image Translation Models With a Single Query](https://arxiv.org//abs/2406.00828)
@@ -83,6 +134,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Constrained Adaptive Attack: Effective Adversarial Attack Against Deep Neural Networks for Tabular Data](https://arxiv.org//abs/2406.00775)
 
 	Thibault Simonetto, Salah Ghamizi, Maxime Cordy
+
+
++ [Teams of LLM Agents can Exploit Zero-Day Vulnerabilities](https://arxiv.org//abs/2406.01637)
+
+	Richard Fang, Rohan Bindu, Akul Gupta, Qiusi Zhan, Daniel Kang
 
 
 # 2024-06-01
