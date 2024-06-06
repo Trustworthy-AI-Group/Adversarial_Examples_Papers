@@ -2,6 +2,48 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-06-05
++ [FREA: Feasibility-Guided Generation of Safety-Critical Scenarios with Reasonable Adversariality](https://arxiv.org//abs/2406.02983)
+
+	Keyu Chen, Yuheng Lei, Hao Cheng, Haoran Wu, Wenchao Sun, Sifa Zheng
+
+
++ [BadAgent: Inserting and Activating Backdoor Attacks in LLM Agents](https://arxiv.org//abs/2406.03007)
+
+	Yifei Wang, Dizhan Xue, Shengjie Zhang, Shengsheng Qian
+
+
++ [DifAttack++: Query-Efficient Black-Box Adversarial Attack via Hierarchical Disentangled Feature Space in Cross Domain](https://arxiv.org//abs/2406.03017)
+
+	Jun Liu, Jiantao Zhou, Jiandian Zeng, Jinyu Tian
+
+
++ [VQUNet: Vector Quantization U-Net for Defending Adversarial Atacks by Regularizing Unwanted Noise](https://arxiv.org//abs/2406.03117)
+
+	Zhixun He, Mukesh Singhal
+
+
++ [ZeroPur: Succinct Training-Free Adversarial Purification](https://arxiv.org//abs/2406.03143)
+
+	Xiuli Bi, Zonglin Yang, Bo Liu, Xiaodong Cun, Chi-Man Pun, Pietro Lio, Bin Xiao
+
+
++ [Are Your Models Still Fair? Fairness Attacks on Graph Neural Networks via Node Injections](https://arxiv.org//abs/2406.03052)
+
+	Zihan Luo, Hong Huang, Yongkang Zhou, Jiping Zhang, Nuo Chen
+
+
++ [Distributional Adversarial Loss](https://arxiv.org//abs/2406.03458)
+
+	Saba Ahmadi, Siddharth Bhandari, Avrim Blum, Chen Dan, Prabhav Jain
+
+
++ [Defending Large Language Models Against Attacks With Residual Stream Activation Analysis](https://arxiv.org//abs/2406.03230)
+
+	Amelia Kawasaki, Andrew Davis, Houssam Abbas
+
+
+
 # 2024-06-04
 + [Certifiably Byzantine-Robust Federated Conformal Prediction](https://arxiv.org//abs/2406.01960)
 
@@ -41,6 +83,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Ai-Sampler: Adversarial Learning of Markov kernels with involutive maps](https://arxiv.org//abs/2406.02490)
 
 	Evgenii Egorov, Ricardo Valperga, Efstratios Gavves
+
+
++ [Auditing Privacy Mechanisms via Label Inference Attacks](https://arxiv.org//abs/2406.02797)
+
+	Róbert István Busa-Fekete, Travis Dick, Claudio Gentile, Andrés Muñoz Medina, Adam Smith, Marika Swanberg
 
 
 # 2024-06-03
@@ -114,6 +161,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Mahmoud Ghorbel, Halima Bouzidi, Ioan Marius Bilasco, Ihsen Alouani
 
 
++ [Safeguarding Large Language Models: A Survey](https://arxiv.org//abs/2406.02622)
+
+	Yi Dong, Ronghui Mu, Yanghao Zhang, Siqi Sun, Tianle Zhang, Changshun Wu, Gaojie Jin, Yi Qi, Jinwei Hu, Jie Meng, Saddek Bensalem, Xiaowei Huang
+
+
++ [Unelicitable Backdoors in Language Models via Cryptographic Transformer Circuits](https://arxiv.org//abs/2406.02619)
+
+	Andis Draguns, Andrew Gritsevskiy, Sumeet Ramesh Motwani, Charlie Rogers-Smith, Jeffrey Ladish, Christian Schroeder de Witt
+
+
 
 # 2024-06-02
 + [Stealing Image-to-Image Translation Models With a Single Query](https://arxiv.org//abs/2406.00828)
@@ -141,10 +198,20 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Richard Fang, Rohan Bindu, Akul Gupta, Qiusi Zhan, Daniel Kang
 
 
++ [A Novel Defense Against Poisoning Attacks on Federated Learning: LayerCAM Augmented with Autoencoder](https://arxiv.org//abs/2406.02605)
+
+	Jingjing Zheng, Xin Yuan, Kai Li, Wei Ni, Eduardo Tovar, Jon Crowcroft
+
+
 # 2024-06-01
 + [Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training](https://arxiv.org//abs/2406.00685)
 
 	Jiacheng Zhang, Feng Liu, Dawei Zhou, Jingfeng Zhang, Tongliang Liu
+
+
++ [Robust Knowledge Distillation Based on Feature Variance Against Backdoored Teacher Model](https://arxiv.org//abs/2406.03409)
+
+	Jinyin Chen, Xiaoming Zhao, Haibin Zheng, Xiao Li, Sheng Xiang, Haifeng Guo
 
 
 
