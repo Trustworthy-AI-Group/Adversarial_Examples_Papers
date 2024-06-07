@@ -2,6 +2,28 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-06-06
++ [Batch-in-Batch: a new adversarial training framework for initial perturbation and sample selection](https://arxiv.org//abs/2406.04070)
+
+	Yinting Wu, Pai Peng, Bo Cai, Le Li
+
+
++ [Improving Alignment and Robustness with Short Circuiting](https://arxiv.org//abs/2406.04313)
+
+	Andy Zou, Long Phan, Justin Wang, Derek Duenas, Maxwell Lin, Maksym Andriushchenko, Rowan Wang, Zico Kolter, Matt Fredrikson, Dan Hendrycks
+
+
++ [Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt](https://arxiv.org//abs/2406.04031)
+
+	Zonghao Ying, Aishan Liu, Tianyuan Zhang, Zhengmin Yu, Siyuan Liang, Xianglong Liu, Dacheng Tao
+
+
++ [AutoJailbreak: Exploring Jailbreak Attacks and Defenses through a Dependency Lens](https://arxiv.org//abs/2406.03805)
+
+	Lin Lu, Hai Yan, Zenghui Yuan, Jiawen Shi, Wenqi Wei, Pin-Yu Chen, Pan Zhou
+
+
+
 # 2024-06-05
 + [FREA: Feasibility-Guided Generation of Safety-Critical Scenarios with Reasonable Adversariality](https://arxiv.org//abs/2406.02983)
 
@@ -41,6 +63,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Defending Large Language Models Against Attacks With Residual Stream Activation Analysis](https://arxiv.org//abs/2406.03230)
 
 	Amelia Kawasaki, Andrew Davis, Houssam Abbas
+
+
++ [Mutual Information Guided Backdoor Mitigation for Pre-trained Encoders](https://arxiv.org//abs/2406.03508)
+
+	Tingxu Han, Weisong Sun, Ziqi Ding, Chunrong Fang, Hanwei Qian, Jiaxun Li, Zhenyu Chen, Xiangyu Zhang
 
 
 
