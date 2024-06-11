@@ -2,6 +2,55 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-06-10
++ [Chain-of-Scrutiny: Detecting Backdoor Attacks for Large Language Models](https://arxiv.org//abs/2406.05948)
+
+	Xi Li, Yusen Zhang, Renze Lou, Chen Wu, Jiaqi Wang
+
++ [Lurking in the shadows: Unveiling Stealthy Backdoor Attacks against Personalized Federated Learning](https://arxiv.org//abs/2406.06207)
+
+	Xiaoting Lyu, Yufei Han, Wei Wang, Jingkai Liu, Yongsheng Zhu, Guangquan Xu, Jiqiang Liu, Xiangliang Zhang
+
+
+
+# 2024-06-09
++ [PSBD: Prediction Shift Uncertainty Unlocks Backdoor Detection](https://arxiv.org//abs/2406.05826)
+
+	Wei Li, Pin-Yu Chen, Sijia Liu, Ren Wang
+
+
++ [Injecting Undetectable Backdoors in Deep Learning and Language Models](https://arxiv.org//abs/2406.05660)
+
+	Alkis Kalavasis, Amin Karbasi, Argyris Oikonomou, Katerina Sotiraki, Grigoris Velegkas, Manolis Zampetakis
+
+
+# 2024-06-08
++ [SelfDefend: LLMs Can Defend Themselves against Jailbreaking in a Practical Manner](https://arxiv.org//abs/2406.05498)
+
+	Xunguang Wang, Daoyuan Wu, Zhenlan Ji, Zongjie Li, Pingchuan Ma, Shuai Wang, Yingjiu Li, Yang Liu, Ning Liu, Juergen Rahmel
+
+
++ [Enhancing Adversarial Transferability via Information Bottleneck Constraints](https://arxiv.org//abs/2406.05531)
+
+	Biqing Qi, Junqi Gao, Jianxing Liu, Ligang Wu, Bowen Zhou
+
+
++ [Exploring Adversarial Robustness of Deep State Space Models](https://arxiv.org//abs/2406.05532)
+
+	Biqing Qi, Yang Luo, Junqi Gao, Pengfei Li, Kai Tian, Zhiyuan Ma, Bowen Zhou
+
+
++ [Perturbation Towards Easy Samples Improves Targeted Adversarial Transferability](https://arxiv.org//abs/2406.05535)
+
+	Junqi Gao, Biqing Qi, Yao Li, Zhichang Guo, Dong Li, Yuming Xing, Dazhi Zhang
+
+
++ [Adversarial flows: A gradient flow characterization of adversarial attacks](https://arxiv.org//abs/2406.05376)
+
+	Lukas Weigand, Tim Roith, Martin Burger
+
+
+
 # 2024-06-07
 + [Sales Whisperer: A Human-Inconspicuous Attack on LLM Brand Recommendations](https://arxiv.org//abs/2406.04755)
 
