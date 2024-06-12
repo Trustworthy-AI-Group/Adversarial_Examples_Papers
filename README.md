@@ -2,6 +2,33 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-06-11
++ [Dual Thinking and Perceptual Analysis of Deep Learning Models using Human Adversarial Examples](https://arxiv.org//abs/2406.06967)
+
+	Kailas Dayanandan, Anand Sinha, Brejesh Lall
+
+
++ [Benchmarking Trustworthiness of Multimodal Large Language Models: A Comprehensive Study](https://arxiv.org//abs/2406.07057)
+
+	Yichi Zhang, Yao Huang, Yitong Sun, Chang Liu, Zhe Zhao, Zhengwei Fang, Yifan Wang, Huanran Chen, Xiao Yang, Xingxing Wei, Hang Su, Yinpeng Dong, Jun Zhu
+
+
++ [Merging Improves Self-Critique Against Jailbreak Attacks](https://arxiv.org//abs/2406.07188)
+
+	Victor Gallego
+
+
++ [AudioMarkBench: Benchmarking Robustness of Audio Watermarking](https://arxiv.org//abs/2406.06979)
+
+	Hongbin Liu, Moyang Guo, Zhengyuan Jiang, Lun Wang, Neil Zhenqiang Gong
+
+
++ [Erasing Radio Frequency Fingerprinting via Active Adversarial Perturbation](https://arxiv.org//abs/2406.07349)
+
+	Zhaoyi Lu, Wenchao Xu, Ming Tu, Xin Xie, Cunqing Hua, Nan Cheng
+
+
+
 # 2024-06-10
 + [Chain-of-Scrutiny: Detecting Backdoor Attacks for Large Language Models](https://arxiv.org//abs/2406.05948)
 
@@ -10,6 +37,21 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Lurking in the shadows: Unveiling Stealthy Backdoor Attacks against Personalized Federated Learning](https://arxiv.org//abs/2406.06207)
 
 	Xiaoting Lyu, Yufei Han, Wei Wang, Jingkai Liu, Yongsheng Zhu, Guangquan Xu, Jiqiang Liu, Xiangliang Zhang
+
+
++ [Reinforced Compressive Neural Architecture Search for Versatile Adversarial Robustness](https://arxiv.org//abs/2406.06792)
+
+	Dingrong Wang, Hitesh Sapkota, Zhiqiang Tao, Qi Yu
+
+
++ [An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection](https://arxiv.org//abs/2406.06822)
+
+	Shenao Yan, Shen Wang, Yue Duan, Hanbin Hong, Kiho Lee, Doowon Kim, Yuan Hong
+
+
++ [A Survey of Backdoor Attacks and Defenses on Large Language Models: Implications for Security Measures](https://arxiv.org//abs/2406.06852)
+
+	Shuai Zhao, Meihuizi Jia, Zhongliang Guo, Leilei Gan, Jie Fu, Yichao Feng, Fengjun Pan, Luu Anh Tuan
 
 
 
@@ -70,6 +112,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [The Price of Implicit Bias in Adversarially Robust Generalization](https://arxiv.org//abs/2406.04981)
 
 	Nikolaos Tsilivis, Natalie Frank, Nathan Srebro, Julia Kempe
+
+
++ [Adversarial Tuning: Defending Against Jailbreak Attacks for LLMs](https://arxiv.org//abs/2406.06622)
+
+	Fan Liu, Zhao Xu, Hao Liu
 
 
 
