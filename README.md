@@ -2,6 +2,53 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-06-12
++ [Graph Transductive Defense: a Two-Stage Defense for Graph Membership Inference Attacks](https://arxiv.org//abs/2406.07917)
+
+	Peizhi Niu, Chao Pan, Siheng Chen, Olgica Milenkovic
+
+
++ [Asynchronous Voice Anonymization Using Adversarial Perturbation On Speaker Embedding](https://arxiv.org//abs/2406.08200)
+
+	Rui Wang, Liping Chen, Kong AiK Lee, Zhen-Hua Ling
+
+
++ [Adversarial Evasion Attack Efficiency against Large Language Models](https://arxiv.org//abs/2406.08050)
+
+	João Vitorino, Eva Maia, Isabel Praça
+
+
++ [Are Objective Explanatory Evaluation metrics Trustworthy? An Adversarial Analysis](https://arxiv.org//abs/2406.07820)
+
+	Prithwijit Chowdhury, Mohit Prabhushankar, Ghassan AlRegib, Mohamed Deriche
+
+
++ [Adversarial Patch for 3D Local Feature Extractor](https://arxiv.org//abs/2406.08102)
+
+	Yu Wen Pao, Li Chang Lai, Hong-Yi Lin
+
+
++ [Transformation-Dependent Adversarial Attacks](https://arxiv.org//abs/2406.08443)
+
+	Yaoteng Tan, Zikui Cai, M. Salman Asif
+
+
++ [On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models](https://arxiv.org//abs/2406.08486)
+
+	Hashmat Shadab Malik, Numan Saeed, Asif Hanif, Muzammal Naseer, Mohammad Yaqub, Salman Khan, Fahad Shahbaz Khan
+
+
++ [RRLS : Robust Reinforcement Learning Suite](https://arxiv.org//abs/2406.08406)
+
+	Adil Zouitine, David Bertoin, Pierre Clavier, Matthieu Geist, Emmanuel Rachelson
+
+
++ [Genetic Column Generation for Computing Lower Bounds for Adversarial Classification](https://arxiv.org//abs/2406.08331)
+
+	Maximilian Penka
+
+
+
 # 2024-06-11
 + [Dual Thinking and Perceptual Analysis of Deep Learning Models using Human Adversarial Examples](https://arxiv.org//abs/2406.06967)
 
@@ -26,6 +73,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Erasing Radio Frequency Fingerprinting via Active Adversarial Perturbation](https://arxiv.org//abs/2406.07349)
 
 	Zhaoyi Lu, Wenchao Xu, Ming Tu, Xin Xie, Cunqing Hua, Nan Cheng
+
+
++ [Out-Of-Context Prompting Boosts Fairness and Robustness in Large Language Model Predictions](https://arxiv.org//abs/2406.07685)
+
+	Leonardo Cotta, Chris J. Maddison
+
+
++ [Adversarial Machine Unlearning](https://arxiv.org//abs/2406.07687)
+
+	Zonglin Di, Sixie Yu, Yevgeniy Vorobeychik, Yang Liu
 
 
 
@@ -64,6 +121,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Injecting Undetectable Backdoors in Deep Learning and Language Models](https://arxiv.org//abs/2406.05660)
 
 	Alkis Kalavasis, Amin Karbasi, Argyris Oikonomou, Katerina Sotiraki, Grigoris Velegkas, Manolis Zampetakis
+
+
++ [DMS: Addressing Information Loss with More Steps for Pragmatic Adversarial Attacks](https://arxiv.org//abs/2406.07580)
+
+	Zhiyu Zhu, Jiayu Zhang, Xinyi Wang, Zhibo Jin, Huaming Chen
 
 
 # 2024-06-08
