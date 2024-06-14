@@ -48,6 +48,51 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Maximilian Penka
 
 
++ [Graph Transductive Defense: a Two-Stage Defense for Graph Membership Inference Attacks](https://arxiv.org//abs/2406.07917)
+
+	Peizhi Niu, Chao Pan, Siheng Chen, Olgica Milenkovic
+
+
++ [Adversarial Evasion Attack Efficiency against Large Language Models](https://arxiv.org//abs/2406.08050)
+
+	João Vitorino, Eva Maia, Isabel Praça
+
+
++ [Are Objective Explanatory Evaluation metrics Trustworthy? An Adversarial Analysis](https://arxiv.org//abs/2406.07820)
+
+	Prithwijit Chowdhury, Mohit Prabhushankar, Ghassan AlRegib, Mohamed Deriche
+
+
++ [Adversarial Patch for 3D Local Feature Extractor](https://arxiv.org//abs/2406.08102)
+
+	Yu Wen Pao, Li Chang Lai, Hong-Yi Lin
+
+
++ [AdaNCA: Neural Cellular Automata As Adaptors For More Robust Vision Transformer](https://arxiv.org//abs/2406.08298)
+
+	Yitao Xu, Tong Zhang, Sabine Süsstrunk
+
+
++ [Transformation-Dependent Adversarial Attacks](https://arxiv.org//abs/2406.08443)
+
+	Yaoteng Tan, Zikui Cai, M. Salman Asif
+
+
++ [On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models](https://arxiv.org//abs/2406.08486)
+
+	Hashmat Shadab Malik, Numan Saeed, Asif Hanif, Muzammal Naseer, Mohammad Yaqub, Salman Khan, Fahad Shahbaz Khan
+
+
++ [Genetic Column Generation for Computing Lower Bounds for Adversarial Classification](https://arxiv.org//abs/2406.08331)
+
+	Maximilian Penka
+
+
++ [Unique Security and Privacy Threats of Large Language Model: A Comprehensive Survey](https://arxiv.org//abs/2406.07973)
+
+	Shang Wang, Tianqing Zhu, Bo Liu, Ding Ming, Xu Guo, Dayong Ye, Wanlei Zhou
+
+
 
 # 2024-06-11
 + [Dual Thinking and Perceptual Analysis of Deep Learning Models using Human Adversarial Examples](https://arxiv.org//abs/2406.06967)
@@ -73,6 +118,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Erasing Radio Frequency Fingerprinting via Active Adversarial Perturbation](https://arxiv.org//abs/2406.07349)
 
 	Zhaoyi Lu, Wenchao Xu, Ming Tu, Xin Xie, Cunqing Hua, Nan Cheng
+
+
++ [Out-Of-Context Prompting Boosts Fairness and Robustness in Large Language Model Predictions](https://arxiv.org//abs/2406.07685)
+
+	Leonardo Cotta, Chris J. Maddison
+
+
++ [Adversarial Machine Unlearning](https://arxiv.org//abs/2406.07687)
+
+	Zonglin Di, Sixie Yu, Yevgeniy Vorobeychik, Yang Liu
 
 
 + [Out-Of-Context Prompting Boosts Fairness and Robustness in Large Language Model Predictions](https://arxiv.org//abs/2406.07685)
@@ -121,6 +176,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Injecting Undetectable Backdoors in Deep Learning and Language Models](https://arxiv.org//abs/2406.05660)
 
 	Alkis Kalavasis, Amin Karbasi, Argyris Oikonomou, Katerina Sotiraki, Grigoris Velegkas, Manolis Zampetakis
+
+
++ [DMS: Addressing Information Loss with More Steps for Pragmatic Adversarial Attacks](https://arxiv.org//abs/2406.07580)
+
+	Zhiyu Zhu, Jiayu Zhang, Xinyi Wang, Zhibo Jin, Huaming Chen
+
+
++ [Artificial Intelligence as the New Hacker: Developing Agents for Offensive Security](https://arxiv.org//abs/2406.07561)
+
+	Leroy Jacob Valencia
 
 
 + [DMS: Addressing Information Loss with More Steps for Pragmatic Adversarial Attacks](https://arxiv.org//abs/2406.07580)
