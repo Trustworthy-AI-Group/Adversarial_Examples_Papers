@@ -2,6 +2,45 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-06-14
++ [Robust Model-Based Reinforcement Learning with an Adversarial Auxiliary Model](https://arxiv.org//abs/2406.09976)
+
+	Siemen Herremans, Ali Anwar, Siegfried Mercelis
+
+
++ [Bag of Lies: Robustness in Continuous Pre-training BERT](https://arxiv.org//abs/2406.09967)
+
+	Ine Gevers, Walter Daelemans
+
+
++ [Robustness-Inspired Defense Against Backdoor Attacks on Graph Neural Networks](https://arxiv.org//abs/2406.09836)
+
+	Zhiwei Zhang, Minhua Lin, Junjie Xu, Zongyu Wu, Enyan Dai, Suhang Wang
+
+
++ [Over-parameterization and Adversarial Robustness in Neural Networks: An Overview and Empirical Analysis](https://arxiv.org//abs/2406.10090)
+
+	Zhang Chen, Luca Demetrio, Srishti Gupta, Xiaoyi Feng, Zhaoqiang Xia, Antonio Emanuele Cinà, Maura Pintor, Luca Oneto, Ambra Demontis, Battista Biggio, Fabio Roli
+
+
++ [Semantic Membership Inference Attack against Large Language Models](https://arxiv.org//abs/2406.10218)
+
+	Hamid Mozaffari, Virendra J. Marathe
+
+
++ [Watch the Watcher! Backdoor Attacks on Security-Enhancing Diffusion Models](https://arxiv.org//abs/2406.09669)
+
+	Changjiang Li, Ren Pang, Bochuan Cao, Jinghui Chen, Fenglong Ma, Shouling Ji, Ting Wang
+
+
+
+# 2024-06-13
++ [Is Diffusion Model Safe? Severe Data Leakage via Gradient-Guided Diffusion Model](https://arxiv.org//abs/2406.09484)
+
+	Jiayang Meng, Tao Huang, Hong Chen, Cuiping Li
+
+
+
 # 2024-06-12
 + [Graph Transductive Defense: a Two-Stage Defense for Graph Membership Inference Attacks](https://arxiv.org//abs/2406.07917)
 
