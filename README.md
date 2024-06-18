@@ -2,6 +2,92 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-06-17
++ [Adversarial Style Augmentation via Large Language Model for Robust Fake News Detection](https://arxiv.org//abs/2406.11260)
+
+	Sungwon Park, Sungwon Han, Meeyoung Cha
+
+
++ [Knowledge-to-Jailbreak: One Knowledge Point Worth One Attack](https://arxiv.org//abs/2406.11682)
+
+	Shangqing Tu, Zhuoran Pan, Wenxuan Wang, Zhexin Zhang, Yuliang Sun, Jifan Yu, Hongning Wang, Lei Hou, Juanzi Li
+
+
++ ["Not Aligned" is Not "Malicious": Being Careful about Hallucinations of Large Language Models' Jailbreak](https://arxiv.org//abs/2406.11668)
+
+	Lingrui Mei, Shenghua Liu, Yiwei Wang, Baolong Bi, Jiayi Mao, Xueqi Cheng
+
+
++ [Harmonizing Feature Maps: A Graph Convolutional Approach for Enhancing Adversarial Robustness](https://arxiv.org//abs/2406.11576)
+
+	Kejia Zhang, Juanjuan Weng, Junwei Wu, Guoqing Yang, Shaozi Li, Zhiming Luo
+
+
++ [A First Physical-World Trajectory Prediction Attack via LiDAR-induced Deceptions in Autonomous Driving](https://arxiv.org//abs/2406.11707)
+
+	Yang Lou, Yi Zhu, Qun Song, Rui Tan, Chunming Qiao, Wei-Bin Lee, Jianping Wang
+
+
++ [Adversaries With Incentives: A Strategic Alternative to Adversarial Robustness](https://arxiv.org//abs/2406.11458)
+
+	Maayan Ehrenberg, Roy Ganz, Nir Rosenfeld
+
+
++ [Obfuscating IoT Device Scanning Activity via Adversarial Example Generation](https://arxiv.org//abs/2406.11515)
+
+	Haocong Li, Yaxin Zhang, Long Cheng, Wenjia Niu, Haining Wang, Qiang Li
+
+
+
+# 2024-06-16
++ [KGPA: Robustness Evaluation for Large Language Models via Cross-Domain Knowledge Graphs](https://arxiv.org//abs/2406.10802)
+
+	Aihua Pei, Zehua Yang, Shunan Zhu, Ruoxi Cheng, Ju Jia, Lina Wang
+
+
++ [Imperceptible Rhythm Backdoor Attacks: Exploring Rhythm Transformation for Embedding Undetectable Vulnerabilities on Speech Recognition](https://arxiv.org//abs/2406.10932)
+
+	Wenhan Yao, Jiangkun Yang, Yongqiang He, Jia Liu, Weiping Wen
+
+
++ [RUPBench: Benchmarking Reasoning Under Perturbations for Robustness Evaluation in Large Language Models](https://arxiv.org//abs/2406.11020)
+
+	Yuqing Wang, Yun Zhao
+
+
++ [Imperceptible Face Forgery Attack via Adversarial Semantic Mask](https://arxiv.org//abs/2406.10887)
+
+	Decheng Liu, Qixuan Su, Chunlei Peng, Nannan Wang, Xinbo Gao
+
+
++ [Improving Adversarial Robustness via Decoupled Visual Representation Masking](https://arxiv.org//abs/2406.10933)
+
+	Decheng Liu, Tao Chen, Chunlei Peng, Nannan Wang, Ruimin Hu, Xinbo Gao
+
+
+
+# 2024-06-15
++ [Graph Neural Backdoor: Fundamentals, Methodologies, Applications, and Future Directions](https://arxiv.org//abs/2406.10573)
+
+	Xiao Yang, Gaolei Li, Jianhua Li
+
+
++ [Emerging Safety Attack and Defense in Federated Instruction Tuning of Large Language Models](https://arxiv.org//abs/2406.10630)
+
+	Rui Ye, Jingyi Chai, Xiangrui Liu, Yaodong Yang, Yanfeng Wang, Siheng Chen
+
+
++ [Trading Devil: Robust backdoor attack via Stochastic investment models and Bayesian approach](https://arxiv.org//abs/2406.10719)
+
+	Orson Mengara
+
+
++ [E-SAGE: Explainability-based Defense Against Backdoor Attacks on Graph Neural Networks](https://arxiv.org//abs/2406.10655)
+
+	Dingqiang Yuan, Xiaohua Xu, Lei Yu, Tongchang Han, Rongchang Li, Meng Han
+
+
+
 # 2024-06-14
 + [Robust Model-Based Reinforcement Learning with an Adversarial Auxiliary Model](https://arxiv.org//abs/2406.09976)
 
@@ -31,6 +117,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Watch the Watcher! Backdoor Attacks on Security-Enhancing Diffusion Models](https://arxiv.org//abs/2406.09669)
 
 	Changjiang Li, Ren Pang, Bochuan Cao, Jinghui Chen, Fenglong Ma, Shouling Ji, Ting Wang
+
+
++ [PRISM: A Design Framework for Open-Source Foundation Model Safety](https://arxiv.org//abs/2406.10415)
+
+	Terrence Neumann, Bryan Jones
+
+
++ [Adaptive Randomized Smoothing: Certifying Multi-Step Defences against Adversarial Examples](https://arxiv.org//abs/2406.10427)
+
+	Saiyue Lyu, Shadab Shaikh, Frederick Shpilevskiy, Evan Shelhamer, Mathias Lécuyer
 
 
 
@@ -130,6 +226,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Unique Security and Privacy Threats of Large Language Model: A Comprehensive Survey](https://arxiv.org//abs/2406.07973)
 
 	Shang Wang, Tianqing Zhu, Bo Liu, Ding Ming, Xu Guo, Dayong Ye, Wanlei Zhou
+
+
++ [I Don't Know You, But I Can Catch You: Real-Time Defense against Diverse Adversarial Patches for Object Detectors](https://arxiv.org//abs/2406.10285)
+
+	Zijin Lin, Yue Zhao, Kai Chen, Jinwen He
+
+
++ [Transferable Embedding Inversion Attack: Uncovering Privacy Risks in Text Embeddings without Model Queries](https://arxiv.org//abs/2406.10280)
+
+	Yu-Hsiang Huang, Yuche Tsai, Hsiang Hsiao, Hong-Yi Lin, Shou-De Lin
 
 
 
