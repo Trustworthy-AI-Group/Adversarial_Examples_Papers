@@ -2,6 +2,127 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-06-20
++ [Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric Perspective](https://arxiv.org//abs/2406.14023)
+
+	Yuchen Wen, Keping Bi, Wei Chen, Jiafeng Guo, Xueqi Cheng
+
+
++ [Enhancing robustness of data-driven SHM models: adversarial training with circle loss](https://arxiv.org//abs/2406.14232)
+
+	Xiangli Yang, Xijie Deng, Hanwei Zhang, Yang Zou, Jianxi Yang
+
+
++ [ObscurePrompt: Jailbreaking Large Language Models via Obscure Input](https://arxiv.org//abs/2406.13662)
+
+	Yue Huang, Jingyu Tang, Dongping Chen, Bingda Tang, Yao Wan, Lichao Sun, Xiangliang Zhang
+
+
++ [MEAT: Median-Ensemble Adversarial Training for Improving Robustness and Generalization](https://arxiv.org//abs/2406.14259)
+
+	Zhaozhe Hu, Jia-Li Yin, Bin Chen, Luojun Lin, Bo-Hao Chen, Ximeng Liu
+
+
++ [Explainable AI Security: Exploring Robustness of Graph Neural Networks to Adversarial Attacks](https://arxiv.org//abs/2406.13920)
+
+	Tao Wu, Canyixing Cui, Xingping Xian, Shaojie Qiao, Chao Wang, Lin Yuan, Shui Yu
+
+
++ [Defending Against Sophisticated Poisoning Attacks with RL-based Aggregation in Federated Learning](https://arxiv.org//abs/2406.14217)
+
+	Yujing Wang, Hainan Zhang, Sijia Wen, Wangjie Qiu, Binghui Guo
+
+
++ [Adaptive Adversarial Cross-Entropy Loss for Sharpness-Aware Minimization](https://arxiv.org//abs/2406.14329)
+
+	Tanapat Ratchatorn, Masayuki Tanaka
+
+
+
+# 2024-06-19
++ [AGSOA:Graph Neural Network Targeted Attack Based on Average Gradient and Structure Optimization](https://arxiv.org//abs/2406.13228)
+
+	Yang Chen, Bin Zhou
+
+
++ [Bayes' capacity as a measure for reconstruction attacks in federated learning](https://arxiv.org//abs/2406.13569)
+
+	Sayan Biswas, Mark Dras, Pedro Faustini, Natasha Fernandes, Annabelle McIver, Catuscia Palamidessi, Parastoo Sadeghi
+
+
++ [Towards Trustworthy Unsupervised Domain Adaptation: A Representation Learning Perspective for Enhancing Robustness, Discrimination, and Generalization](https://arxiv.org//abs/2406.13180)
+
+	Jia-Li Yin, Haoyuan Zheng, Ximeng Liu
+
+
++ [Benchmarking Unsupervised Online IDS for Masquerade Attacks in CAN](https://arxiv.org//abs/2406.13778)
+
+	Pablo Moriano, Steven C. Hespeler, Mingyan Li, Robert A. Bridges
+
+
+
+# 2024-06-18
++ [CleanGen: Mitigating Backdoor Attacks for Generation Tasks in Large Language Models](https://arxiv.org//abs/2406.12257)
+
+	Yuetai Li, Zhangchen Xu, Fengqing Jiang, Luyao Niu, Dinuka Sahabandu, Bhaskar Ramasubramanian, Radha Poovendran
+
+
++ [Adversarial Attacks on Large Language Models in Medicine](https://arxiv.org//abs/2406.12259)
+
+	Yifan Yang, Qiao Jin, Furong Huang, Zhiyong Lu
+
+
++ [Stealth edits for provably fixing or attacking large language models](https://arxiv.org//abs/2406.12670)
+
+	Oliver J. Sutton, Qinghua Zhou, Wei Wang, Desmond J. Higham, Alexander N. Gorban, Alexander Bastounis, Ivan Y. Tyukin
+
+
++ [UIFV: Data Reconstruction Attack in Vertical Federated Learning](https://arxiv.org//abs/2406.12588)
+
+	Jirui Yang, Peng Chen, Zhihui Lu, Qiang Duan, Yubing Bao
+
+
++ [Can Go AIs be adversarially robust?](https://arxiv.org//abs/2406.12843)
+
+	Tom Tseng, Euan McLean, Kellin Pelrine, Tony T. Wang, Adam Gleave
+
+
++ [ToxiCloakCN: Evaluating Robustness of Offensive Language Detection in Chinese with Cloaking Perturbations](https://arxiv.org//abs/2406.12223)
+
+	Yunze Xiao, Yujia Hu, Kenny Tsu Wei Choo, Roy Ka-wei Lee
+
+
++ [Defending Against Social Engineering Attacks in the Age of LLMs](https://arxiv.org//abs/2406.12263)
+
+	Lin Ai, Tharindu Kumarage, Amrita Bhattacharjee, Zizhou Liu, Zheng Hui, Michael Davinroy, James Cook, Laura Cassani, Kirill Trapeznikov, Matthias Kirchner, Arslan Basharat, Anthony Hoogs, Joshua Garland, Huan Liu, Julia Hirschberg
+
+
++ [Adversarial Attacks on Multimodal Agents](https://arxiv.org//abs/2406.12814)
+
+	Chen Henry Wu, Jing Yu Koh, Ruslan Salakhutdinov, Daniel Fried, Aditi Raghunathan
+
+
++ [Attack and Defense of Deep Learning Models in the Field of Web Attack Detection](https://arxiv.org//abs/2406.12605)
+
+	Lijia Shi, Shihao Dong
+
+
++ [MaskPure: Improving Defense Against Text Adversaries with Stochastic Purification](https://arxiv.org//abs/2406.13066)
+
+	Harrison Gietz, Jugal Kalita
+
+
++ [NoiSec: Harnessing Noise for Security against Adversarial and Backdoor Attacks](https://arxiv.org//abs/2406.13073)
+
+	Md Hasan Shahriar, Ning Wang, Y. Thomas Hou, Wenjing Lou
+
+
++ [DLP: towards active defense against backdoor attacks with decoupled learning process](https://arxiv.org//abs/2406.13098)
+
+	Zonghao Ying, Bin Wu
+
+
+
 # 2024-06-17
 + [Adversarial Style Augmentation via Large Language Model for Robust Fake News Detection](https://arxiv.org//abs/2406.11260)
 
@@ -36,6 +157,21 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Obfuscating IoT Device Scanning Activity via Adversarial Example Generation](https://arxiv.org//abs/2406.11515)
 
 	Haocong Li, Yaxin Zhang, Long Cheng, Wenjia Niu, Haining Wang, Qiang Li
+
+
++ [Is poisoning a real threat to LLM alignment? Maybe more so than you think](https://arxiv.org//abs/2406.12091)
+
+	Pankayaraj Pathmanathan, Souradip Chakraborty, Xiangyu Liu, Yongyuan Liang, Furong Huang
+
+
++ [Adversarial Perturbations Cannot Reliably Protect Artists From Generative AI](https://arxiv.org//abs/2406.12027)
+
+	Robert Hönig, Javier Rando, Nicholas Carlini, Florian Tramèr
+
+
++ [ChatBug: A Common Vulnerability of Aligned LLMs Induced by Chat Templates](https://arxiv.org//abs/2406.12935)
+
+	Fengqing Jiang, Zhangchen Xu, Luyao Niu, Bill Yuchen Lin, Radha Poovendran
 
 
 
