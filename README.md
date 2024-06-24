@@ -2,6 +2,18 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-06-21
++ [From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking](https://arxiv.org//abs/2406.14859)
+
+	Siyuan Wang, Zhuohan Long, Zhihao Fan, Zhongyu Wei
+
+
++ [Contextual Interaction via Primitive-based Adversarial Training For Compositional Zero-shot Learning](https://arxiv.org//abs/2406.14962)
+
+	Suyi Li, Chenyi Jiang, Shidong Wang, Yang Long, Zheng Zhang, Haofeng Zhang
+
+
+
 # 2024-06-20
 + [Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric Perspective](https://arxiv.org//abs/2406.14023)
 
@@ -36,6 +48,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Adaptive Adversarial Cross-Entropy Loss for Sharpness-Aware Minimization](https://arxiv.org//abs/2406.14329)
 
 	Tanapat Ratchatorn, Masayuki Tanaka
+
+
++ [Adversaries Can Misuse Combinations of Safe Models](https://arxiv.org//abs/2406.14595)
+
+	Erik Jones, Anca Dragan, Jacob Steinhardt
 
 
 
