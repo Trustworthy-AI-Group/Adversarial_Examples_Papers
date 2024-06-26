@@ -2,6 +2,23 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-06-25
++ [Machine Unlearning Fails to Remove Data Poisoning Attacks](https://arxiv.org//abs/2406.17216)
+
+	Martin Pawelczyk, Jimmy Z. Di, Yiwei Lu, Gautam Kamath, Ayush Sekhari, Seth Neel
+
+
++ [Diffusion-based Adversarial Purification for Intrusion Detection](https://arxiv.org//abs/2406.17606)
+
+	Mohamed Amine Merzouk, Erwan Beurier, Reda Yaich, Nora Boulahia-Cuppens, Frédéric Cuppens
+
+
++ [A Text is Worth Several Tokens: Text Embedding from LLMs Secretly Aligns Well with The Key Tokens](https://arxiv.org//abs/2406.17378)
+
+	Zhijie Nie, Richong Zhang, Zhanyu Wu
+
+
+
 # 2024-06-24
 + [UNICAD: A Unified Approach for Attack Detection, Noise Reduction and Novel Class Identification](https://arxiv.org//abs/2406.16501)
 
@@ -31,6 +48,21 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Noisy Neighbors: Efficient membership inference attacks against LLMs](https://arxiv.org//abs/2406.16565)
 
 	Filippo Galli, Luca Melis, Tommaso Cucinotta
+
+
++ [BEEAR: Embedding-based Adversarial Removal of Safety Backdoors in Instruction-tuned Language Models](https://arxiv.org//abs/2406.17092)
+
+	Yi Zeng, Weiyu Sun, Tran Ngoc Huynh, Dawn Song, Bo Li, Ruoxi Jia
+
+
++ [Evaluating the Quality of Hallucination Benchmarks for Large Vision-Language Models](https://arxiv.org//abs/2406.17115)
+
+	Bei Yan, Jie Zhang, Zheng Yuan, Shiguang Shan, Xilin Chen
+
+
++ [Automated Adversarial Discovery for Safety Classifiers](https://arxiv.org//abs/2406.17104)
+
+	Yash Kumar Lal, Preethi Lahoti, Aradhana Sinha, Yao Qin, Ananth Balashankar
 
 
 # 2024-06-23
@@ -64,6 +96,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Federated Adversarial Learning for Robust Autonomous Landing Runway Detection](https://arxiv.org//abs/2406.15925)
 
 	Yi Li, Plamen Angelov, Zhengxin Yu, Alvaro Lopez Pellicer, Neeraj Suri
+
+
++ [Large Language Models for Link Stealing Attacks Against Graph Neural Networks](https://arxiv.org//abs/2406.16963)
+
+	Faqian Guan, Tianqing Zhu, Hui Sun, Wanlei Zhou, Philip S. Yu
 
 
 
