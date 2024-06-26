@@ -2,6 +2,71 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-06-24
++ [UNICAD: A Unified Approach for Attack Detection, Noise Reduction and Novel Class Identification](https://arxiv.org//abs/2406.16501)
+
+	Alvaro Lopez Pellicer, Kittipos Giatgong, Yi Li, Neeraj Suri, Plamen Angelov
+
+
++ [Evaluating the Robustness of Deep-Learning Algorithm-Selection Models by Evolving Adversarial Instances](https://arxiv.org//abs/2406.16609)
+
+	Emma Hart, Quentin Renau, Kevin Sim, Mohamad Alissa
+
+
++ [Adversarial Contrastive Decoding: Boosting Safety Alignment of Large Language Models via Opposite Prompt Optimization](https://arxiv.org//abs/2406.16743)
+
+	Zhengyue Zhao, Xiaoyun Zhang, Kaidi Xu, Xing Hu, Rui Zhang, Zidong Du, Qi Guo, Yunji Chen
+
+
++ [Evaluating and Analyzing Relationship Hallucinations in LVLMs](https://arxiv.org//abs/2406.16449)
+
+	Mingrui Wu, Jiayi Ji, Oucheng Huang, Jiale Li, Yuhang Wu, Xiaoshuai Sun, Rongrong Ji
+
+
++ [Improving robustness to corruptions with multiplicative weight perturbations](https://arxiv.org//abs/2406.16540)
+
+	Trung Trinh, Markus Heinonen, Luigi Acerbi, Samuel Kaski
+
+
++ [Noisy Neighbors: Efficient membership inference attacks against LLMs](https://arxiv.org//abs/2406.16565)
+
+	Filippo Galli, Luca Melis, Tommaso Cucinotta
+
+
+# 2024-06-23
++ [Towards unlocking the mystery of adversarial fragility of neural networks](https://arxiv.org//abs/2406.16200)
+
+	Jingchao Gao, Raghu Mudumbai, Xiaodong Wu, Jirong Yi, Catherine Xu, Hui Xie, Weiyu Xu
+
+
++ [CBPF: Filtering Poisoned Data Based on Composite Backdoor Attack](https://arxiv.org//abs/2406.16125)
+
+	Hanfeng Xia, Haibo Hong, Ruili Wang
+
+
++ [Blind Baselines Beat Membership Inference Attacks for Foundation Models](https://arxiv.org//abs/2406.16201)
+
+	Debeshee Das, Jie Zhang, Florian Tramèr
+
+
+
+# 2024-06-22
++ [Semantic Entropy Probes: Robust and Cheap Hallucination Detection in LLMs](https://arxiv.org//abs/2406.15927)
+
+	Jannik Kossen, Jiatong Han, Muhammed Razzak, Lisa Schut, Shreshth Malik, Yarin Gal
+
+
++ [EmoAttack: Emotion-to-Image Diffusion Models for Emotional Backdoor Generation](https://arxiv.org//abs/2406.15863)
+
+	Tianyu Wei, Shanmin Pang, Qi Guo, Yizhuo Ma, Qing Guo
+
+
++ [Federated Adversarial Learning for Robust Autonomous Landing Runway Detection](https://arxiv.org//abs/2406.15925)
+
+	Yi Li, Plamen Angelov, Zhengxin Yu, Alvaro Lopez Pellicer, Neeraj Suri
+
+
+
 # 2024-06-21
 + [From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking](https://arxiv.org//abs/2406.14859)
 
@@ -11,6 +76,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Contextual Interaction via Primitive-based Adversarial Training For Compositional Zero-shot Learning](https://arxiv.org//abs/2406.14962)
 
 	Suyi Li, Chenyi Jiang, Shidong Wang, Yang Long, Zheng Zhang, Haofeng Zhang
+
+
++ [DataFreeShield: Defending Adversarial Attacks without Training Data](https://arxiv.org//abs/2406.15635)
+
+	Hyeyoon Lee, Kanghyun Choi, Dain Kwon, Sunjong Park, Mayoore Selvarasa Jaiswal, Noseong Park, Jonghyun Choi, Jinho Lee
 
 
 
