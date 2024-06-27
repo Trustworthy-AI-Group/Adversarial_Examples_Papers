@@ -2,6 +2,28 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-06-26
++ [Poisoned LangChain: Jailbreak LLMs by LangChain](https://arxiv.org//abs/2406.18122)
+
+	Ziqiu Wang, Jun Liu, Shengkai Zhang, Yang Yang
+
+
++ [MALSIGHT: Exploring Malicious Source Code and Benign Pseudocode for Iterative Binary Malware Summarization](https://arxiv.org//abs/2406.18379)
+
+	Haolang Lu, Hongrui Peng, Guoshun Nan, Jiaoyang Cui, Cheng Wang, Weifei Jin
+
+
++ [WildTeaming at Scale: From In-the-Wild Jailbreaks to (Adversarially) Safer Language Models](https://arxiv.org//abs/2406.18510)
+
+	Liwei Jiang, Kavel Rao, Seungju Han, Allyson Ettinger, Faeze Brahman, Sachin Kumar, Niloofar Mireshghallah, Ximing Lu, Maarten Sap, Yejin Choi, Nouha Dziri
+
+
++ [SafeAligner: Safety Alignment against Jailbreak Attacks via Response Disparity Guidance](https://arxiv.org//abs/2406.18118)
+
+	Caishuang Huang, Wanxu Zhao, Rui Zheng, Huijie Lv, Shihan Dou, Sixian Li, Xiao Wang, Enyu Zhou, Junjie Ye, Yuming Yang, Tao Gui, Qi Zhang, Xuanjing Huang
+
+
+
 # 2024-06-25
 + [Machine Unlearning Fails to Remove Data Poisoning Attacks](https://arxiv.org//abs/2406.17216)
 
@@ -16,6 +38,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [A Text is Worth Several Tokens: Text Embedding from LLMs Secretly Aligns Well with The Key Tokens](https://arxiv.org//abs/2406.17378)
 
 	Zhijie Nie, Richong Zhang, Zhanyu Wu
+
+
++ [Inherent Challenges of Post-Hoc Membership Inference for Large Language Models](https://arxiv.org//abs/2406.17975)
+
+	Matthieu Meeus, Shubham Jain, Marek Rei, Yves-Alexandre de Montjoye
 
 
 
@@ -101,6 +128,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Large Language Models for Link Stealing Attacks Against Graph Neural Networks](https://arxiv.org//abs/2406.16963)
 
 	Faqian Guan, Tianqing Zhu, Hui Sun, Wanlei Zhou, Philip S. Yu
+
+
++ [MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?](https://arxiv.org//abs/2406.17806)
+
+	Xirui Li, Hengguang Zhou, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsieh
 
 
 
