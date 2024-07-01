@@ -2,6 +2,65 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-06-28
++ [Data-Driven Lipschitz Continuity: A Cost-Effective Approach to Improve Adversarial Robustness](https://arxiv.org//abs/2406.19622)
+
+	Erh-Chung Chen, Pin-Yu Chen, I-Hsin Chung, Che-Rung Lee
+
+
++ [Deceptive Diffusion: Generating Synthetic Adversarial Examples](https://arxiv.org//abs/2406.19807)
+
+	Lucas Beerens, Catherine F. Higham, Desmond J. Higham
+
+
++ [Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation](https://arxiv.org//abs/2406.20053)
+
+	Danny Halawi, Alexander Wei, Eric Wallace, Tony T. Wang, Nika Haghtalab, Jacob Steinhardt
+
+
++ [IDT: Dual-Task Adversarial Attacks for Privacy Protection](https://arxiv.org//abs/2406.19642)
+
+	Pedro Faustini, Shakila Mahjabin Tonni, Annabelle McIver, Qiongkai Xu, Mark Dras
+
+
++ [NLPerturbator: Studying the Robustness of Code LLMs to Natural Language Variations](https://arxiv.org//abs/2406.19783)
+
+	Junkai Chen, Zhenhao Li, Xing Hu, Xin Xia
+
+
++ [GM-DF: Generalized Multi-Scenario Deepfake Detection](https://arxiv.org//abs/2406.20078)
+
+	Yingxin Lai, Zitong Yu, Jing Yang, Bin Li, Xiangui Kang, Linlin Shen
+
+
++ [AstMatch: Adversarial Self-training Consistency Framework for Semi-Supervised Medical Image Segmentation](https://arxiv.org//abs/2406.19649)
+
+	Guanghao Zhu, Jing Zhang, Juanxiu Liu, Xiaohui Du, Ruqian Hao, Yong Liu, Lin Liu
+
+
++ [Backdoor Attack in Prompt-Based Continual Learning](https://arxiv.org//abs/2406.19753)
+
+	Trang Nguyen, Anh Tran, Nhat Ho
+
+
++ [Virtual Context: Enhancing Jailbreak Attacks with Special Token Injection](https://arxiv.org//abs/2406.19845)
+
+	Yuqi Zhou, Lin Lu, Hanchi Sun, Pan Zhou, Lichao Sun
+
+
+
+# 2024-06-27
++ [Rethinking harmless refusals when fine-tuning foundation models](https://arxiv.org//abs/2406.19552)
+
+	Florin Pop, Judd Rosenblatt, Diogo Schwerz de Lucena, Michael Vaiana
+
+
++ [Data Poisoning Attacks to Locally Differentially Private Frequent Itemset Mining Protocols](https://arxiv.org//abs/2406.19466)
+
+	Wei Tong, Haoyu Chen, Jiacheng Niu, Sheng Zhong
+
+
+
 # 2024-06-26
 + [Poisoned LangChain: Jailbreak LLMs by LangChain](https://arxiv.org//abs/2406.18122)
 
@@ -276,6 +335,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [DLP: towards active defense against backdoor attacks with decoupled learning process](https://arxiv.org//abs/2406.13098)
 
 	Zonghao Ying, Bin Wu
+
+
++ [Saliency Attention and Semantic Similarity-Driven Adversarial Perturbation](https://arxiv.org//abs/2406.19413)
+
+	Hetvi Waghela, Jaydip Sen, Sneha Rakshit
 
 
 
