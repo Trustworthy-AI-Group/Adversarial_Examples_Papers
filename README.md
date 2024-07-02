@@ -2,6 +2,52 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-07-01
++ [Multi-View Black-Box Physical Attacks on Infrared Pedestrian Detectors Using Adversarial Infrared Grid](https://arxiv.org//abs/2407.01168)
+
+	Kalibinuer Tiliwalidi, Chengyin Hu, Weiwen Shi
+
+
++ [Learning Robust 3D Representation from CLIP via Dual Denoising](https://arxiv.org//abs/2407.00905)
+
+	Shuqing Luo, Bowen Qu, Wei Gao
+
+
++ [Semantic-guided Adversarial Diffusion Model for Self-supervised Shadow Removal](https://arxiv.org//abs/2407.01104)
+
+	Ziqi Zeng, Chen Zhao, Weiling Cai, Chenyu Dong
+
+
++ [Unveiling the Unseen: Exploring Whitebox Membership Inference through the Lens of Explainability](https://arxiv.org//abs/2407.01306)
+
+	Chenxi Li, Abhinav Kumar, Zhen Guo, Jie Hou, Reza Tourani
+
+
+
+# 2024-06-30
++ [Unveiling Glitches: A Deep Dive into Image Encoding Bugs within CLIP](https://arxiv.org//abs/2407.00592)
+
+	Ayush Ranjan, Daniel Wen, Karthik Bhat
+
+
++ [Consistency Purification: Effective and Efficient Diffusion Purification towards Certified Robustness](https://arxiv.org//abs/2407.00623)
+
+	Yiquan Li, Zhongzhu Chen, Kun Jin, Jiongxiao Wang, Bo Li, Chaowei Xiao
+
+
++ [A Whole-Process Certifiably Robust Aggregation Method Against Backdoor Attacks in Federated Learning](https://arxiv.org//abs/2407.00719)
+
+	Anqi Zhou, Yezheng Liu, Yidong Chai, Hongyi Zhu, Xinyue Ge, Yuanchun Jiang, Meng Wang
+
+
+
+# 2024-06-29
++ [Query-Efficient Hard-Label Black-Box Attack against Vision Transformers](https://arxiv.org//abs/2407.00389)
+
+	Chao Zhou, Xiaowen Shi, Yuan-Gen Wang
+
+
+
 # 2024-06-28
 + [Data-Driven Lipschitz Continuity: A Cost-Effective Approach to Improve Adversarial Robustness](https://arxiv.org//abs/2406.19622)
 
@@ -46,6 +92,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Virtual Context: Enhancing Jailbreak Attacks with Special Token Injection](https://arxiv.org//abs/2406.19845)
 
 	Yuqi Zhou, Lin Lu, Hanchi Sun, Pan Zhou, Lichao Sun
+
+
++ [DiffuseDef: Improved Robustness to Adversarial Attacks](https://arxiv.org//abs/2407.00248)
+
+	Zhenhao Li, Marek Rei, Lucia Specia
 
 
 
