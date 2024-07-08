@@ -2,6 +2,127 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-07-05
++ [Controlling Whisper: Universal Acoustic Adversarial Attacks to Control Speech Foundation Models](https://arxiv.org//abs/2407.04482)
+
+	Vyas Raina, Mark Gales
+
+
++ [T2IShield: Defending Against Backdoors on Text-to-Image Diffusion Models](https://arxiv.org//abs/2407.04215)
+
+	Zhongqi Wang, Jie Zhang, Shiguang Shan, Xilin Chen
+
+
++ [Self-Supervised Representation Learning for Adversarial Attack Detection](https://arxiv.org//abs/2407.04382)
+
+	Yi Li, Plamen Angelov, Neeraj Suri
+
+
+
+# 2024-07-04
++ [Adversarial Robustness of VAEs across Intersectional Subgroups](https://arxiv.org//abs/2407.03864)
+
+	Chethan Krishnamurthy Ramanaik, Arjun Roy, Eirini Ntoutsi
+
+
++ [Hallucination Detection: Robustly Discerning Reliable Answers in Large Language Models](https://arxiv.org//abs/2407.04121)
+
+	Yuyan Chen, Qiang Fu, Yichen Yuan, Zhihao Wen, Ge Fan, Dayiheng Liu, Dongmei Zhang, Zhixu Li, Yanghua Xiao
+
+
++ [Securing Multi-turn Conversational Language Models Against Distributed Backdoor Triggers](https://arxiv.org//abs/2407.04151)
+
+	Terry Tong, Jiashu Xu, Qin Liu, Muhao Chen
+
+
++ [Defense Against Syntactic Textual Backdoor Attacks with Token Substitution](https://arxiv.org//abs/2407.04179)
+
+	Xinglin Li, Xianwen He, Yao Li, Minhao Cheng
+
+
++ [DART: Deep Adversarial Automated Red Teaming for LLM Safety](https://arxiv.org//abs/2407.03876)
+
+	Bojian Jiang, Yi Jing, Tianhao Shen, Qing Yang, Deyi Xiong
+
+
++ [TrackPGD: A White-box Attack using Binary Masks against Robust Transformer Trackers](https://arxiv.org//abs/2407.03946)
+
+	Fatemeh Nourilenjan Nokabadi, Yann Batiste Pequignot, Jean-Francois Lalonde, Christian Gagné
+
+
++ [Mitigating Low-Frequency Bias: Feature Recalibration and Frequency Attention Regularization for Adversarial Robustness](https://arxiv.org//abs/2407.04016)
+
+	Kejia Zhang, Juanjuan Weng, Yuanzheng Cai, Zhiming Luo, Shaozi Li
+
+
++ [Future Events as Backdoor Triggers: Investigating Temporal Vulnerabilities in LLMs](https://arxiv.org//abs/2407.04108)
+
+	Sara Price, Arjun Panickssery, Sam Bowman, Asa Cooper Stickland
+
+
+
+# 2024-07-03
++ [Self-Evaluation as a Defense Against Adversarial Attacks on LLMs](https://arxiv.org/abs/2407.03234)
+
+	Hannah Brown, Leon Lin, Kenji Kawaguchi, Michael Shieh
+
+
++ [Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks](https://arxiv.org/abs/2407.02855)
+
+	Zhexin Zhang, Junxiao Yang, Pei Ke, Shiyao Cui, Chujie Zheng, Hongning Wang, Minlie Huang
+
+
++ [JailbreakHunter: A Visual Analytics Approach for Jailbreak Prompts Discovery from Large-Scale Human-LLM Conversational Datasets](https://arxiv.org/abs/2407.03045)
+
+	Zhihua Jin, Shiyi Liu, Haotian Li, Xun Zhao, Huamin Qu
+
+
++ [SPLITZ: Certifiable Robustness via Split Lipschitz Randomized Smoothing](https://arxiv.org/abs/2407.02811)
+
+	Meiyu Zhong, Ravi Tandon
+
+
++ [A Wolf in Sheep's Clothing: Practical Black-box Adversarial Attacks for Evading Learning-based Windows Malware Detection in the Wild](https://arxiv.org/abs/2407.02886)
+
+	Xiang Ling, Zhiyu Wu, Bin Wang, Wei Deng, Jingzheng Wu, Shouling Ji, Tianyue Luo, Yanjun Wu
+
+
++ [Soft Begging: Modular and Efficient Shielding of LLMs against Prompt Injection and Jailbreaking based on Prompt Tuning](https://arxiv.org//abs/2407.03391)
+
+	Simon Ostermann, Kevin Baum, Christoph Endres, Julia Masloh, Patrick Schramowski
+
+
+ 2024-07-02
++ [EvolBA: Evolutionary Boundary Attack under Hard-label Black Box condition](https://arxiv.org/abs/2407.02248)
+
+	Ayane Tajima, Satoshi Ono
+
+
++ [Adversarial Magnification to Deceive Deepfake Detection through Super Resolution](https://arxiv.org/abs/2407.02670)
+
+	Davide Alessandro Coccomini, Roberto Caldelli, Giuseppe Amato, Fabrizio Falchi, Claudio Gennaro
+
+
++ [Parameter Matching Attack: Enhancing Practical Applicability of Availability Attacks](https://arxiv.org/abs/2407.02437)
+
+	Yu Zhe, Jun Sakuma
+
+
++ [Face Reconstruction Transfer Attack as Out-of-Distribution Generalization](https://arxiv.org/abs/2407.02403)
+
+	Yoon Gyo Jung, Jaewoo Park, Xingbo Dong, Hojin Park, Andrew Beng Jin Teoh, Octavia Camps
+
+
++ [Towards More Realistic Extraction Attacks: An Adversarial Perspective](https://arxiv.org/abs/2407.02596)
+
+	Yash More, Prakhar Ganesh, Golnoosh Farnadi
+
+
++ [Is Your AI-Generated Code Really Safe? Evaluating Large Language Models on Secure Code Generation with CodeSecEval](https://arxiv.org//abs/2407.02395)
+
+	Jiexin Wang, Xitong Luo, Liuwen Cao, Hongkui He, Hailin Huang, Jiayuan Xie, Adam Jatowt, Yi Cai
+
+
 # 2024-07-01
 + [Multi-View Black-Box Physical Attacks on Infrared Pedestrian Detectors Using Adversarial Infrared Grid](https://arxiv.org//abs/2407.01168)
 
