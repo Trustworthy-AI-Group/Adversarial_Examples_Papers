@@ -2,6 +2,39 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-07-08
++ [$R^2$-Guard: Robust Reasoning Enabled LLM Guardrail via Knowledge-Enhanced Logical Reasoning](https://arxiv.org//abs/2407.05557)
+
+	Mintong Kang, Bo Li
+
+
++ [KG-FPQ: Evaluating Factuality Hallucination in LLMs with Knowledge Graph-based False Premise Questions](https://arxiv.org//abs/2407.05868)
+
+	Yanxu Zhu, Jinlin Xiao, Yuhang Wang, Jitao Sang
+
+
++ [Active Label Refinement for Robust Training of Imbalanced Medical Image Classification Tasks in the Presence of High Label Noise](https://arxiv.org//abs/2407.05973)
+
+	Bidur Khanal, Tianhong Dai, Binod Bhattarai, Cristian Linte
+
+
+# 2024-07-07
++ [Gradient Diffusion: A Perturbation-Resilient Gradient Leakage Attack](https://arxiv.org//abs/2407.05285)
+
+	Xuan Liu, Siqi Cai, Qihua Zhou, Song Guo, Ruibin Li, Kaiwei Lin
+
+
++ [Evolutionary Trigger Detection and Lightweight Model Repair Based Backdoor Defense](https://arxiv.org//abs/2407.05396)
+
+	Qi Zhou, Zipeng Ye, Yubo Tang, Wenjian Luo, Yuhui Shi, Yan Jia
+
+
+# 2024-07-06
++ [BadCLM: Backdoor Attack in Clinical Language Models for Electronic Health Records](https://arxiv.org//abs/2407.05213)
+
+	Weimin Lyu, Zexin Bi, Fusheng Wang, Chao Chen
+
+
 # 2024-07-05
 + [Controlling Whisper: Universal Acoustic Adversarial Attacks to Control Speech Foundation Models](https://arxiv.org//abs/2407.04482)
 
@@ -16,6 +49,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Self-Supervised Representation Learning for Adversarial Attack Detection](https://arxiv.org//abs/2407.04382)
 
 	Yi Li, Plamen Angelov, Neeraj Suri
+
+
++ [Late Breaking Results: Fortifying Neural Networks: Safeguarding Against Adversarial Attacks with Stochastic Computing](https://arxiv.org//abs/2407.04861)
+
+	Faeze S. Banitaba, Sercan Aygun, M. Hassan Najafi
 
 
 
