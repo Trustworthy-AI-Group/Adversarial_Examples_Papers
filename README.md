@@ -2,6 +2,47 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-07-09
++ [A Hybrid Training-time and Run-time Defense Against Adversarial Attacks in Modulation Classification](https://arxiv.org//abs/2407.06807)
+
+	Lu Zhang, Sangarapillai Lambotharan, Gan Zheng, Guisheng Liao, Ambra Demontis, Fabio Roli
+
+
++ [Robust Neural Information Retrieval: An Adversarial and Out-of-distribution Perspective](https://arxiv.org//abs/2407.06992)
+
+	Yu-An Liu, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Yixing Fan, Xueqi Cheng
+
+
++ [Hiding Local Manipulations on SAR Images: a Counter-Forensic Attack](https://arxiv.org//abs/2407.07041)
+
+	Sara Mandelli, Edoardo Daniele Cannas, Paolo Bestagini, Stefano Tebaldini, Stefano Tubaro
+
+
++ [Universal Multi-view Black-box Attack against Object Detectors via Layout Optimization](https://arxiv.org//abs/2407.06688)
+
+	Donghua Wang, Wen Yao, Tingsong Jiang, Chao Li, Xiaoqian Chen
+
+
++ [Improving the Transferability of Adversarial Examples by Feature Augmentation](https://arxiv.org//abs/2407.06714)
+
+	Donghua Wang, Wen Yao, Tingsong Jiang, Xiaohu Zheng, Junqi Wu, Xiaoqian Chen
+
+
++ [AstroSpy: On detecting Fake Images in Astronomy via Joint Image-Spectral Representations](https://arxiv.org//abs/2407.06817)
+
+	Mohammed Talha Alam, Raza Imam, Mohsen Guizani, Fakhri Karray
+
+
++ [Towards Physics-informed Cyclic Adversarial Multi-PSF Lensless Imaging](https://arxiv.org//abs/2407.06727)
+
+	Abeer Banerjee, Sanjay Singh
+
+
++ [Event Trojan: Asynchronous Event-based Backdoor Attacks](https://arxiv.org//abs/2407.06838)
+
+	Ruofei Wang, Qing Guo, Haoliang Li, Renjie Wan
+
+
 # 2024-07-08
 + [$R^2$-Guard: Robust Reasoning Enabled LLM Guardrail via Knowledge-Enhanced Logical Reasoning](https://arxiv.org//abs/2407.05557)
 
@@ -16,6 +57,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Active Label Refinement for Robust Training of Imbalanced Medical Image Classification Tasks in the Presence of High Label Noise](https://arxiv.org//abs/2407.05973)
 
 	Bidur Khanal, Tianhong Dai, Binod Bhattarai, Cristian Linte
+
+
++ [Enhanced Model Robustness to Input Corruptions by Per-corruption Adaptation of Normalization Statistics](https://arxiv.org//abs/2407.06450)
+
+	Elena Camuffo, Umberto Michieli, Simone Milani, Jijoong Moon, Mete Ozay
+
+
++ [FORAY: Towards Effective Attack Synthesis against Deep Logical Vulnerabilities in DeFi Protocols](https://arxiv.org//abs/2407.06348)
+
+	Hongbo Wen, Hanzhi Liu, Jiaxin Song, Yanju Chen, Wenbo Guo, Yu Feng
 
 
 # 2024-07-07
