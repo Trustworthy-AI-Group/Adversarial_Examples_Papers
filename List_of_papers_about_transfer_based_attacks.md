@@ -96,7 +96,13 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 	Wenshuo Ma, Yidong Li, Xiaofeng Jia, Wei Xu
 
 
-+ [Enhancing Adversarial Transferability Through Neighborhood Conditional Sampling](https://arxiv.org//abs/2405.16181)
++ [Strong Transferable Adversarial Attacks via Ensembled Asymptotically Normal Distribution Learning](https://arxiv.org/abs/2209.11964) (CVPR 2024)
+
+	Zhengwei Fang, Rui Wang, Tao Huang, Liping Jing
+
+
++ [Enhancing Adversarial Transferability Through Neighborhood Conditional Sampling](https://arxiv.org//abs/2405.16181) (arXiv preprint arXiv:2405.16181, 2024)
+
 
 	Chunlin Qiu, Yiheng Duan, Lingchen Zhao, Qian Wang
 
@@ -382,8 +388,6 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 	Juanjuan Weng, Zhiming Luo, Shaozi Li
 
 
-### Ensemble-based Attack
-
 + [Delving into Transferable Adversarial Examples and Black-box Attacks](https://arxiv.org/abs/1611.02770) (ICLR 2017)
 
 	Yanpei Liu, Xinyun Chen, Chang Liu, Dawn Song
@@ -427,6 +431,11 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 + [An Adaptive Model Ensemble Adversarial Attack for Boosting Adversarial Transferability](https://arxiv.org/abs/2308.02897) (ICCV 2023)
 
 	Bin Chen, Jia-Li Yin, Shukai Chen, Bo-Hao Chen, Ximeng Liu
+
+
++ [LRS: Enhancing Adversarial Transferability through Lipschitz Regularized Surrogate](https://arxiv.org/abs/2312.13118) (AAAI 2024)
+
+	Tao Wu, Tie Luo, Donald C. Wunsch
 
 
 ### Generation-based Attack
