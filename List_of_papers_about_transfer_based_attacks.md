@@ -103,7 +103,6 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 
 + [Enhancing Adversarial Transferability Through Neighborhood Conditional Sampling](https://arxiv.org//abs/2405.16181) (arXiv preprint arXiv:2405.16181, 2024)
 
-
 	Chunlin Qiu, Yiheng Duan, Lingchen Zhao, Qian Wang
 
 
@@ -388,6 +387,12 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 	Juanjuan Weng, Zhiming Luo, Shaozi Li
 
 
++ [LRS: Enhancing Adversarial Transferability through Lipschitz Regularized Surrogate](https://arxiv.org/abs/2312.13118) (AAAI 2024)
+
+	Tao Wu, Tie Luo, Donald C. Wunsch
+
+
+### Ensemble-based Attack
 + [Delving into Transferable Adversarial Examples and Black-box Attacks](https://arxiv.org/abs/1611.02770) (ICLR 2017)
 
 	Yanpei Liu, Xinyun Chen, Chang Liu, Dawn Song
@@ -433,9 +438,9 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 	Bin Chen, Jia-Li Yin, Shukai Chen, Bo-Hao Chen, Ximeng Liu
 
 
-+ [LRS: Enhancing Adversarial Transferability through Lipschitz Regularized Surrogate](https://arxiv.org/abs/2312.13118) (AAAI 2024)
++ [Ensemble Diversity Facilitates Adversarial Transferability](https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_Ensemble_Diversity_Facilitates_Adversarial_Transferability_CVPR_2024_paper.pdf) (CVPR 2024)
 
-	Tao Wu, Tie Luo, Donald C. Wunsch
+	Bowen Tang, Zheng Wang, Yi Bin, Qi Dou, Yang Yang, Heng Tao Shen
 
 
 ### Generation-based Attack
@@ -563,6 +568,12 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 + [LFAA: Crafting Transferable Targeted Adversarial Examples with Low-Frequency Perturbations](https://arxiv.org/abs/2310.20175) (ECAI 2023)
 
 	Kunyu Wang, Juluan Shi, Wenxuan Wang
+
+
+# Ensemble-based Attack
++ [Improving Transferable Targeted Adversarial Attacks with Model Self-Enhancement](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Improving_Transferable_Targeted_Adversarial_Attacks_with_Model_Self-Enhancement_CVPR_2024_paper.pdf) (CVPR 2024)
+
+	Han Wu, Guanyan Ou, Weibin Wu, Zibin Zheng
 
 
 ## Survey & Benchmark

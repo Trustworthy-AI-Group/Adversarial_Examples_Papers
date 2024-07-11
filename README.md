@@ -2,6 +2,32 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-07-10
++ [Tuning Vision-Language Models with Candidate Labels by Prompt Alignment](https://arxiv.org//abs/2407.07638)
+
+	Zhifang Zhang, Beibei Li
+
+
++ [Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization](https://arxiv.org//abs/2407.07880)
+
+	Junkang Wu, Yuexiang Xie, Zhengyi Yang, Jiancan Wu, Jiawei Chen, Jinyang Gao, Bolin Ding, Xiang Wang, Xiangnan He
+
+
++ [Flooding Spread of Manipulated Knowledge in LLM-Based Multi-Agent Communities](https://arxiv.org//abs/2407.07791)
+
+	Tianjie Ju, Yiting Wang, Xinbei Ma, Pengzhou Cheng, Haodong Zhao, Yulong Wang, Lifeng Liu, Jian Xie, Zhuosheng Zhang, Gongshen Liu
+
+
++ [Decompose and Compare Consistency: Measuring VLMs' Answer Reliability via Task-Decomposition Consistency Comparison](https://arxiv.org//abs/2407.07840)
+
+	Qian Yang, Weixiang Yan, Aishwarya Agrawal
+
+
++ [Mitigating Backdoor Attacks using Activation-Guided Model Editing](https://arxiv.org//abs/2407.07662)
+
+	Felix Hsieh, Huy H. Nguyen, AprilPyone MaungMaung, Dmitrii Usynin, Isao Echizen
+
+
 # 2024-07-09
 + [A Hybrid Training-time and Run-time Defense Against Adversarial Attacks in Modulation Classification](https://arxiv.org//abs/2407.06807)
 
@@ -41,6 +67,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Event Trojan: Asynchronous Event-based Backdoor Attacks](https://arxiv.org//abs/2407.06838)
 
 	Ruofei Wang, Qing Guo, Haoliang Li, Renjie Wan
+
+
++ [Tracing Back the Malicious Clients in Poisoning Attacks to Federated Learning](https://arxiv.org//abs/2407.07221)
+
+	Yuqi Jia, Minghong Fang, Hongbin Liu, Jinghuai Zhang, Neil Zhenqiang Gong
 
 
 # 2024-07-08
