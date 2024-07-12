@@ -2,6 +2,43 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-07-11
++ [Prediction Exposes Your Face: Black-box Model Inversion via Prediction Alignment](https://arxiv.org//abs/2407.08127)
+
+	Yufan Liu, Wanqian Zhang, Dayan Wu, Zheng Lin, Jingzi Gu, Weiping Wang
+
+
++ [Enhancing Robustness of Vision-Language Models through Orthogonality Learning and Cross-Regularization](https://arxiv.org//abs/2407.08374)
+
+	Jinlong Li, Zequn Jie, Elisa Ricci, Lin Ma, Nicu Sebe
+
+
++ [Rethinking the Threat and Accessibility of Adversarial Attacks against Face Recognition Systems](https://arxiv.org//abs/2407.08514)
+
+	Yuxin Cao, Yumeng Zhu, Derui Wang, Sheng Wen, Minhui Xue, Jin Lu, Hao Ge
+
+
++ [Boosting Adversarial Transferability for Skeleton-based Action Recognition via Exploring the Model Posterior Space](https://arxiv.org//abs/2407.08572)
+
+	Yunfeng Diao, Baiqi Wu, Ruixuan Zhang, Xun Yang, Meng Wang, He Wang
+
+
++ [How to beat a Bayesian adversary](https://arxiv.org//abs/2407.08678)
+
+	Zihan Ding, Kexin Jin, Jonas Latz, Chenguang Liu
+
+
++ [Model-agnostic clean-label backdoor mitigation in cybersecurity environments](https://arxiv.org//abs/2407.08159)
+
+	Giorgio Severi, Simona Boboila, John Holodnak, Kendra Kratkiewicz, Rauf Izmailov, Alina Oprea
+
+
++ [Enhancing Privacy of Spatiotemporal Federated Learning against Gradient Inversion Attacks](https://arxiv.org//abs/2407.08529)
+
+	Lele Zheng, Yang Cao, Renhe Jiang, Kenjiro Taura, Yulong Shen, Sheng Li, Masatoshi Yoshikawa
+
+
+
 # 2024-07-10
 + [Tuning Vision-Language Models with Candidate Labels by Prompt Alignment](https://arxiv.org//abs/2407.07638)
 
@@ -136,6 +173,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Late Breaking Results: Fortifying Neural Networks: Safeguarding Against Adversarial Attacks with Stochastic Computing](https://arxiv.org//abs/2407.04861)
 
 	Faeze S. Banitaba, Sercan Aygun, M. Hassan Najafi
+
+
++ [Non-Cooperative Backdoor Attacks in Federated Learning: A New Threat Landscape](https://arxiv.org//abs/2407.07917)
+
+	Tuan Nguyen, Dung Thuy Nguyen, Khoa D Doan, Kok-Seng Wong
 
 
 
