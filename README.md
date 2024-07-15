@@ -2,6 +2,63 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-07-12
++ [Towards More Trustworthy and Interpretable LLMs for Code through Syntax-Grounded Explanations](https://arxiv.org//abs/2407.08983)
+
+	David N. Palacio, Daniel Rodriguez-Cardenas, Alejandro Velasco, Dipin Khati, Kevin Moran, Denys Poshyvanyk
+
+
++ [Robustness of LLMs to Perturbations in Text](https://arxiv.org//abs/2407.08989)
+
+	Ayush Singh, Navpreet Singh, Shubham Vatsal
+
+
++ [Refusing Safe Prompts for Multi-modal Large Language Models](https://arxiv.org//abs/2407.09050)
+
+	Zedian Shao, Hongbin Liu, Yuepeng Hu, Neil Zhenqiang Gong
+
+
++ [Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training](https://arxiv.org//abs/2407.09121)
+
+	Youliang Yuan, Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Jiahao Xu, Tian Liang, Pinjia He, Zhaopeng Tu
+
+
++ [TAPI: Towards Target-Specific and Adversarial Prompt Injection against Code LLMs](https://arxiv.org//abs/2407.09164)
+
+	Yuchen Yang, Hongwei Yao, Bingrun Yang, Yiling He, Yiming Li, Tianwei Zhang, Zhan Qin, Kui Ren
+
+
++ [Deep Adversarial Defense Against Multilevel-Lp Attacks](https://arxiv.org//abs/2407.09251)
+
+	Ren Wang, Yuxuan Li, Alfred Hero
+
+
++ [Evaluating the Adversarial Robustness of Semantic Segmentation: Trying Harder Pays Off](https://arxiv.org//abs/2407.09150)
+
+	Levente Halmosi, Bálint Mohos, Márk Jelasity
+
+
++ [Distributed Backdoor Attacks on Federated Graph Learning and Certified Defenses](https://arxiv.org//abs/2407.08935)
+
+	Yuxin Yang, Qiang Li, Jinyuan Jia, Yuan Hong, Binghui Wang
+
+
++ [PriRoAgg: Achieving Robust Model Aggregation with Minimum Privacy Leakage for Federated Learning](https://arxiv.org//abs/2407.08954)
+
+	Sizai Hou, Songze Li, Tayyebeh Jahani-Nezhad, Giuseppe Caire
+
+
++ [DeCE: Deceptive Cross-Entropy Loss Designed for Defending Backdoor Attacks](https://arxiv.org//abs/2407.08956)
+
+	Guang Yang, Yu Zhou, Xiang Chen, Xiangyu Zhang, Terry Yue Zhuo, David Lo, Taolue Chen
+
+
++ [CEIPA: Counterfactual Explainable Incremental Prompt Attack Analysis on Large Language Models](https://arxiv.org//abs/2407.09292)
+
+	Dong Shu, Mingyu Jin, Tianle Chen, Chong Zhang, Yongfeng Zhang
+
+
+
 # 2024-07-11
 + [Prediction Exposes Your Face: Black-box Model Inversion via Prediction Alignment](https://arxiv.org//abs/2407.08127)
 
@@ -36,6 +93,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Enhancing Privacy of Spatiotemporal Federated Learning against Gradient Inversion Attacks](https://arxiv.org//abs/2407.08529)
 
 	Lele Zheng, Yang Cao, Renhe Jiang, Kenjiro Taura, Yulong Shen, Sheng Li, Masatoshi Yoshikawa
+
+
++ [A Survey on the Application of Generative Adversarial Networks in Cybersecurity: Prospective, Direction and Open Research Scopes](https://arxiv.org//abs/2407.08839)
+
+	Md Mashrur Arifin, Md Shoaib Ahmed, Tanmai Kumar Ghosh, Jun Zhuang, Jyh-haw Yeh
+
+
++ [Deep Learning for Network Anomaly Detection under Data Contamination: Evaluating Robustness and Mitigating Performance Degradation](https://arxiv.org//abs/2407.08838)
+
+	D'Jeff K. Nkashama, Jordan Masakuna Félicien, Arian Soltani, Jean-Charles Verdier, Pierre-Martin Tardif, Marc Frappier, Froduald Kabanza
 
 
 
