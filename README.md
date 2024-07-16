@@ -2,6 +2,52 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-07-15
++ [Backdoor Attacks against Image-to-Image Networks](https://arxiv.org//abs/2407.10445)
+
+	Wenbo Jiang, Hongwei Li, Jiaming He, Rui Zhang, Guowen Xu, Tianwei Zhang, Rongxing Lu
+
+
++ [Learning to Unlearn for Robust Machine Unlearning](https://arxiv.org//abs/2407.10494)
+
+	Mark He Huang, Lin Geng Foo, Jun Liu
+
+
++ [Wicked Oddities: Selectively Poisoning for Effective Clean-Label Backdoor Attacks](https://arxiv.org//abs/2407.10825)
+
+	Quang H. Nguyen, Nguyen Ngoc-Hieu, The-Anh Ta, Thanh Nguyen-Tang, Hoang Thanh-Tung, Khoa D. Doan
+
+
++ [Provable Robustness of (Graph) Neural Networks Against Data Poisoning and Backdoor Attacks](https://arxiv.org//abs/2407.10867)
+
+	Lukas Gosch, Mahalakshmi Sabanayagam, Debarghya Ghoshdastidar, Stephan Günnemann
+
+
+
+# 2024-07-14
++ [Look Within, Why LLMs Hallucinate: A Causal Perspective](https://arxiv.org//abs/2407.10153)
+
+	He Li, Haoang Chi, Mingyu Liu, Wenjing Yang
+
+
++ [Augmented Neural Fine-Tuning for Efficient Backdoor Purification](https://arxiv.org//abs/2407.10052)
+
+	Nazmul Karim, Abdullah Al Arafat, Umar Khalid, Zhishan Guo, Nazanin Rahnavard
+
+
++ [CLIP-Guided Networks for Transferable Targeted Attacks](https://arxiv.org//abs/2407.10179)
+
+	Hao Fang, Jiawei Kong, Bin Chen, Tao Dai, Hao Wu, Shu-Tao Xia
+
+
+
+# 2024-07-13
++ [Partner in Crime: Boosting Targeted Poisoning Attacks against Federated Learning](https://arxiv.org//abs/2407.09958)
+
+	Shihua Sun, Shridatt Sugrim, Angelos Stavrou, Haining Wang
+
+
+
 # 2024-07-12
 + [Towards More Trustworthy and Interpretable LLMs for Code through Syntax-Grounded Explanations](https://arxiv.org//abs/2407.08983)
 
@@ -56,6 +102,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [CEIPA: Counterfactual Explainable Incremental Prompt Attack Analysis on Large Language Models](https://arxiv.org//abs/2407.09292)
 
 	Dong Shu, Mingyu Jin, Tianle Chen, Chong Zhang, Yongfeng Zhang
+
+
++ [BoBa: Boosting Backdoor Detection through Data Distribution Inference in Federated Learning](https://arxiv.org//abs/2407.09658)
+
+	Ning Wang, Shanghao Shi, Yang Xiao, Yimin Chen, Y. Thomas Hou, Wenjing Lou
 
 
 
