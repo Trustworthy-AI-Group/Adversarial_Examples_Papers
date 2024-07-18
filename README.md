@@ -2,6 +2,43 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-07-17
++ [Turning Generative Models Degenerate: The Power of Data Poisoning Attacks](https://arxiv.org//abs/2407.12281)
+
+	Shuli Jiang, Swanand Ravindra Kadhe, Yi Zhou, Farhan Ahmed, Ling Cai, Nathalie Baracaldo
+
+
++ [Any Target Can be Offense: Adversarial Example Generation via Generalized Latent Infection](https://arxiv.org//abs/2407.12292)
+
+	Youheng Sun, Shengming Yuan, Xuanhan Wang, Lianli Gao, Jingkuan Song
+
+
++ [Benchmarking Robust Self-Supervised Learning Across Diverse Downstream Tasks](https://arxiv.org//abs/2407.12588)
+
+	Antoni Kowalczuk, Jan Dubiński, Atiyeh Ashari Ghomi, Yi Sui, George Stein, Jiapeng Wu, Jesse C. Cresswell, Franziska Boenisch, Adam Dziedzic
+
+
++ [LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models](https://arxiv.org//abs/2407.12772)
+
+	Kaichen Zhang, Bo Li, Peiyuan Zhang, Fanyi Pu, Joshua Adrian Cahyono, Kairui Hu, Shuai Liu, Yuanhan Zhang, Jingkang Yang, Chunyuan Li, Ziwei Liu
+
+
++ [Preventing Catastrophic Overfitting in Fast Adversarial Training: A Bi-level Optimization Perspective](https://arxiv.org//abs/2407.12443)
+
+	Zhaoxin Wang, Handing Wang, Cong Tian, Yaochu Jin
+
+
++ [Contrastive Adversarial Training for Unsupervised Domain Adaptation](https://arxiv.org//abs/2407.12782)
+
+	Jiahong Chen, Zhilin Zhang, Lucy Li, Behzad Shahrasbi, Arjun Mishra
+
+
++ [AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases](https://arxiv.org//abs/2407.12784)
+
+	Zhaorun Chen, Zhen Xiang, Chaowei Xiao, Dawn Song, Bo Li
+
+
+
 # 2024-07-16
 + [EARN Fairness: Explaining, Asking, Reviewing and Negotiating Artificial Intelligence Fairness Metrics Among Stakeholders](https://arxiv.org//abs/2407.11442)
 
@@ -61,6 +98,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Relaxing Graph Transformers for Adversarial Attacks](https://arxiv.org//abs/2407.11764)
 
 	Philipp Foth, Lukas Gosch, Simon Geisler, Leo Schwinn, Stephan Günnemann
+
+
++ [One-Shot Unlearning of Personal Identities](https://arxiv.org//abs/2407.12069)
+
+	Thomas De Min, Subhankar Roy, Massimiliano Mancini, Stéphane Lathuilière, Elisa Ricci
+
+
++ [Generalized Coverage for More Robust Low-Budget Active Learning](https://arxiv.org//abs/2407.12212)
+
+	Wonho Bae, Junhyug Noh, Danica J. Sutherland
 
 
 # 2024-07-15
