@@ -2,6 +2,53 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-07-18
++ [DART-Math: Difficulty-Aware Rejection Tuning for Mathematical Problem-Solving](https://arxiv.org//abs/2407.13690)
+
+	Yuxuan Tong, Xiwen Zhang, Rui Wang, Ruidong Wu, Junxian He
+
+
++ [Visually Robust Adversarial Imitation Learning from Videos with Contrastive Learning](https://arxiv.org//abs/2407.12792)
+
+	Vittorio Giammarino, James Queeney, Ioannis Ch. Paschalidis
+
+
++ [Cross-Task Attack: A Self-Supervision Generative Framework Based on Attention Shift](https://arxiv.org//abs/2407.13700)
+
+	Qingyuan Zeng, Yunpeng Gong, Min Jiang
+
+
++ [Black-Box Opinion Manipulation Attacks to Retrieval-Augmented Generation of Large Language Models](https://arxiv.org//abs/2407.13757)
+
+	Zhuo Chen, Jiawei Liu, Haotan Liu, Qikai Cheng, Fan Zhang, Wei Lu, Xiaozhong Liu
+
+
++ [Unveiling Structural Memorization: Structural Membership Inference Attack for Text-to-Image Diffusion Models](https://arxiv.org//abs/2407.13252)
+
+	Qiao Li, Xiaomeng Fu, Xi Wang, Jin Liu, Xingyu Gao, Jiao Dai, Jizhong Han
+
+
++ [PG-Attack: A Precision-Guided Adversarial Attack Framework Against Vision Foundation Models for Autonomous Driving](https://arxiv.org//abs/2407.13111)
+
+	Jiyuan Fu, Zhaoyu Chen, Kaixun Jiang, Haijing Guo, Shuyong Gao, Wenqiang Zhang
+
+
++ [Krait: A Backdoor Attack Against Graph Prompt Tuning](https://arxiv.org//abs/2407.13068)
+
+	Ying Song, Rita Singh, Balaji Palanisamy
+
+
++ [Motif-Consistent Counterfactuals with Adversarial Refinement for Graph-Level Anomaly Detection](https://arxiv.org//abs/2407.13251)
+
+	Chunjing Xiao, Shikang Pang, Wenxin Tai, Yanlong Huang, Goce Trajcevski, Fan Zhou
+
+
++ [Distributionally and Adversarially Robust Logistic Regression via Intersecting Wasserstein Balls](https://arxiv.org//abs/2407.13625)
+
+	Aras Selvi, Eleonora Kreacic, Mohsen Ghassemi, Vamsi Potluru, Tucker Balch, Manuela Veloso
+
+
+
 # 2024-07-17
 + [Turning Generative Models Degenerate: The Power of Data Poisoning Attacks](https://arxiv.org//abs/2407.12281)
 
