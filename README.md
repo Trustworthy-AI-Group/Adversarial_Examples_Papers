@@ -2,6 +2,50 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-07-23
++ [Figure it Out: Analyzing-based Jailbreak Attack on Large Language Models](https://arxiv.org//abs/2407.16205)
+
+	Shi Lin, Rongchang Li, Xun Wang, Changting Lin, Wenpeng Xing, Meng Han
+
+
++ [RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent](https://arxiv.org//abs/2407.16667)
+
+	Huiyu Xu, Wenhui Zhang, Zhibo Wang, Feng Xiao, Rui Zheng, Yunhe Feng, Zhongjie Ba, Kui Ren
+
+
++ [Can Large Language Models Automatically Jailbreak GPT-4V?](https://arxiv.org//abs/2407.16686)
+
+	Yuanwei Wu, Yue Huang, Yixin Liu, Xiang Li, Pan Zhou, Lichao Sun
+
+
++ [Algebraic Adversarial Attacks on Integrated Gradients](https://arxiv.org//abs/2407.16233)
+
+	Lachlan Simpson, Federico Costanza, Kyle Millar, Adriel Cheng, Cheng-Chew Lim, Hong Gunn Chew
+
+
++ [STATE: A Robust ATE Estimator of Heavy-Tailed Metrics for Variance Reduction in Online Controlled Experiments](https://arxiv.org//abs/2407.16337)
+
+	Hao Zhou, Kun Sun, Shaoming Li, Yangfeng Fan, Guibin Jiang, Jiaqi Zheng, Tao Li
+
+
++ [Backdoor Attacks against Hybrid Classical-Quantum Neural Networks](https://arxiv.org//abs/2407.16273)
+
+	Ji Guo, Wenbo Jiang, Rui Zhang, Wenshu Fan, Jiachen Li, Guoming Lu
+
+
++ [Multimodal Unlearnable Examples: Protecting Data against Multimodal Contrastive Learning](https://arxiv.org//abs/2407.16307)
+
+	Xinwei Liu, Xiaojun Jia, Yuan Xun, Siyuan Liang, Xiaochun Cao
+
+
+
+# 2024-07-22
++ [ImPress: Securing DRAM Against Data-Disturbance Errors via Implicit Row-Press Mitigation](https://arxiv.org//abs/2407.16006)
+
+	Moinuddin Qureshi, Anish Saxena, Aamer Jaleel
+
+
+
 # 2024-07-18
 + [DART-Math: Difficulty-Aware Rejection Tuning for Mathematical Problem-Solving](https://arxiv.org//abs/2407.13690)
 
@@ -47,6 +91,15 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Aras Selvi, Eleonora Kreacic, Mohsen Ghassemi, Vamsi Potluru, Tucker Balch, Manuela Veloso
 
+
++ [BiasDPO: Mitigating Bias in Language Models through Direct Preference Optimization](https://arxiv.org//abs/2407.13928)
+
+	Ahmed Allam
+
+
++ [A Closer Look at GAN Priors: Exploiting Intermediate Features for Enhanced Model Inversion Attacks](https://arxiv.org//abs/2407.13863)
+
+	Yixiang Qiu, Hao Fang, Hongyao Yu, Bin Chen, MeiKang Qiu, Shu-Tao Xia
 
 
 # 2024-07-17
