@@ -35,7 +35,7 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 
 # 2024-07-24
-++ [Robust Deep Hawkes Process under Label Noise of Both Event and Occurrence](https://arxiv.org//abs/2407.17164)
++ [Robust Deep Hawkes Process under Label Noise of Both Event and Occurrence](https://arxiv.org//abs/2407.17164)
 
 	Xiaoyu Tan, Bin Li, Xihe Qiu, Jingjing Huang, Yinghui Xu, Wei Chu
 
