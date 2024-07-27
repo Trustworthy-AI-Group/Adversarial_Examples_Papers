@@ -2,6 +2,65 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-07-25
++ [A Unified Understanding of Adversarial Vulnerability Regarding Unimodal Models and Vision-Language Pre-training Models](https://arxiv.org//abs/2407.17797)
+
+	Haonan Zheng, Xinyang Deng, Wen Jiang, Wenrui Li
+
+
++ [The Dark Side of Function Calling: Pathways to Jailbreaking Large Language Models](https://arxiv.org//abs/2407.17915)
+
+	Zihui Wu, Haichang Gao, Jianping He, Ping Wang
+
+
++ [Peak-Controlled Logits Poisoning Attack in Federated Distillation](https://arxiv.org//abs/2407.18039)
+
+	Yuhan Tang, Aoxu Zhang, Zhiyuan Wu, Bo Gao, Tian Wen, Yuwei Wang, Sheng Sun
+
+
++ [Is the Digital Forensics and Incident Response Pipeline Ready for Text-Based Threats in LLM Era?](https://arxiv.org//abs/2407.17870)
+
+	Avanti Bhandarkar, Ronald Wilson, Anushka Swarup, Mengdi Zhu, Damon Woodard
+
+
++ [Sparse vs Contiguous Adversarial Pixel Perturbations in Multimodal Models: An Empirical Analysis](https://arxiv.org//abs/2407.18251)
+
+	Cristian-Alexandru Botocan, Raphael Meier, Ljiljana Dolamic
+
+
++ [RIDA: A Robust Attack Framework on Incomplete Graphs](https://arxiv.org//abs/2407.18170)
+
+	Jianke Yu, Hanchen Wang, Chen Chen, Xiaoyang Wang, Wenjie Zhang, Ying Zhang
+
+
+
+# 2024-07-24
+++ [Robust Deep Hawkes Process under Label Noise of Both Event and Occurrence](https://arxiv.org//abs/2407.17164)
+
+	Xiaoyu Tan, Bin Li, Xihe Qiu, Jingjing Huang, Yinghui Xu, Wei Chu
+
+
++ [How Good (Or Bad) Are LLMs at Detecting Misleading Visualizations?](https://arxiv.org//abs/2407.17291)
+
+	Leo Yu-Ho Lo, Huamin Qu
+
+
++ [Physical Adversarial Attack on Monocular Depth Estimation via Shape-Varying Patches](https://arxiv.org//abs/2407.17312)
+
+	Chenxing Zhao, Yang Li, Shihao Wu, Wenyi Tan, Shuangju Zhou, Quan Pan
+
+
++ [Can Watermarking Large Language Models Prevent Copyrighted Text Generation and Hide Training Data?](https://arxiv.org//abs/2407.17417)
+
+	Michael-Andrei Panaitescu-Liess, Zora Che, Bang An, Yuancheng Xu, Pankayaraj Pathmanathan, Souradip Chakraborty, Sicheng Zhu, Tom Goldstein, Furong Huang
+
+
++ [From Sands to Mansions: Enabling Automatic Full-Life-Cycle Cyberattack Construction with LLM](https://arxiv.org//abs/2407.16928)
+
+	Lingzhi Wang, Jiahui Wang, Kyle Jung, Kedar Thiagarajan, Emily Wei, Xiangmin Shen, Yan Chen, Zhenyuan Li
+
+
+
 # 2024-07-23
 + [Figure it Out: Analyzing-based Jailbreak Attack on Large Language Models](https://arxiv.org//abs/2407.16205)
 
@@ -36,6 +95,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Multimodal Unlearnable Examples: Protecting Data against Multimodal Contrastive Learning](https://arxiv.org//abs/2407.16307)
 
 	Xinwei Liu, Xiaojun Jia, Yuan Xun, Siyuan Liang, Xiaochun Cao
+
+
+ [Theoretical Analysis of Privacy Leakage in Trustworthy Federated Learning: A Perspective from Linear Algebra and Optimization Theory](https://arxiv.org//abs/2407.16735)
+
+	Xiaojin Zhang, Wei Chen
+
+
++ [S-E Pipeline: A Vision Transformer (ViT) based Resilient Classification Pipeline for Medical Imaging Against Adversarial Attacks](https://arxiv.org//abs/2407.17587)
+
+	Neha A S, Vivek Chaturvedi, Muhammad Shafique
 
 
 
