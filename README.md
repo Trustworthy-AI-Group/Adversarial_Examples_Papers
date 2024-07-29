@@ -2,6 +2,18 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-07-26
++ [Adversarial Robustification via Text-to-Image Diffusion Models](https://arxiv.org//abs/2407.18658)
+
+	Daewon Choi, Jongheon Jeong, Huiwon Jang, Jinwoo Shin
+
+
++ [Robust VAEs via Generating Process of Noise Augmented Data](https://arxiv.org//abs/2407.18632)
+
+	Hiroo Irobe, Wataru Aoki, Kimihiro Yamazaki, Yuhui Zhang, Takumi Nakagawa, Hiroki Waida, Yuichiro Wada, Takafumi Kanamori
+
+
+
 # 2024-07-25
 + [A Unified Understanding of Adversarial Vulnerability Regarding Unimodal Models and Vision-Language Pre-training Models](https://arxiv.org//abs/2407.17797)
 
@@ -31,6 +43,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [RIDA: A Robust Attack Framework on Incomplete Graphs](https://arxiv.org//abs/2407.18170)
 
 	Jianke Yu, Hanchen Wang, Chen Chen, Xiaoyang Wang, Wenjie Zhang, Ying Zhang
+
+
++ [Adversarial Robust Decision Transformer: Enhancing Robustness of RvS via Minimax Returns-to-go](https://arxiv.org//abs/2407.18414)
+
+	Xiaohang Tang, Afonso Marques, Parameswaran Kamalaruban, Ilija Bogunovic
 
 
 
