@@ -2,6 +2,57 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-07-29
++ [Can Editing LLMs Inject Harm?](https://arxiv.org//abs/2407.20224)
+
+	Canyu Chen, Baixiang Huang, Zekun Li, Zhaorun Chen, Shiyang Lai, Xiongxiao Xu, Jia-Chen Gu, Jindong Gu, Huaxiu Yao, Chaowei Xiao, Xifeng Yan, William Yang Wang, Philip Torr, Dawn Song, Kai Shu
+
+
++ [Detecting and Understanding Vulnerabilities in Language Models via Mechanistic Interpretability](https://arxiv.org//abs/2407.19842)
+
+	Jorge García-Carrasco, Alejandro Maté, Juan Trujillo
+
+
++ [RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding](https://arxiv.org//abs/2407.20099)
+
+	Keming Wu, Man Yao, Yuhong Chou, Xuerui Qiu, Rui Yang, Bo Xu, Guoqi Li
+
+
++ [BackdoorBench: A Comprehensive Benchmark and Analysis of Backdoor Learning](https://arxiv.org//abs/2407.19845)
+
+	Baoyuan Wu, Hongrui Chen, Mingda Zhang, Zihao Zhu, Shaokui Wei, Danni Yuan, Mingli Zhu, Ruotong Wang, Li Liu, Chao Shen
+
+
++ [Practical and Robust Safety Guarantees for Advanced Counterfactual Learning to Rank](https://arxiv.org//abs/2407.19943)
+
+	Shashank Gupta, Harrie Oosterhuis, Maarten de Rijke
+
+
+
+# 2024-07-28
++ [Exploring the Adversarial Robustness of CLIP for AI-generated Image Detection](https://arxiv.org//abs/2407.19553)
+
+	Vincenzo De Rosa, Fabrizio Guillaro, Giovanni Poggi, Davide Cozzolino, Luisa Verdoliva
+
+
+
+# 2024-07-27
++ [Towards Clean-Label Backdoor Attacks in the Physical World](https://arxiv.org//abs/2407.19203)
+
+	Thinh Dao, Cuong Chi Le, Khoa D Doan, Kok-Seng Wong
+
+
++ [EaTVul: ChatGPT-based Evasion Attack Against Software Vulnerability Detection](https://arxiv.org//abs/2407.19216)
+
+	Shigang Liu, Di Cao, Junae Kim, Tamas Abraham, Paul Montague, Seyit Camtepe, Jun Zhang, Yang Xiang
+
+
++ [Debiased Graph Poisoning Attack via Contrastive Surrogate Objective](https://arxiv.org//abs/2407.19155)
+
+	Kanghoon Yoon, Yeonjun In, Namkyeong Lee, Kibum Kim, Chanyoung Park
+
+
+
 # 2024-07-26
 + [Adversarial Robustification via Text-to-Image Diffusion Models](https://arxiv.org//abs/2407.18658)
 
@@ -11,6 +62,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Robust VAEs via Generating Process of Noise Augmented Data](https://arxiv.org//abs/2407.18632)
 
 	Hiroo Irobe, Wataru Aoki, Kimihiro Yamazaki, Yuhui Zhang, Takumi Nakagawa, Hiroki Waida, Yuichiro Wada, Takafumi Kanamori
+
+
++ [Accuracy-Privacy Trade-off in the Mitigation of Membership Inference Attack in Federated Learning](https://arxiv.org//abs/2407.19119)
+
+	Sayyed Farid Ahamed, Soumya Banerjee, Sandip Roy, Devin Quinn, Marc Vucovich, Kevin Choi, Abdul Rahman, Alison Hu, Edward Bowen, Sachin Shetty
 
 
 
