@@ -2,6 +2,38 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-07-30
++ [FACL-Attack: Frequency-Aware Contrastive Learning for Transferable Adversarial Attacks](https://arxiv.org//abs/2407.20653)
+
+	Hunmin Yang, Jongoh Jeong, Kuk-Jin Yoon
+
+
++ [Prompt-Driven Contrastive Learning for Transferable Adversarial Attacks](https://arxiv.org//abs/2407.20657)
+
+	Hunmin Yang, Jongoh Jeong, Kuk-Jin Yoon
+
+
++ [PIP: Prototypes-Injected Prompt for Federated Class Incremental Learning](https://arxiv.org//abs/2407.20705)
+
+	Muhammad Anwar Ma'sum, Mahardhika Pratama, Savitha Ramasamy, Lin Liu, Habibullah Habibullah, Ryszard Kowalczyk
+
+
++ [Vulnerabilities in AI-generated Image Detection: The Challenge of Adversarial Attacks](https://arxiv.org//abs/2407.20836)
+
+	Yunfeng Diao, Naixin Zhai, Changtao Miao, Xun Yang, Meng Wang
+
+
++ [Can LLMs be Fooled? Investigating Vulnerabilities in LLMs](https://arxiv.org//abs/2407.20529)
+
+	Sara Abdali, Jia He, CJ Barberan, Richard Anarfi
+
+
++ [Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplification](https://arxiv.org//abs/2407.20859)
+
+	Boyang Zhang, Yicong Tan, Yun Shen, Ahmed Salem, Michael Backes, Savvas Zannettou, Yang Zhang
+
+
+
 # 2024-07-29
 + [Can Editing LLMs Inject Harm?](https://arxiv.org//abs/2407.20224)
 
@@ -26,6 +58,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Practical and Robust Safety Guarantees for Advanced Counterfactual Learning to Rank](https://arxiv.org//abs/2407.19943)
 
 	Shashank Gupta, Harrie Oosterhuis, Maarten de Rijke
+
+
++ [Contrasting Deepfakes Diffusion via Contrastive Learning and Global-Local Similarities](https://arxiv.org//abs/2407.20337)
+
+	Lorenzo Baraldi, Federico Cocchi, Marcella Cornia, Lorenzo Baraldi, Alessandro Nicolosi, Rita Cucchiara
+
+
++ [From ML to LLM: Evaluating the Robustness of Phishing Webpage Detection Models against Adversarial Attacks](https://arxiv.org//abs/2407.20361)
+
+	Aditya Kulkarni, Vivek Balachandran, Dinil Mon Divakaran, Tamal Das
 
 
 
