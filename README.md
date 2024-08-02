@@ -2,6 +2,85 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-08-01
++ [Contrastive Graph Representation Learning with Adversarial Cross-view Reconstruction and Information Bottleneck](https://arxiv.org//abs/2408.00295)
+
+	Yuntao Shou, Haozhi Lan, Xiangyong Cao
+
+
++ [ADBM: Adversarial diffusion bridge model for reliable adversarial purification](https://arxiv.org//abs/2408.00315)
+
+	Xiao Li, Wenxuan Sun, Huanran Chen, Qiongxiu Li, Yining Liu, Yingzhe He, Jie Shi, Xiaolin Hu
+
+
++ [OTAD: An Optimal Transport-Induced Robust Model for Agnostic Adversarial Attack](https://arxiv.org//abs/2408.00329)
+
+	Kuo Gai, Sicong Wang, Shihua Zhang
+
+
++ [CERT-ED: Certifiably Robust Text Classification for Edit Distance](https://arxiv.org//abs/2408.00728)
+
+	Zhuoqun Huang, Neil G Marchant, Olga Ohrimenko, Benjamin I. P. Rubinstein
+
+
++ [Autonomous LLM-Enhanced Adversarial Attack for Text-to-Motion](https://arxiv.org//abs/2408.00352)
+
+	Honglei Miao, Fan Ma, Ruijie Quan, Kun Zhan, Yi Yang
+
+
++ [Revocable Backdoor for Deep Model Trading](https://arxiv.org//abs/2408.00255)
+
+	Yiran Xu, Nan Zhong, Zhenxing Qian, Xinpeng Zhang
+
+
++ [Adversarial Text Rewriting for Text-aware Recommender Systems](https://arxiv.org//abs/2408.00312)
+
+	Sejoon Oh, Gaurav Verma, Srijan Kumar
+
+
+
+# 2024-07-31
++ [Measuring What Matters: Intrinsic Distance Preservation as a Robust Metric for Embedding Quality](https://arxiv.org//abs/2407.21590)
+
+	Steven N. Hart, Thomas E. Tavolara
+
+
++ [Safetywashing: Do AI Safety Benchmarks Actually Measure Safety Progress?](https://arxiv.org//abs/2407.21792)
+
+	Richard Ren, Steven Basart, Adam Khoja, Alice Gatti, Long Phan, Xuwang Yin, Mantas Mazeika, Alexander Pan, Gabriel Mukobi, Ryan H. Kim, Stephen Fitz, Dan Hendrycks
+
+
++ [Defending Jailbreak Attack in VLMs via Cross-modality Information Detector](https://arxiv.org//abs/2407.21659)
+
+	Yue Xu, Xiuyuan Qi, Zhan Qin, Wenjie Wang
+
+
++ [Benchmarking AIGC Video Quality Assessment: A Dataset and Unified Model](https://arxiv.org//abs/2407.21408)
+
+	Zhichao Zhang, Xinyue Li, Wei Sun, Jun Jia, Xiongkuo Min, Zicheng Zhang, Chunyi Li, Zijian Chen, Puyi Wang, Zhongpeng Ji, Fengyu Sun, Shangling Jui, Guangtao Zhai
+
+
++ [Conditioned Prompt-Optimization for Continual Deepfake Detection](https://arxiv.org//abs/2407.21554)
+
+	Francesco Laiti, Benedetta Liberatori, Thomas De Min, Elisa Ricci
+
+
++ [Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs](https://arxiv.org//abs/2407.21771)
+
+	Shi Liu, Kecheng Zheng, Wei Chen
+
+
++ [Diff-Cleanse: Identifying and Mitigating Backdoor Attacks in Diffusion Models](https://arxiv.org//abs/2407.21316)
+
+	Jiang Hao, Xiao Jin, Hu Xiaoguang, Chen Tianyou
+
+
++ [Resilience and Security of Deep Neural Networks Against Intentional and Unintentional Perturbations: Survey and Research Challenges](https://arxiv.org//abs/2408.00193)
+
+	Sazzad Sayyed, Milin Zhang, Shahriar Rifat, Ananthram Swami, Michael De Lucia, Francesco Restuccia
+
+
+
 # 2024-07-30
 + [FACL-Attack: Frequency-Aware Contrastive Learning for Transferable Adversarial Attacks](https://arxiv.org//abs/2407.20653)
 
@@ -31,6 +110,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplification](https://arxiv.org//abs/2407.20859)
 
 	Boyang Zhang, Yicong Tan, Yun Shen, Ahmed Salem, Michael Backes, Savvas Zannettou, Yang Zhang
+
+
++ [DeepBaR: Fault Backdoor Attack on Deep Neural Network Layers](https://arxiv.org//abs/2407.21220)
+
+	C. A. Martínez-Mejía, J. Solano, J. Breier, D. Bucko, X. Hou
 
 
 
@@ -69,6 +153,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Aditya Kulkarni, Vivek Balachandran, Dinil Mon Divakaran, Tamal Das
 
+
++ [Enhancing Adversarial Text Attacks on BERT Models with Projected Gradient Descent](https://arxiv.org//abs/2407.21073)
+
+	Hetvi Waghela, Jaydip Sen, Sneha Rakshit
 
 
 # 2024-07-28
@@ -320,6 +408,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases](https://arxiv.org//abs/2407.12784)
 
 	Zhaorun Chen, Zhen Xiang, Chaowei Xiao, Dawn Song, Bo Li
+
+
++ [Safeguard Text-to-Image Diffusion Models with Human Feedback Inversion](https://arxiv.org//abs/2407.21032)
+
+	Sanghyun Kim, Seohyeon Jung, Balhae Kim, Moonseok Choi, Jinwoo Shin, Juho Lee
+
+
++ [Direct Unlearning Optimization for Robust and Safe Text-to-Image Models](https://arxiv.org//abs/2407.21035)
+
+	Yong-Hyun Park, Sangdoo Yun, Jin-Hwa Kim, Junho Kim, Geonhui Jang, Yonghyun Jeong, Junghyo Jo, Gayoung Lee
 
 
 
