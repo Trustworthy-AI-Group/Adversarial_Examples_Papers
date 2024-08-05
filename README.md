@@ -2,6 +2,33 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-08-02
++ [Interpreting Global Perturbation Robustness of Image Models using Axiomatic Spectral Importance Decomposition](https://arxiv.org//abs/2408.01139)
+
+	Róisín Luo, James McDermott, Colm O'Riordan
+
+
++ [Mission Impossible: A Statistical Perspective on Jailbreaking LLMs](https://arxiv.org//abs/2408.01420)
+
+	Jingtong Su, Julia Kempe, Karen Ullrich
+
+
++ [Hallu-PI: Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs](https://arxiv.org//abs/2408.01355)
+
+	Peng Ding, Jingyu Wu, Jun Kuang, Dan Ma, Xuezhi Cao, Xunliang Cai, Shi Chen, Jiajun Chen, Shujian Huang
+
+
++ [Assessing Robustness of Machine Learning Models using Covariate Perturbations](https://arxiv.org//abs/2408.01300)
+
+	Arun Prakash R, Anwesha Bhattacharyya, Joel Vaughan, Vijayan N. Nair
+
+
++ [EmoBack: Backdoor Attacks Against Speaker Identification Using Emotional Prosody](https://arxiv.org//abs/2408.01178)
+
+	Coen Schoof, Stefanos Koffas, Mauro Conti, Stjepan Picek
+
+
+
 # 2024-08-01
 + [Contrastive Graph Representation Learning with Adversarial Cross-view Reconstruction and Information Bottleneck](https://arxiv.org//abs/2408.00295)
 
@@ -36,6 +63,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Adversarial Text Rewriting for Text-aware Recommender Systems](https://arxiv.org//abs/2408.00312)
 
 	Sejoon Oh, Gaurav Verma, Srijan Kumar
+
+
++ [Benchmarking Attacks on Learning with Errors](https://arxiv.org//abs/2408.00882)
+
+	Emily Wenger, Eshika Saxena, Mohamed Malhou, Ellie Thieu, Kristin Lauter
 
 
 
