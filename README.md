@@ -2,6 +2,23 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-08-08
++ [Towards Resilient and Efficient LLMs: A Comparative Study of Efficiency, Performance, and Adversarial Robustness](https://arxiv.org//abs/2408.04585)
+
+	Xiaojing Fan, Chunliang Tao
+
+
++ [Constructing Adversarial Examples for Vertical Federated Learning: Optimal Client Corruption through Multi-Armed Bandit](https://arxiv.org//abs/2408.04310)
+
+	Duanyi Yao, Songze Li, Ye Xue, Jin Liu
+
+
++ [FDI: Attack Neural Code Generation Systems through User Feedback Channel](https://arxiv.org//abs/2408.04194)
+
+	Zhensu Sun, Xiaoning Du, Xiapu Luo, Fu Song, David Lo, Li Li
+
+
+
 # 2024-08-07
 + [EnJa: Ensemble Jailbreak on Large Language Models](https://arxiv.org//abs/2408.03603)
 
@@ -16,6 +33,21 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [TALE: Training-free Cross-domain Image Composition via Adaptive Latent Manipulation and Energy-guided Optimization](https://arxiv.org//abs/2408.03637)
 
 	Kien T. Pham, Jingye Chen, Qifeng Chen
+
+
++ [Enhancing Output Diversity Improves Conjugate Gradient-based Adversarial Attacks](https://arxiv.org//abs/2408.03972)
+
+	Keiichiro Yamamura, Issa Oe, Hiroki Ishikura, Katsuki Fujisawa
+
+
++ [PushPull-Net: Inhibition-driven ResNet robust to image corruptions](https://arxiv.org//abs/2408.04077)
+
+	Guru Swaroop Bennabhaktula, Enrique Alegre, Nicola Strisciuglio, George Azzopardi
+
+
++ [Exploring RAG-based Vulnerability Augmentation with LLMs](https://arxiv.org//abs/2408.04125)
+
+	Seyed Shayan Daneshvar, Yu Nong, Xu Yang, Shaowei Wang, Haipeng Cai
 
 
 
@@ -366,7 +398,7 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Xinwei Liu, Xiaojun Jia, Yuan Xun, Siyuan Liang, Xiaochun Cao
 
 
- [Theoretical Analysis of Privacy Leakage in Trustworthy Federated Learning: A Perspective from Linear Algebra and Optimization Theory](https://arxiv.org//abs/2407.16735)
++ [Theoretical Analysis of Privacy Leakage in Trustworthy Federated Learning: A Perspective from Linear Algebra and Optimization Theory](https://arxiv.org//abs/2407.16735)
 
 	Xiaojin Zhang, Wei Chen
 
@@ -953,7 +985,7 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Simon Ostermann, Kevin Baum, Christoph Endres, Julia Masloh, Patrick Schramowski
 
 
- 2024-07-02
+# 2024-07-02
 + [EvolBA: Evolutionary Boundary Attack under Hard-label Black Box condition](https://arxiv.org/abs/2407.02248)
 
 	Ayane Tajima, Satoshi Ono
