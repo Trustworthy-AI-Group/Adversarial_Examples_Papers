@@ -2,6 +2,43 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-08-09
++ [h4rm3l: A Dynamic Benchmark of Composable Jailbreak Attacks for LLM Safety Assessment](https://arxiv.org//abs/2408.04811)
+
+	Moussa Koulako Bala Doumbouya, Ananjan Nandi, Gabriel Poesia, Davide Ghilardi, Anna Goldie, Federico Bianchi, Dan Jurafsky, Christopher D. Manning
+
+
++ [Counterfactual Explanations with Probabilistic Guarantees on their Robustness to Model Change](https://arxiv.org//abs/2408.04842)
+
+	Ignacy Stępka, Mateusz Lango, Jerzy Stefanowski
+
+
++ [A Jailbroken GenAI Model Can Cause Substantial Harm: GenAI-powered Applications are Vulnerable to PromptWares](https://arxiv.org//abs/2408.05061)
+
+	Stav Cohen, Ron Bitton, Ben Nassi
+
+
++ [Surgical-VQLA++: Adversarial Contrastive Learning for Calibrated Robust Visual Question-Localized Answering in Robotic Surgery](https://arxiv.org//abs/2408.04958)
+
+	Long Bai, Guankun Wang, Mobarakol Islam, Lalithkumar Seenivasan, An Wang, Hongliang Ren
+
+
++ [Adversarially Robust Industrial Anomaly Detection Through Diffusion Model](https://arxiv.org//abs/2408.04839)
+
+	Yuanpu Cao, Lu Lin, Jinghui Chen
+
+
++ [Model Debiasing by Learnable Data Augmentation](https://arxiv.org//abs/2408.04955)
+
+	Pietro Morerio, Ruggero Ragonesi, Vittorio Murino
+
+
++ [Range Membership Inference Attacks](https://arxiv.org//abs/2408.05131)
+
+	Jiashu Tao, Reza Shokri
+
+
+
 # 2024-08-08
 + [Towards Resilient and Efficient LLMs: A Comparative Study of Efficiency, Performance, and Adversarial Robustness](https://arxiv.org//abs/2408.04585)
 
@@ -16,6 +53,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [FDI: Attack Neural Code Generation Systems through User Feedback Channel](https://arxiv.org//abs/2408.04194)
 
 	Zhensu Sun, Xiaoning Du, Xiapu Luo, Fu Song, David Lo, Li Li
+
+
++ [Eliminating Backdoors in Neural Code Models via Trigger Inversion](https://arxiv.org//abs/2408.04683)
+
+	Weisong Sun, Yuchen Chen, Chunrong Fang, Yebo Feng, Yuan Xiao, An Guo, Quanjun Zhang, Yang Liu, Baowen Xu, Zhenyu Chen
+
+
++ [Multi-Turn Context Jailbreak Attack on Large Language Models From First Principles](https://arxiv.org//abs/2408.04686)
+
+	Xiongtao Sun, Deyue Zhang, Dongdong Yang, Quanchen Zou, Hui Li
 
 
 
@@ -49,6 +96,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Seyed Shayan Daneshvar, Yu Nong, Xu Yang, Shaowei Wang, Haipeng Cai
 
+
+# 2024-08-06
++ [Mitigating Hallucinations in Large Vision-Language Models (LVLMs) via Language-Contrastive Decoding (LCD)](https://arxiv.org//abs/2408.04664)
+
+	Avshalom Manevich, Reut Tsarfaty
 
 
 # 2024-08-05
