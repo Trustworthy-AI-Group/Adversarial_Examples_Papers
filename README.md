@@ -2,6 +2,62 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-08-12
++ [Understanding Byzantine Robustness in Federated Learning with A Black-box Server](https://arxiv.org//abs/2408.06042)
+
+	Fangyuan Zhao, Yuexiang Xie, Xuebin Ren, Bolin Ding, Shusen Yang, Yaliang Li
+
+
++ [Classifier Guidance Enhances Diffusion-based Adversarial Purification by Preserving Predictive Information](https://arxiv.org//abs/2408.05900)
+
+	Mingkun Zhang, Jianing Li, Wei Chen, Jiafeng Guo, Xueqi Cheng
+
+
++ [Towards Adversarial Robustness via Debiased High-Confidence Logit Alignment](https://arxiv.org//abs/2408.06079)
+
+	Kejia Zhang, Juanjuan Weng, Zhiming Luo, Shaozi Li
+
+
++ [LEARN: An Invex Loss for Outlier Oblivious Robust Online Optimization](https://arxiv.org//abs/2408.06297)
+
+	Adarsh Barik, Anand Krishna, Vincent Y. F. Tan
+
+
++ [Nob-MIAs: Non-biased Membership Inference Attacks Assessment on Large Language Models with Ex-Post Dataset Construction](https://arxiv.org//abs/2408.05968)
+
+	Cédric Eichler, Nathan Champeil, Nicolas Anciaux, Alexandra Bensamoun, Heber Hwang Arcolezi, José Maria De Fuentes
+
+
++ [Lancelot: Towards Efficient and Privacy-Preserving Byzantine-Robust Federated Learning within Fully Homomorphic Encryption](https://arxiv.org//abs/2408.06197)
+
+	Siyang Jiang, Hao Yang, Qipeng Xie, Chuan Ma, Sen Wang, Guoliang Xing
+
+
+
+# 2024-08-11
++ [StealthDiffusion: Towards Evading Diffusion Forensic Detection through Diffusion Model](https://arxiv.org//abs/2408.05669)
+
+	Ziyin Zhou, Ke Sun, Zhongxi Chen, Huafeng Kuang, Xiaoshuai Sun, Rongrong Ji
+
+
++ [Improving Adversarial Transferability with Neighbourhood Gradient Information](https://arxiv.org//abs/2408.05745)
+
+	Haijing Guo, Jiafeng Wang, Zhaoyu Chen, Kaixun Jiang, Lingyi Hong, Pinxue Guo, Jinglun Li, Wenqiang Zhang
+
+
+
+# 2024-08-10
++ [MABR: A Multilayer Adversarial Bias Removal Approach Without Prior Bias Knowledge](https://arxiv.org//abs/2408.05497)
+
+	Maxwell J. Yin, Boyu Wang, Charles Ling
+
+
++ [ReToMe-VA: Recursive Token Merging for Video Diffusion-based Unrestricted Adversarial Attack](https://arxiv.org//abs/2408.05479)
+
+	Ziyi Gao, Kai Chen, Zhipeng Wei, Tingshu Mou, Jingjing Chen, Zhiyu Tan, Hao Li, Yu-Gang Jiang
+
+
+
 # 2024-08-09
 + [h4rm3l: A Dynamic Benchmark of Composable Jailbreak Attacks for LLM Safety Assessment](https://arxiv.org//abs/2408.04811)
 
@@ -63,6 +119,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Multi-Turn Context Jailbreak Attack on Large Language Models From First Principles](https://arxiv.org//abs/2408.04686)
 
 	Xiongtao Sun, Deyue Zhang, Dongdong Yang, Quanchen Zou, Hui Li
+
+
++ [Ensemble everything everywhere: Multi-scale aggregation for adversarial robustness](https://arxiv.org//abs/2408.05446)
+
+	Stanislav Fort, Balaji Lakshminarayanan
 
 
 
