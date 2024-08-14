@@ -2,6 +2,18 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-08-13
++ [RW-NSGCN: A Robust Approach to Structural Attacks via Negative Sampling](https://arxiv.org//abs/2408.06665)
+
+	Shuqi He, Jun Zhuang, Ding Wang, Jun Song
+
+
++ [DePatch: Towards Robust Adversarial Patch for Evading Person Detectors in the Real World](https://arxiv.org//abs/2408.06625)
+
+	Jikang Cheng, Ying Zhang, Zhongyuan Wang, Zou Qin, Chen Li
+
+
+
 # 2024-08-12
 + [Understanding Byzantine Robustness in Federated Learning with A Black-box Server](https://arxiv.org//abs/2408.06042)
 
@@ -31,6 +43,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Lancelot: Towards Efficient and Privacy-Preserving Byzantine-Robust Federated Learning within Fully Homomorphic Encryption](https://arxiv.org//abs/2408.06197)
 
 	Siyang Jiang, Hao Yang, Qipeng Xie, Chuan Ma, Sen Wang, Guoliang Xing
+
+
++ [Fooling SHAP with Output Shuffling Attacks](https://arxiv.org//abs/2408.06509)
+
+	Jun Yuan, Aritra Dasgupta
 
 
 
