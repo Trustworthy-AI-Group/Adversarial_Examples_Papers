@@ -2,6 +2,33 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-08-14
++ [UAHOI: Uncertainty-aware Robust Interaction Learning for HOI Detection](https://arxiv.org//abs/2408.07430)
+
+	Mu Chen, Minghan Chen, Yi Yang
+
+
++ [BAPLe: Backdoor Attacks on Medical Foundational Models using Prompt Learning](https://arxiv.org//abs/2408.07440)
+
+	Asif Hanif, Fahad Shamshad, Muhammad Awais, Muzammal Naseer, Fahad Shahbaz Khan, Karthik Nandakumar, Salman Khan, Rao Muhammad Anwer
+
+
++ [Robust Active Learning (RoAL): Countering Dynamic Adversaries in Active Learning with Elastic Weight Consolidation](https://arxiv.org//abs/2408.07364)
+
+	Ricky Maulana Fajri, Yulong Pei, Lu Yin, Mykola Pechenizkiy
+
+
++ [TabularBench: Benchmarking Adversarial Robustness for Tabular Deep Learning in Real-world Use-cases](https://arxiv.org//abs/2408.07579)
+
+	Thibault Simonetto, Salah Ghamizi, Maxime Cordy
+
+
++ [BadMerging: Backdoor Attacks Against Model Merging](https://arxiv.org//abs/2408.07362)
+
+	Jinghuai Zhang, Jianfeng Chi, Zheng Li, Kunlin Cai, Yang Zhang, Yuan Tian
+
+
+
 # 2024-08-13
 + [RW-NSGCN: A Robust Approach to Structural Attacks via Negative Sampling](https://arxiv.org//abs/2408.06665)
 
@@ -11,6 +38,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [DePatch: Towards Robust Adversarial Patch for Evading Person Detectors in the Real World](https://arxiv.org//abs/2408.06625)
 
 	Jikang Cheng, Ying Zhang, Zhongyuan Wang, Zou Qin, Chen Li
+
+
++ [VulCatch: Enhancing Binary Vulnerability Detection through CodeT5 Decompilation and KAN Advanced Feature Extraction](https://arxiv.org//abs/2408.07181)
+
+	Abdulrahman Hamman Adama Chukkol, Senlin Luo, Kashif Sharif, Yunusa Haruna, Muhammad Muhammad Abdullahi
+
+
++ [FedMADE: Robust Federated Learning for Intrusion Detection in IoT Networks Using a Dynamic Aggregation Method](https://arxiv.org//abs/2408.07152)
+
+	Shihua Sun, Pragya Sharma, Kenechukwu Nwodo, Angelos Stavrou, Haining Wang
 
 
 
@@ -195,6 +232,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Sample-agnostic Adversarial Perturbation for Vision-Language Pre-training Models](https://arxiv.org//abs/2408.02980)
 
 	Haonan Zheng, Wen Jiang, Xinyang Deng, Wenrui Li
+
+
++ [DisCoM-KD: Cross-Modal Knowledge Distillation via Disentanglement Representation and Adversarial Learning](https://arxiv.org//abs/2408.07080)
+
+	Dino Ienco (EVERGREEN, UMR TETIS, INRAE), Cassio Fraga Dantas (UMR TETIS, INRAE, EVERGREEN)
 
 
 
