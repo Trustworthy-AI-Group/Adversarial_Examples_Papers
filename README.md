@@ -2,6 +2,18 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-08-16
++ [KOALA: Enhancing Speculative Decoding for LLM via Multi-Layer Draft Heads with Adversarial Learning](https://arxiv.org//abs/2408.08146)
+
+	Kaiqi Zhang, Jing Zhao, Rui Chen
+
+
++ [A Multi-task Adversarial Attack Against Face Authentication](https://arxiv.org//abs/2408.08205)
+
+	Hanrui Wang, Shuo Wang, Cunjian Chen, Massimo Tistarelli, Zhe Jin
+
+
+
 # 2024-08-14
 + [UAHOI: Uncertainty-aware Robust Interaction Learning for HOI Detection](https://arxiv.org//abs/2408.07430)
 
@@ -26,6 +38,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [BadMerging: Backdoor Attacks Against Model Merging](https://arxiv.org//abs/2408.07362)
 
 	Jinghuai Zhang, Jianfeng Chi, Zheng Li, Kunlin Cai, Yang Zhang, Yuan Tian
+
+
++ [Enhancing Adversarial Attacks via Parameter Adaptive Adversarial Attack](https://arxiv.org//abs/2408.07733)
+
+	Zhibo Jin, Jiayu Zhang, Zhiyu Zhu, Chenyu Zhang, Jiahao Huang, Jianlong Zhou, Fang Chen
 
 
 
