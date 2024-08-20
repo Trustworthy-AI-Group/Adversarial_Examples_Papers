@@ -2,6 +2,50 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-08-19
++ [Detecting Adversarial Attacks in Semantic Segmentation via Uncertainty Estimation: A Deep Analysis](https://arxiv.org//abs/2408.10021)
+
+	Kira Maag, Roman Resner, Asja Fischer
+
+
++ [Regularization for Adversarial Robust Learning](https://arxiv.org//abs/2408.09672)
+
+	Jie Wang, Rui Gao, Yao Xie
+
+
++ [Enhance Modality Robustness in Text-Centric Multimodal Alignment with Adversarial Prompting](https://arxiv.org//abs/2408.09798)
+
+	Yun-Da Tsai, Ting-Yu Yen, Keng-Te Liao, Shou-De Lin
+
+
++ [Transferring Backdoors between Large Language Models by Knowledge Distillation](https://arxiv.org//abs/2408.09878)
+
+	Pengzhou Cheng, Zongru Wu, Tianjie Ju, Wei Du, Zhuosheng Zhang Gongshen Liu
+
+
+
+# 2024-08-18
++ [Antidote: Post-fine-tuning Safety Alignment for Large Language Models against Harmful Fine-tuning](https://arxiv.org//abs/2408.09600)
+
+	Tiansheng Huang, Gautam Bhattacharya, Pratik Joshi, Josh Kimball, Ling Liu
+
+
++ [Characterizing and Evaluating the Reliability of LLMs against Jailbreak Attacks](https://arxiv.org//abs/2408.09326)
+
+	Kexin Chen, Yi Liu, Dongxia Wang, Jiaying Chen, Wenhai Wang
+
+
++ [Adversarial Attacked Teacher for Unsupervised Domain Adaptive Object Detection](https://arxiv.org//abs/2408.09431)
+
+	Kaiwen Wang, Yinzhe Shen, Martin Lauer
+
+
++ [Enhancing Adversarial Transferability with Adversarial Weight Tuning](https://arxiv.org//abs/2408.09469)
+
+	Jiahao Chen, Zhou Feng, Rui Zeng, Yuwen Pu, Chunyi Zhou, Yi Jiang, Yuyou Gan, Jinbao Li, Shouling Ji, Shouling_Ji
+
+
+
 # 2024-08-17
 + [Mitigating Backdoor Attacks in Federated Learning via Flipping Weight Updates of Low-Activation Input Neurons](https://arxiv.org//abs/2408.08655)
 
@@ -38,6 +82,26 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Fenghua Weng, Yue Xu, Chengyan Fu, Wenjie Wang
 
 
++ [Gradient-Variation Online Learning under Generalized Smoothness](https://arxiv.org//abs/2408.09074)
+
+	Yan-Feng Xie, Peng Zhao, Zhi-Hua Zhou
+
+
++ [Scalable and Certifiable Graph Unlearning via Lazy Local Propagation](https://arxiv.org//abs/2408.09212)
+
+	Lu Yi, Zhewei Wei
+
+
++ [Malacopula: adversarial automatic speaker verification attacks using a neural-based generalised Hammerstein model](https://arxiv.org//abs/2408.09300)
+
+	Massimiliano Todisco, Michele Panariello, Xin Wang, Héctor Delgado, Kong Aik Lee, Nicholas Evans
+
+
++ [BaThe: Defense against the Jailbreak Attack in Multimodal Large Language Models by Treating Harmful Instruction as Backdoor Trigger](https://arxiv.org//abs/2408.09093)
+
+	Yulin Chen, Haoran Li, Zihao Zheng, Yangqiu Song
+
+
 
 # 2024-08-16
 + [KOALA: Enhancing Speculative Decoding for LLM via Multi-Layer Draft Heads with Adversarial Learning](https://arxiv.org//abs/2408.08146)
@@ -58,6 +122,21 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Penny-Wise and Pound-Foolish in Deepfake Detection](https://arxiv.org//abs/2408.08412)
 
 	Yabin Wang, Zhiwu Huang, Su Zhou, Adam Prugel-Bennett, Xiaopeng Hong
+
+
++ [Prefix Guidance: A Steering Wheel for Large Language Models to Defend Against Jailbreak Attacks](https://arxiv.org//abs/2408.08924)
+
+	Jiawei Zhao, Kejiang Chen, Xiaojian Yuan, Weiming Zhang
+
+
++ [Ask, Attend, Attack: A Effective Decision-Based Black-Box Targeted Attack for Image-to-Text Models](https://arxiv.org//abs/2408.08989)
+
+	Qingyuan Zeng, Zhenzhong Wang, Yiu-ming Cheung, Min Jiang
+
+
++ [See What LLMs Cannot Answer: A Self-Challenge Framework for Uncovering LLM Weaknesses](https://arxiv.org//abs/2408.08978)
+
+	Yulong Chen, Yang Liu, Jianhao Yan, Xuefeng Bai, Ming Zhong, Yinghao Yang, Ziyi Yang, Chenguang Zhu, Yue Zhang
 
 
 
