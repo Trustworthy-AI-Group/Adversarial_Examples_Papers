@@ -2,8 +2,75 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-08-20
++ [Prompt-Agnostic Adversarial Perturbation for Customized Diffusion Models](https://arxiv.org//abs/2408.10571)
+
+	Cong Wan, Yuhang He, Xiang Song, Yihong Gong
+
+
++ [Privacy-preserving Universal Adversarial Defense for Black-box Models](https://arxiv.org//abs/2408.10647)
+
+	Qiao Li, Cong Wu, Jing Chen, Zijun Zhang, Kun He, Ruiying Du, Xinxin Wang, Qingchuang Zhao, Yang Liu
+
+
++ [Probing the Safety Response Boundary of Large Language Models via Unsafe Decoding Path Generation](https://arxiv.org//abs/2408.10668)
+
+	Haoyu Wang, Bingzhe Wu, Yatao Bian, Yongzhe Chang, Xueqian Wang, Peilin Zhao
+
+
++ [Towards Robust Knowledge Unlearning: An Adversarial Framework for Assessing and Improving Unlearning Robustness in Large Language Models](https://arxiv.org//abs/2408.10682)
+
+	Hongbang Yuan, Zhuoran Jin, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao
+
+
++ [MEGen: Generative Backdoor in Large Language Models via Model Editing](https://arxiv.org//abs/2408.10722)
+
+	Jiyang Qiu, Xinbei Ma, Zhuosheng Zhang, Hai Zhao
+
+
++ [Security Assessment of Hierarchical Federated Deep Learning](https://arxiv.org//abs/2408.10752)
+
+	D Alqattan, R Sun, H Liang, G Nicosia, V Snasel, R Ranjan, V Ojha
+
+
++ [Does Current Deepfake Audio Detection Model Effectively Detect ALM-based Deepfake Audio?](https://arxiv.org//abs/2408.10853)
+
+	Yuankun Xie, Chenxu Xiong, Xiaopeng Wang, Zhiyong Wang, Yi Lu, Xin Qi, Ruibo Fu, Yukun Liu, Zhengqi Wen, Jianhua Tao, Guanjun Li, Long Ye
+
+
++ [A Grey-box Attack against Latent Diffusion Model-based Image Editing by Posterior Collapse](https://arxiv.org//abs/2408.10901)
+
+	Zhongliang Guo, Lei Fang, Jingyu Lin, Yifei Qian, Shuai Zhao, Zeyu Wang, Junhao Dong, Cunjian Chen, Ognjen Arandjelović, Chun Pong Lau
+
+
++ [GAIM: Attacking Graph Neural Networks via Adversarial Influence Maximization](https://arxiv.org//abs/2408.10948)
+
+	Xiaodong Yang, Xiaoting Li, Huiyuan Chen, Yiwei Cai
+
+
++ [Adversarial Attack for Explanation Robustness of Rationalization Models](https://arxiv.org//abs/2408.10795)
+
+	Yuankai Zhang, Lingxiao Kong, Haozhao Wang, Ruixuan Li, Jun Wang, Yuhua Li, Wei Liu
+
+
++ [MsMemoryGAN: A Multi-scale Memory GAN for Palm-vein Adversarial Purification](https://arxiv.org//abs/2408.10694)
+
+	Huafeng Qin, Yuming Fu, Huiyan Zhang, Mounim A. El-Yacoubi, Xinbo Gao, Qun Song, Jun Wang
+
+
++ [Adversarial training of Keyword Spotting to Minimize TTS Data Overfitting](https://arxiv.org//abs/2408.10463)
+
+	Hyun Jin Park, Dhruuv Agarwal, Neng Chen, Rentao Sun, Kurt Partridge, Justin Chen, Harry Zhang, Pai Zhu, Jacob Bartel, Kyle Kastner, Gary Wang, Andrew Rosenberg, Quan Wang
+
+
++ [Iterative Window Mean Filter: Thwarting Diffusion-based Adversarial Purification](https://arxiv.org//abs/2408.10673)
+
+	Hanrui Wang, Ruoxi Sun, Cunjian Chen, Minhui Xue, Lay-Ki Soon, Shuo Wang, Zhe Jin
+
+
+
 # 2024-08-19
-+ [Detecting Adversarial Attacks in Semantic Segmentation via Uncertainty Estimation: A Deep Analysis](https://arxiv.org//abs/2408.10021)
++- [Detecting Adversarial Attacks in Semantic Segmentation via Uncertainty Estimation: A Deep Analysis](https://arxiv.org//abs/2408.10021)
 
 	Kira Maag, Roman Resner, Asja Fischer
 
@@ -21,6 +88,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Transferring Backdoors between Large Language Models by Knowledge Distillation](https://arxiv.org//abs/2408.09878)
 
 	Pengzhou Cheng, Zongru Wu, Tianjie Ju, Wei Du, Zhuosheng Zhang Gongshen Liu
+
+
++ [The Brittleness of AI-Generated Image Watermarking Techniques: Examining Their Robustness Against Visual Paraphrasing Attacks](https://arxiv.org//abs/2408.10446)
+
+	Niyar R Barman, Krish Sharma, Ashhar Aziz, Shashwat Bajpai, Shwetangshu Biswas, Vasu Sharma, Vinija Jain, Aman Chadha, Amit Sheth, Amitava Das
+
+
++ [Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement](https://arxiv.org//abs/2408.10456)
+
+	Jeremiah Birrell, Reza Ebrahimi, Rouzbeh Behnia, Jason Pacheco
 
 
 
@@ -43,6 +120,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Enhancing Adversarial Transferability with Adversarial Weight Tuning](https://arxiv.org//abs/2408.09469)
 
 	Jiahao Chen, Zhou Feng, Rui Zeng, Yuwen Pu, Chunyi Zhou, Yi Jiang, Yuyou Gan, Jinbao Li, Shouling Ji, Shouling_Ji
+
+
++ [NoRA: Nested Low-Rank Adaptation for Efficient Fine-Tuning Large Models](https://arxiv.org//abs/2408.10280)
+
+	Cheng Lin, Lujun Li, Dezhi Li, Jie Zou, Wenhan Luo, Wei Xue, Yike Guo
 
 
 
