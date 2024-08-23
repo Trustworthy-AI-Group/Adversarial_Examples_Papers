@@ -2,6 +2,77 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-08-23
++ [On the Credibility of Backdoor Attacks Against Object Detectors in the Physical World](https://arxiv.org//abs/2408.12122)
+
+	Bao Gia Doan, Dang Quang Nguyen, Callum Lindquist, Paul Montague, Tamas Abraham, Olivier De Vel, Seyit Camtepe, Salil S. Kanhere, Ehsan Abbasnejad, Damith C. Ranasinghe
+
+
+
+# 2024-08-22
++ [Query-Efficient Video Adversarial Attack with Stylized Logo](https://arxiv.org//abs/2408.12099)
+
+	Duoxun Tang, Yuxin Cao, Xi Xiao, Derui Wang, Sheng Wen, Tianqing Zhu
+
+
++ [MakeupAttack: Feature Space Black-box Backdoor Attack on Face Recognition via Makeup Transfer](https://arxiv.org//abs/2408.12312)
+
+	Ming Sun, Lihua Jing, Zixuan Zhu, Rui Wang
+
+
+
+# 2024-08-21
++ [Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer](https://arxiv.org//abs/2408.11313)
+
+	Weipeng Jiang, Zhenting Wang, Juan Zhai, Shiqing Ma, Zhengyu Zhao, Chao Shen
+
+
++ [Nothing in Excess: Mitigating the Exaggerated Safety for LLMs via Safety-Conscious Activation Steering](https://arxiv.org//abs/2408.11491)
+
+	Zouying Cao, Yifei Yang, Hai Zhao
+
+
++ [Efficient Detection of Toxic Prompts in Large Language Models](https://arxiv.org//abs/2408.11727)
+
+	Yi Liu, Junzhe Yu, Huijia Sun, Ling Shi, Gelei Deng, Yuqi Chen, Yang Liu
+
+
++ [Large Language Models are Good Attackers: Efficient and Stealthy Textual Backdoor Attacks](https://arxiv.org//abs/2408.11587)
+
+	Ziqiang Li, Yueqi Zeng, Pengfei Xia, Lei Liu, Zhangjie Fu, Bin Li
+
+
++ [Against All Odds: Overcoming Typology, Script, and Language Confusion in Multilingual Embedding Inversion Attacks](https://arxiv.org//abs/2408.11749)
+
+	Yiyi Chen, Russa Biswas, Heather Lent, Johannes Bjerva
+
+
++ [Latent Feature and Attention Dual Erasure Attack against Multi-View Diffusion Models for 3D Assets Protection](https://arxiv.org//abs/2408.11408)
+
+	Jingwei Sun, Xuchong Zhang, Changfeng Sun, Qicheng Bai, Hongbin Sun
+
+
++ [Exploring Robustness of Visual State Space model against Backdoor Attacks](https://arxiv.org//abs/2408.11679)
+
+	Cheng-Yi Lee, Cheng-Chang Tsai, Chia-Mu Yu, Chun-Shien Lu
+
+
++ [Pixel Is Not A Barrier: An Effective Evasion Attack for Pixel-Domain Diffusion Models](https://arxiv.org//abs/2408.11810)
+
+	Chun-Yen Shih, Li-Xuan Peng, Jia-Wei Liao, Ernie Chu, Cheng-Fu Chou, Jun-Cheng Chen
+
+
++ [First line of defense: A robust first layer mitigates adversarial attacks](https://arxiv.org//abs/2408.11680)
+
+	Janani Suresh, Nancy Nayak, Sheetal Kalyani
+
+
++ [A Practical Trigger-Free Backdoor Attack on Neural Networks](https://arxiv.org//abs/2408.11444)
+
+	Jiahao Wang, Xianglong Zhang, Xiuzhen Cheng, Pengfei Hu, Guoming Zhang
+
+
+
 # 2024-08-20
 + [Prompt-Agnostic Adversarial Perturbation for Customized Diffusion Models](https://arxiv.org//abs/2408.10571)
 
@@ -68,6 +139,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Hanrui Wang, Ruoxi Sun, Cunjian Chen, Minhui Xue, Lay-Ki Soon, Shuo Wang, Zhe Jin
 
 
++ [Hide Your Malicious Goal Into Benign Narratives: Jailbreak Large Language Models through Neural Carrier Articles](https://arxiv.org//abs/2408.11182)
+
+	Zhilong Wang, Haizhou Wang, Nanqing Luo, Lan Zhang, Xiaoyan Sun, Yebo Cao, Peng Liu
+
+
++ [Revisiting Min-Max Optimization Problem in Adversarial Training](https://arxiv.org//abs/2408.11218)
+
+	Sina Hajer Ahmadi, Hassan Bahrami
+
+
 
 # 2024-08-19
 +- [Detecting Adversarial Attacks in Semantic Segmentation via Uncertainty Estimation: A Deep Analysis](https://arxiv.org//abs/2408.10021)
@@ -125,6 +206,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [NoRA: Nested Low-Rank Adaptation for Efficient Fine-Tuning Large Models](https://arxiv.org//abs/2408.10280)
 
 	Cheng Lin, Lujun Li, Dezhi Li, Jie Zou, Wenhan Luo, Wei Xue, Yike Guo
+
+
++ [DiffZOO: A Purely Query-Based Black-Box Attack for Red-teaming Text-to-Image Generative Model via Zeroth Order Optimization](https://arxiv.org//abs/2408.11071)
+
+	Pucheng Dang, Xing Hu, Dong Li, Rui Zhang, Qi Guo, Kaidi Xu
 
 
 
