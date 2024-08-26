@@ -8,6 +8,26 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Bao Gia Doan, Dang Quang Nguyen, Callum Lindquist, Paul Montague, Tamas Abraham, Olivier De Vel, Seyit Camtepe, Salil S. Kanhere, Ehsan Abbasnejad, Damith C. Ranasinghe
 
 
++ [BackdoorLLM: A Comprehensive Benchmark for Backdoor Attacks on Large Language Models](https://arxiv.org//abs/2408.12798)
+
+	Yige Li, Hanxun Huang, Yunhan Zhao, Xingjun Ma, Jun Sun
+
+
++ [Is Generative AI the Next Tactical Cyber Weapon For Threat Actors? Unforeseen Implications of AI Generated Cyber Attacks](https://arxiv.org//abs/2408.12806)
+
+	Yusuf Usman, Aadesh Upadhyay, Prashnna Gyawali, Robin Chataut
+
+
++ [Dynamic Label Adversarial Training for Deep Learning Robustness Against Adversarial Attacks](https://arxiv.org//abs/2408.13102)
+
+	Zhenyu Liu, Haoran Duan, Huizhi Liang, Yang Long, Vaclav Snasel, Guiseppe Nicosia, Rajiv Ranjan, Varun Ojha
+
+
++ [Protecting against simultaneous data poisoning attacks](https://arxiv.org//abs/2408.13221)
+
+	Neel Alex, Shoaib Ahmed Siddiqui, Amartya Sanyal, David Krueger
+
+
 
 # 2024-08-22
 + [Query-Efficient Video Adversarial Attack with Stylized Logo](https://arxiv.org//abs/2408.12099)
@@ -18,6 +38,21 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [MakeupAttack: Feature Space Black-box Backdoor Attack on Face Recognition via Makeup Transfer](https://arxiv.org//abs/2408.12312)
 
 	Ming Sun, Lihua Jing, Zixuan Zhu, Rui Wang
+
+
++ [Enhancing Transferability of Adversarial Attacks with GE-AdvGAN+: A Comprehensive Framework for Gradient Editing](https://arxiv.org//abs/2408.12673)
+
+	Zhibo Jin, Jiayu Zhang, Zhiyu Zhu, Yuchen Zhang, Jiahao Huang, Jianlong Zhou, Fang Chen
+
+
++ [Leveraging Information Consistency in Frequency and Spatial Domain for Adversarial Attacks](https://arxiv.org//abs/2408.12670)
+
+	Zhibo Jin, Jiayu Zhang, Zhiyu Zhu, Xinyi Wang, Yiyun Huang, Huaming Chen
+
+
++ [BankTweak: Adversarial Attack against Multi-Object Trackers by Manipulating Feature Banks](https://arxiv.org//abs/2408.12727)
+
+	Woojin Shin, Donghwa Kang, Daejin Choi, Brent Kang, Jinkyu Lee, Hyeongboo Baek
 
 
 
