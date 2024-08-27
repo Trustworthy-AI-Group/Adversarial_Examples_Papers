@@ -2,6 +2,67 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-08-26
++ [Celtibero: Robust Layered Aggregation for Federated Learning](https://arxiv.org//abs/2408.14240)
+
+	Borja Molina-Coronado
+
+
++ [MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues](https://arxiv.org//abs/2408.14418)
+
+	Kuluhan Binici, Abhinav Ramesh Kashyap, Viktor Schlegel, Andy T. Liu, Vijay Prakash Dwivedi, Thanh-Tung Nguyen, Xiaoxue Gao, Nancy F. Chen, Stefan Winkler
+
+
++ [TF-Attack: Transferable and Fast Adversarial Attacks on Large Language Models](https://arxiv.org//abs/2408.13985)
+
+	Zelin Li, Kehai Chen, Xuefeng Bai, Lemao Liu, Mingming Yang, Yang Xiang, Min Zhang
+
+
++ [Dual-Path Adversarial Lifting for Domain Shift Correction in Online Test-time Adaptation](https://arxiv.org//abs/2408.13983)
+
+	Yushun Tang, Shuoshuo Chen, Zhihe Lu, Xinchao Wang, Zhihai He
+
+
++ [2D-Malafide: Adversarial Attacks Against Face Deepfake Detection Systems](https://arxiv.org//abs/2408.14143)
+
+	Chiara Galdi, Michele Panariello, Massimiliano Todisco, Nicholas Evans
+
+
+
+# 2024-08-25
++ [SAB:A Stealing and Robust Backdoor Attack based on Steganographic Algorithm against Federated Learning](https://arxiv.org//abs/2408.13773)
+
+	Weida Xu, Yang Xu, Sicong Zhang
+
+
++ [On the Robustness of Kolmogorov-Arnold Networks: An Adversarial Perspective](https://arxiv.org//abs/2408.13809)
+
+	Tal Alter, Raz Lapid, Moshe Sipper
+
+
++ [RT-Attack: Jailbreaking Text-to-Image Models via Random Token](https://arxiv.org//abs/2408.13896)
+
+	Sensen Gao, Xiaojun Jia, Yihao Huang, Ranjie Duan, Jindong Gu, Yang Liu, Qing Guo
+
+
++ [CAMH: Advancing Model Hijacking Attack in Machine Learning](https://arxiv.org//abs/2408.13741)
+
+	Xing He, Jiahao Chen, Yuwen Pu, Qingming Li, Chunyi Zhou, Yingcai Wu, Jinbao Li, Shouling Ji
+
+
++ [Sample-Independent Federated Learning Backdoor Attack](https://arxiv.org//abs/2408.13849)
+
+	Weida Xu, Yang Xu, Sicong Zhang
+
+
+
+# 2024-08-24
++ [Probing the Robustness of Vision-Language Pretrained Models: A Multimodal Adversarial Attack Approach](https://arxiv.org//abs/2408.13461)
+
+	Jiwei Guan, Tianyu Ding, Longbing Cao, Lei Pan, Chen Wang, Xi Zheng
+
+
+
 # 2024-08-23
 + [On the Credibility of Backdoor Attacks Against Object Detectors in the Physical World](https://arxiv.org//abs/2408.12122)
 
@@ -182,6 +243,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Revisiting Min-Max Optimization Problem in Adversarial Training](https://arxiv.org//abs/2408.11218)
 
 	Sina Hajer Ahmadi, Hassan Bahrami
+
+
++ [Robust Image Classification: Defensive Strategies against FGSM and PGD Adversarial Attacks](https://arxiv.org//abs/2408.13274)
+
+	Hetvi Waghela, Jaydip Sen, Sneha Rakshit
 
 
 
