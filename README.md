@@ -2,6 +2,44 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-08-27
++ [TART: Boosting Clean Accuracy Through Tangent Direction Guided Adversarial Training](https://arxiv.org//abs/2408.14728)
+
+	Bongsoo Yi, Rongjie Lai, Yao Li
+
+
++ [Detecting AI Flaws: Target-Driven Attacks on Internal Faults in Language Models](https://arxiv.org//abs/2408.14853)
+
+	Yuhao Du, Zhuo Li, Pengyu Cheng, Xiang Wan, Anningzhe Gao
+
+
++ [Adversarial Attacks and Defenses in Multivariate Time-Series Forecasting for Smart and Connected Infrastructures](https://arxiv.org//abs/2408.14875)
+
+	Pooja Krishan, Rohan Mohapatra, Saptarshi Sengupta
+
+
++ [Evidence-Enhanced Triplet Generation Framework for Hallucination Alleviation in Generative Question Answering](https://arxiv.org//abs/2408.15037)
+
+	Haowei Du, Huishuai Zhang, Dongyan Zhao
+
+
++ [LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet](https://arxiv.org//abs/2408.15221)
+
+	Nathaniel Li, Ziwen Han, Ian Steneker, Willow Primack, Riley Goodside, Hugh Zhang, Zifan Wang, Cristina Menghini, Summer Yue
+
+
++ [Adversarial Manhole: Challenging Monocular Depth Estimation and Semantic Segmentation Models with Patch Attack](https://arxiv.org//abs/2408.14879)
+
+	Naufal Suryanto, Andro Aprila Adiputra, Ahmada Yusril Kadiptya, Yongsu Kim, Howon Kim
+
+
++ [Learning Differentially Private Diffusion Models via Stochastic Adversarial Distillation](https://arxiv.org//abs/2408.14738)
+
+	Bochao Liu, Pengju Wang, Shiming Ge
+
+
+
+
 # 2024-08-26
 + [Celtibero: Robust Layered Aggregation for Federated Learning](https://arxiv.org//abs/2408.14240)
 
