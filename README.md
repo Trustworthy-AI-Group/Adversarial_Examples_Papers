@@ -2,6 +2,33 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-08-28
++ [Evaluating Model Robustness Using Adaptive Sparse L0 Regularization](https://arxiv.org//abs/2408.15702)
+
+	Weiyou Liu, Zhenyang Li, Weitong Chen
+
+
++ [Defending Text-to-image Diffusion Models: Surprising Efficacy of Textual Perturbations Against Backdoor Attacks](https://arxiv.org//abs/2408.15721)
+
+	Oscar Chew, Po-Yi Lu, Jayden Lin, Hsuan-Tien Lin
+
+
++ [Network transferability of adversarial patches in real-time object detection](https://arxiv.org//abs/2408.15833)
+
+	Jens Bayer, Stefan Becker, David Münch, Michael Arens
+
+
++ [Certified Causal Defense with Generalizable Robustness](https://arxiv.org//abs/2408.15451)
+
+	Yiran Qiao, Yu Yin, Chen Chen, Jing Ma
+
+
++ [VFLIP: A Backdoor Defense for Vertical Federated Learning via Identification and Purification](https://arxiv.org//abs/2408.15591)
+
+	Yungi Cho, Woorim Han, Miseon Yu, Ho Bae, Yunheung Paek
+
+
+
 # 2024-08-27
 + [TART: Boosting Clean Accuracy Through Tangent Direction Guided Adversarial Training](https://arxiv.org//abs/2408.14728)
 
