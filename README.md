@@ -2,6 +2,28 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-08-29
++ [DetectBERT: Towards Full App-Level Representation Learning to Detect Android Malware](https://arxiv.org//abs/2408.16353)
+
+	Tiezhu Sun, Nadia Daoudi, Kisub Kim, Kevin Allix, Tegawendé F. Bissyandé, Jacques Klein
+
+
++ [SFR-GNN: Simple and Fast Robust GNNs against Structural Attacks](https://arxiv.org//abs/2408.16537)
+
+	Xing Ai, Guanyu Zhu, Yulin Zhu, Yu Zheng, Gaolei Li, Jianhua Li, Kai Zhou
+
+
++ [PromptSmooth: Certifying Robustness of Medical Vision-Language Models via Prompt Learning](https://arxiv.org//abs/2408.16769)
+
+	Noor Hussein, Fahad Shamshad, Muzammal Naseer, Karthik Nandakumar
+
+
++ [GL-TSVM: A robust and smooth twin support vector machine with guardian loss function](https://arxiv.org//abs/2408.16336)
+
+	Mushir Akhtar, M. Tanveer, Mohd. Arshad
+
+
+
 # 2024-08-28
 + [Evaluating Model Robustness Using Adaptive Sparse L0 Regularization](https://arxiv.org//abs/2408.15702)
 
@@ -63,6 +85,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Learning Differentially Private Diffusion Models via Stochastic Adversarial Distillation](https://arxiv.org//abs/2408.14738)
 
 	Bochao Liu, Pengju Wang, Shiming Ge
+
+
++ [Improving Adversarial Robustness in Android Malware Detection by Reducing the Impact of Spurious Correlations](https://arxiv.org//abs/2408.16025)
+
+	Hamid Bostani, Zhengyu Zhao, Veelasha Moonsamy
 
 
 
