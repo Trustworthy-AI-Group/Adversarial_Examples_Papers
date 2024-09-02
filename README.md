@@ -2,6 +2,28 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-08-30
++ [Safety Layers of Aligned Large Language Models: The Key to LLM Security](https://arxiv.org//abs/2408.17003)
+
+	Shen Li, Liuyi Yao, Lan Zhang, Yaliang Li
+
+
++ [Instant Adversarial Purification with Adversarial Consistency Distillation](https://arxiv.org//abs/2408.17064)
+
+	Chun Tong Lei, Hon Ming Yam, Zhongliang Guo, Chun Pong Lau
+
+
++ [Forget to Flourish: Leveraging Machine-Unlearning on Pretrained Language Models for Privacy Leakage](https://arxiv.org//abs/2408.17354)
+
+	Md Rafi Ur Rashid, Jing Liu, Toshiaki Koike-Akino, Shagufta Mehnaz, Ye Wang
+
+
++ [Can We Leave Deepfake Data Behind in Training Deepfake Detector?](https://arxiv.org//abs/2408.17052)
+
+	Jikang Cheng, Zhiyuan Yan, Ying Zhang, Yuhao Luo, Zhongyuan Wang, Chen Li
+
+
+
 # 2024-08-29
 + [DetectBERT: Towards Full App-Level Representation Learning to Detect Android Malware](https://arxiv.org//abs/2408.16353)
 
@@ -21,6 +43,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [GL-TSVM: A robust and smooth twin support vector machine with guardian loss function](https://arxiv.org//abs/2408.16336)
 
 	Mushir Akhtar, M. Tanveer, Mohd. Arshad
+
+
++ [STEREO: Towards Adversarially Robust Concept Erasing from Text-to-Image Generation Models](https://arxiv.org//abs/2408.16807)
+
+	Koushik Srivatsan, Fahad Shamshad, Muzammal Naseer, Karthik Nandakumar
 
 
 
