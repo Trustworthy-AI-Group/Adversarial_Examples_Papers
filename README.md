@@ -2,6 +2,94 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-09-03
++ [Exploiting the Vulnerability of Large Language Models via Defense-Aware Architectural Backdoor](https://arxiv.org//abs/2409.01952)
+
+	Abdullah Arafat Miah, Yu Bi
+
+
++ [In Defense of RAG in the Era of Long-Context Language Models](https://arxiv.org//abs/2409.01666)
+
+	Tan Yu, Anbang Xu, Rama Akkiraju
+
+
++ [Dynamic Guidance Adversarial Distillation with Enhanced Teacher Knowledge](https://arxiv.org//abs/2409.01627)
+
+	Hyejin Park, Dongbo Min
+
+
+
+# 2024-09-02
++ [CLIBE: Detecting Dynamic Backdoors in Transformer-based NLP Models](https://arxiv.org//abs/2409.01193)
+
+	Rui Zeng, Xi Chen, Yuwen Pu, Xuhong Zhang, Tianyu Du, Shouling Ji
+
+
++ [Towards Robust Online Domain Adaptive Semantic Segmentation under Adverse Weather Conditions](https://arxiv.org//abs/2409.01072)
+
+	Taorong Liu, Jing Xiao, Liang Liao, Chia-Wen Lin
+
+
++ [Defending against Model Inversion Attacks via Random Erasing](https://arxiv.org//abs/2409.01062)
+
+	Viet-Hung Tran, Ngoc-Bao Nguyen, Son T. Mai, Hans Vandierendonck, Ngai-man Cheung
+
+
++ [Adversarial Pruning: A Survey and Benchmark of Pruning Methods for Adversarial Robustness](https://arxiv.org//abs/2409.01249)
+
+	Giorgio Piras, Maura Pintor, Ambra Demontis, Battista Biggio, Giorgio Giacinto, Fabio Roli
+
+
++ [Backdoor Defense through Self-Supervised and Generative Learning](https://arxiv.org//abs/2409.01185)
+
+	Ivan Sabolić, Ivan Grubišić, Siniša Šegvić
+
+
++ [Unveiling the Vulnerability of Private Fine-Tuning in Split-Based Frameworks for Large Language Models: A Bidirectionally Enhanced Attack](https://arxiv.org//abs/2409.00960)
+
+	Guanzhong Chen, Zhenhan Qin, Mingxin Yang, Yajie Zhou, Tao Fan, Tianyu Du, Zenglin Xu
+
+
++ [No Peer, no Cry: Network Application Fuzzing via Fault Injection](https://arxiv.org//abs/2409.01059)
+
+	Nils Bars, Moritz Schloegel, Nico Schiller, Lukas Bernhard, Thorsten Holz
+
+
++ [Phantom: Untargeted Poisoning Attacks on Semi-Supervised Learning (Full Version)](https://arxiv.org//abs/2409.01470)
+
+	Jonathan Knauer, Phillip Rieger, Hossein Fereidooni, Ahmad-Reza Sadeghi
+
+
+
+# 2024-09-01
++ [The Dark Side of Human Feedback: Poisoning Large Language Models via User Inputs](https://arxiv.org//abs/2409.00787)
+
+	Bocheng Chen, Hanqing Guo, Guangjing Wang, Yuanda Wang, Qiben Yan
+
+
++ [Fisher Information guided Purification against Backdoor Attacks](https://arxiv.org//abs/2409.00863)
+
+	Nazmul Karim, Abdullah Al Arafat, Adnan Siraj Rakin, Zhishan Guo, Nazanin Rahnavard
+
+
+
+# 2024-08-31
++ [Robust off-policy Reinforcement Learning via Soft Constrained Adversary](https://arxiv.org//abs/2409.00418)
+
+	Kosuke Nakanishi, Akihiro Kubo, Yuji Yasui, Shin Ishii
+
+
++ [Rethinking Backdoor Detection Evaluation for Language Models](https://arxiv.org//abs/2409.00399)
+
+	Jun Yan, Wenjie Jacky Mo, Xiang Ren, Robin Jia
+
+
++ [LightPure: Realtime Adversarial Image Purification for Mobile Devices Using Diffusion Models](https://arxiv.org//abs/2409.00340)
+
+	Hossein Khalili, Seongbin Park, Vincent Li, Brandan Bright, Ali Payani, Ramana Rao Kompella, Nader Sehatbakhsh
+
+
+
 # 2024-08-30
 + [Safety Layers of Aligned Large Language Models: The Key to LLM Security](https://arxiv.org//abs/2408.17003)
 
@@ -488,6 +576,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [BaThe: Defense against the Jailbreak Attack in Multimodal Large Language Models by Treating Harmful Instruction as Backdoor Trigger](https://arxiv.org//abs/2408.09093)
 
 	Yulin Chen, Haoran Li, Zihao Zheng, Yangqiu Song
+
+
++ [Attack Anything: Blind DNNs via Universal Background Adversarial Attack](https://arxiv.org//abs/2409.00029)
+
+	Jiawei Lian, Shaohui Mei, Xiaofei Wang, Yi Wang, Lefan Wang, Yingjie Lu, Mingyang Ma, Lap-Pui Chau
 
 
 
