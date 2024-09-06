@@ -2,6 +2,48 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-09-04
++ [TASAR: Transferable Attack on Skeletal Action Recognition](https://arxiv.org//abs/2409.02483)
+
+	Yunfeng Diao, Baiqi Wu, Ruixuan Zhang, Ajian Liu, Xingxing Wei, Meng Wang, He Wang
+
+
++ [Adversarial Attacks on Machine Learning-Aided Visualizations](https://arxiv.org//abs/2409.02485)
+
+	Takanori Fujiwara, Kostiantyn Kucher, Junpeng Wang, Rafael M. Martins, Andreas Kerren, Anders Ynnerman
+
+
++ [AdvSecureNet: A Python Toolkit for Adversarial Machine Learning](https://arxiv.org//abs/2409.02629)
+
+	Melih Catal, Manuel Günther
+
+
++ [Alignment-Aware Model Extraction Attacks on Large Language Models](https://arxiv.org//abs/2409.02718)
+
+	Zi Liang, Qingqing Ye, Yanyun Wang, Sen Zhang, Yaxin Xiao, Ronghua Li, Jianliang Xu, Haibo Hu
+
+
++ [Benchmarking Spurious Bias in Few-Shot Image Classifiers](https://arxiv.org//abs/2409.02882)
+
+	Guangtao Zheng, Wenqian Ye, Aidong Zhang
+
+
++ [Robust Federated Finetuning of Foundation Models via Alternating Minimization of LoRA](https://arxiv.org//abs/2409.02346)
+
+	Shuangyi Chen, Yue Ju, Hardik Dalal, Zhongwen Zhu, Ashish Khisti
+
+
++ [Boosting Certificate Robustness for Time Series Classification with Efficient Self-Ensemble](https://arxiv.org//abs/2409.02802)
+
+	Chang Dong, Zhengyang Li, Liangwei Zheng, Weitong Chen, Wei Emma Zhang
+
+
++ [Transfer-based Adversarial Poisoning Attacks for Online (MIMO-)Deep Receviers](https://arxiv.org//abs/2409.02430)
+
+	Kunze Wu, Weiheng Jiang, Dusit Niyato, Yinghuan Li, Chuang Luo
+
+
+
 # 2024-09-03
 + [Exploiting the Vulnerability of Large Language Models via Defense-Aware Architectural Backdoor](https://arxiv.org//abs/2409.01952)
 
@@ -16,6 +58,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Dynamic Guidance Adversarial Distillation with Enhanced Teacher Knowledge](https://arxiv.org//abs/2409.01627)
 
 	Hyejin Park, Dongbo Min
+
+
++ [NoiseAttack: An Evasive Sample-Specific Multi-Targeted Backdoor Attack Through White Gaussian Noise](https://arxiv.org//abs/2409.02251)
+
+	Abdullah Arafat Miah, Kaan Icer, Resit Sendag, Yu Bi
 
 
 
