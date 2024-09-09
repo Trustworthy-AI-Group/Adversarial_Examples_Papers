@@ -2,6 +2,56 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-09-06
++ [A First Look At Efficient And Secure On-Device LLM Inference Against KV Leakage](https://arxiv.org//abs/2409.04040)
+
+	Huan Yang, Deyu Zhang, Yudong Zhao, Yuanchun Li, Yunxin Liu
+
+
++ [Context is the Key: Backdoor Attacks for In-Context Learning with Vision Transformers](https://arxiv.org//abs/2409.04142)
+
+	Gorka Abad, Stjepan Picek, Lorenzo Cavallaro, Aitor Urbieta
+
+
++ [AGR: Age Group fairness Reward for Bias Mitigation in LLMs](https://arxiv.org//abs/2409.04340)
+
+	Shuirong Cao, Ruoxi Cheng, Zhiqiang Wang
+
+
++ [Learning to Learn Transferable Generative Attack for Person Re-Identification](https://arxiv.org//abs/2409.04208)
+
+	Yuan Bian, Min Liu, Xueping Wang, Yunfeng Ma, Yaonan Wang
+
+
+
+# 2024-09-05
++ [Bypassing DARCY Defense: Indistinguishable Universal Adversarial Triggers](https://arxiv.org//abs/2409.03183)
+
+	Zuquan Peng, Yuanyuan He, Jianbing Ni, Ben Niu
+
+
++ [Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG](https://arxiv.org//abs/2409.03646)
+
+	Manshan Guo, Bhavin Choksi, Sari Sadiya, Alessandro T. Gifford, Martina G. Vilas, Radoslaw M. Cichy, Gemma Roig
+
+
++ [Active Fake: DeepFake Camouflage](https://arxiv.org//abs/2409.03200)
+
+	Pu Sun, Honggang Qi, Yuezun Li
+
+
++ [Non-Uniform Illumination Attack for Fooling Convolutional Neural Networks](https://arxiv.org//abs/2409.03458)
+
+	Akshay Jain, Shiv Ram Dubey, Satish Kumar Singh, KC Santosh, Bidyut Baran Chaudhuri
+
+
++ [A practical approach to evaluating the adversarial distance for machine learning classifiers](https://arxiv.org//abs/2409.03598)
+
+	Georg Siedel, Ekagra Gupta, Andrey Morozov
+
+
+
+
 # 2024-09-04
 + [TASAR: Transferable Attack on Skeletal Action Recognition](https://arxiv.org//abs/2409.02483)
 
@@ -63,6 +113,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [NoiseAttack: An Evasive Sample-Specific Multi-Targeted Backdoor Attack Through White Gaussian Noise](https://arxiv.org//abs/2409.02251)
 
 	Abdullah Arafat Miah, Kaan Icer, Resit Sendag, Yu Bi
+
+
++ [Safeguarding AI Agents: Developing and Analyzing Safety Architectures](https://arxiv.org//abs/2409.03793)
+
+	Ishaan Domkundwar, Mukunda N S
 
 
 
@@ -134,6 +189,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [LightPure: Realtime Adversarial Image Purification for Mobile Devices Using Diffusion Models](https://arxiv.org//abs/2409.00340)
 
 	Hossein Khalili, Seongbin Park, Vincent Li, Brandan Bright, Ali Payani, Ramana Rao Kompella, Nader Sehatbakhsh
+
+
++ [HSF: Defending against Jailbreak Attacks with Hidden State Filtering](https://arxiv.org//abs/2409.03788)
+
+	Cheng Qian, Hainan Zhang, Lei Sha, Zhiming Zheng
 
 
 
