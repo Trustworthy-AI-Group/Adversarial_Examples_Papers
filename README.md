@@ -2,6 +2,77 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-09-09
++ [TERD: A Unified Framework for Safeguarding Diffusion Models Against Backdoors](https://arxiv.org//abs/2409.05294)
+
+	Yichuan Mo, Hui Huang, Mingjie Li, Ang Li, Yisen Wang
+
+
++ [Seeing Through the Mask: Rethinking Adversarial Examples for CAPTCHAs](https://arxiv.org//abs/2409.05558)
+
+	Yahya Jabary, Andreas Plesner, Turlan Kuzhagaliyev, Roger Wattenhofer
+
+
++ [DSDFormer: An Innovative Transformer-Mamba Framework for Robust High-Precision Driver Distraction Identification](https://arxiv.org//abs/2409.05587)
+
+	Junzhou Chen, Zirui Zhang, Jing Yu, Heqiang Huang, Ronghui Zhang, Xuemiao Xu, Bin Sheng, Hong Yan
+
+
++ [Adversarial Attacks on Data Attribution](https://arxiv.org//abs/2409.05657)
+
+	Xinhe Wang, Pingbang Hu, Junwei Deng, Jiaqi W. Ma
+
+
+
+# 2024-09-08
++ [PIP: Detecting Adversarial Examples in Large Vision-Language Models via Attention Patterns of Irrelevant Probe Questions](https://arxiv.org//abs/2409.05076)
+
+	Yudong Zhang, Ruobing Xie, Jiansheng Chen, Xingwu Sun, Yu Wang
+
+
++ [Vision-fused Attack: Advancing Aggressive and Stealthy Adversarial Text against Neural Machine Translation](https://arxiv.org//abs/2409.05021)
+
+	Yanni Xue, Haojie Hao, Jiakai Wang, Qiang Sheng, Renshuai Tao, Yu Liang, Pu Feng, Xianglong Liu
+
+
++ [Natias: Neuron Attribution based Transferable Image Adversarial Steganography](https://arxiv.org//abs/2409.04968)
+
+	Zexin Fan, Kejiang Chen, Kai Zeng, Jiansong Zhang, Weiming Zhang, Nenghai Yu
+
+
++ [Sight View Constraint for Robust Point Cloud Registration](https://arxiv.org//abs/2409.05065)
+
+	Yaojie Zhang, Weijun Wang, Tianlun Huang, Zhiyong Wang, Wei Feng
+
+
++ [Can OOD Object Detectors Learn from Foundation Models?](https://arxiv.org//abs/2409.05162)
+
+	Jiahui Liu, Xin Wen, Shizhen Zhao, Yingxian Chen, Xiaojuan Qi
+
+
++ [Balancing Security and Accuracy: A Novel Federated Learning Approach for Cyberattack Detection in Blockchain Networks](https://arxiv.org//abs/2409.04972)
+
+	Tran Viet Khoa, Mohammad Abu Alsheikh, Yibeltal Alem, Dinh Thai Hoang
+
+
+
+# 2024-09-07
++ [Swin Transformer for Robust Differentiation of Real and Synthetic Images: Intra- and Inter-Dataset Analysis](https://arxiv.org//abs/2409.04734)
+
+	Preetu Mehta, Aman Sagar, Suchi Kumari
+
+
++ [PANTS: Practical Adversarial Network Traffic Samples against ML-powered Networking Classifiers](https://arxiv.org//abs/2409.04691)
+
+	Minhao Jin, Maria Apostolaki
+
+
++ [PIXHELL Attack: Leaking Sensitive Information from Air-Gap Computers via `Singing Pixels'](https://arxiv.org//abs/2409.04930)
+
+	Mordechai Guri
+
+
+
 # 2024-09-06
 + [A First Look At Efficient And Secure On-Device LLM Inference Against KV Leakage](https://arxiv.org//abs/2409.04040)
 
