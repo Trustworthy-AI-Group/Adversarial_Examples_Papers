@@ -2,6 +2,38 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-09-10
++ [On the Weaknesses of Backdoor-based Model Watermarking: An Information-theoretic Perspective](https://arxiv.org//abs/2409.06130)
+
+	Aoting Hu, Yanzhi Chen, Renjie Xie, Adrian Weller
+
+
++ [Towards Robust Uncertainty-Aware Incomplete Multi-View Classification](https://arxiv.org//abs/2409.06270)
+
+	Mulin Chen, Haojian Huang, Qiang Li
+
+
++ [LAMP: Learnable Meta-Path Guided Adversarial Contrastive Learning for Heterogeneous Graphs](https://arxiv.org//abs/2409.06323)
+
+	Siqing Li, Jin-Duk Park, Wei Huang, Xin Cao, Won-Yong Shin, Zhiqiang Xu
+
+
++ [Unrevealed Threats: A Comprehensive Study of the Adversarial Robustness of Underwater Image Enhancement Models](https://arxiv.org//abs/2409.06420)
+
+	Siyu Zhai, Zhibo He, Xiaofeng Cong, Junming Hou, Jie Gui, Jian Wei You, Xin Gong, James Tin-Yau Kwok, Yuan Yan Tang
+
+
++ [BACKRUNNER: Mitigating Smart Contract Attacks in the Real World](https://arxiv.org//abs/2409.06213)
+
+	Chaofan Shou, Yuanyu Ke, Yupeng Yang, Qi Su, Or Dadosh, Assaf Eli, David Benchimol, Doudou Lu, Daniel Tong, Dex Chen, Zoey Tan, Jacob Chia, Koushik Sen, Wenke Lee
+
+
++ [Adversary Resilient Learned Bloom Filters](https://arxiv.org//abs/2409.06556)
+
+	Allison Bishop, Hayder Tirmazi
+
+
+
 # 2024-09-09
 + [TERD: A Unified Framework for Safeguarding Diffusion Models Against Backdoors](https://arxiv.org//abs/2409.05294)
 
@@ -119,6 +151,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [A practical approach to evaluating the adversarial distance for machine learning classifiers](https://arxiv.org//abs/2409.03598)
 
 	Georg Siedel, Ekagra Gupta, Andrey Morozov
+
+
++ [Simplex-enabled Safe Continual Learning Machine](https://arxiv.org//abs/2409.05898)
+
+	Yihao Cai, Hongpeng Cao, Yanbing Mao, Lui Sha, Marco Caccamo
 
 
 
