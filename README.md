@@ -2,6 +2,89 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-09-12
++ [A Spatiotemporal Stealthy Backdoor Attack against Cooperative Multi-Agent Deep Reinforcement Learning](https://arxiv.org//abs/2409.07775)
+
+	Yinbo Yu, Saihao Yan, Jiajia Liu
+
+
++ [Attack End-to-End Autonomous Driving through Module-Wise Noise](https://arxiv.org//abs/2409.07706)
+
+	Lu Wang, Tianyuan Zhang, Yikai Han, Muyang Fang, Ting Jin, Jiaqi Kang
+
+
++ [Unleashing Worms and Extracting Data: Escalating the Outcome of Attacks against RAG-based Inference in Scale and Severity Using Jailbreaking](https://arxiv.org//abs/2409.08045)
+
+	Stav Cohen, Ron Bitton, Ben Nassi
+
+
++ [LoRID: Low-Rank Iterative Diffusion for Adversarial Purification](https://arxiv.org//abs/2409.08255)
+
+	Geigh Zollicoffer, Minh Vu, Ben Nebgen, Juan Castorena, Boian Alexandrov, Manish Bhattarai
+
+
++ [GAZEploit: Remote Keystroke Inference Attack by Gaze Estimation from Avatar Views in VR/MR Devices](https://arxiv.org//abs/2409.08122)
+
+	Hanqiu Wang, Zihao Zhan, Haoqi Shan, Siqi Dai, Max Panoff, Shuo Wang
+
+
++ [Efficient Privacy-Preserving KAN Inference Using Homomorphic Encryption](https://arxiv.org//abs/2409.07751)
+
+	Zhizheng Lai, Yufei Zhou, Peijia Zheng, Lin Chen
+
+
++ [DFDG: Data-Free Dual-Generator Adversarial Distillation for One-Shot Federated Learning](https://arxiv.org//abs/2409.07734)
+
+	Kangyang Luo, Shuai Wang, Yexuan Fu, Renrong Shao, Xiang Li, Yunshi Lan, Ming Gao, Jinlong Shu
+
+
++ [Detecting and Defending Against Adversarial Attacks on Automatic Speech Recognition via Diffusion Models](https://arxiv.org/abs/2409.07936)
+
+	Nikolai L. Kühne, Astrid H. F. Kitchen, Marie S. Jensen, Mikkel S. L. Brøndt, Martin Gonzalez, Christophe Biscio, Zheng-Hua Tan
+
+
+# 2024-09-11
++ [Cyber Deception: State of the art, Trends and Open challenges](https://arxiv.org//abs/2409.07194)
+
+	Pedro Beltrán López, Manuel Gil Pérez, Pantaleone Nespoli
+
+
++ [Exploring User-level Gradient Inversion with a Diffusion Prior](https://arxiv.org//abs/2409.07291)
+
+	Zhuohang Li, Andrew Lowy, Jing Liu, Toshiaki Koike-Akino, Bradley Malin, Kieran Parsons, Ye Wang
+
+
++ [Module-wise Adaptive Adversarial Training for End-to-end Autonomous Driving](https://arxiv.org//abs/2409.07321)
+
+	Tianyuan Zhang, Lu Wang, Jiaqi Kang, Xinwei Zhang, Siyuan Liang, Yuwei Chen, Aishan Liu, Xianglong Liu
+
+
++ [Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks](https://arxiv.org//abs/2409.07353)
+
+	Md Zarif Hossain, Ahmed Imteaj
+
+
++ [Introducing Perturb-ability Score (PS) to Enhance Robustness Against Evasion Adversarial Attacks on ML-NIDS](https://arxiv.org//abs/2409.07448)
+
+	Mohamed elShehaby, Ashraf Matrawy
+
+
++ [AdvLogo: Adversarial Patch Attack against Object Detectors based on Diffusion Models](https://arxiv.org//abs/2409.07002)
+
+	Boming Miao, Chunxiao Li, Yao Zhu, Weixiang Sun, Zizhe Wang, Xiaoyi Wang, Chuanlong Xie
+
+
++ [AdaPPA: Adaptive Position Pre-Fill Jailbreak Attack Approach Targeting LLMs](https://arxiv.org//abs/2409.07503)
+
+	Lijia Lv, Weigang Zhang, Xuehai Tang, Jie Wen, Feng Liu, Jizhong Han, Songlin Hu
+
+
++ [A Cost-Aware Approach to Adversarial Robustness in Neural Networks](https://arxiv.org//abs/2409.07609)
+
+	Charles Meyers, Mohammad Reza Saleh Sedghpour, Tommy Löfstedt, Erik Elmroth
+
+
+
 # 2024-09-10
 + [On the Weaknesses of Backdoor-based Model Watermarking: An Information-theoretic Perspective](https://arxiv.org//abs/2409.06130)
 
@@ -31,6 +114,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Adversary Resilient Learned Bloom Filters](https://arxiv.org//abs/2409.06556)
 
 	Allison Bishop, Hayder Tirmazi
+
+
++ [Adversarial Attacks to Multi-Modal Models](https://arxiv.org//abs/2409.06793)
+
+	Zhihao Dou, Xin Hu, Haibo Yang, Zhuqing Liu, Minghong Fang
+
+
++ [DV-FSR: A Dual-View Target Attack Framework for Federated Sequential Recommendation](https://arxiv.org//abs/2409.07500)
+
+	Qitao Qin, Yucong Luo, Mingyue Cheng, Qingyang Mao, Chenyi Lei
 
 
 
