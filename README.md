@@ -2,6 +2,35 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-09-18
++ [GReDP: A More Robust Approach for Differential Privacy Training with Gradient-Preserving Noise Reduction](https://arxiv.org//abs/2409.11663)
+
+	Haodi Wang, Tangyu Jiang, Yu Guo, Xiaohua Jia, Chengjun Cai
+
+
++ [NPAT Null-Space Projected Adversarial Training Towards Zero Deterioration](https://arxiv.org//abs/2409.11754)
+
+	Hanyi Hu, Qiao Han, Kui Chen, Yao Yang
+
+
++ [PAD-FT: A Lightweight Defense for Backdoor Attacks via Data Purification and Fine-Tuning](https://arxiv.org//abs/2409.12072)
+
+	Yukai Xu, Yujie Gu, Kouichi Sakurai
+
+
+
+# 2024-09-17
++ [Jailbreaking Large Language Models with Symbolic Mathematics](https://arxiv.org//abs/2409.11445)
+
+	Emet Bethany, Mazal Bethany, Juan Arturo Nolazco Flores, Sumit Kumar Jha, Peyman Najafirad
+
+
++ [Golden Ratio Search: A Low-Power Adversarial Attack for Deep Learning based Modulation Classification](https://arxiv.org//abs/2409.11454)
+
+	Deepsayan Sadhukhan, Nitin Priyadarshini Shankar, Sheetal Kalyani
+
+
+
 # 2024-09-12
 + [A Spatiotemporal Stealthy Backdoor Attack against Cooperative Multi-Agent Deep Reinforcement Learning](https://arxiv.org//abs/2409.07775)
 
@@ -41,6 +70,17 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Detecting and Defending Against Adversarial Attacks on Automatic Speech Recognition via Diffusion Models](https://arxiv.org/abs/2409.07936)
 
 	Nikolai L. Kühne, Astrid H. F. Kitchen, Marie S. Jensen, Mikkel S. L. Brøndt, Martin Gonzalez, Christophe Biscio, Zheng-Hua Tan
+
+
++ [LogoRA: Local-Global Representation Alignment for Robust Time Series Classification](https://arxiv.org//abs/2409.12169)
+
+	Huanyu Zhang, Yi-Fan Zhang, Zhang Zhang, Qingsong Wen, Liang Wang
+
+
++ [Generated Data with Fake Privacy: Hidden Dangers of Fine-tuning Large Language Models on Generated Data](https://arxiv.org//abs/2409.11423)
+
+	Atilla Akkus, Mingjie Li, Junjie Chu, Michael Backes, Yang Zhang, Sinem Sav
+
 
 
 # 2024-09-11
