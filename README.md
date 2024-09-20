@@ -2,6 +2,58 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-09-19
++ [Privacy-Preserving Student Learning with Differentially Private Data-Free Distillation](https://arxiv.org//abs/2409.12384)
+
+	Bochao Liu, Jianghu Lu, Pengju Wang, Junjie Zhang, Dan Zeng, Zhenxing Qian, Shiming Ge
+
+
++ [Channel-Aware Domain-Adaptive Generative Adversarial Network for Robust Speech Recognition](https://arxiv.org//abs/2409.12386)
+
+	Chien-Chun Wang, Li-Wei Chen, Cheng-Kang Chou, Hung-Shin Lee, Berlin Chen, Hsin-Min Wang
+
+
++ [ITPatch: An Invisible and Triggered Physical Adversarial Patch against Traffic Sign Recognition](https://arxiv.org//abs/2409.12394)
+
+	Shuai Yuan, Hongwei Li, Xingshuo Han, Guowen Xu, Wenbo Jiang, Tao Ni, Qingchuan Zhao, Yuguang Fang
+
+
++ [TEAM: Temporal Adversarial Examples Attack Model against Network Intrusion Detection System Applied to RNN](https://arxiv.org//abs/2409.12472)
+
+	Ziyi Liu, Dengpan Ye, Long Tang, Yunming Zhang, Jiacheng Deng
+
+
++ [The Robustness of Spiking Neural Networks in Communication and its Application towards Network Efficiency in Federated Learning](https://arxiv.org//abs/2409.12769)
+
+	Manh V. Nguyen, Liang Zhao, Bobin Deng, William Severa, Honghui Xu, Shaoen Wu
+
+
++ [Defending against Reverse Preference Attacks is Difficult](https://arxiv.org//abs/2409.12914)
+
+	Domenic Rosati, Giles Edkins, Harsh Raj, David Atanasov, Subhabrata Majumdar, Janarthanan Rajendran, Frank Rudzicz, Hassan Sajjad
+
+
++ [Enhancing 3D Robotic Vision Robustness by Minimizing Adversarial Mutual Information through a Curriculum Training Approach](https://arxiv.org//abs/2409.12379)
+
+	Nastaran Darabi, Dinithi Jayasuriya, Devashri Naik, Theja Tulabandhula, Amit Ranjan Trivedi
+
+
++ [Revisiting Semi-supervised Adversarial Robustness via Noise-aware Online Robust Distillation](https://arxiv.org//abs/2409.12946)
+
+	Tsung-Han Wu, Hung-Ting Su, Shang-Tse Chen, Winston H. Hsu
+
+
++ [On the Regret of Coded Caching with Adversarial Requests](https://arxiv.org//abs/2409.12387)
+
+	Anupam Nayak, Kota Srinivas Reddy, Nikhil Karamchandani
+
+
++ [On the Hardness of Decentralized Multi-Agent Policy Evaluation under Byzantine Attacks](https://arxiv.org//abs/2409.12882)
+
+	Hairi, Minghong Fang, Zifan Zhang, Alvaro Velasquez, Jia Liu
+
+
+
 # 2024-09-18
 + [GReDP: A More Robust Approach for Differential Privacy Training with Gradient-Preserving Noise Reduction](https://arxiv.org//abs/2409.11663)
 
@@ -28,6 +80,17 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Golden Ratio Search: A Low-Power Adversarial Attack for Deep Learning based Modulation Classification](https://arxiv.org//abs/2409.11454)
 
 	Deepsayan Sadhukhan, Nitin Priyadarshini Shankar, Sheetal Kalyani
+
+
+# 2024-09-16
++ [HALO: Hallucination Analysis and Learning Optimization to Empower LLMs with Retrieval-Augmented Context for Guided Clinical Decision Making](https://arxiv.org//abs/2409.10011)
+
+	Sumera Anjum, Hanzhi Zhang, Wenjun Zhou, Eun Jin Paek, Xiaopeng Zhao, Yunhe Feng
+
+
++ [Towards Physically-Realizable Adversarial Attacks in Embodied Vision Navigation](https://arxiv.org//abs/2409.10071)
+
+	Meng Chen, Jiawei Tu, Chao Qi, Yonghao Dang, Feng Zhou, Wei Wei, Jianqin Yin
 
 
 
