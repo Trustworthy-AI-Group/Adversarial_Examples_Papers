@@ -2,6 +2,43 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-09-20
++ [Relationship between Uncertainty in DNNs and Adversarial Attacks](https://arxiv.org//abs/2409.13232)
+
+	Abigail Adeniran, Adewale Adeyemo
+
+
++ [ID-Guard: A Universal Framework for Combating Facial Manipulation via Breaking Identification](https://arxiv.org//abs/2409.13349)
+
+	Zuomin Qu, Wei Lu, Xiangyang Luo, Qian Wang, Xiaochun Cao
+
+
++ [Certified Adversarial Robustness via Partition-based Randomized Smoothing](https://arxiv.org//abs/2409.13546)
+
+	Hossein Goli, Farzan Farnia
+
+
++ [Efficient Visualization of Neural Networks with Generative Models and Adversarial Perturbations](https://arxiv.org//abs/2409.13559)
+
+	Athanasios Karagounis
+
+
++ [Neurosymbolic Conformal Classification](https://arxiv.org//abs/2409.13585)
+
+	Arthur Ledaguenel, Céline Hudelot, Mostepha Khouadjia
+
+
++ [Applying Pre-trained Multilingual BERT in Embeddings for Improved Malicious Prompt Injection Attacks Detection](https://arxiv.org//abs/2409.13331)
+
+	Md Abdur Rahman, Hossain Shahriar, Fan Wu, Alfredo Cuzzocrea
+
+
++ [Robust Salient Object Detection on Compressed Images Using Convolutional Neural Networks](https://arxiv.org//abs/2409.13464)
+
+	Guibiao Liao, Wei Gao
+
+
+
 # 2024-09-19
 + [Privacy-Preserving Student Learning with Differentially Private Data-Free Distillation](https://arxiv.org//abs/2409.12384)
 
@@ -51,6 +88,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [On the Hardness of Decentralized Multi-Agent Policy Evaluation under Byzantine Attacks](https://arxiv.org//abs/2409.12882)
 
 	Hairi, Minghong Fang, Zifan Zhang, Alvaro Velasquez, Jia Liu
+
+
++ [VCAT: Vulnerability-aware and Curiosity-driven Adversarial Training for Enhancing Autonomous Vehicle Robustness](https://arxiv.org//abs/2409.12997)
+
+	Xuan Cai, Zhiyong Cui, Xuesong Bai, Ruimin Ke, Zhenshu Ma, Haiyang Yu, Yilong Ren
+
+
++ [FedAT: Federated Adversarial Training for Distributed Insider Threat Detection](https://arxiv.org//abs/2409.13083)
+
+	R G Gayathri, Atul Sajjanhar, Md Palash Uddin, Yong Xiang
 
 
 
