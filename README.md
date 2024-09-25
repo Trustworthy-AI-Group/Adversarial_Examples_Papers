@@ -3,6 +3,48 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 # 2024-09-23
++ [Toward Mixture-of-Experts Enabled Trustworthy Semantic Communication for 6G Networks](https://arxiv.org//abs/2409.15695)
+
+	Jiayi He, Xiaofeng Luo, Jiawen Kang, Hongyang Du, Zehui Xiong, Ci Chen, Dusit Niyato, Xuemin Shen
+
+
++ [Adversarial Federated Consensus Learning for Surface Defect Classification Under Data Heterogeneity in IIoT](https://arxiv.org//abs/2409.15711)
+
+	Jixuan Cui, Jun Li, Zhen Mei, Yiyang Ni, Wen Chen, Zengxiang Li
+
+
++ [Adversarial Watermarking for Face Recognition](https://arxiv.org//abs/2409.16056)
+
+	Yuguang Yao, Anil Jain, Sijia Liu
+
+
++ [Towards Robust Object Detection: Identifying and Removing Backdoors via Module Inconsistency Analysis](https://arxiv.org//abs/2409.16057)
+
+	Xianda Zhang, Siyuan Liang
+
+
++ [Adversarial Backdoor Defense in CLIP](https://arxiv.org//abs/2409.15968)
+
+	Junhao Kuang, Siyuan Liang, Jiawei Liang, Kuanrong Liu, Xiaochun Cao
+
+
++ [Benchmarking Robustness of Endoscopic Depth Estimation with Synthetically Corrupted Data](https://arxiv.org//abs/2409.16063)
+
+	An Wang, Haochen Yin, Beilei Cui, Mengya Xu, Hongliang Ren
+
+
++ [Data Poisoning-based Backdoor Attack Framework against Supervised Learning Rules of Spiking Neural Networks](https://arxiv.org//abs/2409.15670)
+
+	Lingxin Jin, Meiyu Lin, Wei Jiang, Jinyu Zhan
+
+
++ [Smart Grid Security: A Verified Deep Reinforcement Learning Framework to Counter Cyber-Physical Attacks](https://arxiv.org//abs/2409.15757)
+
+	Suman Maiti, Soumyajit Dey
+
+
+
+# 2024-09-23
 + [PROMPTFUZZ: Harnessing Fuzzing Techniques for Robust Testing of Prompt Injection in LLMs](https://arxiv.org//abs/2409.14729)
 
 	Jiahao Yu, Yangguang Shao, Hanwen Miao, Junzheng Shi, Xinyu Xing
@@ -48,6 +90,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Minyeong Choe, Cheolhee Park, Changho Seo, Hyunil Kim
 
 
++ [Attack Atlas: A Practitioner's Perspective on Challenges and Pitfalls in Red Teaming GenAI](https://arxiv.org//abs/2409.15398)
+
+	Ambrish Rawat, Stefan Schoepf, Giulio Zizzo, Giandomenico Cornacchia, Muhammad Zaid Hameed, Kieran Fraser, Erik Miehling, Beat Buesser, Elizabeth M. Daly, Mark Purcell, Prasanna Sattigeri, Pin-Yu Chen, Kush R. Varshney
+
+
++ [In-Context Learning May Not Elicit Trustworthy Reasoning: A-Not-B Errors in Pretrained Language Models](https://arxiv.org//abs/2409.15454)
+
+	Pengrui Han, Peiyang Song, Haofei Yu, Jiaxuan You
+
+
 # 2024-09-22
 + [Dormant: Defending against Pose-driven Human Image Animation](https://arxiv.org//abs/2409.14424)
 
@@ -84,6 +136,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [When Witnesses Defend: A Witness Graph Topological Layer for Adversarial Graph Learning](https://arxiv.org//abs/2409.14161)
 
 	Naheed Anjum Arafat, Debabrota Basu, Yulia Gel, Yuzhou Chen
+
+
++ [Adversarial Attacks on Parts of Speech: An Empirical Study in Text-to-Image Generation](https://arxiv.org//abs/2409.15381)
+
+	G M Shahariar, Jia Chen, Jiachen Li, Yue Dong
 
 
 
