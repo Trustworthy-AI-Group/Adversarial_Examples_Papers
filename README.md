@@ -2,6 +2,50 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-09-25
++ [Claim-Guided Textual Backdoor Attack for Practical Applications](https://arxiv.org//abs/2409.16618)
+
+	Minkyoo Song, Hanna Kim, Jaehan Kim, Youngjin Jin, Seungwon Shin
+
+
++ [RoleBreak: Character Hallucination as a Jailbreak Attack in Role-Playing Systems](https://arxiv.org//abs/2409.16727)
+
+	Yihong Tang, Bo Wang, Xu Wang, Dongming Zhao, Jing Liu, Jijun Zhang, Ruifang He, Yuexian Hou
+
+
++ [EventHallusion: Diagnosing Event Hallucinations in Video LLMs](https://arxiv.org//abs/2409.16597)
+
+	Jiacheng Zhang, Yang Jiao, Shaoxiang Chen, Jingjing Chen, Yu-Gang Jiang
+
+
++ [Verified Relative Safety Margins for Neural Network Twins](https://arxiv.org//abs/2409.16726)
+
+	Anahita Baninajjar, Kamran Hosseini, Ahmed Rezine, Amir Aminifar
+
+
++ [RESAA: A Removal and Structural Analysis Attack Against Compound Logic Locking](https://arxiv.org//abs/2409.16959)
+
+	Felipe Almeida, Levent Aksoy, Samuel Pagliarini
+
+
+
+# 2024-09-24
++ [Revisiting Acoustic Features for Robust ASR](https://arxiv.org//abs/2409.16399)
+
+	Muhammad A. Shah, Bhiksha Raj
+
+
++ [A Unified Hallucination Mitigation Framework for Large Vision-Language Models](https://arxiv.org//abs/2409.16494)
+
+	Yue Chang, Liqiang Jing, Xiaopeng Zhang, Yue Zhang
+
+
++ [Proactive Schemes: A Survey of Adversarial Attacks for Social Good](https://arxiv.org//abs/2409.16491)
+
+	Vishal Asnani, Xi Yin, Xiaoming Liu
+
+
+
 # 2024-09-23
 + [Toward Mixture-of-Experts Enabled Trustworthy Semantic Communication for 6G Networks](https://arxiv.org//abs/2409.15695)
 
