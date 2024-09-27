@@ -2,6 +2,98 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-09-26
++ [Showing Many Labels in Multi-label Classification Models: An Empirical Study of Adversarial Examples](https://arxiv.org//abs/2409.17568)
+
+	Yujiang Liu, Wenjian Luo, Zhijian Chen, Muhammad Luqman Naseem
+
+
++ [DarkSAM: Fooling Segment Anything Model to Segment Nothing](https://arxiv.org//abs/2409.17874)
+
+	Ziqi Zhou, Yufei Song, Minghui Li, Shengshan Hu, Xianlong Wang, Leo Yu Zhang, Dezhong Yao, Hai Jin
+
+
++ [Improving Fast Adversarial Training via Self-Knowledge Guidance](https://arxiv.org//abs/2409.17589)
+
+	Chengze Jiang, Junkai Wang, Minjing Dong, Jie Gui, Xinli Shi, Yuan Cao, Yuan Yan Tang, James Tin-Yau Kwok
+
+
++ [TA-Cleaner: A Fine-grained Text Alignment Backdoor Defense Strategy for Multimodal Contrastive Learning](https://arxiv.org//abs/2409.17601)
+
+	Yuan Xun, Siyuan Liang, Xiaojun Jia, Xinwei Liu, Xiaochun Cao
+
+
++ [Efficient Bias Mitigation Without Privileged Information](https://arxiv.org//abs/2409.17691)
+
+	Mateo Espinosa Zarlenga, Swami Sankaranarayanan, Jerone T. A. Andrews, Zohreh Shams, Mateja Jamnik, Alice Xiang
+
+
++ [MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks](https://arxiv.org//abs/2409.17699)
+
+	Giandomenico Cornacchia, Giulio Zizzo, Kieran Fraser, Muhammad Zaid Hamed, Ambrish Rawat, Mark Purcell
+
+
++ [Federated Learning under Attack: Improving Gradient Inversion for Batch of Images](https://arxiv.org//abs/2409.17767)
+
+	Luiz Leite, Yuri Santo, Bruno L. Dalmazo, André Riker
+
+
++ [Faithfulness and the Notion of Adversarial Sensitivity in NLP Explanations](https://arxiv.org//abs/2409.17774)
+
+	Supriya Manna, Niladri Sett
+
+
++ [PhantomLiDAR: Cross-modality Signal Injection Attacks against LiDAR](https://arxiv.org//abs/2409.17907)
+
+	Zizhi Jin, Qinhong Jiang, Xuancun Lu, Chen Yan, Xiaoyu Ji, Wenyuan Xu
+
+
++ [Weak-To-Strong Backdoor Attacks for LLMs with Contrastive Knowledge Distillation](https://arxiv.org//abs/2409.17946)
+
+	Shuai Zhao, Leilei Gan, Zhongliang Guo, Xiaobao Wu, Luwei Xiao, Xiaoyu Xu, Cong-Duy Nguyen, Luu Anh Tuan
+
+
++ [An Adversarial Perspective on Machine Unlearning for AI Safety](https://arxiv.org//abs/2409.18025)
+
+	Jakub Łucki, Boyi Wei, Yangsibo Huang, Peter Henderson, Florian Tramèr, Javier Rando
+
+
++ [DARE: Diverse Visual Question Answering with Robustness Evaluation](https://arxiv.org//abs/2409.18023)
+
+	Hannah Sterz, Jonas Pfeiffer, Ivan Vulić
+
+
++ [RED QUEEN: Safeguarding Large Language Models against Concealed Multi-Turn Jailbreaking](https://arxiv.org//abs/2409.17458)
+
+	Yifan Jiang, Kriti Aggarwal, Tanmay Laud, Kashif Munir, Jay Pujara, Subhabrata Mukherjee
+
+
++ [HaloScope: Harnessing Unlabeled LLM Generations for Hallucination Detection](https://arxiv.org//abs/2409.17504)
+
+	Xuefeng Du, Chaowei Xiao, Yixuan Li
+
+
++ [Dark Miner: Defend against unsafe generation for text-to-image diffusion models](https://arxiv.org//abs/2409.17682)
+
+	Zheling Meng, Bo Peng, Xiaochuan Jin, Yue Jiang, Jing Dong, Wei Wang, Tieniu Tan
+
+
++ [Perturb, Attend, Detect and Localize (PADL): Robust Proactive Image Defense](https://arxiv.org//abs/2409.17941)
+
+	Filippo Bartolucci, Iacopo Masi, Giuseppe Lisanti
+
+
++ [CNCA: Toward Customizable and Natural Generation of Adversarial Camouflage for Vehicle Detectors](https://arxiv.org//abs/2409.17963)
+
+	Linye Lyu, Jiawei Zhou, Daojing He, Yu Li
+
+
++ [Cross-Modality Attack Boosted by Gradient-Evolutionary Multiform Optimization](https://arxiv.org//abs/2409.17977)
+
+	Yunpeng Gong, Qingyuan Zeng, Dejun Xu, Zhenzhong Wang, Min Jiang
+
+
+
 # 2024-09-25
 + [Claim-Guided Textual Backdoor Attack for Practical Applications](https://arxiv.org//abs/2409.16618)
 
@@ -26,6 +118,21 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [RESAA: A Removal and Structural Analysis Attack Against Compound Logic Locking](https://arxiv.org//abs/2409.16959)
 
 	Felipe Almeida, Levent Aksoy, Samuel Pagliarini
+
+
++ [Transient Adversarial 3D Projection Attacks on Object Detection in Autonomous Driving](https://arxiv.org//abs/2409.17403)
+
+	Ce Zhou, Qiben Yan, Sijia Liu
+
+
++ [Optical Lens Attack on Deep Learning Based Monocular Depth Estimation](https://arxiv.org//abs/2409.17376)
+
+	Ce Zhou, Qiben Yan, Daniel Kent, Guangjing Wang, Ziqi Zhang, Hayder Radha
+
+
++ [SHEATH: Defending Horizontal Collaboration for Distributed CNNs against Adversarial Noise](https://arxiv.org//abs/2409.17279)
+
+	Muneeba Asif, Mohammad Kumail Kazmi, Mohammad Ashiqur Rahman, Syed Rafay Hasan, Soamar Homsi
 
 
 
