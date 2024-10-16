@@ -2,6 +2,58 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-10-15
++ [Towards General Deepfake Detection with Dynamic Curriculum](https://arxiv.org//abs/2410.11162)
+
+	Wentang Song, Yuzhen Lin, Bin Li
+
+
++ [Archilles' Heel in Semi-open LLMs: Hiding Bottom against Recovery Attacks](https://arxiv.org//abs/2410.11182)
+
+	Hanbo Huang, Yihan Li, Bowen Jiang, Lin Liu, Ruoyu Sun, Zhuotao Liu, Shiyu Liang
+
+
++ [Backdoor Attack on Vertical Federated Graph Neural Network Learning](https://arxiv.org//abs/2410.11290)
+
+	Jirui Yang, Peng Chen, Zhihui Lu, Ruijun Deng, Qiang Duan, Jianping Zeng
+
+
++ [Multi-round jailbreak attack on large language models](https://arxiv.org//abs/2410.11533)
+
+	Yihua Zhou, Xiaochuan Shi
+
+
++ [Magnifier Prompt: Tackling Multimodal Hallucination via Extremely Simple Instructions](https://arxiv.org//abs/2410.11701)
+
+	Yuhan Fu, Ruobing Xie, Jiazhen Liu, Bangxiang Lan, Xingwu Sun, Zhanhui Kang, Xirong Li
+
+
++ [Cognitive Overload Attack:Prompt Injection for Long Context](https://arxiv.org//abs/2410.11272)
+
+	Bibek Upadhayay, Vahid Behzadan, Amin Karbasi
+
+
++ [Deciphering the Chaos: Enhancing Jailbreak Attacks via Adversarial Prompt Translation](https://arxiv.org//abs/2410.11317)
+
+	Qizhang Li, Xiaochen Yang, Wangmeng Zuo, Yiwen Guo
+
+
++ [Efficient and Effective Universal Adversarial Attack against Vision-Language Pre-training Models](https://arxiv.org//abs/2410.11639)
+
+	Fan Yang, Yihao Huang, Kailong Wang, Ling Shi, Geguang Pu, Yang Liu, Haoyu Wang
+
+
++ [Adversarially Guided Stateful Defense Against Backdoor Attacks in Federated Deep Learning](https://arxiv.org//abs/2410.11205)
+
+	Hassan Ali, Surya Nepal, Salil S. Kanhere, Sanjay Jha
+
+
++ [AdvBDGen: Adversarially Fortified Prompt-Specific Fuzzy Backdoor Generator Against LLM Alignment](https://arxiv.org//abs/2410.11283)
+
+	Pankayaraj Pathmanathan, Udari Madhushani Sehwag, Michael-Andrei Panaitescu-Liess, Furong Huang
+
+
+
 # 2024-10-14
 + [Jailbreak Instruction-Tuned LLMs via end-of-sentence MLP Re-weighting](https://arxiv.org//abs/2410.10150)
 
