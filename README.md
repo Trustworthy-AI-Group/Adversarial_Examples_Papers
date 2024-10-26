@@ -2,6 +2,50 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-10-24
++ [GADT: Enhancing Transferable Adversarial Attacks through Gradient-guided Adversarial Data Transformation](https://arxiv.org//abs/2410.18648)
+
+	Yating Ma, Xiaogang Xu, Liming Fang, Zhe Liu
+
+
++ [Complexity Matters: Effective Dimensionality as a Measure for Adversarial Robustness](https://arxiv.org//abs/2410.18556)
+
+	David Khachaturov, Robert Mullins
+
+
++ [DeCoRe: Decoding by Contrasting Retrieval Heads to Mitigate Hallucinations](https://arxiv.org//abs/2410.18860)
+
+	Aryo Pradipta Gema, Chen Jin, Ahmed Abdulaal, Tom Diethe, Philip Teare, Beatrice Alex, Pasquale Minervini, Amrutha Saseendran
+
+
++ [Iterative Self-Tuning LLMs for Enhanced Jailbreaking Capabilities](https://arxiv.org//abs/2410.18469)
+
+	Chung-En Sun, Xiaodong Liu, Weiwei Yang, Tsui-Wei Weng, Hao Cheng, Aidan San, Michel Galley, Jianfeng Gao
+
+
++ [Weak-to-Strong Preference Optimization: Stealing Reward from Weak Aligned Model](https://arxiv.org//abs/2410.18640)
+
+	Wenhong Zhu, Zhiwei He, Xiaofeng Wang, Pengfei Liu, Rui Wang
+
+
+
+# 2024-10-23
++ [Advancing NLP Security by Leveraging LLMs as Adversarial Engines](https://arxiv.org//abs/2410.18215)
+
+	Sudarshan Srinivasan, Maria Mahbub, Amir Sadovnik
+
+
++ [Backdoor in Seconds: Unlocking Vulnerabilities in Large Pre-trained Models via Model Editing](https://arxiv.org//abs/2410.18267)
+
+	Dongliang Guo, Mengxuan Hu, Zihan Guan, Junfeng Guo, Thomas Hartvigsen, Sheng Li
+
+
++ [Towards Understanding the Fragility of Multilingual LLMs against Fine-Tuning Attacks](https://arxiv.org//abs/2410.18210)
+
+	Samuele Poppi, Zheng-Xin Yong, Yifei He, Bobbie Chern, Han Zhao, Aobo Yang, Jianfeng Chi
+
+
+
 # 2024-10-22
 + [Breaking ReAct Agents: Foot-in-the-Door Attack Will Get You In](https://arxiv.org//abs/2410.16950)
 
