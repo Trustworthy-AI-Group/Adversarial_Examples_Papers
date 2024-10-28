@@ -2,6 +2,38 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-10-25
++ [Expose Before You Defend: Unifying and Enhancing Backdoor Defenses via Exposed Models](https://arxiv.org//abs/2410.19427)
+
+	Yige Li, Hanxun Huang, Jiaming Zhang, Xingjun Ma, Yu-Gang Jiang
+
+
++ [Investigating the Role of Prompting and External Tools in Hallucination Rates of Large Language Models](https://arxiv.org//abs/2410.19385)
+
+	Liam Barkley, Brink van der Merwe
+
+
++ [Adversarial Environment Design via Regret-Guided Diffusion Models](https://arxiv.org//abs/2410.19715)
+
+	Hojun Chung, Junseo Lee, Minsoo Kim, Dohyeong Kim, Songhwai Oh
+
+
++ [The Reopening of Pandora's Box: Analyzing the Role of LLMs in the Evolving Battle Against AI-Generated Fake News](https://arxiv.org//abs/2410.19250)
+
+	Xinyu Wang, Wenbo Zhang, Sai Koneru, Hangzhi Guo, Bonam Mingole, S. Shyam Sundar, Sarah Rajtmajer, Amulya Yadav
+
+
++ [A Debate-Driven Experiment on LLM Hallucinations and Accuracy](https://arxiv.org//abs/2410.19485)
+
+	Ray Li, Tanishka Bagade, Kevin Martinez, Flora Yasmin, Grant Ayala, Michael Lam, Kevin Zhu
+
+
++ [Humanizing the Machine: Proxy Attacks to Mislead LLM Detectors](https://arxiv.org//abs/2410.19230)
+
+	Tianchun Wang, Yuanzhou Chen, Zichuan Liu, Zhanwen Chen, Haifeng Chen, Xiang Zhang, Wei Cheng
+
+
+
 # 2024-10-24
 + [GADT: Enhancing Transferable Adversarial Attacks through Gradient-guided Adversarial Data Transformation](https://arxiv.org//abs/2410.18648)
 
@@ -28,6 +60,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Wenhong Zhu, Zhiwei He, Xiaofeng Wang, Pengfei Liu, Rui Wang
 
 
++ [Adversarial Attacks on Large Language Models Using Regularized Relaxation](https://arxiv.org//abs/2410.19160)
+
+	Samuel Jacob Chacko, Sajib Biswas, Chashi Mahiul Islam, Fatema Tabassum Liza, Xiuwen Liu
+
+
 
 # 2024-10-23
 + [Advancing NLP Security by Leveraging LLMs as Adversarial Engines](https://arxiv.org//abs/2410.18215)
@@ -43,6 +80,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Towards Understanding the Fragility of Multilingual LLMs against Fine-Tuning Attacks](https://arxiv.org//abs/2410.18210)
 
 	Samuele Poppi, Zheng-Xin Yong, Yifei He, Bobbie Chern, Han Zhao, Aobo Yang, Jianfeng Chi
+
+
++ [Large Language Models Still Exhibit Bias in Long Text](https://arxiv.org//abs/2410.17519)
+
+	Wonje Jeung, Dongjae Jeon, Ashkan Yousefpour, Jonghyun Choi
 
 
 
