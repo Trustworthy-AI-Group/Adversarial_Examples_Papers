@@ -2,6 +2,58 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-10-29
++ [Text-Guided Attention is All You Need for Zero-Shot Robustness in Vision-Language Models](https://arxiv.org//abs/2410.21802)
+
+	Lu Yu, Haiyang Zhang, Changsheng Xu
+
+
++ [Benchmarking OpenAI o1 in Cyber Security](https://arxiv.org//abs/2410.21939)
+
+	Dan Ristea, Vasilios Mavroudis, Chris Hicks
+
+
++ [CFSafety: Comprehensive Fine-grained Safety Assessment for LLMs](https://arxiv.org//abs/2410.21695)
+
+	Zhihao Liu, Chenhui Hu
+
+
++ [Enhancing Adversarial Attacks through Chain of Thought](https://arxiv.org//abs/2410.21791)
+
+	Jingbo Su
+
+
++ [Distinguishing Ignorance from Error in LLM Hallucinations](https://arxiv.org//abs/2410.22071)
+
+	Adi Simhi, Jonathan Herzig, Idan Szpektor, Yonatan Belinkov
+
+
++ [AmpleGCG-Plus: A Strong Generative Model of Adversarial Suffixes to Jailbreak LLMs with Higher Success Rates in Fewer Attempts](https://arxiv.org//abs/2410.22143)
+
+	Vishal Kumar, Zeyi Liao, Jaylen Jones, Huan Sun
+
+
++ [Benchmarking LLM Guardrails in Handling Multilingual Toxicity](https://arxiv.org//abs/2410.22153)
+
+	Yahan Yang, Soham Dan, Dan Roth, Insup Lee
+
+
++ [Fingerprints of Super Resolution Networks](https://arxiv.org//abs/2410.21653)
+
+	Jeremy Vonderfecht, Feng Liu
+
+
++ [FakeFormer: Efficient Vulnerability-Driven Transformers for Generalisable Deepfake Detection](https://arxiv.org//abs/2410.21964)
+
+	Dat Nguyen, Marcella Astrid, Enjie Ghorbel, Djamila Aouada
+
+
++ [Embedding-based classifiers can detect prompt injection attacks](https://arxiv.org//abs/2410.22284)
+
+	Md. Ahsan Ayub, Subhabrata Majumdar
+
+
+
 # 2024-10-28
 + [Hacking Back the AI-Hacker: Prompt Injection as a Defense Against LLM-driven Cyberattacks](https://arxiv.org//abs/2410.20911)
 
@@ -43,6 +95,36 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Nico Meyer, Julian Berberich, Christopher Mutschler, Daniel D. Scherer
 
 
++ [Fine-tuned Large Language Models (LLMs): Improved Prompt Injection Attacks Detection](https://arxiv.org/abs/2410.21337)
+
+	Md Abdur Rahman, Fan Wu, Alfredo Cuzzocrea, Sheikh Iqbal Ahamed
+
+
++ [TACO: Adversarial Camouflage Optimization on Trucks to Fool Object Detectors](https://arxiv.org//abs/2410.21443)
+
+	Adonisz Dimitriu, Tamás Michaletzky, Viktor Remeli
+
+
++ [AdvI2I: Adversarial Image Attack on Image-to-Image Diffusion models](https://arxiv.org//abs/2410.21471)
+
+	Yaopei Zeng, Yuanpu Cao, Bochuan Cao, Yurui Chang, Jinghui Chen, Lu Lin
+
+
++ [Trustworthiness of Stochastic Gradient Descent in Distributed Learning](https://arxiv.org//abs/2410.21491)
+
+	Hongyang Li, Caesar Wu, Mohammed Chadli, Said Mammar, Pascal Bouvry
+
+
++ [FATH: Authentication-based Test-time Defense against Indirect Prompt Injection Attacks](https://arxiv.org//abs/2410.21492)
+
+	Jiongxiao Wang, Fangzhou Wu, Wendi Li, Jinsheng Pan, Edward Suh, Z. Morley Mao, Muhao Chen, Chaowei Xiao
+
+
++ [Inverting Gradient Attacks Naturally Makes Data Poisons: An Availability Attack on Neural Networks](https://arxiv.org//abs/2410.21453)
+
+	Wassim Bouaziz, El-Mahdi El-Mhamdi, Nicolas Usunier
+
+
 
 # 2024-10-27
 + [Maintaining Informative Coherence: Migrating Hallucinations in Large Language Models via Absorbing Markov Chains](https://arxiv.org//abs/2410.20340)
@@ -53,6 +135,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Integrating uncertainty quantification into randomized smoothing based robustness guarantees](https://arxiv.org//abs/2410.20432)
 
 	Sina Däubener, Kira Maag, David Krueger, Asja Fischer
+
+
++ [LLM Robustness Against Misinformation in Biomedical Question Answering](https://arxiv.org//abs/2410.21330)
+
+	Alexander Bondarenko, Adrian Viehweger
+
+
++ [Beyond Interpretability: The Gains of Feature Monosemanticity on Model Robustness](https://arxiv.org//abs/2410.21331)
+
+	Qi Zhang, Yifei Wang, Jingyi Cui, Xiang Pan, Qi Lei, Stefanie Jegelka, Yisen Wang
 
 
 
