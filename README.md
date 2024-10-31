@@ -2,6 +2,68 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-10-30
++ [Backdoor Attack Against Vision Transformers via Attention Gradient-Based Image Erosion](https://arxiv.org//abs/2410.22678)
+
+	Ji Guo, Hongwei Li, Wenbo Jiang, Guoming Lu
+
+
++ [InjecGuard: Benchmarking and Mitigating Over-defense in Prompt Injection Guardrail Models](https://arxiv.org//abs/2410.22770)
+
+	Hao Li, Xiaogeng Liu, Chaowei Xiao
+
+
++ [Contrastive Learning and Adversarial Disentanglement for Privacy-Preserving Task-Oriented Semantic Communications](https://arxiv.org//abs/2410.22784)
+
+	Omar Erak, Omar Alhussein, Wen Tong
+
+
++ [HijackRAG: Hijacking Attacks against Retrieval-Augmented Large Language Models](https://arxiv.org//abs/2410.22832)
+
+	Yucheng Zhang, Qinfeng Li, Tianyu Du, Xuhong Zhang, Xinkui Zhao, Zhengwen Feng, Jianwei Yin
+
+
++ [Stealing User Prompts from Mixture of Experts](https://arxiv.org//abs/2410.22884)
+
+	Itay Yona, Ilia Shumailov, Jamie Hayes, Nicholas Carlini
+
+
++ [Teaching a Language Model to Distinguish Between Similar Details using a Small Adversarial Training Set](https://arxiv.org//abs/2410.23118)
+
+	Chris Achard
+
+
++ [ProTransformer: Robustify Transformers via Plug-and-Play Paradigm](https://arxiv.org//abs/2410.23182)
+
+	Zhichao Hou, Weizhi Gao, Yuchen Shen, Feiyi Wang, Xiaorui Liu
+
+
++ [One Prompt to Verify Your Models: Black-Box Text-to-Image Models Verification via Non-Transferable Adversarial Attacks](https://arxiv.org//abs/2410.22725)
+
+	Ji Guo, Wenbo Jiang, Rui Zhang, Guoming Lu, Hongwei Li, Weiren Wu
+
+
++ [CausalDiff: Causality-Inspired Disentanglement via Diffusion Model for Adversarial Defense](https://arxiv.org//abs/2410.23091)
+
+	Mingkun Zhang, Keping Bi, Wei Chen, Quanrun Chen, Jiafeng Guo, Xueqi Cheng
+
+
++ [FAIR-TAT: Improving Model Fairness Using Targeted Adversarial Training](https://arxiv.org//abs/2410.23142)
+
+	Tejaswini Medi, Steffen Jung, Margret Keuper
+
+
++ [Byzantine-Robust Federated Learning: An Overview With Focus on Developing Sybil-based Attacks to Backdoor Augmented Secure Aggregation Protocols](https://arxiv.org//abs/2410.22680)
+
+	Atharv Deshmukh
+
+
++ [Crosstalk Attack Resilient RNS Quantum Addition](https://arxiv.org//abs/2410.23217)
+
+	Bhaskar Gaur, Himanshu Thapliyal
+
+
+
 # 2024-10-29
 + [Text-Guided Attention is All You Need for Zero-Shot Robustness in Vision-Language Models](https://arxiv.org//abs/2410.21802)
 
@@ -51,6 +113,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Embedding-based classifiers can detect prompt injection attacks](https://arxiv.org//abs/2410.22284)
 
 	Md. Ahsan Ayub, Subhabrata Majumdar
+
+
++ [Robust training of implicit generative models for multivariate and heavy-tailed distributions with an invariant statistical loss](https://arxiv.org//abs/2410.22381)
+
+	José Manuel de Frutos, Manuel A. Vázquez, Pablo Olmos, Joaquín Míguez
+
+
++ [Power side-channel leakage localization through adversarial training of deep neural networks](https://arxiv.org//abs/2410.22425)
+
+	Jimmy Gammell, Anand Raghunathan, Kaushik Roy
 
 
 
