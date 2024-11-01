@@ -2,6 +2,48 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-10-31
++ [Transferable Ensemble Black-box Jailbreak Attacks on Large Language Models](https://arxiv.org//abs/2410.23558)
+
+	Yiqi Yang, Hongye Fu
+
+
++ [Pseudo-Conversation Injection for LLM Goal Hijacking](https://arxiv.org//abs/2410.23678)
+
+	Zheng Chen, Buhui Yao
+
+
++ [Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models](https://arxiv.org//abs/2410.23861)
+
+	Hao Yang, Lizhen Qu, Ehsan Shareghi, Gholamreza Haffari
+
+
++ [DIP: Diffusion Learning of Inconsistency Pattern for General DeepFake Detection](https://arxiv.org//abs/2410.23663)
+
+	Fan Nie, Jiangqun Ni, Jian Zhang, Bin Zhang, Weizhe Zhang
+
+
++ [Adversarial Attacks of Vision Tasks in the Past 10 Years: A Survey](https://arxiv.org//abs/2410.23687)
+
+	Chiyu Zhang, Xiaogang Xu, Jiafei Wu, Zhe Liu, Lu Zhou
+
+
++ [DiffPAD: Denoising Diffusion-based Adversarial Patch Decontamination](https://arxiv.org//abs/2410.24006)
+
+	Jia Fu, Xiao Zhang, Sepideh Pashami, Fatemeh Rahimian, Anders Holst
+
+
++ [Wide Two-Layer Networks can Learn from Adversarial Perturbations](https://arxiv.org//abs/2410.23677)
+
+	Soichiro Kumano, Hiroshi Kera, Toshihiko Yamasaki
+
+
++ [Noise as a Double-Edged Sword: Reinforcement Learning Exploits Randomized Defenses in Neural Networks](https://arxiv.org//abs/2410.23870)
+
+	Steve Bakos, Pooria Madani, Heidar Davoudi
+
+
+
 # 2024-10-30
 + [Backdoor Attack Against Vision Transformers via Attention Gradient-Based Image Erosion](https://arxiv.org//abs/2410.22678)
 
@@ -61,6 +103,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Crosstalk Attack Resilient RNS Quantum Addition](https://arxiv.org//abs/2410.23217)
 
 	Bhaskar Gaur, Himanshu Thapliyal
+
+
++ [Keep on Swimming: Real Attackers Only Need Partial Knowledge of a Multi-Model System](https://arxiv.org//abs/2410.23483)
+
+	Julian Collado, Kevin Stangl
+
+
++ [Causality-Driven Audits of Model Robustness](https://arxiv.org//abs/2410.23494)
+
+	Nathan Drenkow, Chris Ribaudo, Mathias Unberath
 
 
 
