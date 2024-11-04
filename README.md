@@ -2,6 +2,23 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-11-01
++ [Cityscape-Adverse: Benchmarking Robustness of Semantic Segmentation with Realistic Scene Modifications via Diffusion-Based Image Editing](https://arxiv.org//abs/2411.00425)
+
+	Naufal Suryanto, Andro Aprila Adiputra, Ahmada Yusril Kadiptya, Thi-Thu-Huong Le, Derry Pratama, Yongsu Kim, Howon Kim
+
+
++ [ROSS:RObust decentralized Stochastic learning based on Shapley values](https://arxiv.org//abs/2411.00365)
+
+	Lina Wang, Yunsheng Yuan, Feng Li, Lingjie Duan
+
+
++ [Defense Against Prompt Injection Attack by Leveraging Attack Techniques](https://arxiv.org//abs/2411.00459)
+
+	Yulin Chen, Haoran Li, Zihao Zheng, Yangqiu Song, Dekai Wu, Bryan Hooi
+
+
+
 # 2024-10-31
 + [Transferable Ensemble Black-box Jailbreak Attacks on Large Language Models](https://arxiv.org//abs/2410.23558)
 
@@ -41,6 +58,26 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Noise as a Double-Edged Sword: Reinforcement Learning Exploits Randomized Defenses in Neural Networks](https://arxiv.org//abs/2410.23870)
 
 	Steve Bakos, Pooria Madani, Heidar Davoudi
+
+
++ [I Can Hear You: Selective Robust Training for Deepfake Audio Detection](https://arxiv.org//abs/2411.00121)
+
+	Zirui Zhang, Wei Hao, Aroon Sankoh, William Lin, Emanuel Mendiola-Ortiz, Junfeng Yang, Chengzhi Mao
+
+
++ [Protecting Feed-Forward Networks from Adversarial Attacks Using Predictive Coding](https://arxiv.org//abs/2411.00222)
+
+	Ehsan Ganjidoost, Jeff Orchard
+
+
++ [Optical Lens Attack on Monocular Depth Estimation for Autonomous Driving](https://arxiv.org//abs/2411.00192)
+
+	Ce Zhou, Qiben Yan, Daniel Kent, Guangjing Wang, Weikang Ding, Ziqi Zhang, Hayder Radha
+
+
++ [Attention Tracker: Detecting Prompt Injection Attacks in LLMs](https://arxiv.org//abs/2411.00348)
+
+	Kuo-Han Hung, Ching-Yun Ko, Ambrish Rawat, I-Hsin Chung, Winston H. Hsu, Pin-Yu Chen
 
 
 
