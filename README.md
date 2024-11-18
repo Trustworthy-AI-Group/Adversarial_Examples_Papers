@@ -2,6 +2,48 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-11-15
++ [TEESlice: Protecting Sensitive Neural Network Models in Trusted Execution Environments When Attackers have Pre-Trained Models](https://arxiv.org//abs/2411.09945)
+
+	Ding Li, Ziqi Zhang, Mengyu Yao, Yifeng Cai, Yao Guo, Xiangqun Chen
+
+
++ [A Hard-Label Cryptanalytic Extraction of Non-Fully Connected Deep Neural Networks using Side-Channel Attacks](https://arxiv.org//abs/2411.10174)
+
+	Benoit Coqueret, Mathieu Carbone, Olivier Sentieys, Gabriel Zaid
+
+
++ [Safe Text-to-Image Generation: Simply Sanitize the Prompt Embedding](https://arxiv.org//abs/2411.10329)
+
+	Huming Qiu, Guanxu Chen, Mi Zhang, Min Yang
+
+
++ [Continual Adversarial Reinforcement Learning (CARL) of False Data Injection detection: forgetting and explainability](https://arxiv.org//abs/2411.10367)
+
+	Pooja Aslami, Kejun Chen, Timothy M. Hansen, Malik Hassanaly
+
+
++ [Llama Guard 3 Vision: Safeguarding Human-AI Image Understanding Conversations](https://arxiv.org//abs/2411.10414)
+
+	Jianfeng Chi, Ujjwal Karn, Hongyuan Zhan, Eric Smith, Javier Rando, Yiming Zhang, Kate Plawiak, Zacharie Delpierre Coudert, Kartikeya Upasani, Mahesh Pasupuleti
+
+
++ [Toward Robust and Accurate Adversarial Camouflage Generation against Vehicle Detectors](https://arxiv.org//abs/2411.10029)
+
+	Jiawei Zhou, Linye Lyu, Daojing He, Yu Li
+
+
++ [Model Inversion Attacks: A Survey of Approaches and Countermeasures](https://arxiv.org//abs/2411.10023)
+
+	Zhanke Zhou, Jianing Zhu, Fengfei Yu, Xuan Li, Xiong Peng, Tongliang Liu, Bo Han
+
+
++ [EveGuard: Defeating Vibration-based Side-Channel Eavesdropping with Audio Adversarial Perturbations](https://arxiv.org//abs/2411.10034)
+
+	Jung-Woo Chang, Ke Sun, David Xia, Xinyu Zhang, Farinaz Koushanfar
+
+
+
 # 2024-11-14
 + [DROJ: A Prompt-Driven Attack against Large Language Models](https://arxiv.org//abs/2411.09125)
 
@@ -41,6 +83,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Backdoor Mitigation by Distance-Driven Detoxification](https://arxiv.org//abs/2411.09585)
 
 	Shaokui Wei, Jiayin Liu, Hongyuan Zha
+
+
++ [Adversarial Attacks Using Differentiable Rendering: A Survey](https://arxiv.org//abs/2411.09749)
+
+	Matthew Hull, Chao Zhang, Zsolt Kira, Duen Horng Chau
+
+
++ [Combining Machine Learning Defenses without Conflicts](https://arxiv.org//abs/2411.09776)
+
+	Vasisht Duddu, Rui Zhang, N. Asokan
 
 
 
