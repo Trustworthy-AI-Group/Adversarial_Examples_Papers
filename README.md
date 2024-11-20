@@ -2,6 +2,92 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-11-19
++ [DeTrigger: A Gradient-Centric Approach to Backdoor Attack Mitigation in Federated Learning](https://arxiv.org//abs/2411.12220)
+
+	Kichang Lee, Yujin Shin, Jonghyuk Yun, Jun Han, JeongGil Ko
+
+
++ [Attribute Inference Attacks for Federated Regression Tasks](https://arxiv.org//abs/2411.12697)
+
+	Francesco Diana, Othmane Marfoq, Chuan Xu, Giovanni Neglia, Frédéric Giroire, Eoin Thomas
+
+
++ [Combinational Backdoor Attack against Customized Text-to-Image Models](https://arxiv.org//abs/2411.12389)
+
+	Wenbo Jiang, Jiaming He, Hongwei Li, Guowen Xu, Rui Zhang, Hanxiao Chen, Meng Hao, Haomiao Yang
+
+
++ [When Backdoors Speak: Understanding LLM Backdoor Attacks Through Model-Generated Explanations](https://arxiv.org//abs/2411.12701)
+
+	Huaizhi Ge, Yiming Li, Qifan Wang, Yongfeng Zhang, Ruixiang Tang
+
+
++ [NMT-Obfuscator Attack: Ignore a sentence in translation with only one word](https://arxiv.org//abs/2411.12473)
+
+	Sahar Sadrizadeh, César Descalzo, Ljiljana Dolamic, Pascal Frossard
+
+
++ [Stochastic BIQA: Median Randomized Smoothing for Certified Blind Image Quality Assessment](https://arxiv.org//abs/2411.12575)
+
+	Ekaterina Shumitskaya, Mikhail Pautov, Dmitriy Vatolin, Anastasia Antsiferova
+
+
+
+# 2024-11-18
++ [Enhancing Vision-Language Model Safety through Progressive Concept-Bottleneck-Driven Alignment](https://arxiv.org//abs/2411.11543)
+
+	Zhendong Liu, Yuanbi Nie, Yingshui Tan, Xiangyu Yue, Qiushi Cui, Chongjun Wang, Xiaoyong Zhu, Bo Zheng
+
+
++ [TrojanRobot: Backdoor Attacks Against Robotic Manipulation in the Physical World](https://arxiv.org//abs/2411.11683)
+
+	Xianlong Wang, Hewen Pan, Hangtao Zhang, Minghui Li, Shengshan Hu, Ziqi Zhou, Lulu Xue, Peijin Guo, Yichen Wang, Wei Wan, Aishan Liu, Leo Yu Zhang
+
+
++ [Exploring adversarial robustness of JPEG AI: methodology, comparison and new methods](https://arxiv.org//abs/2411.11795)
+
+	Egor Kovalev, Georgii Bychkov, Khaled Abud, Aleksandr Gushchin, Anna Chistyakova, Sergey Lavrushkin, Dmitriy Vatolin, Anastasia Antsiferova
+
+
++ [Membership Inference Attack against Long-Context Large Language Models](https://arxiv.org//abs/2411.11424)
+
+	Zixiong Wang, Gaoyang Liu, Yang Yang, Chen Wang
+
+
++ [Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models](https://arxiv.org//abs/2411.11496)
+
+	Chenhang Cui, Gelei Deng, An Zhang, Jingnan Zheng, Yicong Li, Lianli Gao, Tianwei Zhang, Tat-Seng Chua
+
+
++ [Reliable Poisoned Sample Detection against Backdoor Attacks Enhanced by Sharpness Aware Minimization](https://arxiv.org//abs/2411.11525)
+
+	Mingda Zhang, Mingli Zhu, Zihao Zhu, Baoyuan Wu
+
+
++ [Theoretical Corrections and the Leveraging of Reinforcement Learning to Enhance Triangle Attack](https://arxiv.org//abs/2411.12071)
+
+	Nicole Meng, Caleb Manicke, David Chen, Yingjie Lao, Caiwen Ding, Pengyu Hong, Kaleel Mahmood
+
+
+
+# 2024-11-17
++ [BackdoorMBTI: A Backdoor Learning Multimodal Benchmark Tool Kit for Backdoor Defense Evaluation](https://arxiv.org//abs/2411.11006)
+
+	Haiyang Yu, Tian Xie, Jiaping Gui, Pengyang Wang, Ping Yi, Yue Wu
+
+
++ [Time Step Generating: A Universal Synthesized Deepfake Image Detector](https://arxiv.org//abs/2411.11016)
+
+	Ziyue Zeng, Haoyuan Liu, Dingjie Peng, Luoxu Jing, Hiroshi Watanabe
+
+
++ [CLMIA: Membership Inference Attacks via Unsupervised Contrastive Learning](https://arxiv.org//abs/2411.11144)
+
+	Depeng Chen, Xiao Liu, Jie Cui, Hong Zhong (School of Computer Science and Technology, Anhui University)
+
+
+
 # 2024-11-15
 + [TEESlice: Protecting Sensitive Neural Network Models in Trusted Execution Environments When Attackers have Pre-Trained Models](https://arxiv.org//abs/2411.09945)
 
@@ -41,6 +127,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [EveGuard: Defeating Vibration-based Side-Channel Eavesdropping with Audio Adversarial Perturbations](https://arxiv.org//abs/2411.10034)
 
 	Jung-Woo Chang, Ke Sun, David Xia, Xinyu Zhang, Farinaz Koushanfar
+
+
++ [Edge-Only Universal Adversarial Attacks in Distributed Learning](https://arxiv.org//abs/2411.10500)
+
+	Giulio Rossolini, Tommaso Baldi, Alessandro Biondi, Giorgio Buttazzo
+
+
++ [Prompt-Guided Environmentally Consistent Adversarial Patch](https://arxiv.org//abs/2411.10498)
+
+	Chaoqun Li, Huanqian Yan, Lifeng Zhou, Tairan Chen, Zhuodong Liu, Hang Su
 
 
 
