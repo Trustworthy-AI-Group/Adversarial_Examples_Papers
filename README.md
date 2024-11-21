@@ -2,6 +2,33 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-11-20
++ [Provably Efficient Action-Manipulation Attack Against Continuous Reinforcement Learning](https://arxiv.org//abs/2411.13116)
+
+	Zhi Luo, Xiyuan Yang, Pan Zhou, Di Wang
+
+
++ [SoK: A Systems Perspective on Compound AI Threats and Countermeasures](https://arxiv.org//abs/2411.13459)
+
+	Sarbartha Banerjee, Prateek Sahu, Mulong Luo, Anjo Vahldiek-Oberwagner, Neeraja J. Yadwadkar, Mohit Tiwari
+
+
++ [WaterPark: A Robustness Assessment of Language Model Watermarking](https://arxiv.org//abs/2411.13425)
+
+	Jiacheng Liang, Zian Wang, Lauren Hong, Shouling Ji, Ting Wang
+
+
++ [TAPT: Test-Time Adversarial Prompt Tuning for Robust Inference in Vision-Language Models](https://arxiv.org//abs/2411.13136)
+
+	Xin Wang, Kai Chen, Jiaming Zhang, Jingjing Chen, Xingjun Ma
+
+
++ [Bounding-box Watermarking: Defense against Model Extraction Attacks on Object Detectors](https://arxiv.org//abs/2411.13047)
+
+	Satoru Koda, Ikuya Morikawa
+
+
+
 # 2024-11-19
 + [DeTrigger: A Gradient-Centric Approach to Backdoor Attack Mitigation in Federated Learning](https://arxiv.org//abs/2411.12220)
 
@@ -31,6 +58,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Stochastic BIQA: Median Randomized Smoothing for Certified Blind Image Quality Assessment](https://arxiv.org//abs/2411.12575)
 
 	Ekaterina Shumitskaya, Mikhail Pautov, Dmitriy Vatolin, Anastasia Antsiferova
+
+
++ [CDI: Copyrighted Data Identification in Diffusion Models](https://arxiv.org//abs/2411.12858)
+
+	Jan Dubiński, Antoni Kowalczuk, Franziska Boenisch, Adam Dziedzic
+
+
++ [Trojan Cleansing with Neural Collapse](https://arxiv.org//abs/2411.12914)
+
+	Xihe Gu, Greg Fields, Yaman Jandali, Tara Javidi, Farinaz Koushanfar
 
 
 
@@ -85,6 +122,12 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [CLMIA: Membership Inference Attacks via Unsupervised Contrastive Learning](https://arxiv.org//abs/2411.11144)
 
 	Depeng Chen, Xiao Liu, Jie Cui, Hong Zhong (School of Computer Science and Technology, Anhui University)
+
+
+# 2024-11-16
++ [Playing Language Game with LLMs Leads to Jailbreaking](https://arxiv.org//abs/2411.12762)
+
+	Yu Peng, Zewen Long, Fangming Dong, Congyi Li, Shu Wu, Kai Chen
 
 
 
