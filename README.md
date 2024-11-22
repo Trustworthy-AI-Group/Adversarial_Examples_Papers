@@ -2,6 +2,47 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-11-21
++ [AttentionBreaker: Adaptive Evolutionary Optimization for Unmasking Vulnerabilities in LLMs through Bit-Flip Attacks](https://arxiv.org//abs/2411.13757)
+
+	Sanjay Das, Swastik Bhattacharya, Souvik Kundu, Shamik Kundu, Anand Menon, Arnab Raha, Kanad Basu
+
+
++ [A Survey on Adversarial Robustness of LiDAR-based Machine Learning Perception in Autonomous Vehicles](https://arxiv.org//abs/2411.13778)
+
+	Junae Kim, Amardeep Kaur
+
+
++ [GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs](https://arxiv.org//abs/2411.14133)
+
+	Advik Raj Basani, Xiao Zhang
+
+
++ [AnywhereDoor: Multi-Target Backdoor Attacks on Object Detection](https://arxiv.org//abs/2411.14243)
+
+	Jialin Lu, Junjie Shan, Ziqi Zhao, Ka-Ho Chow
+
+
++ [Generating Realistic Adversarial Examples for Business Processes using Variational Autoencoders](https://arxiv.org//abs/2411.14263)
+
+	Alexander Stevens, Jari Peeperkorn, Johannes De Smedt, Jochen De Weerdt
+
+
++ [Adversarial Poisoning Attack on Quantum Machine Learning Models](https://arxiv.org//abs/2411.14412)
+
+	Satwik Kundu, Swaroop Ghosh
+
+
++ [Learning Fair Robustness via Domain Mixup](https://arxiv.org//abs/2411.14424)
+
+	Meiyu Zhong, Ravi Tandon
+
+
++ [RAG-Thief: Scalable Extraction of Private Data from Retrieval-Augmented Generation Applications with Agent-based Attacks](https://arxiv.org//abs/2411.14110)
+
+	Changyue Jiang, Xudong Pan, Geng Hong, Chenfu Bao, Min Yang
+
+
 # 2024-11-20
 + [Provably Efficient Action-Manipulation Attack Against Continuous Reinforcement Learning](https://arxiv.org//abs/2411.13116)
 
@@ -106,6 +147,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Nicole Meng, Caleb Manicke, David Chen, Yingjie Lao, Caiwen Ding, Pengyu Hong, Kaleel Mahmood
 
+
++ [Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics](https://arxiv.org//abs/2411.13587)
+
+	Taowen Wang, Dongfang Liu, James Chenhao Liang, Wenhao Yang, Qifan Wang, Cheng Han, Jiebo Luo, Ruixiang Tang
 
 
 # 2024-11-17
