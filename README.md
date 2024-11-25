@@ -2,6 +2,37 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-11-22
++ [Universal and Context-Independent Triggers for Precise Control of LLM Outputs](https://arxiv.org//abs/2411.14738)
+
+	Jiashuo Liang, Guancheng Li, Yang Yu
+
+
++ [Who Can Withstand Chat-Audio Attacks? An Evaluation Benchmark for Large Language Models](https://arxiv.org//abs/2411.14842)
+
+	Wanqi Yang, Yanda Li, Meng Fang, Yunchao Wei, Tianyi Zhou, Ling Chen
+
+
++ [Geminio: Language-Guided Gradient Inversion Attacks in Federated Learning](https://arxiv.org//abs/2411.14937)
+
+	Junjie Shan, Ziqi Zhao, Jialin Lu, Rui Zhang, Siu Ming Yiu, Ka-Ho Chow
+
+
++ [TrojanEdit: Backdooring Text-Based Image Editing Models](https://arxiv.org//abs/2411.14681)
+
+	Ji Guo, Peihong Chen, Wenbo Jiang, Guoming Lu
+
+
++ [GraphTheft: Quantifying Privacy Risks in Graph Prompt Learning](https://arxiv.org//abs/2411.14718)
+
+	Jiani Zhu, Xi Lin, Yuxin Qi, Qinghua Mao
+
+
++ [SecONN: An Optical Neural Network Framework with Concurrent Detection of Thermal Fault Injection Attacks](https://arxiv.org//abs/2411.14741)
+
+	Kota Nishida, Yoshihiro Midoh, Noriyuki Miura, Satoshi Kawakami, Jun Shiomi
+
+
 # 2024-11-21
 + [AttentionBreaker: Adaptive Evolutionary Optimization for Unmasking Vulnerabilities in LLMs through Bit-Flip Attacks](https://arxiv.org//abs/2411.13757)
 
@@ -41,6 +72,12 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [RAG-Thief: Scalable Extraction of Private Data from Retrieval-Augmented Generation Applications with Agent-based Attacks](https://arxiv.org//abs/2411.14110)
 
 	Changyue Jiang, Xudong Pan, Geng Hong, Chenfu Bao, Min Yang
+
+
++ [Memory Backdoor Attacks on Neural Networks](https://arxiv.org//abs/2411.14516)
+
+	Eden Luzon, Guy Amit, Roy Weiss, Yisroel Mirsky
+
 
 
 # 2024-11-20
@@ -394,6 +431,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Rui Xu, Mengya (Mia)Hu, Deren Lei, Yaxi Li, David Lowe, Alex Gorevski, Mingyu Wang, Emily Ching, Alex Deng
 
+
++ [Deferred Backdoor Functionality Attacks on Deep Learning Models](https://arxiv.org//abs/2411.14449)
+
+	Jeongjin Shin, Sangdon Park
 
 
 # 2024-11-08
