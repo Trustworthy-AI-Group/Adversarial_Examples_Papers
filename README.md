@@ -2,6 +2,100 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-11-25
++ [Imperceptible Adversarial Examples in the Physical World](https://arxiv.org//abs/2411.16622)
+
+	Weilin Xu, Sebastian Szyller, Cory Cornelius, Luis Murillo Rojas, Marius Arvinte, Alvaro Velasquez, Jason Martin, Nageen Himayat
+
+
++ [Preventing Jailbreak Prompts as Malicious Tools for Cybercriminals: A Cyber Defense Perspective](https://arxiv.org//abs/2411.16642)
+
+	Jean Marie Tshimula, Xavier Ndona, D'Jeff K. Nkashama, Pierre-Martin Tardif, Froduald Kabanza, Marc Frappier, Shengrui Wang
+
+
++ [Sparse patches adversarial attacks via extrapolating point-wise information](https://arxiv.org//abs/2411.16162)
+
+	Yaniv Nemcovsky, Avi Mendelson, Chaim Baskin
+
+
++ [Privacy Protection in Personalized Diffusion Models via Targeted Cross-Attention Adversarial Attack](https://arxiv.org//abs/2411.16437)
+
+	Xide Xu, Muhammad Atif Butt, Sandesh Kamath, Bogdan Raducanu
+
+
++ [Guarding the Gate: ConceptGuard Battles Concept-Level Backdoors in Concept Bottleneck Models](https://arxiv.org//abs/2411.16512)
+
+	Songning Lai, Yu Huang, Jiayu Yang, Gaoxiang Huang, Wenshuo Chen, Yutao Yue
+
+
++ [Unlocking The Potential of Adaptive Attacks on Diffusion-Based Purification](https://arxiv.org//abs/2411.16598)
+
+	Andre Kassis, Urs Hengartner, Yaoliang Yu
+
+
++ [DeDe: Detecting Backdoor Samples for SSL Encoders via Decoders](https://arxiv.org//abs/2411.16154)
+
+	Sizai Hou, Songze Li, Duanyi Yao
+
+
++ [BadSFL: Backdoor Attack against Scaffold Federated Learning](https://arxiv.org//abs/2411.16167)
+
+	Xingshuo Han, Xiang Lan, Haozhao Wang, Shengmin Xu, Shen Ren, Jason Zeng, Ming Wu, Michael Heinrich, Tianwei Zhang
+
+
++ [Adversarial Attacks for Drift Detection](https://arxiv.org//abs/2411.16591)
+
+	Fabian Hinder, Valerie Vaquet, Barbara Hammer
+
+
+# 2024-11-24
++ [Data Lineage Inference: Uncovering Privacy Vulnerabilities of Dataset Pruning](https://arxiv.org//abs/2411.15796)
+
+	Qi Li, Cheng-Long Wang, Yinzhi Cao, Di Wang
+
+
++ [Chain of Attack: On the Robustness of Vision-Language Models Against Transfer-Based Adversarial Attacks](https://arxiv.org//abs/2411.15720)
+
+	Peng Xie, Yequan Bie, Jianda Mao, Yangqiu Song, Yang Wang, Hao Chen, Kani Chen
+
+
++ [A Tunable Despeckling Neural Network Stabilized via Diffusion Equation](https://arxiv.org//abs/2411.15921)
+
+	Yi Ran, Zhichang Guo, Jia Li, Yao Li, Martin Burger, Boying Wu
+
+
++ [ExAL: An Exploration Enhanced Adversarial Learning Algorithm](https://arxiv.org//abs/2411.15878)
+
+	A Vinil, Aneesh Sreevallabh Chivukula, Pranav Chintareddy
+
+
+# 2024-11-23
++ [Twin Trigger Generative Networks for Backdoor Attacks against Object Detection](https://arxiv.org//abs/2411.15439)
+
+	Zhiying Li, Zhi Liu, Guanggang Geng, Shreyank N Gowda, Shuyuan Lin, Jian Weng, Xiaobo Jin
+
+
++ [Improving Transferable Targeted Attacks with Feature Tuning Mixup](https://arxiv.org//abs/2411.15553)
+
+	Kaisheng Liang, Xuelong Dai, Yanjie Li, Dong Wang, Bin Xiao
+
+
++ [Enhancing the Transferability of Adversarial Attacks on Face Recognition with Diverse Parameters Augmentation](https://arxiv.org//abs/2411.15555)
+
+	Fengfan Zhou, Bangjie Yin, Hefei Ling, Qianyu Zhou, Wenxuan Wang
+
+
++ [Semantic Shield: Defending Vision-Language Models Against Backdooring and Poisoning via Fine-grained Knowledge Alignment](https://arxiv.org//abs/2411.15673)
+
+	Alvi Md Ishmam, Christopher Thomas
+
+
++ [Unveiling the Achilles' Heel: Backdoor Watermarking Forgery Attack in Public Dataset Protection](https://arxiv.org//abs/2411.15450)
+
+	Zhiying Li, Zhi Liu, Dongjie Liu, Shengda Zhuo, Guanggang Geng, Jian Weng, Shanxiang Lyu, Xiaobo Jin
+
+
+
 # 2024-11-22
 + [Universal and Context-Independent Triggers for Precise Control of LLM Outputs](https://arxiv.org//abs/2411.14738)
 
@@ -31,6 +125,21 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [SecONN: An Optical Neural Network Framework with Concurrent Detection of Thermal Fault Injection Attacks](https://arxiv.org//abs/2411.14741)
 
 	Kota Nishida, Yoshihiro Midoh, Noriyuki Miura, Satoshi Kawakami, Jun Shiomi
+
+
++ [Adversarial Prompt Distillation for Vision-Language Models](https://arxiv.org//abs/2411.15244)
+
+	Lin Luo, Xin Wang, Bojia Zi, Shihao Zhao, Xingjun Ma
+
+
++ [Heavy-tailed Contamination is Easier than Adversarial Contamination](https://arxiv.org//abs/2411.15306)
+
+	Yeshwanth Cherapanamjeri, Daniel Lee
+
+
++ [Exploring the Robustness and Transferability of Patch-Based Adversarial Attacks in Quantized Neural Networks](https://arxiv.org//abs/2411.15246)
+
+	Amira Guesmi, Bassem Ouni, Muhammad Shafique
 
 
 # 2024-11-21
@@ -79,6 +188,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Eden Luzon, Guy Amit, Roy Weiss, Yisroel Mirsky
 
 
++ [Rethinking the Intermediate Features in Adversarial Attacks: Misleading Robotic Models via Adversarial Distillation](https://arxiv.org//abs/2411.15222)
+
+	Ke Zhao, Huayang Huang, Miao Li, Yu Wu
+
+
 
 # 2024-11-20
 + [Provably Efficient Action-Manipulation Attack Against Continuous Reinforcement Learning](https://arxiv.org//abs/2411.13116)
@@ -104,6 +218,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Bounding-box Watermarking: Defense against Model Extraction Attacks on Object Detectors](https://arxiv.org//abs/2411.13047)
 
 	Satoru Koda, Ikuya Morikawa
+
+
++ [Towards Million-Scale Adversarial Robustness Evaluation With Stronger Individual Attacks](https://arxiv.org//abs/2411.15210)
+
+	Yong Xie, Weijie Zheng, Hanxun Huang, Guangnan Ye, Xingjun Ma
 
 
 
