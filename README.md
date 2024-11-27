@@ -2,6 +2,42 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-11-26
++ [RED: Robust Environmental Design](https://arxiv.org//abs/2411.17026)
+
+	Jinghan Yan
+
+
++ [LampMark: Proactive Deepfake Detection via Training-Free Landmark Perceptual Watermarks](https://arxiv.org//abs/2411.17209)
+
+	Tianyi Wang, Mengxiao Huang, Harry Cheng, Xiao Zhang, Zhiqi Shen
+
+
++ [BadScan: An Architectural Backdoor Attack on Visual State Space Models](https://arxiv.org//abs/2411.17283)
+
+	Om Suhas Deshmukh, Sankalp Nagaonkar, Achyut Mani Tripathi, Ashish Mishra
+
+
++ [Adversarial Bounding Boxes Generation (ABBG) Attack against Visual Object Trackers](https://arxiv.org//abs/2411.17468)
+
+	Fatemeh Nourilenjan Nokabadi, Jean-Francois Lalonde, Christian Gagné
+
+
++ [CRASH: Challenging Reinforcement-Learning Based Adversarial Scenarios For Safety Hardening](https://arxiv.org//abs/2411.16996)
+
+	Amar Kulkarni, Shangtong Zhang, Madhur Behl
+
+
++ [PEFTGuard: Detecting Backdoor Attacks Against Parameter-Efficient Fine-Tuning](https://arxiv.org//abs/2411.17453)
+
+	Zhen Sun, Tianshuo Cong, Yule Liu, Chenhao Lin, Xinlei He, Rongmao Chen, Xingshuo Han, Xinyi Huang
+
+
++ [RTL-Breaker: Assessing the Security of LLMs against Backdoor Attacks on HDL Code Generation](https://arxiv.org//abs/2411.17569)
+
+	Lakshmi Likhitha Mankali, Jitendra Bhandari, Manaar Alam, Ramesh Karri, Michail Maniatakos, Ozgur Sinanoglu, Johann Knechtel
+
+
 # 2024-11-25
 + [Imperceptible Adversarial Examples in the Physical World](https://arxiv.org//abs/2411.16622)
 
@@ -48,6 +84,22 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Fabian Hinder, Valerie Vaquet, Barbara Hammer
 
 
++ [Edit Away and My Face Will not Stay: Personal Biometric Defense against Malicious Generative Editing](https://arxiv.org//abs/2411.16832)
+
+	Hanhui Wang, Yihua Zhang, Ruizheng Bai, Yue Zhao, Sijia Liu, Zhengzhong Tu
+
+
++ [In-Context Experience Replay Facilitates Safety Red-Teaming of Text-to-Image Diffusion Models](https://arxiv.org//abs/2411.16769)
+
+	Zhi-Yi Chin, Kuan-Chen Mu, Mario Fritz, Pin-Yu Chen, Wei-Chen Chiu
+
+
++ [Scaling Laws for Black box Adversarial Attacks](https://arxiv.org//abs/2411.16782)
+
+	Chuan Liu, Huanran Chen, Yichi Zhang, Yinpeng Dong, Jun Zhu
+
+
+
 # 2024-11-24
 + [Data Lineage Inference: Uncovering Privacy Vulnerabilities of Dataset Pruning](https://arxiv.org//abs/2411.15796)
 
@@ -67,6 +119,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ExAL: An Exploration Enhanced Adversarial Learning Algorithm](https://arxiv.org//abs/2411.15878)
 
 	A Vinil, Aneesh Sreevallabh Chivukula, Pranav Chintareddy
+
+
++ [Hide in Plain Sight: Clean-Label Backdoor for Auditing Membership Inference](https://arxiv.org//abs/2411.16763)
+
+	Depeng Chen, Hao Chen, Hulin Jin, Jie Cui, Hong Zhong
 
 
 # 2024-11-23
@@ -93,6 +150,26 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Unveiling the Achilles' Heel: Backdoor Watermarking Forgery Attack in Public Dataset Protection](https://arxiv.org//abs/2411.15450)
 
 	Zhiying Li, Zhi Liu, Dongjie Liu, Shengda Zhuo, Guanggang Geng, Jian Weng, Shanxiang Lyu, Xiaobo Jin
+
+
++ [Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks](https://arxiv.org//abs/2411.16721)
+
+	Han Wang, Gang Wang, Huan Zhang
+
+
++ ["Moralized" Multi-Step Jailbreak Prompts: Black-Box Testing of Guardrails in Large Language Models for Verbal Attacks](https://arxiv.org//abs/2411.16730)
+
+	Libo Wang
+
+
++ [LoBAM: LoRA-Based Backdoor Attack on Model Merging](https://arxiv.org//abs/2411.16746)
+
+	Ming Yin, Jingyang Zhang, Jingwei Sun, Minghong Fang, Hai Li, Yiran Chen
+
+
++ [Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens](https://arxiv.org//abs/2411.16724)
+
+	Zhangqi Jiang, Junkai Chen, Beier Zhu, Tingjin Luo, Yankun Shen, Xu Yang
 
 
 
