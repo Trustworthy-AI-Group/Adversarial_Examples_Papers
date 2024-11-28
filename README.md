@@ -2,6 +2,38 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-11-27
++ [Hidden Data Privacy Breaches in Federated Learning](https://arxiv.org//abs/2411.18269)
+
+	Xueluan Gong, Yuji Wang, Shuaike Li, Mengyuan Sun, Songze Li, Qian Wang, Kwok-Yan Lam, Chen Chen
+
+
++ [Neutralizing Backdoors through Information Conflicts for Large Language Models](https://arxiv.org//abs/2411.18280)
+
+	Chen Chen, Yuchen Sun, Xueluan Gong, Jiaxin Gao, Kwok-Yan Lam
+
+
++ [Exploring Visual Vulnerabilities via Multi-Loss Adversarial Search for Jailbreaking Vision-Language Models](https://arxiv.org//abs/2411.18000)
+
+	Shuyang Hao, Bryan Hooi, Jun Liu, Kai-Wei Chang, Zi Huang, Yujun Cai
+
+
++ [Visual Adversarial Attack on Vision-Language Models for Autonomous Driving](https://arxiv.org//abs/2411.18275)
+
+	Tianyuan Zhang, Lu Wang, Xinwei Zhang, Yitong Zhang, Boyi Jia, Siyuan Liang, Shengshan Hu, Qiang Fu, Aishan Liu, Xianglong Liu
+
+
++ [Adversarial Training in Low-Label Regimes with Margin-Based Interpolation](https://arxiv.org//abs/2411.17959)
+
+	Tian Ye, Rajgopal Kannan, Viktor Prasanna
+
+
++ [InputSnatch: Stealing Input in LLM Services via Timing Side-Channel Attacks](https://arxiv.org//abs/2411.18191)
+
+	Xinyao Zheng, Husheng Han, Shangyi Shi, Qiyan Fang, Zidong Du, Qi Guo, Xing Hu
+
+
+
 # 2024-11-26
 + [RED: Robust Environmental Design](https://arxiv.org//abs/2411.17026)
 
@@ -36,6 +68,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [RTL-Breaker: Assessing the Security of LLMs against Backdoor Attacks on HDL Code Generation](https://arxiv.org//abs/2411.17569)
 
 	Lakshmi Likhitha Mankali, Jitendra Bhandari, Manaar Alam, Ramesh Karri, Michail Maniatakos, Ozgur Sinanoglu, Johann Knechtel
+
+
++ [Passive Deepfake Detection Across Multi-modalities: A Comprehensive Survey](https://arxiv.org//abs/2411.17911)
+
+	Hong-Hanh Nguyen-Le, Van-Tuan Tran, Dinh-Thuc Nguyen, Nhien-An Le-Khac
+
+
++ [Stealthy Multi-Task Adversarial Attacks](https://arxiv.org//abs/2411.17936)
+
+	Jiacheng Guo, Tianyun Zhang, Lei Li, Haochen Yang, Hongkai Yu, Minghai Qin
 
 
 # 2024-11-25
