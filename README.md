@@ -2,6 +2,43 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-12-04
++ [Less is More: A Stealthy and Efficient Adversarial Attack Method for DRL-based Autonomous Driving Policies](https://arxiv.org//abs/2412.03051)
+
+	Junchao Fan, Xuyang Lei, Xiaolin Chang, Jelena Mišić, Vojislav B. Mišić
+
+
++ [Does Safety Training of LLMs Generalize to Semantically Related Natural Prompts?](https://arxiv.org//abs/2412.03235)
+
+	Sravanti Addepalli, Yerram Varun, Arun Suggala, Karthikeyan Shanmugam, Prateek Jain
+
+
++ [Black-Box Forgery Attacks on Semantic Watermarks for Diffusion Models](https://arxiv.org//abs/2412.03283)
+
+	Andreas Müller, Denis Lukovnikov, Jonas Thietke, Asja Fischer, Erwin Quiring
+
+
++ [PBP: Post-training Backdoor Purification for Malware Classifiers](https://arxiv.org//abs/2412.03441)
+
+	Dung Thuy Nguyen, Ngoc N. Tran, Taylor T. Johnson, Kevin Leach
+
+
++ [NODE-AdvGAN: Improving the transferability and perceptual similarity of adversarial examples by dynamic-system-driven adversarial generative model](https://arxiv.org//abs/2412.03539)
+
+	Xinheng Xie, Yue Wu, Cuiyu He
+
+
++ [Best-of-N Jailbreaking](https://arxiv.org//abs/2412.03556)
+
+	John Hughes, Sara Price, Aengus Lynch, Rylan Schaeffer, Fazl Barez, Sanmi Koyejo, Henry Sleight, Erik Jones, Ethan Perez, Mrinank Sharma
+
+
++ [Pre-trained Multiple Latent Variable Generative Models are good defenders against Adversarial Attacks](https://arxiv.org//abs/2412.03453)
+
+	Dario Serez, Marco Cristani, Alessio Del Bue, Vittorio Murino, Pietro Morerio
+
+
+
 # 2024-12-03
 + [Trust & Safety of LLMs and LLMs in Trust & Safety](https://arxiv.org//abs/2412.02113)
 
@@ -51,6 +88,17 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [The Efficacy of Transfer-based No-box Attacks on Image Watermarking: A Pragmatic Analysis](https://arxiv.org//abs/2412.02576)
 
 	Qilong Wu, Varun Chandrasekaran
+
+
++ [Gaussian Splatting Under Attack: Investigating Adversarial Noise in 3D Objects](https://arxiv.org//abs/2412.02803)
+
+	Abdurrahman Zeybey, Mehmet Ergezer, Tommy Nguyen
+
+
++ [Hijacking Vision-and-Language Navigation Agents with Adversarial Environmental Attacks](https://arxiv.org//abs/2412.02795)
+
+	Zijiao Yang, Xiangxi Shi, Eric Slyman, Stefan Lee
+
 
 
 # 2024-12-02
