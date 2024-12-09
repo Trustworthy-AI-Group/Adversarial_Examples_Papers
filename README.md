@@ -2,6 +2,43 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-12-06
++ [Backdooring Outlier Detection Methods: A Novel Attack Approach](https://arxiv.org//abs/2412.05010)
+
+	ZeinabSadat Taghavi, Hossein Mirzaei
+
+
++ [A Practical Examination of AI-Generated Text Detectors for Large Language Models](https://arxiv.org//abs/2412.05139)
+
+	Brian Tufts, Xuandong Zhao, Lei Li
+
+
++ [LIAR: Leveraging Alignment (Best-of-N) to Jailbreak LLMs in Seconds](https://arxiv.org//abs/2412.05232)
+
+	James Beetham, Souradip Chakraborty, Mengdi Wang, Furong Huang, Amrit Singh Bedi, Mubarak Shah
+
+
++ [Megatron: Evasive Clean-Label Backdoor Attacks against Vision Transformer](https://arxiv.org//abs/2412.04776)
+
+	Xueluan Gong, Bowei Tian, Meng Xue, Shuike Li, Yanjiao Chen, Qian Wang
+
+
++ [SleeperMark: Towards Robust Watermark against Fine-Tuning Text-to-image Diffusion Models](https://arxiv.org//abs/2412.04852)
+
+	Zilan Wang, Junfeng Guo, Jiacheng Zhu, Yiming Li, Heng Huang, Muhao Chen, Zhengzhong Tu
+
+
++ [Privacy Drift: Evolving Privacy Concerns in Incremental Learning](https://arxiv.org//abs/2412.05183)
+
+	Sayyed Farid Ahamed, Soumya Banerjee, Sandip Roy, Aayush Kapoor, Marc Vucovich, Kevin Choi, Abdul Rahman, Edward Bowen, Sachin Shetty
+
+
++ [A Differentially Private Kaplan-Meier Estimator for Privacy-Preserving Survival Analysis](https://arxiv.org//abs/2412.05164)
+
+	Narasimha Raghavan Veeraragavan, Sai Praneeth Karimireddy, Jan Franz Nygård
+
+
+
 # 2024-12-04
 + [Less is More: A Stealthy and Efficient Adversarial Attack Method for DRL-based Autonomous Driving Policies](https://arxiv.org//abs/2412.03051)
 
