@@ -2,6 +2,87 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-12-10
++ [Defensive Dual Masking for Robust Adversarial Defense](https://arxiv.org//abs/2412.07078)
+
+	Wangli Yang, Jie Yang, Yi Guo, Johan Barthelemy
+
+
++ [On Evaluating the Durability of Safeguards for Open-Weight LLMs](https://arxiv.org//abs/2412.07097)
+
+	Xiangyu Qi, Boyi Wei, Nicholas Carlini, Yangsibo Huang, Tinghao Xie, Luxi He, Matthew Jagielski, Milad Nasr, Prateek Mittal, Peter Henderson
+
+
++ [Buster: Incorporating Backdoor Attacks into Text Encoder to Mitigate NSFW Content Generation](https://arxiv.org//abs/2412.07249)
+
+	Xin Zhao, Xiaojun Chen, Yuexin Xuan, Zhendong Zhao
+
+
++ [Tazza: Shuffling Neural Network Parameters for Secure and Private Federated Learning](https://arxiv.org//abs/2412.07454)
+
+	Kichang Lee, Jaeho Jin, JaeYeon Park, JeongGil Ko
+
+
++ [FlexLLM: Exploring LLM Customization for Moving Target Defense on Black-Box LLMs Against Jailbreak Attacks](https://arxiv.org//abs/2412.07672)
+
+	Bocheng Chen, Hanqing Guo, Qiben Yan
+
+
++ [A Parametric Approach to Adversarial Augmentation for Cross-Domain Iris Presentation Attack Detection](https://arxiv.org//abs/2412.07199)
+
+	Debasmita Pal, Redwan Sony, Arun Ross
+
+
++ [CapGen:An Environment-Adaptive Generator of Adversarial Patches](https://arxiv.org//abs/2412.07253)
+
+	Chaoqun Li, Zhuodong Liu, Huanqian Yan, Hang Su
+
+
++ [Backdoor Attacks against No-Reference Image Quality Assessment Models via A Scalable Trigger](https://arxiv.org//abs/2412.07277)
+
+	Yi Yu, Song Xia, Xun Lin, Wenhan Yang, Shijian Lu, Yap-peng Tan, Alex Kot
+
+
++ [Stealthy and Robust Backdoor Attack against 3D Point Clouds through Additional Point Features](https://arxiv.org//abs/2412.07511)
+
+	Xiaoyang Ning, Qing Xie, Jinyu Xu, Wenbo Jiang, Jiachen Li, Yanchun Ma
+
+
++ [A New Federated Learning Framework Against Gradient Inversion Attacks](https://arxiv.org//abs/2412.07187)
+
+	Pengxin Guo, Shuang Zeng, Wenhao Chen, Xiaodan Zhang, Weihong Ren, Yuyin Zhou, Liangqiong Qu
+
+
++ [Addressing Key Challenges of Adversarial Attacks and Defenses in the Tabular Domain: A Methodological Framework for Coherence and Consistency](https://arxiv.org//abs/2412.07326)
+
+	Yael Itzhakev, Amit Giloni, Yuval Elovici, Asaf Shabtai
+
+
++ [AHSG: Adversarial Attacks on High-level Semantics in Graph Neural Networks](https://arxiv.org//abs/2412.07468)
+
+	Kai Yuan, Xiaobing Pei, Haoran Yang
+
+
++ [Adaptive Epsilon Adversarial Training for Robust Gravitational Wave Parameter Estimation Using Normalizing Flows](https://arxiv.org//abs/2412.07559)
+
+	Yiqian Yang, Xihua Zhu, Fan Zhang
+
+
++ [PrisonBreak: Jailbreaking Large Language Models with Fewer Than Twenty-Five Targeted Bit-flips](https://arxiv.org//abs/2412.07192)
+
+	Zachary Coalson, Jeonghyun Woo, Shiyang Chen, Yu Sun, Lishan Yang, Prashant Nair, Bo Fang, Sanghyun Hong
+
+
++ [Adversarial Filtering Based Evasion and Backdoor Attacks to EEG-Based Brain-Computer Interfaces](https://arxiv.org//abs/2412.07231)
+
+	Lubin Meng, Xue Jiang, Xiaoqing Chen, Wenzhong Liu, Hanbin Luo, Dongrui Wu
+
+
++ [Defending Against Neural Network Model Inversion Attacks via Data Poisoning](https://arxiv.org//abs/2412.07575)
+
+	Shuai Zhou, Dayong Ye, Tianqing Zhu, Wanlei Zhou
+
+
 # 2024-12-09
 + [Enhancing Adversarial Resistance in LLMs with Recursion](https://arxiv.org//abs/2412.06181)
 
