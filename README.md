@@ -2,6 +2,37 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-12-12
++ [SVasP: Self-Versatility Adversarial Style Perturbation for Cross-Domain Few-Shot Learning](https://arxiv.org//abs/2412.09073)
+
+	Wenqian Li, Pengfei Fang, Hui Xue
+
+
++ [Evaluating Adversarial Attacks on Traffic Sign Classifiers beyond Standard Baselines](https://arxiv.org//abs/2412.09150)
+
+	Svetlana Pavlitska, Leopold Müller, J. Marius Zöllner
+
+
++ [Obfuscated Activations Bypass LLM Latent-Space Defenses](https://arxiv.org//abs/2412.09565)
+
+	Luke Bailey, Alex Serrano, Abhay Sheshadri, Mikhail Seleznyov, Jordan Taylor, Erik Jenner, Jacob Hilton, Stephen Casper, Carlos Guestrin, Scott Emmons
+
+
++ [Deep Learning Model Security: Threats and Defenses](https://arxiv.org//abs/2412.08969)
+
+	Tianyang Wang, Ziqian Bi, Yichao Zhang, Ming Liu, Weiche Hsieh, Pohsun Feng, Lawrence K.Q. Yan, Yizhu Wen, Benji Peng, Junyu Liu, Keyu Chen, Sen Zhang, Ming Li, Chuanqi Jiang, Xinyuan Song, Junjie Yang, Bowen Jing, Jintao Ren, Junhao Song, Hong-Ming Tseng, Silin Chen, Yunze Wang, Chia Xin Liang, Jiawei Xu, Xuanhe Pan, Jinlang Wang, Qian Niu
+
+
++ [On the Generation and Removal of Speaker Adversarial Perturbation for Voice-Privacy Protection](https://arxiv.org//abs/2412.09195)
+
+	Chenyang Guo, Liping Chen, Zhuhai Li, Kong Aik Lee, Zhen-Hua Ling, Wu Guo
+
+
++ [A Semi Black-Box Adversarial Bit-Flip Attack with Limited DNN Model Information](https://arxiv.org//abs/2412.09450)
+
+	Behnam Ghavami, Mani Sadati, Mohammad Shahidzadeh, Lesley Shannon, Steve Wilton
+
+
 # 2024-12-11
 + [MAGIC: Mastering Physical Adversarial Generation in Context through Collaborative LLM Agents](https://arxiv.org//abs/2412.08014)
 
@@ -81,6 +112,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Model-Editing-Based Jailbreak against Safety-aligned Large Language Models](https://arxiv.org//abs/2412.08201)
 
 	Yuxi Li, Zhibo Zhang, Kailong Wang, Ling Shi, Haoyu Wang
+
+
++ [Proactive Adversarial Defense: Harnessing Prompt Tuning in Vision-Language Models to Detect Unseen Backdoored Images](https://arxiv.org//abs/2412.08755)
+
+	Kyle Stein, Andrew Arash Mahyari, Guillermo Francia, Eman El-Sheikh
 
 
 
