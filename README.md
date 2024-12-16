@@ -2,6 +2,58 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-12-13
++ [BiCert: A Bilinear Mixed Integer Programming Formulation for Precise Certified Bounds Against Data Poisoning Attacks](https://arxiv.org//abs/2412.10186)
+
+	Tobias Lorenz, Marta Kwiatkowska, Mario Fritz
+
+
++ [From Allies to Adversaries: Manipulating LLM Tool-Calling through Adversarial Injection](https://arxiv.org//abs/2412.10198)
+
+	Haowei Wang, Rupeng Zhang, Junjie Wang, Mingyang Li, Yuekai Huang, Dandan Wang, Qing Wang
+
+
++ [Targeted Angular Reversal of Weights (TARS) for Knowledge Removal in Large Language Models](https://arxiv.org//abs/2412.10257)
+
+	Harry J. Davies, Giorgos Iacovides, Danilo P. Mandic
+
+
++ [AdvPrefix: An Objective for Nuanced LLM Jailbreaks](https://arxiv.org//abs/2412.10321)
+
+	Sicheng Zhu, Brandon Amos, Yuandong Tian, Chuan Guo, Ivan Evtimov
+
+
++ [Real-time Identity Defenses against Malicious Personalization of Diffusion Models](https://arxiv.org//abs/2412.09844)
+
+	Hanzhong Guo, Shen Nie, Chao Du, Tianyu Pang, Hao Sun, Chongxuan Li
+
+
++ [Prompt2Perturb (P2P): Text-Guided Diffusion-Based Adversarial Attacks on Breast Ultrasound Images](https://arxiv.org//abs/2412.09910)
+
+	Yasamin Medghalchi, Moein Heidari, Clayton Allard, Leonid Sigal, Ilker Hacihaliloglu
+
+
++ [FaceShield: Defending Facial Image against Deepfake Threats](https://arxiv.org//abs/2412.09921)
+
+	Jaehwan Jeong, Sumin In, Sieun Kim, Hannie Shin, Jongheon Jeong, Sang Ho Yoon, Jaewook Chung, Sangpil Kim
+
+
++ [$\textrm{A}^{\textrm{2}}$RNet: Adversarial Attack Resilient Network for Robust Infrared and Visible Image Fusion](https://arxiv.org//abs/2412.09954)
+
+	Jiawei Li, Hongwei Yu, Jiansheng Chen, Xinlong Ding, Jinlong Wang, Jinyuan Liu, Bochao Zou, Huimin Ma
+
+
++ [Robust image classification with multi-modal large language models](https://arxiv.org//abs/2412.10353)
+
+	Francesco Villani, Igor Maljkovic, Dario Lazzaro, Angelo Sotgiu, Antonio Emanuele Cinà, Fabio Roli
+
+
++ [Adversarial Robustness of Bottleneck Injected Deep Neural Networks for Task-Oriented Communication](https://arxiv.org//abs/2412.10265)
+
+	Alireza Furutanpey, Pantelis A. Frangoudis, Patrik Szabo, Schahram Dustdar
+
+
+
 # 2024-12-12
 + [SVasP: Self-Versatility Adversarial Style Perturbation for Cross-Domain Few-Shot Learning](https://arxiv.org//abs/2412.09073)
 
@@ -31,6 +83,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [A Semi Black-Box Adversarial Bit-Flip Attack with Limited DNN Model Information](https://arxiv.org//abs/2412.09450)
 
 	Behnam Ghavami, Mani Sadati, Mohammad Shahidzadeh, Lesley Shannon, Steve Wilton
+
+
++ [AI Red-Teaming is a Sociotechnical System. Now What?](https://arxiv.org//abs/2412.09751)
+
+	Tarleton Gillespie, Ryland Shaw, Mary L. Gray, Jina Suh
+
+
++ [TOAP: Towards Better Robustness in Universal Transferable Anti-Facial Retrieval](https://arxiv.org//abs/2412.09692)
+
+	Yunna Lv, Long Tang, Dengpan Ye, Caiyun Xie, Jiacheng Deng, Yiheng He
 
 
 # 2024-12-11
@@ -86,7 +148,7 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 + [Backdoor attacks on DNN and GBDT -- A Case Study from the insurance domain](https://arxiv.org//abs/2412.08366)
 
-	Robin Kühlem (1), Daniel Otten (1), Daniel Ludwig (1), Anselm Hudde (1 and 3), Alexander Rosenbaum (2), Andreas Mauthe (2) ((1) Debeka, Koblenz, Germany, (2) Computer Science, University of Koblenz, Koblenz, Germany, (3) Department of Maths and Technology, Koblenz University of Applied Sciences, Remagen, Germany)
+	Robin Kühlem, Daniel Otten, Daniel Ludwig, Anselm Hudde, Alexander Rosenbaum, Andreas Mauthe
 
 
 + [Adversarial Purification by Consistency-aware Latent Space Optimization on Data Manifolds](https://arxiv.org//abs/2412.08394)
