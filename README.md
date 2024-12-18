@@ -2,6 +2,88 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-12-17
++ [Solid-SQL: Enhanced Schema-linking based In-context Learning for Robust Text-to-SQL](https://arxiv.org//abs/2412.12522)
+
+	Geling Liu, Yunzhi Tan, Ruichao Zhong, Yuanzhen Xie, Lingchen Zhao, Qian Wang, Bo Hu, Zang Li
+
+
++ [Defending LVLMs Against Vision Attacks through Partial-Perception Supervision](https://arxiv.org//abs/2412.12722)
+
+	Qi Zhou, Tianlin Li, Qing Guo, Dongxia Wang, Yun Lin, Yang Liu, Jin Song Dong
+
+
++ [Boosting Fine-Grained Visual Anomaly Detection with Coarse-Knowledge-Aware Adversarial Learning](https://arxiv.org//abs/2412.12850)
+
+	Qingqing Fang, Qinliang Su, Wenxi Lv, Wenchao Xu, Jianxing Yu
+
+
++ [Human-in-the-Loop Generation of Adversarial Texts: A Case Study on Tibetan Script](https://arxiv.org//abs/2412.12478)
+
+	Xi Cao, Yuan Sun, Jiajun Li, Quzong Gesang, Nuo Qun, Tashi Nyima
+
+
++ [NLSR: Neuron-Level Safety Realignment of Large Language Models Against Harmful Fine-Tuning](https://arxiv.org//abs/2412.12497)
+
+	Xin Yi, Shunfan Zheng, Linlin Wang, Gerard de Melo, Xiaoling Wang, Liang He
+
+
++ [Jailbreaking? One Step Is Enough!](https://arxiv.org//abs/2412.12621)
+
+	Weixiong Zheng, Peijian Zeng, Yiwei Li, Hongyan Wu, Nankai Lin, Junhao Chen, Aimin Yang, Yongmei Zhou
+
+
++ [Truthful Text Sanitization Guided by Inference Attacks](https://arxiv.org//abs/2412.12928)
+
+	Ildikó Pilán, Benet Manzanares-Salor, David Sánchez, Pierre Lison
+
+
++ [Invisible Watermarks: Attacks and Robustness](https://arxiv.org//abs/2412.12511)
+
+	Dongjun Hwang, Sungwon Woo, Tom Gao, Raymond Luo, Sunghwan Baek
+
+
++ [Improving the Transferability of 3D Point Cloud Attack via Spectral-aware Admix and Optimization Designs](https://arxiv.org//abs/2412.12626)
+
+	Shiyu Hu, Daizong Liu, Wei Hu
+
+
++ [A New Adversarial Perspective for LiDAR-based 3D Object Detection](https://arxiv.org//abs/2412.13017)
+
+	Shijun Zheng, Weiquan Liu, Yu Guo, Yu Zang, Siqi Shen, Cheng Wang
+
+
++ [Building Gradient Bridges: Label Leakage from Restricted Gradient Sharing in Federated Learning](https://arxiv.org//abs/2412.12640)
+
+	Rui Zhang, Ka-Ho Chow, Ping Li
+
+
++ [Deep Learning for Resilient Adversarial Decision Fusion in Byzantine Networks](https://arxiv.org//abs/2412.12739)
+
+	Kassem Kallas
+
+
++ [Scrutinizing the Vulnerability of Decentralized Learning to Membership Inference Attacks](https://arxiv.org//abs/2412.12837)
+
+	Ousmane Touat, Jezekael Brunon, Yacine Belal, Julien Nicolas, Mohamed Maouche, César Sabater, Sonia Ben Mokhtar
+
+
++ [Adversarially robust generalization theory via Jacobian regularization for deep neural networks](https://arxiv.org//abs/2412.12449)
+
+	Dongya Wu, Xin Li
+
+
++ [Practicable Black-box Evasion Attacks on Link Prediction in Dynamic Graphs -- A Graph Sequential Embedding Method](https://arxiv.org//abs/2412.13134)
+
+	Jiate Li, Meng Pang, Binghui Wang
+
+
++ [RemoteRAG: A Privacy-Preserving LLM Cloud RAG Service](https://arxiv.org//abs/2412.12775)
+
+	Yihang Cheng, Lan Zhang, Junyang Wang, Mu Yuan, Yunhao Yao
+
+
+
 # 2024-12-16
 + [Stepwise Reasoning Error Disruption Attack of LLMs](https://arxiv.org//abs/2412.11934)
 
@@ -73,6 +155,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Syed Quiser Ahmed, Bharathi Vokkaliga Ganesh, Sathyanarayana Sampath Kumar, Prakhar Mishra, Ravi Anand, Bhanuteja Akurathi
 
 
++ [Comprehensive Survey on Adversarial Examples in Cybersecurity: Impacts, Challenges, and Mitigation Strategies](https://arxiv.org//abs/2412.12217)
+
+	Li Li
+
+
++ [Quantum Adversarial Machine Learning and Defense Strategies: Challenges and Opportunities](https://arxiv.org//abs/2412.12373)
+
+	Eric Yocam, Anthony Rizi, Mahesh Kamepalli, Varghese Vaidyan, Yong Wang, Gurcan Comert
+
+
 # 2024-12-15
 + [Impact of Adversarial Attacks on Deep Learning Model Explainability](https://arxiv.org//abs/2412.11119)
 
@@ -99,6 +191,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Jin Li, Zitong Yu, Ziqiang He, Z. Jane Wang, Xiangui Kang
 
 
++ [Finding a Wolf in Sheep's Clothing: Combating Adversarial Text-To-Image Prompts with Text Summarization](https://arxiv.org//abs/2412.12212)
+
+	Portia Cooper, Harshita Narnoli, Mihai Surdeanu
+
+
 # 2024-12-14
 + [Are Language Models Agnostic to Linguistically Grounded Perturbations? A Case Study of Indic Languages](https://arxiv.org//abs/2412.10805)
 
@@ -123,6 +220,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Towards Action Hijacking of Large Language Model-based Agent](https://arxiv.org//abs/2412.10807)
 
 	Yuyang Zhang, Kangjie Chen, Xudong Jiang, Yuxiang Sun, Run Wang, Lina Wang
+
+
++ [TrendSim: Simulating Trending Topics in Social Media Under Poisoning Attacks with LLM-based Multi-agent System](https://arxiv.org//abs/2412.12196)
+
+	Zeyu Zhang, Jianxun Lian, Chen Ma, Yaning Qu, Ye Luo, Lei Wang, Rui Li, Xu Chen, Yankai Lin, Le Wu, Xing Xie, Ji-Rong Wen
+
+
++ [BlockDoor: Blocking Backdoor Based Watermarks in Deep Neural Networks](https://arxiv.org//abs/2412.12194)
+
+	Yi Hao Puah, Anh Tu Ngo, Nandish Chattopadhyay, Anupam Chattopadhyay
 
 
 
@@ -200,6 +307,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Err on the Side of Texture: Texture Bias on Real Data](https://arxiv.org//abs/2412.10597)
 
 	Blaine Hoak, Ryan Sheatsley, Patrick McDaniel
+
+
++ [No Free Lunch for Defending Against Prefilling Attack by In-Context Learning](https://arxiv.org//abs/2412.12192)
+
+	Zhiyu Xue, Guangliang Liu, Bocheng Chen, Kristen Marie Johnson, Ramtin Pedarsani
 
 
 
