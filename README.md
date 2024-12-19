@@ -2,6 +2,52 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-12-18
++ [Safeguarding System Prompts for LLMs](https://arxiv.org//abs/2412.13426)
+
+	Zhifeng Jiang, Zhihua Jin, Guoliang He
+
+
++ [A Statistical and Multi-Perspective Revisiting of the Membership Inference Attack in Large Language Models](https://arxiv.org//abs/2412.13475)
+
+	Bowen Chen, Namgi Han, Yusuke Miyao
+
+
++ [Mitigating Adversarial Attacks in LLMs through Defensive Suffix Generation](https://arxiv.org//abs/2412.13705)
+
+	Minkyoung Kim, Yunha Kim, Hyeram Seo, Heejung Choi, Jiye Han, Gaeun Kee, Soyoung Ko, HyoJe Jung, Byeolhee Kim, Young-Hak Kim, Sanghyun Park, Tae Joon Jun
+
+
++ [Physics-Based Adversarial Attack on Near-Infrared Human Detector for Nighttime Surveillance Camera Systems](https://arxiv.org//abs/2412.13709)
+
+	Muyao Niu, Zhuoxiao Li, Yifan Zhan, Huy H. Nguyen, Isao Echizen, Yinqiang Zheng
+
+
++ [A Black-Box Evaluation Framework for Semantic Robustness in Bird's Eye View Detection](https://arxiv.org//abs/2412.13913)
+
+	Fu Wang, Yanghao Zhang, Xiangyu Yin, Guangliang Cheng, Zeyu Fu, Xiaowei Huang, Wenjie Ruan
+
+
++ [Cultivating Archipelago of Forests: Evolving Robust Decision Trees through Island Coevolution](https://arxiv.org//abs/2412.13762)
+
+	Adam Żychowski, Andrew Perrault, Jacek Mańdziuk
+
+
++ [On the Robustness of Distributed Machine Learning against Transfer Attacks](https://arxiv.org//abs/2412.14080)
+
+	Sébastien Andreina, Pascal Zimmer, Ghassan Karame
+
+
++ [A Review of the Duality of Adversarial Learning in Network Intrusion: Attacks and Countermeasures](https://arxiv.org//abs/2412.13880)
+
+	Shalini Saini, Anitha Chennamaneni, Babatunde Sawyerr
+
+
++ [Adversarial Hubness in Multi-Modal Retrieval](https://arxiv.org//abs/2412.14113)
+
+	Tingwei Zhang, Fnu Suya, Rishi Jha, Collin Zhang, Vitaly Shmatikov
+
+
 # 2024-12-17
 + [Solid-SQL: Enhanced Schema-linking based In-context Learning for Robust Text-to-SQL](https://arxiv.org//abs/2412.12522)
 
@@ -81,6 +127,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [RemoteRAG: A Privacy-Preserving LLM Cloud RAG Service](https://arxiv.org//abs/2412.12775)
 
 	Yihang Cheng, Lan Zhang, Junyang Wang, Mu Yuan, Yunhao Yao
+
+
++ [BadSAD: Clean-Label Backdoor Attacks against Deep Semi-Supervised Anomaly Detection](https://arxiv.org//abs/2412.13324)
+
+	He Cheng, Depeng Xu, Shuhan Yuan
+
+
++ [Targeted View-Invariant Adversarial Perturbations for 3D Object Recognition](https://arxiv.org//abs/2412.13376)
+
+	Christian Green, Mehmet Ergezer, Abdurrahman Zeybey
 
 
 
