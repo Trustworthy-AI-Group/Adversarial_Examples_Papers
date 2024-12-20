@@ -2,6 +2,28 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-12-19
++ [FRIDAY: Mitigating Unintentional Facial Identity in Deepfake Detectors Guided by Facial Recognizers](https://arxiv.org//abs/2412.14623)
+
+	Younhun Kim, Myung-Joon Kwon, Wonjun Lee, Changick Kim
+
+
++ [AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving](https://arxiv.org//abs/2412.15206)
+
+	Shuo Xing, Hongyuan Hua, Xiangbo Gao, Shenzhe Zhu, Renjie Li, Kexin Tian, Xiaopeng Li, Heng Huang, Tianbao Yang, Zhangyang Wang, Yang Zhou, Huaxiu Yao, Zhengzhong Tu
+
+
++ [Holistic Adversarially Robust Pruning](https://arxiv.org//abs/2412.14714)
+
+	Qi Zhao, Christian Wressnegger
+
+
++ [Boosting GNN Performance via Training Sample Selection Based on Adversarial Robustness Evaluation](https://arxiv.org//abs/2412.14738)
+
+	Yongyu Wang
+
+
+
 # 2024-12-18
 + [Safeguarding System Prompts for LLMs](https://arxiv.org//abs/2412.13426)
 
