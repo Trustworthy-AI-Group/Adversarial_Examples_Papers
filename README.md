@@ -2,6 +2,37 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-12-20
++ [JailPO: A Novel Black-box Jailbreak Framework via Preference Optimization against Aligned LLMs](https://arxiv.org//abs/2412.15623)
+
+	Hongyi Li, Jiawei Ye, Jie Wu, Tianjie Yan, Chu Wang, Zhixin Li
+
+
++ [Watertox: The Art of Simplicity in Universal Attacks A Cross-Model Framework for Robust Adversarial Generation](https://arxiv.org//abs/2412.15924)
+
+	Zhenghao Gao, Shengjie Xu, Meixi Chen, Fangyao Zhao
+
+
++ [Technical Report for ICML 2024 TiFA Workshop MLLM Attack Challenge: Suffix Injection and Projected Gradient Descent Can Easily Fool An MLLM](https://arxiv.org//abs/2412.15614)
+
+	Yangyang Guo, Ziwei Xu, Xilie Xu, YongKang Wong, Liqiang Nie, Mohan Kankanhalli
+
+
++ [Prompt-based Unifying Inference Attack on Graph Neural Networks](https://arxiv.org//abs/2412.15735)
+
+	Yuecen Wei, Xingcheng Fu, Lingyun Liu, Qingyun Sun, Hao Peng, Chunming Hu
+
+
++ [Meme Trojan: Backdoor Attacks Against Hateful Meme Detection via Cross-Modal Triggers](https://arxiv.org//abs/2412.15503)
+
+	Ruofei Wang, Hongzhan Lin, Ziyuan Luo, Ka Chun Cheung, Simon See, Jing Ma, Renjie Wan
+
+
++ [PoisonCatcher: Revealing and Identifying LDP Poisoning Attacks in IIoT](https://arxiv.org//abs/2412.15704)
+
+	Lisha Shuai, Shaofeng Tan, Nan Zhang, Jiamin Zhang, Min Zhang, Xiaolong Yang
+
+
 # 2024-12-19
 + [FRIDAY: Mitigating Unintentional Facial Identity in Deepfake Detectors Guided by Facial Recognizers](https://arxiv.org//abs/2412.14623)
 
@@ -21,6 +52,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Boosting GNN Performance via Training Sample Selection Based on Adversarial Robustness Evaluation](https://arxiv.org//abs/2412.14738)
 
 	Yongyu Wang
+
+
++ [SATA: A Paradigm for LLM Jailbreak via Simple Assistive Task Linkage](https://arxiv.org//abs/2412.15289)
+
+	Xiaoning Dong, Wenbo Hu, Wei Xu, Tianxing He
 
 
 
@@ -68,6 +104,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Adversarial Hubness in Multi-Modal Retrieval](https://arxiv.org//abs/2412.14113)
 
 	Tingwei Zhang, Fnu Suya, Rishi Jha, Collin Zhang, Vitaly Shmatikov
+
+
++ [Exploring Query Efficient Data Generation towards Data-free Model Stealing in Hard Label Setting](https://arxiv.org//abs/2412.15276)
+
+	Gaozheng Pei, Shaojie lyu, Ke Ma, Pinci Yang, Qianqian Xu, Yingfei Sun
 
 
 # 2024-12-17
