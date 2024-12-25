@@ -2,6 +2,52 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2024-12-24
++ [Pirates of the RAG: Adaptively Attacking LLMs to Leak Knowledge Bases](https://arxiv.org//abs/2412.18295)
+
+	Christian Di Maio, Cristian Cosci, Marco Maggini, Valentina Poggioni, Stefano Melacci
+
+
++ [Hypergraph Attacks via Injecting Homogeneous Nodes into Elite Hyperedges](https://arxiv.org//abs/2412.18365)
+
+	Meixia He, Peican Zhu, Keke Tang, Yangming Guo
+
+
++ [Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks against GNN-Based Fraud Detectors](https://arxiv.org//abs/2412.18370)
+
+	Jinhyeok Choi, Heehyeon Kim, Joyce Jiyoung Whang
+
+
++ [Robustness-aware Automatic Prompt Optimization](https://arxiv.org//abs/2412.18196)
+
+	Zeru Shi, Zhenting Wang, Yongye Su, Weidi Luo, Fan Yang, Yongfeng Zhang
+
+
++ [AEIOU: A Unified Defense Framework against NSFW Prompts in Text-to-Image Models](https://arxiv.org//abs/2412.18123)
+
+	Yiming Wang, Jiahao Chen, Qingming Li, Xing Yang, Shouling Ji
+
+
++ [FameBias: Embedding Manipulation Bias Attack in Text-to-Image Models](https://arxiv.org//abs/2412.18302)
+
+	Jaechul Roh, Andrew Yuan, Jinsong Mao
+
+
++ [On the Effectiveness of Adversarial Training on Malware Classifiers](https://arxiv.org//abs/2412.18218)
+
+	Hamid Bostani, Jacopo Cortellazzi, Daniel Arp, Fabio Pierazzi, Veelasha Moonsamy, Lorenzo Cavallaro
+
+
++ [An Empirical Analysis of Federated Learning Models Subject to Label-Flipping Adversarial Attack](https://arxiv.org//abs/2412.18507)
+
+	Kunal Bhatnagar, Sagana Chattanathan, Angela Dang, Bhargav Eranki, Ronnit Rana, Charan Sridhar, Siddharth Vedam, Angie Yao, Mark Stamp
+
+
++ [Token Highlighter: Inspecting and Mitigating Jailbreak Prompts for Large Language Models](https://arxiv.org//abs/2412.18171)
+
+	Xiaomeng Hu, Pin-Yu Chen, Tsung-Yi Ho
+
+
 # 2024-12-23
 + [Retention Score: Quantifying Jailbreak Risks for Vision Language Models](https://arxiv.org//abs/2412.17544)
 
@@ -46,6 +92,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [EM-MIAs: Enhancing Membership Inference Attacks in Large Language Models through Ensemble Modeling](https://arxiv.org//abs/2412.17249)
 
 	Zichen Song, Sitan Huang, Zhongfeng Kang
+
+
++ [Trading Devil RL: Backdoor attack via Stock market, Bayesian Optimization and Reinforcement Learning](https://arxiv.org//abs/2412.17908)
+
+	Orson Mengara
 
 
 # 2024-12-22
