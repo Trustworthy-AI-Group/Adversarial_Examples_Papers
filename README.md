@@ -2,6 +2,164 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-01-03
++ [BLAST: A Stealthy Backdoor Leverage Attack against Cooperative Multi-Agent Deep Reinforcement Learning based Systems](https://arxiv.org//abs/2501.01593)
+
+	Yinbo Yu, Saihao Yan, Xueyu Yin, Jing Fang, Jiajia Liu
+
+
++ [Auto-RT: Automatic Jailbreak Strategy Exploration for Red-Teaming Large Language Models](https://arxiv.org//abs/2501.01830)
+
+	Yanjiang Liu, Shuhen Zhou, Yaojie Lu, Huijia Zhu, Weiqiang Wang, Hongyu Lin, Ben He, Xianpei Han, Le Sun
+
+
++ [Mingling with the Good to Backdoor Federated Learning](https://arxiv.org//abs/2501.01913)
+
+	Nuno Neves
+
+
++ [Turning Logic Against Itself : Probing Model Defenses Through Contrastive Questions](https://arxiv.org//abs/2501.01872)
+
+	Rachneet Sachdeva, Rima Hazra, Iryna Gurevych
+
+
++ [Detecting and Mitigating Adversarial Attacks on Deep Learning-Based MRI Reconstruction Without Any Retraining](https://arxiv.org//abs/2501.01908)
+
+	Mahdi Saberi, Chi Zhang, Mehmet Akcakaya
+
+
++ [Adaptive Meta-learning-based Adversarial Training for Robust Automatic Modulation Classification](https://arxiv.org//abs/2501.01620)
+
+	Amirmohammad Bamdad, Ali Owfi, Fatemeh Afghah
+
+
+
+# 2025-01-02
++ [Towards Adversarially Robust Deep Metric Learning](https://arxiv.org//abs/2501.01025)
+
+	Xiaopeng Ke
+
+
++ [Stealthy Backdoor Attack to Real-world Models in Android Apps](https://arxiv.org//abs/2501.01263)
+
+	Jiali Wei, Ming Fan, Xicheng Zhang, Wenjing Jiao, Haijun Wang, Ting Liu
+
+
++ [Boosting Adversarial Transferability with Spatial Adversarial Alignment](https://arxiv.org//abs/2501.01015)
+
+	Zhaoyu Chen, Haijing Guo, Kaixun Jiang, Jiyuan Fu, Xinyu Zhou, Dingkang Yang, Hao Tang, Bo Li, Wenqiang Zhang
+
+
++ [Image-based Multimodal Models as Intruders: Transferable Multimodal Attacks on Video-based MLLMs](https://arxiv.org//abs/2501.01042)
+
+	Linhao Huang, Xue Jiang, Zhiqiang Wang, Wentao Mo, Xi Xiao, Bo Han, Yongjie Yin, Feng Zheng
+
+
++ [AIM: Additional Image Guided Generation of Transferable Adversarial Attacks](https://arxiv.org//abs/2501.01106)
+
+	Teng Li, Xingjun Ma, Yu-Gang Jiang
+
+
++ [HoneypotNet: Backdoor Attacks Against Model Extraction](https://arxiv.org//abs/2501.01090)
+
+	Yixu Wang, Tianle Gu, Yan Teng, Yingchun Wang, Xingjun Ma
+
+
++ [Best Transition Matrix Esitimation or Best Label Noise Robustness Classifier? Two Possible Methods to Enhance the Performance of T-revision](https://arxiv.org//abs/2501.01402)
+
+	Haixu Liu, Zerui Tao, Naihui Zhang, Sixing Liu
+
+
++ [A Game Between the Defender and the Attacker for Trigger-based Black-box Model Watermarking](https://arxiv.org//abs/2501.01194)
+
+	Chaoyue Huang, Hanzhou Wu
+
+
++ [Improving Robustness Estimates in Natural Language Explainable AI though Synonymity Weighted Similarity Measures](https://arxiv.org//abs/2501.01516)
+
+	Christopher Burger
+
+
++ [SAFER: Sharpness Aware layer-selective Finetuning for Enhanced Robustness in vision transformers](https://arxiv.org//abs/2501.01529)
+
+	Bhavna Gopal, Huanrui Yang, Mark Horton, Yiran Chen
+
+
+# 2025-01-01
++ [Everywhere Attack: Attacking Locally and Globally to Boost Targeted Transferability](https://arxiv.org//abs/2501.00707)
+
+	Hui Zeng, Sanshuai Cui, Biwei Chen, Anjie Peng
+
+
++ [Dynamics of Adversarial Attacks on Large Language Model-Based Search Engines](https://arxiv.org//abs/2501.00745)
+
+	Xiyang Hu
+
+
++ [Make Shuffling Great Again: A Side-Channel Resistant Fisher-Yates Algorithm for Protecting Neural Networks](https://arxiv.org//abs/2501.00798)
+
+	Leonard Puškáč, Marek Benovič, Jakub Breier, Xiaolu Hou
+
+
++ [TrustRAG: Enhancing Robustness and Trustworthiness in RAG](https://arxiv.org//abs/2501.00879)
+
+	Huichi Zhou, Kin-Hei Lee, Zhonghao Zhan, Yue Chen, Zhenhao Li
+
+
++ [Information Sifting Funnel: Privacy-preserving Collaborative Inference Against Model Inversion Attacks](https://arxiv.org//abs/2501.00824)
+
+	Rongke Liu
+
+
++ [A Survey of Secure Semantic Communications](https://arxiv.org//abs/2501.00842)
+
+	Rui Meng, Song Gao, Dayu Fan, Haixiao Gao, Yining Wang, Xiaodong Xu, Bizhu Wang, Suyu Lv, Zhidi Zhang, Mengying Sun, Shujun Han, Chen Dong, Xiaofeng Tao, Ping Zhang
+
+
+# 2024-12-31
++ [Extending XReason: Formal Explanations for Adversarial Detection](https://arxiv.org//abs/2501.00537)
+
+	Amira Jemaa, Adnan Rashid, Sofiene Tahar
+
+
++ [Generalizing Trust: Weak-to-Strong Trustworthiness in Language Models](https://arxiv.org//abs/2501.00418)
+
+	Martin Pawelczyk, Lillian Sun, Zhenting Qi, Aounon Kumar, Himabindu Lakkaraju
+
+
++ [A Method for Enhancing the Safety of Large Model Generation Based on Multi-dimensional Attack and Defense](https://arxiv.org//abs/2501.00517)
+
+	Keke Zhai
+
+
+# 2024-12-29
++ [On Adversarial Robustness of Language Models in Transfer Learning](https://arxiv.org//abs/2501.00066)
+
+	Bohdan Turbal, Anastasiia Mazur, Jiaxu Zhao, Mykola Pechenizkiy
+
+
++ [Adversarial Negotiation Dynamics in Generative Language Models](https://arxiv.org//abs/2501.00069)
+
+	Arinbjörn Kolbeinsson, Benedikt Kolbeinsson
+
+
+# 2024-12-28
++ [AdvAnchor: Enhancing Diffusion Model Unlearning with Adversarial Anchors](https://arxiv.org//abs/2501.00054)
+
+	Mengnan Zhao, Lihe Zhang, Xingyi Yang, Tianhang Zheng, Baocai Yin
+
+
++ [LLM-Virus: Evolutionary Jailbreak Attack on Large Language Models](https://arxiv.org//abs/2501.00055)
+
+	Miao Yu, Junfeng Fang, Yingjie Zhou, Xing Fan, Kun Wang, Shirui Pan, Qingsong Wen
+
+
++ [Learning in Multiple Spaces: Few-Shot Network Attack Detection with Metric-Fused Prototypical Networks](https://arxiv.org//abs/2501.00050)
+
+	Fernando Martinez-Lopez, Lesther Santana, Mohamed Rahouti
+
+
+
 # 2024-12-24
 + [Pirates of the RAG: Adaptively Attacking LLMs to Leak Knowledge Bases](https://arxiv.org//abs/2412.18295)
 
