@@ -2,6 +2,60 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-01-06
++ [From Models to Network Topologies: A Topology Inference Attack in Decentralized Federated Learning](https://arxiv.org//abs/2501.03119)
+
+	Chao Feng, Yuanzhe Gao, Alberto Huertas Celdran, Gerome Bovet, Burkhard Stiller
+
+
++ [MBTSAD: Mitigating Backdoors in Language Models Based on Token Splitting and Attention Distillation](https://arxiv.org//abs/2501.02754)
+
+	Yidong Ding, Jiafei Niu, Ping Yi
+
+
++ [Persistence of Backdoor-based Watermarks for Neural Networks: A Comprehensive Evaluation](https://arxiv.org//abs/2501.02704)
+
+	Anh Tu Ngo, Chuan Song Heng, Nandish Chattopadhyay, Anupam Chattopadhyay
+
+
+# 2025-01-05
++ [Layer-Level Self-Exposure and Patch: Affirmative Token Mitigation for Jailbreak Attack Defense](https://arxiv.org//abs/2501.02629)
+
+	Yang Ouyang, Hengrui Gu, Shuhang Lin, Wenyue Hua, Jie Peng, Bhavya Kailkhura, Tianlong Chen, Kaixiong Zhou
+
+
++ [Tougher Text, Smarter Models: Raising the Bar for Adversarial Defence Benchmarks](https://arxiv.org//abs/2501.02654)
+
+	Yang Wang, Chenghua Lin
+
+
++ [GCP: Guarded Collaborative Perception with Spatial-Temporal Aware Malicious Agent Detection](https://arxiv.org//abs/2501.02450)
+
+	Yihang Tao, Senkang Hu, Yue Hu, Haonan An, Hangcheng Cao, Yuguang Fang
+
+
+# 2025-01-04
++ [AdaMixup: A Dynamic Defense Framework for Membership Inference Attack Mitigation](https://arxiv.org//abs/2501.02182)
+
+	Ying Chen, Jiajing Chen, Yijie Weng, ChiaHua Chang, Dezhi Yu, Guanbiao Lin
+
+
++ [Distillation-Enhanced Physical Adversarial Attacks](https://arxiv.org//abs/2501.02232)
+
+	Wei Liu, Yonglin Wu, Chaoqun Li, Zhuodong Liu, Huanqian Yan
+
+
++ [BADTV: Unveiling Backdoor Threats in Third-Party Task Vectors](https://arxiv.org//abs/2501.02373)
+
+	Chia-Yi Hsu, Yu-Lin Tsai, Yu Zhe, Yan-Lun Chen, Chih-Hsun Lin, Chia-Mu Yu, Yang Zhang, Chun-Ying Huang, Jun Sakuma
+
+
++ [Exploring Secure Machine Learning Through Payload Injection and FGSM Attacks on ResNet-50](https://arxiv.org//abs/2501.02147)
+
+	Umesh Yadav, Suman Niraula, Gaurav Kumar Gupta, Bicky Yadav
+
+
+
 # 2025-01-03
 + [BLAST: A Stealthy Backdoor Leverage Attack against Cooperative Multi-Agent Deep Reinforcement Learning based Systems](https://arxiv.org//abs/2501.01593)
 
@@ -31,6 +85,21 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Adaptive Meta-learning-based Adversarial Training for Robust Automatic Modulation Classification](https://arxiv.org//abs/2501.01620)
 
 	Amirmohammad Bamdad, Ali Owfi, Fatemeh Afghah
+
+
++ [Spot Risks Before Speaking! Unraveling Safety Attention Heads in Large Vision-Language Models](https://arxiv.org//abs/2501.02029)
+
+	Ziwei Zheng, Junyao Zhao, Le Yang, Lijun He, Fan Li
+
+
++ [AVTrustBench: Assessing and Enhancing Reliability and Robustness in Audio-Visual LLMs](https://arxiv.org//abs/2501.02135)
+
+	Sanjoy Chowdhury, Sayan Nag, Subhrajyoti Dasgupta, Yaoting Wang, Mohamed Elhoseiny, Ruohan Gao, Dinesh Manocha
+
+
++ [Towards Robust and Accurate Stability Estimation of Local Surrogate Models in Text-based Explainable AI](https://arxiv.org//abs/2501.02042)
+
+	Christopher Burger, Charles Walter, Thai Le, Lingwei Chen
 
 
 
@@ -83,6 +152,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [SAFER: Sharpness Aware layer-selective Finetuning for Enhanced Robustness in vision transformers](https://arxiv.org//abs/2501.01529)
 
 	Bhavna Gopal, Huanrui Yang, Mark Horton, Yiran Chen
+
+
++ [Safeguarding Large Language Models in Real-time with Tunable Safety-Performance Trade-offs](https://arxiv.org//abs/2501.02018)
+
+	Joao Fonseca, Andrew Bell, Julia Stoyanovich
 
 
 # 2025-01-01
