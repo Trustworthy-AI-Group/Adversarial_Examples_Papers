@@ -2,6 +2,27 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-01-07
++ [Rethinking Adversarial Attacks in Reinforcement Learning from Policy Distribution Perspective](https://arxiv.org//abs/2501.03562)
+
+	Tianyang Duan, Zongyuan Zhang, Zheng Lin, Yue Gao, Ling Xiong, Yong Cui, Hongbin Liang, Xianhao Chen, Heming Cui, Dong Huang
+
+
++ [Synthetic Data Privacy Metrics](https://arxiv.org//abs/2501.03941)
+
+	Amy Steier, Lipika Ramaswamy, Andre Manoel, Alexa Haushalter
+
+
++ [An Empirical Study of Accuracy-Robustness Tradeoff and Training Efficiency in Self-Supervised Learning](https://arxiv.org//abs/2501.03507)
+
+	Fatemeh Ghofrani, Pooyan Jamshidi
+
+
++ [MADation: Face Morphing Attack Detection with Foundation Models](https://arxiv.org//abs/2501.03800)
+
+	Eduarda Caldeira, Guray Ozgur, Tahar Chettaoui, Marija Ivanovska, Fadi Boutros, Vitomir Struc, Naser Damer
+
+
 # 2025-01-06
 + [From Models to Network Topologies: A Topology Inference Attack in Decentralized Federated Learning](https://arxiv.org//abs/2501.03119)
 
@@ -18,6 +39,26 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Anh Tu Ngo, Chuan Song Heng, Nandish Chattopadhyay, Anupam Chattopadhyay
 
 
++ [Rethinking Byzantine Robustness in Federated Recommendation from Sparse Aggregation Perspective](https://arxiv.org//abs/2501.03301)
+
+	Zhongjian Zhang, Mengmei Zhang, Xiao Wang, Lingjuan Lyu, Bo Yan, Junping Du, Chuan Shi
+
+
++ [DAMAGE: Detecting Adversarially Modified AI Generated Text](https://arxiv.org//abs/2501.03437)
+
+	Elyas Masrour, Bradley Emi, Max Spero
+
+
++ [The Robustness of Spiking Neural Networks in Federated Learning with Compression Against Non-omniscient Byzantine Attacks](https://arxiv.org//abs/2501.03306)
+
+	Manh V. Nguyen, Liang Zhao, Bobin Deng, Shaoen Wu
+
+
++ [On the Adversarial Robustness of Benjamini Hochberg](https://arxiv.org//abs/2501.03402)
+
+	Louis L Chen, Roberto Szechtman, Matan Seri
+
+
 # 2025-01-05
 + [Layer-Level Self-Exposure and Patch: Affirmative Token Mitigation for Jailbreak Attack Defense](https://arxiv.org//abs/2501.02629)
 
@@ -32,6 +73,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [GCP: Guarded Collaborative Perception with Spatial-Temporal Aware Malicious Agent Detection](https://arxiv.org//abs/2501.02450)
 
 	Yihang Tao, Senkang Hu, Yue Hu, Haonan An, Hangcheng Cao, Yuguang Fang
+
+
++ [Backdoor Token Unlearning: Exposing and Defending Backdoors in Pretrained Language Models](https://arxiv.org//abs/2501.03272)
+
+	Peihai Jiang, Xixiang Lyu, Yige Li, Jing Ma
 
 
 # 2025-01-04
