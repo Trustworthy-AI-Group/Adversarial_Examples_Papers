@@ -2,6 +2,37 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-01-09
++ [Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency](https://arxiv.org//abs/2501.04931)
+
+	Shiji Zhao, Ranjie Duan, Fengxiang Wang, Chi Chen, Caixin Kang, Jialing Tao, YueFeng Chen, Hui Xue, Xingxing Wei
+
+
++ [On Measuring Unnoticeability of Graph Adversarial Attacks: Observations, New Measure, and Applications](https://arxiv.org//abs/2501.05015)
+
+	Hyeonsoo Jo, Hyunjin Hwang, Fanchen Bu, Soo Yong Lee, Chanyoung Park, Kijung Shin
+
+
++ [TAPFed: Threshold Secure Aggregation for Privacy-Preserving Federated Learning](https://arxiv.org//abs/2501.05053)
+
+	Runhua Xu, Bo Li, Chao Li, James B.D. Joshi, Shuai Ma, Jianxin Li
+
+
++ [CROPS: Model-Agnostic Training-Free Framework for Safe Image Synthesis with Latent Diffusion Models](https://arxiv.org//abs/2501.05359)
+
+	Junha Park, Ian Ryu, Jaehui Hwang, Hyungkeun Park, Jiyoon Kim, Jong-Seok Lee
+
+
++ [Is Your Autonomous Vehicle Safe? Understanding the Threat of Electromagnetic Signal Injection Attacks on Traffic Scene Perception](https://arxiv.org//abs/2501.05239)
+
+	Wenhao Liao, Sineng Yan, Youqian Zhang, Xinwei Zhai, Yuanyuan Wang, Eugene Yujun Fu
+
+
++ [Targeted Adversarial Denoising Autoencoders (TADA) for Neural Time Series Filtration](https://arxiv.org//abs/2501.04967)
+
+	Benjamin J. Choi, Griffin Milsap, Clara A. Scholl, Francesco Tenore, Mattson Ogg
+
+
 # 2025-01-08
 + [Towards Fair Class-wise Robustness: Class Optimal Distribution Adversarial Training](https://arxiv.org//abs/2501.04527)
 
@@ -11,6 +42,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Gradient Purification: Defense Against Poisoning Attack in Decentralized Federated Learning](https://arxiv.org//abs/2501.04453)
 
 	Bin Li, Xiaoye Miao, Yongheng Shang, Xinkui Zhao, Shuiguang Deng, Jianwei Yin
+
+
++ [Reproducing HotFlip for Corpus Poisoning Attacks in Dense Retrieval](https://arxiv.org//abs/2501.04802)
+
+	Yongkang Li, Panagiotis Eustratiadis, Evangelos Kanoulas
+
+
++ [LayerMix: Enhanced Data Augmentation through Fractal Integration for Robust Deep Learning](https://arxiv.org//abs/2501.04861)
+
+	Hafiz Mughees Ahmad, Dario Morle, Afshin Rahimi
 
 
 
