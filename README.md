@@ -2,6 +2,32 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-01-10
++ [UV-Attack: Physical-World Adversarial Attacks for Person Detection via Dynamic-NeRF-based UV Mapping](https://arxiv.org//abs/2501.05783)
+
+	Yanjie Li, Wenxuan Zhang, Kaisheng Liang, Bin Xiao
+
+
++ [Towards Backdoor Stealthiness in Model Parameter Space](https://arxiv.org//abs/2501.05928)
+
+	Xiaoyun Xu, Zhuoran Liu, Stefanos Koffas, Stjepan Picek
+
+
++ [Effective faking of verbal deception detection with target-aligned adversarial attacks](https://arxiv.org//abs/2501.05962)
+
+	Bennett Kleinberg, Riccardo Loconte, Bruno Verschuere
+
+
++ [Fine-tuning is Not Fine: Mitigating Backdoor Attacks in GNNs with Limited Clean Data](https://arxiv.org//abs/2501.05835)
+
+	Jiale Zhang, Bosen Rao, Chengcheng Zhu, Xiaobing Sun, Qingming Li, Haibo Hu, Xiapu Luo, Qingqing Ye, Shouling Ji
+
+
++ [Model Inversion in Split Learning for Personalized LLMs: New Insights from Information Bottleneck Theory](https://arxiv.org//abs/2501.05965)
+
+	Yunmeng Shu, Shaofeng Li, Tian Dong, Yan Meng, Haojin Zhu
+
+
 # 2025-01-09
 + [Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency](https://arxiv.org//abs/2501.04931)
 
