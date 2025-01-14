@@ -2,6 +2,59 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-01-13
++ [Lessons From Red Teaming 100 Generative AI Products](https://arxiv.org//abs/2501.07238)
+
+	Blake Bullwinkel, Amanda Minnich, Shiven Chawla, Gary Lopez, Martin Pouliot, Whitney Maxwell, Joris de Gruyter, Katherine Pratt, Saphir Qi, Nina Chikanov, Roman Lutz, Raja Sekhar Rao Dheekonda, Bolor-Erdene Jagdagdorj, Eugenia Kim, Justin Song, Keegan Hines, Daniel Jones, Giorgio Severi, Richard Lundeen, Sam Vaughan, Victoria Westerhoff, Pete Bryan, Ram Shankar Siva Kumar, Yonatan Zunger, Chang Kawaguchi, Mark Russinovich
+
+
++ [MOS-Attack: A Scalable Multi-objective Adversarial Attack Framework](https://arxiv.org//abs/2501.07251)
+
+	Ping Guo, Cheng Gong, Xi Lin, Fei Liu, Zhichao Lu, Qingfu Zhang, Zhenkun Wang
+
+
++ [Protego: Detecting Adversarial Examples for Vision Transformers via Intrinsic Capabilities](https://arxiv.org//abs/2501.07044)
+
+	Jialin Wu, Kaikai Pan, Yanjiao Chen, Jiangyi Deng, Shengyuan Pang, Wenyuan Xu
+
+
++ [Generating Poisoning Attacks against Ridge Regression Models with Categorical Features](https://arxiv.org//abs/2501.07275)
+
+	Monse Guedes-Ayala, Lars Schewe, Zeynep Suvak, Miguel Anjos
+
+
++ [Exploring and Mitigating Adversarial Manipulation of Voting-Based Leaderboards](https://arxiv.org//abs/2501.07493)
+
+	Yangsibo Huang, Milad Nasr, Anastasios Angelopoulos, Nicholas Carlini, Wei-Lin Chiang, Christopher A. Choquette-Choo, Daphne Ippolito, Matthew Jagielski, Katherine Lee, Ken Ziyu Liu, Ion Stoica, Florian Tramer, Chiyuan Zhang
+
+
+# 2025-01-12
++ [Measuring the Robustness of Reference-Free Dialogue Evaluation Systems](https://arxiv.org//abs/2501.06728)
+
+	Justin Vasselli, Adam Nohejl, Taro Watanabe
+
+
++ [ZOQO: Zero-Order Quantized Optimization](https://arxiv.org//abs/2501.06736)
+
+	Noga Bar, Raja Giryes
+
+
++ [Understanding and Mitigating Membership Inference Risks of Neural Ordinary Differential Equations](https://arxiv.org//abs/2501.06686)
+
+	Sanghyun Hong, Fan Wu, Anthony Gruber, Kookjin Lee
+
+
+# 2025-01-11
++ [DivTrackee versus DynTracker: Promoting Diversity in Anti-Facial Recognition against Dynamic FR Strategy](https://arxiv.org//abs/2501.06533)
+
+	Wenshu Fan, Minxing Zhang, Hongwei Li, Wenbo Jiang, Hanxiao Chen, Xiangyu Yue, Michael Backes, Xiao Zhang
+
+
++ [SafeSplit: A Novel Defense Against Client-Side Backdoor Attacks in Split Learning](https://arxiv.org//abs/2501.06650)
+
+	Phillip Rieger, Alessandro Pegoraro, Kavita Kumari, Tigist Abera, Jonathan Knauer, Ahmad-Reza Sadeghi
+
+
 # 2025-01-10
 + [UV-Attack: Physical-World Adversarial Attacks for Person Detection via Dynamic-NeRF-based UV Mapping](https://arxiv.org//abs/2501.05783)
 
@@ -329,6 +382,12 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [A Method for Enhancing the Safety of Large Model Generation Based on Multi-dimensional Attack and Defense](https://arxiv.org//abs/2501.00517)
 
 	Keke Zhai
+
+
+# 2024-12-30
++ [Enhancing AI Safety Through the Fusion of Low Rank Adapters](https://arxiv.org//abs/2501.06208)
+
+	Satya Swaroop Gudipudi, Sreeram Vipparla, Harpreet Singh, Shashwat Goel, Ponnurangam Kumaraguru
 
 
 # 2024-12-29
