@@ -2,6 +2,48 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-01-14
++ [Self-Instruct Few-Shot Jailbreaking: Decompose the Attack into Pattern and Behavior Learning](https://arxiv.org//abs/2501.07959)
+
+	Jiaqi Hua, Wanxu Wei
+
+
++ [Gandalf the Red: Adaptive Security for LLMs](https://arxiv.org//abs/2501.07927)
+
+	Niklas Pfister, Václav Volhejn, Manuel Knott, Santiago Arias, Julia Bazińska, Mykhailo Bichurin, Alan Commike, Janet Darling, Peter Dienes, Matthew Fiedler, David Haber, Matthias Kraft, Marco Lancini, Max Mathys, Damián Pascual-Ortiz, Jakub Podolak, Adrià Romero-López, Kyriacos Shiarlis, Andreas Signer, Zsolt Terek, Athanasios Theocharis, Daniel Timbrell, Samuel Trautwein, Samuel Watts, Natalie Wu, Mateo Rojas-Carulla
+
+
++ [READ: Reinforcement-based Adversarial Learning for Text Classification with Limited Labeled Data](https://arxiv.org//abs/2501.08035)
+
+	Rohit Sharma, Shanu Kumar, Avinash Kumar
+
+
++ [ArithmAttack: Evaluating Robustness of LLMs to Noisy Context in Math Problem Solving](https://arxiv.org//abs/2501.08203)
+
+	Zain Ul Abedin, Shahzeb Qamar, Lucie Flek, Akbar Karimi
+
+
++ [VENOM: Text-driven Unrestricted Adversarial Example Generation with Diffusion Models](https://arxiv.org//abs/2501.07922)
+
+	Hui Kuurila-Zhang, Haoyu Chen, Guoying Zhao
+
+
++ [Energy Backdoor Attack to Deep Neural Networks](https://arxiv.org//abs/2501.08152)
+
+	Hanene F. Z. Brachemi Meftah, Wassim Hamidouche, Sid Ahmed Fezza, Olivier Déforges, Kassem Kallas
+
+
++ [Towards an End-to-End (E2E) Adversarial Learning and Application in the Physical World](https://arxiv.org//abs/2501.08258)
+
+	Dudi Biton, Jacob Shams, Koda Satoru, Asaf Shabtai, Yuval Elovici, Ben Nassi
+
+
++ [Text-Diffusion Red-Teaming of Large Language Models: Unveiling Harmful Behaviors with Proximity Constraints](https://arxiv.org//abs/2501.08246)
+
+	Jonathan Nöther, Adish Singla, Goran Radanović
+
+
+
 # 2025-01-13
 + [Lessons From Red Teaming 100 Generative AI Products](https://arxiv.org//abs/2501.07238)
 
