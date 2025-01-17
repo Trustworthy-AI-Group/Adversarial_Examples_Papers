@@ -2,6 +2,38 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-01-16
++ [A Survey on Responsible LLMs: Inherent Risk, Malicious Use, and Mitigation Strategy](https://arxiv.org//abs/2501.09431)
+
+	Huandong Wang, Wenjie Fu, Yingzhou Tang, Zhilong Chen, Yuxi Huang, Jinghua Piao, Chen Gao, Fengli Xu, Tao Jiang, Yong Li
+
+
++ [Neural Honeytrace: A Robust Plug-and-Play Watermarking Framework against Model Extraction Attacks](https://arxiv.org//abs/2501.09328)
+
+	Yixiao Xu, Binxing Fang, Rui Wang, Yinghai Zhou, Shouling Ji, Yuan Liu, Mohan Li, Zhihong Tian
+
+
++ [Double Visual Defense: Adversarial Pre-training and Instruction Tuning for Improving Vision-Language Model Robustness](https://arxiv.org//abs/2501.09446)
+
+	Zeyu Wang, Cihang Xie, Brian Bartoldson, Bhavya Kailkhura
+
+
++ [Cooperative Decentralized Backdoor Attacks on Vertical Federated Learning](https://arxiv.org//abs/2501.09320)
+
+	Seohyun Lee, Wenzhi Fang, Anindya Bijoy Das, Seyyedali Hosseinalipour, David J. Love, Christopher G. Brinton
+
+
++ [Adversarial-Ensemble Kolmogorov Arnold Networks for Enhancing Indoor Wi-Fi Positioning: A Defensive Approach Against Spoofing and Signal Manipulation Attacks](https://arxiv.org//abs/2501.09609)
+
+	Mitul Goswami, Romit Chatterjee, Somnath Mahato, Prasant Kumar Pattnaik
+
+
+# 2025-01-15
++ [Salient Information Preserving Adversarial Training Improves Clean and Robust Accuracy](https://arxiv.org//abs/2501.09086)
+
+	Timothy Redgrave, Adam Czajka
+
+
 # 2025-01-14
 + [Self-Instruct Few-Shot Jailbreaking: Decompose the Attack into Pattern and Behavior Learning](https://arxiv.org//abs/2501.07959)
 
