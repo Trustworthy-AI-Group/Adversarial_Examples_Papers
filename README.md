@@ -2,6 +2,136 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-01-21
++ [FedCLEAN: byzantine defense by CLustering Errors of Activation maps in Non-IID federated learning environments](https://arxiv.org//abs/2501.12123)
+
+	Mehdi Ben Ghali, Reda Bellafqira, Gouenou Coatrieux
+
+
++ [With Great Backbones Comes Great Adversarial Transferability](https://arxiv.org//abs/2501.12275)
+
+	Erik Arakelyan, Karen Hambardzumyan, Davit Papikyan, Pasquale Minervini, Albert Gordo, Isabelle Augenstein, Aram H. Markosyan
+
+
++ [Cross-Entropy Attacks to Language Models via Rare Event Simulation](https://arxiv.org//abs/2501.11852)
+
+	Mingze Ni, Yongshun Gong, Wei Liu
+
+
++ [Extend Adversarial Policy Against Neural Machine Translation via Unknown Token](https://arxiv.org//abs/2501.12183)
+
+	Wei Zou, Shujian Huang, Jiajun Chen
+
+
++ [CogMorph: Cognitive Morphing Attacks for Text-to-Image Models](https://arxiv.org//abs/2501.11815)
+
+	Zonglei Jing, Zonghao Ying, Le Wang, Siyuan Liang, Aishan Liu, Xianglong Liu, Dacheng Tao
+
+
++ [Enhancing Adversarial Transferability via Component-Wise Augmentation Method](https://arxiv.org//abs/2501.11901)
+
+	Hangyu Liu, Bo Peng, Pengxiang Ding, Donglin Wang
+
+
++ [Provably effective detection of effective data poisoning attacks](https://arxiv.org//abs/2501.11795)
+
+	Jonathan Gallagher, Yasaman Esfandiari, Callen MacPhee, Michael Warren
+
+
++ [FedMUA: Exploring the Vulnerabilities of Federated Learning to Malicious Unlearning Attacks](https://arxiv.org//abs/2501.11848)
+
+	Jian Chen, Zehui Lin, Wanyu Lin, Wenlong Shi, Xiaoyan Yin, Di Wang
+
+
++ [You Can't Eat Your Cake and Have It Too: The Performance Degradation of LLMs with Jailbreak Defense](https://arxiv.org//abs/2501.12210)
+
+	Wuyuao Mai, Geng Hong, Pei Chen, Xudong Pan, Baojun Liu, Yuan Zhang, Haixin Duan, Min Yang
+
+
+# 2025-01-20
++ [Trojan Detection Through Pattern Recognition for Large Language Models](https://arxiv.org//abs/2501.11621)
+
+	Vedant Bhasin, Matthew Yudin, Razvan Stefanescu, Rauf Izmailov
+
+
++ [On the Adversarial Vulnerabilities of Transfer Learning in Remote Sensing](https://arxiv.org//abs/2501.11462)
+
+	Tao Bai, Xingjian Tian, Yonghao Xu, Bihan Wen
+
+
++ [Rethinking Membership Inference Attacks Against Transfer Learning](https://arxiv.org//abs/2501.11577)
+
+	Cong Wu, Jing Chen, Qianru Fang, Kun He, Ziming Zhao, Hao Ren, Guowen Xu, Yang Liu, Yang Xiang
+
+
+# 2025-01-19
++ [Tell me about yourself: LLMs are aware of their learned behaviors](https://arxiv.org//abs/2501.11120)
+
+	Jan Betley, Xuchan Bao, Martín Soto, Anna Sztyber-Betley, James Chua, Owain Evans
+
+
++ [Explainable Adversarial Attacks on Coarse-to-Fine Classifiers](https://arxiv.org//abs/2501.10906)
+
+	Akram Heidarizadeh, Connor Hatfield, Lorenzo Lazzarotto, HanQin Cai, George Atia
+
+
++ [GRID: Protecting Training Graph from Link Stealing Attacks on GNN Models](https://arxiv.org//abs/2501.10985)
+
+	Jiadong Lou, Xu Yuan, Rui Zhang, Xingliang Yuan, Neil Gong, Nian-Feng Tzeng
+
+
++ [Temporal Analysis of Adversarial Attacks in Federated Learning](https://arxiv.org//abs/2501.11054)
+
+	Rohit Mapakshi, Sayma Akther, Mark Stamp
+
+
++ [Federated Testing (FedTest): A New Scheme to Enhance Convergence and Mitigate Adversarial Attacks in Federating Learning](https://arxiv.org//abs/2501.11167)
+
+	Mustafa Ghaleb, Mohanad Obeed, Muhamad Felemban, Anas Chaaban, Halim Yanikomeroglu
+
+
++ [Effectiveness of Adversarial Benign and Malware Examples in Evasion and Poisoning Attacks](https://arxiv.org//abs/2501.10996)
+
+	Matouš Kozák, Martin Jureček
+
+
+# 2025-01-18
++ [Latent-space adversarial training with post-aware calibration for defending large language models against jailbreak attacks](https://arxiv.org//abs/2501.10639)
+
+	Xin Yi, Yue Li, Linlin Wang, Xiaoling Wang, Liang He
+
+
++ [Jailbreaking Large Language Models in Infinitely Many Ways](https://arxiv.org//abs/2501.10800)
+
+	Oliver Goldstein, Emanuele La Malfa, Felix Drinkall, Samuele Marro, Michael Wooldridge
+
+
++ [Certifying Robustness via Topological Representations](https://arxiv.org//abs/2501.10876)
+
+	Jens Agerberg, Andrea Guidolin, Andrea Martinelli, Pepijn Roos Hoefgeest, David Eklund, Martina Scolamiero
+
+
+# 2025-01-17
++ [Provably Safeguarding a Classifier from OOD and Adversarial Samples: an Extreme Value Theory Approach](https://arxiv.org//abs/2501.10202)
+
+	Nicolas Atienza, Christophe Labreuche, Johanne Cohen, Michele Sebag
+
+
++ [CaFA: Cost-aware, Feasible Attacks With Database Constraints Against Neural Tabular Classifiers](https://arxiv.org//abs/2501.10013)
+
+	Matan Ben-Tov, Daniel Deutch, Nave Frost, Mahmood Sharif
+
+
++ [Michscan: Black-Box Neural Network Integrity Checking at Runtime Through Power Analysis](https://arxiv.org//abs/2501.10174)
+
+	Robi Paul, Michael Zuzak
+
+
++ [Differentiable Adversarial Attacks for Marked Temporal Point Processes](https://arxiv.org//abs/2501.10606)
+
+	Pritish Chakraborty, Vinayak Gupta, Rahul R, Srikanta J. Bedathur, Abir De
+
+
 # 2025-01-16
 + [A Survey on Responsible LLMs: Inherent Risk, Malicious Use, and Mitigation Strategy](https://arxiv.org//abs/2501.09431)
 
@@ -28,10 +158,30 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Mitul Goswami, Romit Chatterjee, Somnath Mahato, Prasant Kumar Pattnaik
 
 
++ [Enhancing Generalization in Chain of Thought Reasoning for Smaller Models](https://arxiv.org//abs/2501.09804)
+
+	Maxwell J. Yin, Dingyi Jiang, Yongbing Chen, Boyu Wang, Charles Ling
+
+
++ [Generalized Single-Image-Based Morphing Attack Detection Using Deep Representations from Vision Transformer](https://arxiv.org//abs/2501.09817)
+
+	Haoyu Zhang, Raghavendra Ramachandra, Kiran Raja, Christoph Busch
+
+
++ [Computing Optimization-Based Prompt Injections Against Closed-Weights Models By Misusing a Fine-Tuning API](https://arxiv.org//abs/2501.09798)
+
+	Andrey Labunets, Nishit V. Pandya, Ashish Hooda, Xiaohan Fu, Earlence Fernandes
+
+
 # 2025-01-15
 + [Salient Information Preserving Adversarial Training Improves Clean and Robust Accuracy](https://arxiv.org//abs/2501.09086)
 
 	Timothy Redgrave, Adam Czajka
+
+
++ [Improving the Efficiency of Self-Supervised Adversarial Training through Latent Clustering-Based Selection](https://arxiv.org//abs/2501.10466)
+
+	Somrita Ghosh, Yuelin Xu, Xiao Zhang
 
 
 # 2025-01-14
