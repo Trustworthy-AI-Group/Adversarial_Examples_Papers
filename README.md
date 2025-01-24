@@ -2,6 +2,47 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-01-23
++ [Ensuring Medical AI Safety: Explainable AI-Driven Detection and Mitigation of Spurious Model Behavior and Associated Data](https://arxiv.org//abs/2501.13818)
+
+	Frederik Pahde, Thomas Wiegand, Sebastian Lapuschkin, Wojciech Samek
+
+
++ [Black-Box Adversarial Attack on Vision Language Models for Autonomous Driving](https://arxiv.org//abs/2501.13563)
+
+	Lu Wang, Tianyuan Zhang, Yang Qu, Siyuan Liang, Yuwei Chen, Aishan Liu, Xianglong Liu, Dacheng Tao
+
+
++ [Certified Robustness Under Bounded Levenshtein Distance](https://arxiv.org//abs/2501.13676)
+
+	Elias Abad Rocamora, Grigorios G. Chrysos, Volkan Cevher
+
+
++ [Defending against Adversarial Malware Attacks on ML-based Android Malware Detection Systems](https://arxiv.org//abs/2501.13782)
+
+	Ping He, Lorenzo Cavallaro, Shouling Ji
+
+
++ [Gradient-Free Adversarial Purification with Diffusion Models](https://arxiv.org//abs/2501.13336)
+
+	Xuelong Dai, Dong Wang, Duan Mingxing, Bin Xiao
+
+
++ [Retrievals Can Be Detrimental: A Contrastive Backdoor Attack Paradigm on Retrieval-Augmented Diffusion Models](https://arxiv.org//abs/2501.13340)
+
+	Hao Fang, Xiaohang Sui, Hongyao Yu, Jiawei Kong, Sijin Yu, Bin Chen, Hao Wu, Shu-Tao Xia
+
+
++ [HumorReject: Decoupling LLM Safety from Refusal Prefix via A Little Humor](https://arxiv.org//abs/2501.13677)
+
+	Zihui Wu, Haichang Gao, Jiacheng Luo, Zhaoxiang Liu
+
+
++ [Crossfire: An Elastic Defense Framework for Graph Neural Networks Under Bit Flip Attacks](https://arxiv.org//abs/2501.13776)
+
+	Lorenz Kummer, Samir Moustafa, Wilfried Gansterer, Nils Kriege
+
+
 # 2025-01-22
 + [Robust Representation Consistency Model via Contrastive Denoising](https://arxiv.org//abs/2501.13094)
 
