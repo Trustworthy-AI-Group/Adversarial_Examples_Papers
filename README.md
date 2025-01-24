@@ -2,6 +2,32 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-01-22
++ [Robust Representation Consistency Model via Contrastive Denoising](https://arxiv.org//abs/2501.13094)
+
+	Jiachen Lei, Julius Berner, Jiongxiao Wang, Zhongzhu Chen, Zhongjia Ba, Kui Ren, Jun Zhu, Anima Anandkumar
+
+
++ [Refining Input Guardrails: Enhancing LLM-as-a-Judge Efficiency Through Chain-of-Thought Fine-Tuning and Alignment](https://arxiv.org//abs/2501.13080)
+
+	Melissa Kazemi Rad, Huy Nghiem, Andy Luo, Sahil Wadhwa, Mohammad Sorower, Stephen Rawls
+
+
++ [Modality Unified Attack for Omni-Modality Person Re-Identification](https://arxiv.org//abs/2501.12761)
+
+	Yuan Bian, Min Liu, Yunqi Yi, Xueping Wang, Yunfeng Ma, Yaonan Wang
+
+
++ [Bad-PFL: Exploring Backdoor Attacks against Personalized Federated Learning](https://arxiv.org//abs/2501.12736)
+
+	Mingyuan Fan, Zhanyi Hu, Fuyi Wang, Cen Chen
+
+
++ [Intelligent Attacks on Cyber-Physical Systems and Critical Infrastructures](https://arxiv.org//abs/2501.12762)
+
+	Alan Oliveira de Sá, Charles Bezerra Prado, Mariana Luiza Flavio, Luiz F. Rust da C. Carmo
+
+
 # 2025-01-21
 + [FedCLEAN: byzantine defense by CLustering Errors of Activation maps in Non-IID federated learning environments](https://arxiv.org//abs/2501.12123)
 
@@ -46,6 +72,21 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [You Can't Eat Your Cake and Have It Too: The Performance Degradation of LLMs with Jailbreak Defense](https://arxiv.org//abs/2501.12210)
 
 	Wuyuao Mai, Geng Hong, Pei Chen, Xudong Pan, Baojun Liu, Yuan Zhang, Haixin Duan, Min Yang
+
+
++ [An Empirically-grounded tool for Automatic Prompt Linting and Repair: A Case Study on Bias, Vulnerability, and Optimization in Developer Prompts](https://arxiv.org//abs/2501.12521)
+
+	Dhia Elhaq Rzig, Dhruba Jyoti Paul, Kaiser Pister, Jordan Henkel, Foyzul Hassan
+
+
++ [Robustness of Selected Learning Models under Label-Flipping Attack](https://arxiv.org//abs/2501.12516)
+
+	Sarvagya Bhargava, Mark Stamp
+
+
++ [Topology of Out-of-Distribution Examples in Deep Neural Networks](https://arxiv.org//abs/2501.12522)
+
+	Esha Datta, Johanna Hennig, Eva Domschot, Connor Mattes, Michael R. Smith
 
 
 # 2025-01-20
