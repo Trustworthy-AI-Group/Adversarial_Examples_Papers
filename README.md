@@ -2,6 +2,32 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-01-24
++ [Siren: A Learning-Based Multi-Turn Attack Framework for Simulating Real-World Human Jailbreak Behaviors](https://arxiv.org//abs/2501.14250)
+
+	Yi Zhao, Youzhi Zhang
+
+
++ [GreedyPixel: Fine-Grained Black-Box Adversarial Attack Via Greedy Algorithm](https://arxiv.org//abs/2501.14230)
+
+	Hanrui Wang, Ching-Chun Chang, Chun-Shien Lu, Christopher Leckie, Isao Echizen
+
+
++ [A Note on Implementation Errors in Recent Adaptive Attacks Against Multi-Resolution Self-Ensembles](https://arxiv.org//abs/2501.14496)
+
+	Stanislav Fort
+
+
++ [Optimal Strategies for Federated Learning Maintaining Client Privacy](https://arxiv.org//abs/2501.14453)
+
+	Uday Bhaskar, Varul Srivastava, Avyukta Manjunatha Vummintala, Naresh Manwani, Sujit Gujar
+
+
++ [Real-world Edge Neural Network Implementations Leak Private Interactions Through Physical Side Channel](https://arxiv.org//abs/2501.14512)
+
+	Zhuoran Liu, Senna van Hoek, Péter Horváth, Dirk Lauret, Xiaoyun Xu, Lejla Batina
+
+
 # 2025-01-23
 + [Ensuring Medical AI Safety: Explainable AI-Driven Detection and Mitigation of Spurious Model Behavior and Associated Data](https://arxiv.org//abs/2501.13818)
 
@@ -43,6 +69,21 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Lorenz Kummer, Samir Moustafa, Wilfried Gansterer, Nils Kriege
 
 
++ [Device-aware Optical Adversarial Attack for a Portable Projector-camera System](https://arxiv.org//abs/2501.14005)
+
+	Ning Jiang, Yanhong Liu, Dingheng Zeng, Yue Feng, Weihong Deng, Ying Li
+
+
++ [Reinforcement Learning Platform for Adversarial Black-box Attacks with Custom Distortion Filters](https://arxiv.org//abs/2501.14122)
+
+	Soumyendu Sarkar, Ashwin Ramesh Babu, Sajad Mousavi, Vineet Gundecha, Sahand Ghorbanpour, Avisek Naug, Ricardo Luna Gutierrez, Antonio Guillen
+
+
++ [LLMs are Vulnerable to Malicious Prompts Disguised as Scientific Language](https://arxiv.org//abs/2501.14073)
+
+	Yubin Ge, Neeraja Kirtane, Hao Peng, Dilek Hakkani-Tür
+
+
 # 2025-01-22
 + [Robust Representation Consistency Model via Contrastive Denoising](https://arxiv.org//abs/2501.13094)
 
@@ -67,6 +108,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Intelligent Attacks on Cyber-Physical Systems and Critical Infrastructures](https://arxiv.org//abs/2501.12762)
 
 	Alan Oliveira de Sá, Charles Bezerra Prado, Mariana Luiza Flavio, Luiz F. Rust da C. Carmo
+
+
++ [FedDAG: Federated Domain Adversarial Generation Towards Generalizable Medical Image Analysis](https://arxiv.org//abs/2501.13967)
+
+	Haoxuan Che, Yifei Wu, Haibo Jin, Yong Xia, Hao Chen
 
 
 # 2025-01-21
