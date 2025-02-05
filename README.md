@@ -2,6 +2,75 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-02-04
++ [FRAUD-RLA: A new reinforcement learning adversarial attack against credit card fraud detection](https://arxiv.org//abs/2502.02290)
+
+	Daniele Lunghi, Yannick Molinghen, Alkis Simitsis, Tom Lenaerts, Gianluca Bontempi
+
+
++ [Medical Multimodal Model Stealing Attacks via Adversarial Domain Alignment](https://arxiv.org//abs/2502.02438)
+
+	Yaling Shen, Zhixiong Zhuang, Kun Yuan, Maria-Irina Nicolae, Nassir Navab, Nicolas Padoy, Mario Fritz
+
+
++ [PANDAS: Improving Many-shot Jailbreaking via Positive Affirmation, Negative Demonstration, and Adaptive Sampling](https://arxiv.org//abs/2502.01925)
+
+	Avery Ma, Yangchen Pan, Amir-massoud Farahmand
+
+
++ [INTACT: Inducing Noise Tolerance through Adversarial Curriculum Training for LiDAR-based Safety-Critical Perception and Autonomy](https://arxiv.org//abs/2502.01896)
+
+	Nastaran Darabi, Divake Kumar, Sina Tayebati, Amit Ranjan Trivedi
+
+
++ [Dual-Flow: Transferable Multi-Target, Instance-Agnostic Attacks via In-the-wild Cascading Flow Optimization](https://arxiv.org//abs/2502.02096)
+
+	Yixiao Chen, Shikun Sun, Jianshu Li, Ruoyu Li, Zhe Li, Junliang Xing
+
+
++ [Privacy Attacks on Image AutoRegressive Models](https://arxiv.org//abs/2502.02514)
+
+	Antoni Kowalczuk, Jan Dubiński, Franziska Boenisch, Adam Dziedzic
+
+
++ [Uncertainty Quantification for Collaborative Object Detection Under Adversarial Attacks](https://arxiv.org//abs/2502.02537)
+
+	Huiqun Huang, Cong Chen, Jean-Philippe Monteuuis, Jonathan Petit, Fei Miao
+
+
++ [Query-Based and Unnoticeable Graph Injection Attack from Neighborhood Perspective](https://arxiv.org//abs/2502.01936)
+
+	Chang Liu, Hai Huang, Yujie Xing, Xingquan Zuo
+
+
++ [Adversarial ML Problems Are Getting Harder to Solve and to Evaluate](https://arxiv.org//abs/2502.02260)
+
+	Javier Rando, Jie Zhang, Nicholas Carlini, Florian Tramèr
+
+
++ [OVERTHINKING: Slowdown Attacks on Reasoning LLMs](https://arxiv.org//abs/2502.02542)
+
+	Abhinav Kumar, Jaechul Roh, Ali Naseh, Marzena Karpinska, Mohit Iyyer, Amir Houmansadr, Eugene Bagdasarian
+
+
++ [SMTFL: Secure Model Training to Untrusted Participants in Federated Learning](https://arxiv.org//abs/2502.02038)
+
+	Zhihui Zhao, Xiaorong Dong, Yimo Ren, Jianhua Wang, Dan Yu, Hongsong Zhu, Yongle Chen
+
+
+# 2025-02-03
++ [A Privacy-Preserving Domain Adversarial Federated learning for multi-site brain functional connectivity analysis](https://arxiv.org//abs/2502.01885)
+
+	Yipu Zhang, Likai Wang, Kuan-Jui Su, Aiying Zhang, Hao Zhu, Xiaowen Liu, Hui Shen, Vince D. Calhoun, Yuping Wang, Hongwen Deng
+
+
+# 2025-01-27
++ [The TIP of the Iceberg: Revealing a Hidden Class of Task-in-Prompt Adversarial Attacks on LLMs](https://arxiv.org//abs/2501.18626)
+
+	Sergey Berezin, Reza Farahbakhsh, Noel Crespi
+
+
+
 # 2025-01-24
 + [Siren: A Learning-Based Multi-Turn Attack Framework for Simulating Real-World Human Jailbreak Behaviors](https://arxiv.org//abs/2501.14250)
 
