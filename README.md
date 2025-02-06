@@ -2,6 +2,43 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-02-05
++ [Wolfpack Adversarial Attack for Robust Multi-Agent Reinforcement Learning](https://arxiv.org//abs/2502.02844)
+
+	Sunwoo Lee, Jaebak Hwang, Yonghyeon Jo, Seungyul Han
+
+
++ [Position: Editing Large Language Models Poses Serious Safety Risks](https://arxiv.org//abs/2502.02958)
+
+	Paul Youssef, Zhixue Zhao, Daniel Braun, Jörg Schlötterer, Christin Seifert
+
+
++ [Privacy Token: Surprised to Find Out What You Accidentally Revealed](https://arxiv.org//abs/2502.02913)
+
+	Jiayang Meng, Tao Huang, Xin Shi, Qingyu Huang, Chen Hou, Hong Chen
+
+
++ [Membership Inference Attack Should Move On to Distributional Statistics for Distilled Generative Models](https://arxiv.org//abs/2502.02970)
+
+	Muxing Li, Zesheng Ye, Yixuan Li, Andy Song, Guangquan Zhang, Feng Liu
+
+
++ [Understanding and Enhancing the Transferability of Jailbreaking Attacks](https://arxiv.org//abs/2502.03052)
+
+	Runqi Lin, Bo Han, Fengwang Li, Tongling Liu
+
+
++ [Large Language Model Adversarial Landscape Through the Lens of Attack Objectives](https://arxiv.org//abs/2502.02960)
+
+	Nan Wang, Kane Walter, Yansong Gao, Alsharif Abuadbba
+
+
++ [Exploring the Security Threats of Knowledge Base Poisoning in Retrieval-Augmented Code Generation](https://arxiv.org//abs/2502.03233)
+
+	Bo Lin, Shangwen Wang, Liqian Chen, Xiaoguang Mao
+
+
+
 # 2025-02-04
 + [FRAUD-RLA: A new reinforcement learning adversarial attack against credit card fraud detection](https://arxiv.org//abs/2502.02290)
 
