@@ -2,6 +2,78 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-02-06
++ [SoK: Benchmarking Poisoning Attacks and Defenses in Federated Learning](https://arxiv.org//abs/2502.03801)
+
+	Heyi Zhang, Yule Liu, Xinlei He, Jun Wu, Tianshuo Cong, Xinyi Huang
+
+
++ [Improving the Perturbation-Based Explanation of Deepfake Detectors Through the Use of Adversarially-Generated Samples](https://arxiv.org//abs/2502.03957)
+
+	Konstantinos Tsigos, Evlampios Apostolidis, Vasileios Mezaris
+
+
++ [Dark Distillation: Backdooring Distilled Datasets without Accessing Raw Data](https://arxiv.org//abs/2502.04229)
+
+	Ziyuan Yang, Ming Yan, Yi Zhang, Joey Tianyi Zhou
+
+
++ [Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple Interactions](https://arxiv.org//abs/2502.04322)
+
+	Yik Siu Chan, Narutatsu Ri, Yuxin Xiao, Marzyeh Ghassemi
+
+
++ [DocMIA: Document-Level Membership Inference Attacks against DocVQA Models](https://arxiv.org//abs/2502.03692)
+
+	Khanh Nguyen, Raouf Kerkouche, Mario Fritz, Dimosthenis Karatzas
+
+
++ [Improving Adversarial Robustness via Phase and Amplitude-aware Prompting](https://arxiv.org//abs/2502.03758)
+
+	Yibo Xu, Dawei Zhou, Decheng Liu, Nannan Wang
+
+
++ [Synthetic Poisoning Attacks: The Impact of Poisoned MRI Image on U-Net Brain Tumor Segmentation](https://arxiv.org//abs/2502.03825)
+
+	Tianhao Li, Tianyu Zeng, Yujia Zheng, Chulong Zhang, Jingyu Lu, Haotian Huang, Chuangxin Chu, Fang-Fang Yin, Zhenyu Yang
+
+
++ [How vulnerable is my policy? Adversarial attacks on modern behavior cloning policies](https://arxiv.org//abs/2502.03698)
+
+	Basavasagar Patil, Akansha Kalra, Guanhong Tao, Daniel S. Brown
+
+
++ [Comparing privacy notions for protection against reconstruction attacks in machine learning](https://arxiv.org//abs/2502.04045)
+
+	Sayan Biswas, Mark Dras, Pedro Faustini, Natasha Fernandes, Annabelle McIver, Catuscia Palamidessi, Parastoo Sadeghi
+
+
++ ["Short-length" Adversarial Training Helps LLMs Defend "Long-length" Jailbreak Attacks: Theoretical and Empirical Evidence](https://arxiv.org//abs/2502.04204)
+
+	Shaopeng Fu, Liang Ding, Di Wang
+
+
++ [Adapting to Evolving Adversaries with Regularized Continual Robust Training](https://arxiv.org//abs/2502.04248)
+
+	Sihui Dai, Christian Cianfarani, Arjun Bhagoji, Vikash Sehwag, Prateek Mittal
+
+
++ [Detecting Backdoor Attacks via Similarity in Semantic Communication Systems](https://arxiv.org//abs/2502.03721)
+
+	Ziyang Wei, Yili Jiang, Jiaqi Huang, Fangtian Zhong, Sohan Gyawali
+
+
++ [The Gradient Puppeteer: Adversarial Domination in Gradient Leakage Attacks through Model Poisoning](https://arxiv.org//abs/2502.04106)
+
+	Kunlan Xiang, Haomiao Yang, Meng Hao, Haoxin Wang, Shaofeng Li, Zikang Ding, Tianwei Zhang
+
+
++ [Provably Robust Explainable Graph Neural Networks against Graph Perturbation Attacks](https://arxiv.org//abs/2502.04224)
+
+	Jiate Li, Meng Pang, Yun Dong, Jinyuan Jia, Binghui Wang
+
+
+
 # 2025-02-05
 + [Wolfpack Adversarial Attack for Robust Multi-Agent Reinforcement Learning](https://arxiv.org//abs/2502.02844)
 
