@@ -2,6 +2,52 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-02-07
++ [DMPA: Model Poisoning Attacks on Decentralized Federated Learning for Model Differences](https://arxiv.org//abs/2502.04771)
+
+	Chao Feng, Yunlong Li, Yuanzhe Gao, Alberto Huertas Celdrán, Jan von der Assen, Gérôme Bovet, Burkhard Stiller
+
+
++ [Robust Graph Learning Against Adversarial Evasion Attacks via Prior-Free Diffusion-Based Structure Purification](https://arxiv.org//abs/2502.05000)
+
+	Jiayi Luo, Qingyun Sun, Haonan Yuan, Xingcheng Fu, Jianxin Li
+
+
++ [Federated Learning for Anomaly Detection in Energy Consumption Data: Assessing the Vulnerability to Adversarial Attacks](https://arxiv.org//abs/2502.05041)
+
+	Yohannis Kifle Telila, Damitha Senevirathne, Dumindu Tissera, Apurva Narayan, Miriam A.M. Capretz, Katarina Grolinger
+
+
++ [ChallengeMe: An Adversarial Learning-enabled Text Summarization Framework](https://arxiv.org//abs/2502.05084)
+
+	Xiaoyu Deng, Ye Zhang, Tianmin Guo, Yongzhe Zhang, Zhengjian Kang, Hang Yang
+
+
++ [Confidence Elicitation: A New Attack Vector for Large Language Models](https://arxiv.org//abs/2502.04643)
+
+	Brian Formento, Chuan Sheng Foo, See-Kiong Ng
+
+
++ [ELITE: Enhanced Language-Image Toxicity Evaluation for Safety](https://arxiv.org//abs/2502.04757)
+
+	Wonjun Lee, Doehyeon Lee, Eugene Choi, Sangyoon Yu, Ashkan Yousefpour, Haon Park, Bumsub Ham, Suhyun Kim
+
+
++ [Mechanistic Understandings of Representation Vulnerabilities and Engineering Robust Vision Transformers](https://arxiv.org//abs/2502.04679)
+
+	Chashi Mahiul Islam, Samuel Jacob Chacko, Mao Nishino, Xiuwen Liu
+
+
++ [Adversarially-Robust TD Learning with Markovian Data: Finite-Time Rates and Fundamental Limits](https://arxiv.org//abs/2502.04662)
+
+	Sreejeet Maity, Aritra Mitra
+
+
++ [Exploit Gradient Skewness to Circumvent Byzantine Defenses for Federated Learning](https://arxiv.org//abs/2502.04890)
+
+	Yuchen Liu, Chen Chen, Lingjuan Lyu, Yaochu Jin, Gang Chen
+
+
 # 2025-02-06
 + [SoK: Benchmarking Poisoning Attacks and Defenses in Federated Learning](https://arxiv.org//abs/2502.03801)
 
@@ -73,6 +119,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Jiate Li, Meng Pang, Yun Dong, Jinyuan Jia, Binghui Wang
 
 
++ [Zero-shot Meta-learning for Tabular Prediction Tasks with Adversarially Pre-trained Transformer](https://arxiv.org//abs/2502.04573)
+
+	Yulun Wu, Doron L. Bergman
+
+
 
 # 2025-02-05
 + [Wolfpack Adversarial Attack for Robust Multi-Agent Reinforcement Learning](https://arxiv.org//abs/2502.02844)
@@ -108,6 +159,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Exploring the Security Threats of Knowledge Base Poisoning in Retrieval-Augmented Code Generation](https://arxiv.org//abs/2502.03233)
 
 	Bo Lin, Shangwen Wang, Liqian Chen, Xiaoguang Mao
+
+
++ [Towards Fair Medical AI: Adversarial Debiasing of 3D CT Foundation Embeddings](https://arxiv.org//abs/2502.04386)
+
+	Guangyao Zheng, Michael A. Jacobs, Vladimir Braverman, Vishwa S. Parekh
+
+
++ [MARAGE: Transferable Multi-Model Adversarial Attack for Retrieval-Augmented Generation Data Extraction](https://arxiv.org//abs/2502.04360)
+
+	Xiao Hu, Eric Liu, Weizhou Wang, Xiangyu Guo, David Lie
 
 
 
@@ -165,6 +226,12 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [SMTFL: Secure Model Training to Untrusted Participants in Federated Learning](https://arxiv.org//abs/2502.02038)
 
 	Zhihui Zhao, Xiaorong Dong, Yimo Ren, Jianhua Wang, Dan Yu, Hongsong Zhu, Yongle Chen
+
+
++ [Investigating the Robustness of Deductive Reasoning with Large Language Models](https://arxiv.org//abs/2502.04352)
+
+	Fabian Hoppe, Filip Ilievski, Jan-Christoph Kalo
+
 
 
 # 2025-02-03
