@@ -2,6 +2,38 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-02-11
++ [LUNAR: LLM Unlearning via Neural Activation Redirection](https://arxiv.org//abs/2502.07218)
+
+	William F. Shen, Xinchi Qiu, Meghdad Kurmanji, Alex Iacob, Lorenzo Sani, Yihong Chen, Nicola Cancedda, Nicholas D. Lane
+
+
++ [No Data, No Optimization: A Lightweight Method To Disrupt Neural Networks With Sign-Flips](https://arxiv.org//abs/2502.07408)
+
+	Ido Galil, Moshe Kimhi, Ran El-Yaniv
+
+
++ [The Devil is in the Prompts: De-Identification Traces Enhance Memorization Risks in Synthetic Chest X-Ray Generation](https://arxiv.org//abs/2502.07516)
+
+	Raman Dutt
+
+
++ [Auditing Prompt Caching in Language Model APIs](https://arxiv.org//abs/2502.07776)
+
+	Chenchen Gu, Xiang Lisa Li, Rohith Kuditipudi, Percy Liang, Tatsunori Hashimoto
+
+
++ [CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models](https://arxiv.org//abs/2502.07225)
+
+	Sen Peng, Mingyue Wang, Jianfei He, Jijia Yang, Xiaohua Jia
+
+
++ [Stay-Positive: A Case for Ignoring Real Image Features in Fake Image Detection](https://arxiv.org//abs/2502.07778)
+
+	Anirudh Sundara Rajan, Yong Jae Lee
+
+
+
 # 2025-02-10
 + [Hyperparameters in Score-Based Membership Inference Attacks](https://arxiv.org//abs/2502.06374)
 
@@ -21,6 +53,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Robust Watermarks Leak: Channel-Aware Feature Extraction Enables Adversarial Watermark Manipulation](https://arxiv.org//abs/2502.06418)
 
 	Zhongjie Ba, Yitao Zhang, Peng Cheng, Bin Gong, Xinyu Zhang, Qinglong Wang, Kui Ren
+
+
++ [Krum Federated Chain (KFC): Using blockchain to defend against adversarial attacks in Federated Learning](https://arxiv.org//abs/2502.06917)
+
+	Mario García-Márquez, Nuria Rodríguez-Barroso, M.Victoria Luzón, Francisco Herrera
+
+
++ [SMAB: MAB based word Sensitivity Estimation Framework and its Applications in Adversarial Text Generation](https://arxiv.org//abs/2502.07101)
+
+	Saurabh Kumar Pandey, Sachin Vashistha, Debrup Das, Somak Aditya, Monojit Choudhury
 
 
 # 2025-02-09
@@ -49,6 +91,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Danny Wang, Ruihong Qiu, Guangdong Bai, Zi Huang
 
 
++ [Certifying Language Model Robustness with Fuzzed Randomized Smoothing: An Efficient Defense Against Backdoor Attacks](https://arxiv.org//abs/2502.06892)
+
+	Bowei He, Lihao Yin, Hui-Ling Zhen, Jianping Zhang, Lanqing Hong, Mingxuan Yuan, Chen Ma
+
+
 # 2025-02-08
 + [Dual Defense: Enhancing Privacy and Mitigating Poisoning Attacks in Federated Learning](https://arxiv.org//abs/2502.05547)
 
@@ -73,6 +120,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Democratic Training Against Universal Adversarial Perturbations](https://arxiv.org//abs/2502.05542)
 
 	Bing Sun, Jun Sun, Wei Zhao
+
+
++ [Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey](https://arxiv.org//abs/2502.06872)
+
+	Bo Ni, Zheyuan Liu, Leyao Wang, Yongjia Lei, Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang, Meng Jiang, Tyler Derr
 
 
 
@@ -278,6 +330,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [KDA: A Knowledge-Distilled Attacker for Generating Diverse Prompts to Jailbreak LLMs](https://arxiv.org//abs/2502.05223)
 
 	Buyun Liang, Kwan Ho Ryan Chan, Darshan Thaker, Jinqi Luo, René Vidal
+
+
++ [Optimizing Robustness and Accuracy in Mixture of Experts: A Dual-Model Approach](https://arxiv.org//abs/2502.06832)
+
+	Xu Zhang, Kaidi Xu, Ziqing Hu, Ren Wang
 
 
 
