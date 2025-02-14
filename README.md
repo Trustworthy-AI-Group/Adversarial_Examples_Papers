@@ -2,6 +2,63 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-02-13
++ [On the Promise for Assurance of Differentiable Neurosymbolic Reasoning Paradigms](https://arxiv.org//abs/2502.08932)
+
+	Luke E. Richards, Jessie Yaros, Jasen Babcock, Coung Ly, Robin Cosbey, Timothy Doster, Cynthia Matuszek
+
+
++ [RTBAS: Defending LLM Agents Against Prompt Injection and Privacy Leakage](https://arxiv.org//abs/2502.08966)
+
+	Peter Yong Zhong, Siyuan Chen, Ruiqi Wang, McKenna McCall, Ben L. Titzer, Heather Miller
+
+
++ [RLSA-PFL: Robust Lightweight Secure Aggregation with Model Inconsistency Detection in Privacy-Preserving Federated Learning](https://arxiv.org//abs/2502.08989)
+
+	Nazatul H. Sultan, Yan Bo, Yansong Gao, Seyit Camtepe, Arash Mahboubi, Hang Thanh Bui, Aufeef Chauhan, Hamed Aboutorab, Michael Bewong, Praveen Gauravaram, Rafiqul Islam, Sharif Abuadbba
+
+
++ [DynSegNet:Dynamic Architecture Adjustment for Adversarial Learning in Segmenting Hemorrhagic Lesions from Fundus Images](https://arxiv.org//abs/2502.09256)
+
+	Zesheng Li, Minwen Liao, Haoran Chen, Yan Su, Chengchang Pan, Honggang Qi
+
+
++ [LiSA: Leveraging Link Recommender to Attack Graph Neural Networks via Subgraph Injection](https://arxiv.org//abs/2502.09271)
+
+	Wenlun Zhang, Enyan Dai, Kentaro Yoshioka
+
+
++ [Pulling Back the Curtain: Unsupervised Adversarial Detection via Contrastive Auxiliary Networks](https://arxiv.org//abs/2502.09110)
+
+	Eylon Mizrahi, Raz Lapid, Moshe Sipper
+
+
++ [Redistribute Ensemble Training for Mitigating Memorization in Diffusion Models](https://arxiv.org//abs/2502.09434)
+
+	Xiaoliu Guan, Yu Wu, Huayang Huang, Xiao Liu, Jiaxu Miao, Yi Yang
+
+
++ [Wasserstein distributional adversarial training for deep neural networks](https://arxiv.org//abs/2502.09352)
+
+	Xingjian Bai, Guangyi He, Yifan Jiang, Jan Obloj
+
+
++ [A hierarchical approach for assessing the vulnerability of tree-based classification models to membership inference attack](https://arxiv.org//abs/2502.09396)
+
+	Richard J. Preen, Jim Smith
+
+
++ [SyntheticPop: Attacking Speaker Verification Systems With Synthetic VoicePops](https://arxiv.org//abs/2502.09553)
+
+	Eshaq Jamdar, Amith Kamath Belman
+
+
++ [Siren Song: Manipulating Pose Estimation in XR Headsets Using Acoustic Attacks](https://arxiv.org//abs/2502.08865)
+
+	Zijian Huang, Yicheng Zhang, Sophie Chen, Nael Abu-Ghazaleh, Jiasi Chen
+
+
+
 # 2025-02-12
 + [Compromising Honesty and Harmlessness in Language Models via Deception Attacks](https://arxiv.org//abs/2502.08301)
 
