@@ -2,6 +2,27 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-02-14
++ [Has My System Prompt Been Used? Large Language Model Prompt Membership Inference](https://arxiv.org//abs/2502.09974)
+
+	Roman Levin, Valeriia Cherepanova, Abhimanyu Hans, Avi Schwarzschild, Tom Goldstein
+
+
++ [X-Boundary: Establishing Exact Safety Boundary to Shield LLMs from Multi-Turn Jailbreaks without Compromising Usability](https://arxiv.org//abs/2502.09990)
+
+	Xiaoya Lu, Dongrui Liu, Yi Yu, Luxin Xu, Jing Shao
+
+
++ [Adversarial Mixup Unlearning](https://arxiv.org//abs/2502.10288)
+
+	Zhuoyi Peng, Yixuan Tang, Yi Yang
+
+
++ [VocalCrypt: Novel Active Defense Against Deepfake Voice Based on Masking Effect](https://arxiv.org//abs/2502.10329)
+
+	Qingyuan Fei, Wenjie Hou, Xuan Hai, Xin Liu
+
+
 # 2025-02-13
 + [On the Promise for Assurance of Differentiable Neurosymbolic Reasoning Paradigms](https://arxiv.org//abs/2502.08932)
 
@@ -56,6 +77,21 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Siren Song: Manipulating Pose Estimation in XR Headsets Using Acoustic Attacks](https://arxiv.org//abs/2502.08865)
 
 	Zijian Huang, Yicheng Zhang, Sophie Chen, Nael Abu-Ghazaleh, Jiasi Chen
+
+
++ [Making Them a Malicious Database: Exploiting Query Code to Jailbreak Aligned Large Language Models](https://arxiv.org//abs/2502.09723)
+
+	Qingsong Zou, Jingyu Xiao, Qing Li, Zhi Yan, Yuhang Wang, Li Xu, Wenxuan Wang, Kuofeng Gao, Ruoyu Li, Yong Jiang
+
+
++ [On the robustness of multimodal language model towards distractions](https://arxiv.org//abs/2502.09818)
+
+	Ming Liu, Hao Chen, Jindong Wang, Wensheng Zhang
+
+
++ [Enhancing Jailbreak Attacks via Compliance-Refusal-Based Initialization](https://arxiv.org//abs/2502.09755)
+
+	Amit Levi, Rom Himelstein, Yaniv Nemcovsky, Avi Mendelson, Chaim Baskin
 
 
 
@@ -243,6 +279,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Certifying Language Model Robustness with Fuzzed Randomized Smoothing: An Efficient Defense Against Backdoor Attacks](https://arxiv.org//abs/2502.06892)
 
 	Bowei He, Lihao Yin, Hui-Ling Zhen, Jianping Zhang, Lanqing Hong, Mingxuan Yuan, Chen Ma
+
+
++ [Jailbreaking to Jailbreak](https://arxiv.org//abs/2502.09638)
+
+	Jeremy Kritz, Vaughn Robinson, Robert Vacareanu, Bijan Varjavand, Michael Choi, Bobby Gogov, Scale Red Team, Summer Yue, Willow E. Primack, Zifan Wang
 
 
 # 2025-02-08
@@ -589,6 +630,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Safety at Scale: A Comprehensive Survey of Large Model Safety](https://arxiv.org//abs/2502.05206)
 
 	Xingjun Ma, Yifeng Gao, Yixu Wang, Ruofan Wang, Xin Wang, Ye Sun, Yifan Ding, Hengyuan Xu, Yunhao Chen, Yunhan Zhao, Hanxun Huang, Yige Li, Jiaming Zhang, Xiang Zheng, Yang Bai, Henghui Ding, Zuxuan Wu, Xipeng Qiu, Jingfeng Zhang, Yiming Li, Jun Sun, Cong Wang, Jindong Gu, Baoyuan Wu, Siheng Chen, Tianwei Zhang, Yang Liu, Mingming Gong, Tongliang Liu, Shirui Pan, Cihang Xie, Tianyu Pang, Yinpeng Dong, Ruoxi Jia, Yang Zhang, Shiqing Ma, Xiangyu Zhang, Neil Gong, Chaowei Xiao, Sarah Erfani, Bo Li, Masashi Sugiyama, Dacheng Tao, James Bailey, Yu-Gang Jiang
+
+
++ [`Do as I say not as I do': A Semi-Automated Approach for Jailbreak Prompt Attack against Multimodal LLMs](https://arxiv.org//abs/2502.00735)
+
+	Chun Wai Chiu, Linghan Huang, Bo Li, Huaming Chen
 
 
 # 2025-01-31
