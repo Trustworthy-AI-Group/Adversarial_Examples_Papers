@@ -2,6 +2,48 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-02-19
++ [Exploiting Prefix-Tree in Structured Output Interfaces for Enhancing Jailbreak Attacking](https://arxiv.org//abs/2502.13527)
+
+	Yanzeng Li, Yunfan Xiong, Jialun Zhong, Jinchao Zhang, Jie Zhou, Lei Zou
+
+
++ [Efficient Safety Retrofitting Against Jailbreaking for LLMs](https://arxiv.org//abs/2502.13603)
+
+	Dario Garcia-Gasulla, Anna Arias-Duart, Adrian Tormos, Daniel Hinjos, Oscar Molina-Sedano, Ashwin Kumar Gururajan, Maria Eugenia Cardello
+
+
++ [Secure Federated Data Distillation](https://arxiv.org//abs/2502.13728)
+
+	Marco Arazzi, Mert Cihangiroglu, Serena Nicolazzo, Antonino Nocera
+
+
++ [Why Safeguarded Ships Run Aground? Aligned Large Language Models' Safety Mechanisms Tend to Be Anchored in The Template Region](https://arxiv.org//abs/2502.13946)
+
+	Chak Tou Leong, Qingyu Yin, Jian Wang, Wenjie Li
+
+
++ [PRIV-QA: Privacy-Preserving Question Answering for Cloud Large Language Models](https://arxiv.org//abs/2502.13564)
+
+	Guangwei Li, Yuansen Zhang, Yinggui Wang, Shoumeng Yan, Lei Wang, Tao Wei
+
+
++ [Toward Robust Non-Transferable Learning: A Survey and Benchmark](https://arxiv.org//abs/2502.13593)
+
+	Ziming Hong, Yongli Xiang, Tongliang Liu
+
+
++ [Contrastive Learning-Based privacy metrics in Tabular Synthetic Datasets](https://arxiv.org//abs/2502.13833)
+
+	Milton Nicolás Plasencia Palacios, Sebastiano Saccani, Gabriele Sgroi, Alexander Boudewijn, Luca Bortolussi
+
+
++ [Poisoned Source Code Detection in Code Models](https://arxiv.org//abs/2502.13459)
+
+	Ehab Ghannoum, Mohammad Ghafari
+
+
+
 # 2025-02-18
 + [Computational Safety for Generative AI: A Signal Processing Perspective](https://arxiv.org//abs/2502.12445)
 
@@ -73,6 +115,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Shenao Wang, Yanjie Zhao, Zhao Liu, Quanchen Zou, Haoyu Wang
 
 
++ [Towards Robust and Secure Embodied AI: A Survey on Vulnerabilities and Attacks](https://arxiv.org//abs/2502.13175)
+
+	Wenpeng Xing, Minghao Li, Mohan Li, Meng Han
+
+
++ [On the Privacy Risks of Spiking Neural Networks: A Membership Inference Analysis](https://arxiv.org//abs/2502.13191)
+
+	Junyi Guan, Abhijith Sharma, Chong Tian, Salem Lahlou
+
+
 
 # 2025-02-17
 + [Mimicking the Familiar: Dynamic Command Generation for Information Theft Attacks in LLM Tool-Learning System](https://arxiv.org//abs/2502.11358)
@@ -88,6 +140,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Alignment and Adversarial Robustness: Are More Human-Like Models More Secure?](https://arxiv.org//abs/2502.12377)
 
 	Blaine Hoak, Kunyang Li, Patrick McDaniel
+
+
++ [Unveiling Privacy Risks in LLM Agent Memory](https://arxiv.org//abs/2502.13172)
+
+	Bo Wang, Weiyi He, Pengfei He, Shenglai Zeng, Zhen Xiang, Yue Xing, Jiliang Tang
+
+
++ [Rethinking Audio-Visual Adversarial Vulnerability from Temporal and Modality Perspectives](https://arxiv.org//abs/2502.11858)
+
+	Zeliang Zhang, Susan Liang, Daiki Shimada, Chenliang Xu
 
 
 # 2025-02-16
@@ -114,6 +176,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ALGEN: Few-shot Inversion Attacks on Textual Embeddings using Alignment and Generation](https://arxiv.org//abs/2502.11308)
 
 	Yiyi Chen, Qiongkai Xu, Johannes Bjerva
+
+
++ [ShieldLearner: A New Paradigm for Jailbreak Attack Defense in LLMs](https://arxiv.org//abs/2502.13162)
+
+	Ziyi Ni, Hao Wang, Huacan Wang
 
 
 
