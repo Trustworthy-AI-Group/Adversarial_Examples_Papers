@@ -2,6 +2,12 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-02-21
++ [Methods and Trends in Detecting Generated Images: A Comprehensive Review](https://arxiv.org//abs/2502.15176)
+
+	Arpan Mahara, Naphtali Rishe
+
+
 # 2025-02-20
 + [How Jailbreak Defenses Work and Ensemble? A Mechanistic Investigation](https://arxiv.org//abs/2502.14486)
 
@@ -21,6 +27,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Vulnerability of Text-to-Image Models to Prompt Template Stealing: A Differential Evolution Approach](https://arxiv.org//abs/2502.14285)
 
 	Yurong Wu, Fangwen Mu, Qiuhong Zhang, Jinjing Zhao, Xinrun Xu, Lingrui Mei, Yang Wu, Lin Shi, Junjie Wang, Zhiming Ding, Yiwei Wang
+
+
++ [CyberSentinel: An Emergent Threat Detection System for AI Security](https://arxiv.org//abs/2502.14966)
+
+	Krti Tallam
 
 
 
