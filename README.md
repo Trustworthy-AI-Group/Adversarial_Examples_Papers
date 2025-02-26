@@ -2,6 +2,43 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-02-25
++ [MM-PoisonRAG: Disrupting Multimodal RAG with Local and Global Poisoning Attacks](https://arxiv.org//abs/2502.17832)
+
+	Hyeonjeong Ha, Qiusi Zhan, Jeonghwan Kim, Dimitrios Bralios, Saikrishna Sanniboina, Nanyun Peng, Kai-wei Chang, Daniel Kang, Heng Ji
+
+
++ [CLIPure: Purification in Latent Space via CLIP for Adversarially Robust Zero-Shot Classification](https://arxiv.org//abs/2502.18176)
+
+	Mingkun Zhang, Keping Bi, Wei Chen, Jiafeng Guo, Xueqi Cheng
+
+
++ [Examining the Threat Landscape: Foundation Models and Model Stealing](https://arxiv.org//abs/2502.18077)
+
+	Ankita Raj, Deepankar Varma, Chetan Arora
+
+
++ [Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models](https://arxiv.org//abs/2502.18290)
+
+	Zhaoyi Liu, Huan Zhang
+
+
++ [VVRec: Reconstruction Attacks on DL-based Volumetric Video Upstreaming via Latent Diffusion Model with Gamma Distribution](https://arxiv.org//abs/2502.17880)
+
+	Rui Lu, Bihai Zhang, Dan Wang
+
+
++ [Model-Free Adversarial Purification via Coarse-To-Fine Tensor Network Representation](https://arxiv.org//abs/2502.17972)
+
+	Guang Lin, Duc Thien Nguyen, Zerui Tao, Konstantinos Slavakis, Toshihisa Tanaka, Qibin Zhao
+
+
++ [Learning atomic forces from uncertainty-calibrated adversarial attacks](https://arxiv.org//abs/2502.18314)
+
+	Henrique Musseli Cezar, Tilmann Bodenstein, Henrik Andersen Sveinsson, Morten Ledum, Simen Reine, Sigbjørn Løland Bore
+
+
+
 # 2025-02-24
 + [Emoti-Attack: Zero-Perturbation Adversarial Attacks on NLP Systems via Emoji Sequences](https://arxiv.org//abs/2502.17392)
 
@@ -51,6 +88,26 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [GuidedBench: Equipping Jailbreak Evaluation with Guidelines](https://arxiv.org//abs/2502.16903)
 
 	Ruixuan Huang, Xunguang Wang, Zongjie Li, Daoyuan Wu, Shuai Wang
+
+
++ [On the Vulnerability of Concept Erasure in Diffusion Models](https://arxiv.org//abs/2502.17537)
+
+	Lucas Beerens, Alex D. Richardson, Kaicheng Zhang, Dongdong Chen
+
+
++ [Proactive Privacy Amnesia for Large Language Models: Safeguarding PII with Negligible Impact on Model Utility](https://arxiv.org//abs/2502.17591)
+
+	Martin Kuo, Jingyang Zhang, Jianyi Zhang, Minxue Tang, Louis DiValentin, Aolin Ding, Jingwei Sun, William Chen, Amin Hass, Tianlong Chen, Yiran Chen, Hai Li
+
+
++ [FedSV: Byzantine-Robust Federated Learning via Shapley Value](https://arxiv.org//abs/2502.17526)
+
+	Khaoula Otmani (AU, LIA), Rachid Elazouzi (LIA, CMU), Vincent Labatut (AU, LIA)
+
+
++ [The Cyber Immune System: Harnessing Adversarial Forces for Security Resilience](https://arxiv.org//abs/2502.17698)
+
+	Krti Tallam
 
 
 # 2025-02-23
@@ -290,6 +347,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Pruning as a Defense: Reducing Memorization in Large Language Models](https://arxiv.org//abs/2502.15796)
 
 	Mansi Gupta, Nikhar Waghela, Sarthak Gupta, Shourya Goel, Sanjif Shanmugavelu
+
+
++ [Decentralized and Robust Privacy-Preserving Model Using Blockchain-Enabled Federated Deep Learning in Intelligent Enterprises](https://arxiv.org//abs/2502.17485)
+
+	Reza Fotohi, Fereidoon Shams Aliee, Bahar Farahani
 
 
 
