@@ -2,6 +2,18 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-02-26
++ [Multi-Agent Security Tax: Trading Off Security and Collaboration Capabilities in Multi-Agent Systems](https://arxiv.org//abs/2502.19145)
+
+	Pierre Peigne-Lefebvre, Mikolaj Kniejski, Filip Sondej, Matthieu David, Jason Hoelscher-Obermaier, Christian Schroeder de Witt, Esben Kran
+
+
++ [JailBench: A Comprehensive Chinese Security Assessment Benchmark for Large Language Models](https://arxiv.org//abs/2502.18935)
+
+	Shuyi Liu, Simiao Cui, Haoran Bu, Yuming Shang, Xi Zhang
+
+
+
 # 2025-02-25
 + [MM-PoisonRAG: Disrupting Multimodal RAG with Local and Global Poisoning Attacks](https://arxiv.org//abs/2502.17832)
 
@@ -136,6 +148,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Mansour Al Ghanim, Jiaqi Xue, Rochana Prih Hastuti, Mengxin Zheng, Yan Solihin, Qian Lou
 
 
++ [Swallowing the Poison Pills: Insights from Vulnerability Disparity Among LLMs](https://arxiv.org//abs/2502.18518)
+
+	Peng Yifeng, Wu Zhizheng, Chen Chen
+
+
++ [Class-Conditional Neural Polarizer: A Lightweight and Effective Backdoor Defense by Purifying Poisoned Features](https://arxiv.org//abs/2502.18520)
+
+	Mingli Zhu, Shaokui Wei, Hongyuan Zha, Baoyuan Wu
+
+
 # 2025-02-22
 + [Cross-Model Transferability of Adversarial Patches in Real-time Segmentation for Autonomous Driving](https://arxiv.org//abs/2502.16012)
 
@@ -167,6 +189,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Rui Li, Peiyi Wang, Jingyuan Ma, Di Zhang, Lei Sha, Zhifang Sui
 
 
++ [REFINE: Inversion-Free Backdoor Defense via Model Reprogramming](https://arxiv.org//abs/2502.18508)
+
+	Yukun Chen, Shuo Shao, Enhao Huang, Yiming Li, Pin-Yu Chen, Zhan Qin, Kui Ren
+
+
++ [ELBA-Bench: An Efficient Learning Backdoor Attacks Benchmark for Large Language Models](https://arxiv.org//abs/2502.18511)
+
+	Xuxu Liu, Siyuan Liang, Mengya Han, Yong Luo, Aishan Liu, Xiantao Cai, Zheng He, Dacheng Tao
+
+
 
 # 2025-02-21
 + [Methods and Trends in Detecting Generated Images: A Comprehensive Review](https://arxiv.org//abs/2502.15176)
@@ -177,6 +209,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [IPAD: Inverse Prompt for AI Detection -- A Robust and Explainable LLM-Generated Text Detector](https://arxiv.org//abs/2502.15902)
 
 	Zheng Chen, Yushi Feng, Changyang He, Yue Deng, Hongxi Pu, Bo Li
+
+
++ [TurboFuzzLLM: Turbocharging Mutation-based Fuzzing for Effectively Jailbreaking Large Language Models in Practice](https://arxiv.org//abs/2502.18504)
+
+	Aman Goel, Xian Carrie Wu, Zhe Wang, Dmitriy Bespalov, Yanjun Qi
 
 
 # 2025-02-20
