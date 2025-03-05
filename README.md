@@ -2,6 +2,105 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-03-03
++ [Same Question, Different Words: A Latent Adversarial Framework for Prompt Robustness](https://arxiv.org//abs/2503.01345)
+
+	Tingchen Fu, Fazl Barez
+
+
++ [Divide and Conquer: Heterogeneous Noise Integration for Diffusion-based Adversarial Purification](https://arxiv.org//abs/2503.01407)
+
+	Gaozheng Pei, Shaojie Lyu, Gong Chen, Ke Ma, Qianqian Xu, Yingfei Sun, Qingming Huang
+
+
++ [Position: Ensuring mutual privacy is necessary for effective external evaluation of proprietary AI systems](https://arxiv.org//abs/2503.01470)
+
+	Ben Bucknall, Robert F. Trager, Michael A. Osborne
+
+
++ [Adversarial Agents: Black-Box Evasion Attacks with Reinforcement Learning](https://arxiv.org//abs/2503.01734)
+
+	Kyle Domico, Jean-Charles Noirot Ferrand, Ryan Sheatsley, Eric Pauley, Josiah Hanna, Patrick McDaniel
+
+
++ [Zero-Trust Artificial Intelligence Model Security Based on Moving Target Defense and Content Disarm and Reconstruction](https://arxiv.org//abs/2503.01758)
+
+	Daniel Gilkarov, Ran Dubin
+
+
++ [AutoAdvExBench: Benchmarking autonomous exploitation of adversarial example defenses](https://arxiv.org//abs/2503.01811)
+
+	Nicholas Carlini, Javier Rando, Edoardo Debenedetti, Milad Nasr, Florian Tramèr
+
+
++ [Jailbreaking Safeguarded Text-to-Image Models via Large Language Models](https://arxiv.org//abs/2503.01839)
+
+	Zhengyuan Jiang, Yuepeng Hu, Yuchen Yang, Yinzhi Cao, Neil Zhenqiang Gong
+
+
++ [Building Safe GenAI Applications: An End-to-End Overview of Red Teaming for Large Language Models](https://arxiv.org//abs/2503.01742)
+
+	Alberto Purpura, Sahil Wadhwa, Jesse Zymet, Akshay Gupta, Andy Luo, Melissa Kazemi Rad, Swapnil Shinde, Mohammad Shahed Sorower
+
+
++ [Cats Confuse Reasoning LLM: Query Agnostic Adversarial Triggers for Reasoning Models](https://arxiv.org//abs/2503.01781)
+
+	Meghana Rajeev, Rajkumar Ramamurthy, Prapti Trivedi, Vikas Yadav, Oluwanifemi Bamgbose, Sathwik Tejaswi Madhusudan, James Zou, Nazneen Rajani
+
+
++ [Watch Out Your Album! On the Inadvertent Privacy Memorization in Multi-Modal Large Language Models](https://arxiv.org//abs/2503.01208)
+
+	Tianjie Ju, Yi Hua, Hao Fei, Zhenyu Shao, Yubin Zheng, Haodong Zhao, Mong-Li Lee, Wynne Hsu, Zhuosheng Zhang, Gongshen Liu
+
+
++ [Revisiting Locally Differentially Private Protocols: Towards Better Trade-offs in Privacy, Utility, and Attack Resistance](https://arxiv.org//abs/2503.01482)
+
+	Héber H. Arcolezi, Sébastien Gambs
+
+
+# 2025-03-02
++ [Improving the Transferability of Adversarial Attacks by an Input Transpose](https://arxiv.org//abs/2503.00932)
+
+	Qing Wan, Shilong Deng, Xun Wang
+
+
++ [Exploiting Vulnerabilities in Speech Translation Systems through Targeted Adversarial Attacks](https://arxiv.org//abs/2503.00957)
+
+	Chang Liu, Haolin Wu, Xi Yang, Kui Zhang, Cong Wu, Weiming Zhang, Nenghai Yu, Tianwei Zhang, Qing Guo, Jie Zhang
+
+
++ [DEAL: Data-Efficient Adversarial Learning for High-Quality Infrared Imaging](https://arxiv.org//abs/2503.00905)
+
+	Zhu Liu, Zijun Wang, Jinyuan Liu, Fanqi Meng, Long Ma, Risheng Liu
+
+
++ [AMUN: Adversarial Machine UNlearning](https://arxiv.org//abs/2503.00917)
+
+	Ali Ebrahimpour-Boroojeny, Hari Sundaram, Varun Chandrasekaran
+
+
+# 2025-03-01
++ [Theoretical Insights in Model Inversion Robustness and Conditional Entropy Maximization for Collaborative Inference Systems](https://arxiv.org//abs/2503.00383)
+
+	Song Xia, Yi Yu, Wenhan Yang, Meiwen Ding, Zhuo Chen, Lingyu Duan, Alex C. Kot, Xudong Jiang
+
+
++ [A Survey of Adversarial Defenses in Vision-based Systems: Categorization, Methods and Challenges](https://arxiv.org//abs/2503.00384)
+
+	Nandish Chattopadhyay, Abdul Basit, Bassem Ouni, Muhammad Shafique
+
+
++ [BadJudge: Backdoor Vulnerabilities of LLM-as-a-Judge](https://arxiv.org//abs/2503.00596)
+
+	Terry Tong, Fei Wang, Zhe Zhao, Muhao Chen
+
+
++ [Adversarial Attacks on Event-Based Pedestrian Detectors: A Physical Approach](https://arxiv.org//abs/2503.00377)
+
+	Guixu Lin, Muyao Niu, Qingtian Zhu, Zhengwei Yin, Zhuoxiao Li, Shengfeng He, Yinqiang Zheng
+
+
+
 # 2025-02-28
 + [Exploring the Impact of Temperature Scaling in Softmax for Classification and Adversarial Robustness](https://arxiv.org//abs/2502.20604)
 
@@ -82,6 +181,21 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Chanwoo Choi, Jinsoo Kim, Sukmin Cho, Soyeong Jeong, Buru Chang
 
++ [1-Lipschitz Network Initialization for Certifiably Robust Classification Applications: A Decay Problem](https://arxiv.org//abs/2503.00240)
+
+	Marius F. R. Juston, William R. Norris, Dustin Nottage, Ahmet Soylemezoglu
+
+
++ [Steering Dialogue Dynamics for Robustness against Multi-turn Jailbreaking Attacks](https://arxiv.org//abs/2503.00187)
+
+	Hanjiang Hu, Alexander Robey, Changliu Liu
+
+
++ [Approaching the Harm of Gradient Attacks While Only Flipping Labels](https://arxiv.org//abs/2503.00140)
+
+	Abdessamad El-Kabid, El-Mahdi El-Mhamdi
+
+
 
 # 2025-02-27
 + [DeePen: Penetration Testing for Audio Deepfake Detection](https://arxiv.org//abs/2502.20427)
@@ -119,6 +233,26 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Yuanchao Wang, Zhao-Rong Lai, Tianqi Zhong
 
 
++ [NoPain: No-box Point Cloud Attack via Optimal Transport Singular Boundary](https://arxiv.org//abs/2503.00063)
+
+	Zezeng Li, Xiaoyu Du, Na Lei, Liming Chen, Weimin Wang
+
+
++ [Adaptive Attacks Break Defenses Against Indirect Prompt Injection Attacks on LLM Agents](https://arxiv.org//abs/2503.00061)
+
+	Qiusi Zhan, Richard Fang, Henil Shalin Panchal, Daniel Kang
+
+
++ [ADAGE: Active Defenses Against GNN Extraction](https://arxiv.org//abs/2503.00065)
+
+	Jing Xu, Franziska Boenisch, Adam Dziedzic
+
+
++ [CRFU: Compressive Representation Forgetting Against Privacy Leakage on Machine Unlearning](https://arxiv.org//abs/2503.00062)
+
+	Weiqi Wang, Chenhan Zhang, Zhiyi Tian, Shushu Liu, Shui Yu
+
+
 
 # 2025-02-26
 + [Multi-Agent Security Tax: Trading Off Security and Collaboration Capabilities in Multi-Agent Systems](https://arxiv.org//abs/2502.19145)
@@ -129,6 +263,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [JailBench: A Comprehensive Chinese Security Assessment Benchmark for Large Language Models](https://arxiv.org//abs/2502.18935)
 
 	Shuyi Liu, Simiao Cui, Haoran Bu, Yuming Shang, Xi Zhang
+
+
++ [A Dual-Purpose Framework for Backdoor Defense and Backdoor Amplification in Diffusion Models](https://arxiv.org//abs/2502.19047)
+
+	Vu Tuan Truong, Long Bao Le
 
 
 
@@ -166,6 +305,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Learning atomic forces from uncertainty-calibrated adversarial attacks](https://arxiv.org//abs/2502.18314)
 
 	Henrique Musseli Cezar, Tilmann Bodenstein, Henrik Andersen Sveinsson, Morten Ledum, Simen Reine, Sigbjørn Løland Bore
+
+
++ [Zero-Shot Defense Against Toxic Images via Inherent Multimodal Alignment in LVLMs](https://arxiv.org//abs/2503.00037)
+
+	Wei Zhao, Zhe Li, Yige Li, Jun Sun
+
+
++ [from Benign import Toxic: Jailbreaking the Language Model via Adversarial Metaphors](https://arxiv.org//abs/2503.00038)
+
+	Yu Yan, Sheng Sun, Zenghao Duan, Teli Liu, Min Liu, Zhiyi Yin, Qi Li, Jiangyu Lei
 
 
 
