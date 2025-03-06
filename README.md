@@ -2,6 +2,63 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-03-05
++ [CURVALID: Geometrically-guided Adversarial Prompt Detection](https://arxiv.org//abs/2503.03502)
+
+	Canaan Yung, Hanxun Huang, Sarah Monazam Erfani, Christopher Leckie
+
+
++ [Token-Level Privacy in Large Language Models](https://arxiv.org//abs/2503.03652)
+
+	Re'em Harel, Niv Gilboa, Yuval Pinter
+
+
++ [Improving LLM Safety Alignment with Dual-Objective Optimization](https://arxiv.org//abs/2503.03710)
+
+	Xuandong Zhao, Will Cai, Tianneng Shi, David Huang, Licong Lin, Song Mei, Dawn Song
+
+
++ [Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients](https://arxiv.org//abs/2503.03272)
+
+	Li Lun, Kunyu Feng, Qinglong Ni, Ling Liang, Yuan Wang, Ying Li, Dunshan Yu, Xiaoxin Cui
+
+
++ [CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP](https://arxiv.org//abs/2503.03613)
+
+	Songlong Xing, Zhengyu Zhao, Nicu Sebe
+
+
++ [Towards Trustworthy Federated Learning](https://arxiv.org//abs/2503.03684)
+
+	Alina Basharat, Yijun Bian, Ping Xu, Zhi Tian
+
+
++ [A Practical Memory Injection Attack against LLM Agents](https://arxiv.org//abs/2503.03704)
+
+	Shen Dong, Shaocheng Xu, Pengfei He, Yige Li, Jiliang Tang, Tianming Liu, Hui Liu, Zhen Xiang
+
+
++ [Data Poisoning Attacks to Locally Differentially Private Range Query Protocols](https://arxiv.org//abs/2503.03454)
+
+	I-Jung Hsu, Chih-Hsun Lin, Chia-Mu Yu, Sy-Yen Kuo, Chun-Ying Huang
+
+
++ [PriFFT: Privacy-preserving Federated Fine-tuning of Large Language Models via Function Secret Sharing](https://arxiv.org//abs/2503.03146)
+
+	Zhichao You, Xuewen Dong, Ke Cheng, Xutong Mu, Jiaxuan Fu, Shiyang Ma, Qiang Qu, Yulong Shen
+
+
+# 2025-03-04
++ [LLM Misalignment via Adversarial RLHF Platforms](https://arxiv.org//abs/2503.03039)
+
+	Erfan Entezami, Ali Naseh
+
+
++ [Mind the Gap: Detecting Black-box Adversarial Attacks in the Making through Query Update Analysis](https://arxiv.org//abs/2503.02986)
+
+	Jeonghwan Park, Niall McLaughlin, Ihsen Alouani
+
+
 # 2025-03-03
 + [Same Question, Different Words: A Latent Adversarial Framework for Prompt Robustness](https://arxiv.org//abs/2503.01345)
 
