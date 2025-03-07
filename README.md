@@ -2,6 +2,53 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-03-06
++ [Activation Space Interventions Can Be Transferred Between Large Language Models](https://arxiv.org//abs/2503.04429)
+
+	Narmeen Oozeer, Dhruv Nathawani, Nirmalendu Prakash, Michael Lan, Abir Harrasse, Amirali Abdullah
+
+
++ [Provable Robust Overfitting Mitigation in Wasserstein Distributionally Robust Optimization](https://arxiv.org//abs/2503.04315)
+
+	Shuang Liu, Yihan Wang, Yifan Zhu, Yibo Miao, Xiao-Shan Gao
+
+
++ [Privacy Preserving and Robust Aggregation for Cross-Silo Federated Learning in Non-IID Settings](https://arxiv.org//abs/2503.04451)
+
+	Marco Arazzi, Mert Cihangiroglu, Antonino Nocera
+
+
++ [Scale-Invariant Adversarial Attack against Arbitrary-scale Super-resolution](https://arxiv.org//abs/2503.04385)
+
+	Yihao Huang, Xin Luo, Qing Guo, Felix Juefei-Xu, Xiaojun Jia, Weikai Miao, Geguang Pu, Yang Liu
+
+
++ [Controlled privacy leakage propagation throughout overlapping grouped learning](https://arxiv.org//abs/2503.04054)
+
+	Shahrzad Kiani, Franziska Boenisch, Stark C. Draper
+
+
++ [Know Thy Judge: On the Robustness Meta-Evaluation of LLM Safety Judges](https://arxiv.org//abs/2503.04474)
+
+	Francisco Eiras, Eliott Zemour, Eric Lin, Vaikkunth Mugunthan
+
+
++ [The Challenge of Identifying the Origin of Black-Box Large Language Models](https://arxiv.org//abs/2503.04332)
+
+	Ziqing Yang, Yixin Wu, Yun Shen, Wei Dai, Michael Backes, Yang Zhang
+
+
++ [Poisoning Bayesian Inference via Data Deletion and Replication](https://arxiv.org//abs/2503.04480)
+
+	Matthieu Carreau, Roi Naveiro, William N. Caballero
+
+
++ [Runtime Backdoor Detection for Federated Learning via Representational Dissimilarity Analysis](https://arxiv.org//abs/2503.04473)
+
+	Xiyue Zhang, Xiaoyong Xue, Xiaoning Du, Xiaofei Xie, Yang Liu, Meng Sun
+
+
+
 # 2025-03-05
 + [CURVALID: Geometrically-guided Adversarial Prompt Detection](https://arxiv.org//abs/2503.03502)
 
@@ -46,6 +93,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [PriFFT: Privacy-preserving Federated Fine-tuning of Large Language Models via Function Secret Sharing](https://arxiv.org//abs/2503.03146)
 
 	Zhichao You, Xuewen Dong, Ke Cheng, Xutong Mu, Jiaxuan Fu, Shiyang Ma, Qiang Qu, Yulong Shen
+
+
++ [Task-Agnostic Attacks Against Vision Foundation Models](https://arxiv.org//abs/2503.03842)
+
+	Brian Pulfer, Yury Belousov, Vitaliy Kinakh, Teddy Furon, Slava Voloshynovskiy
+
+
++ [GuardDoor: Safeguarding Against Malicious Diffusion Editing via Protective Backdoors](https://arxiv.org//abs/2503.03944)
+
+	Yaopei Zeng, Yuanpu Cao, Lu Lin
 
 
 # 2025-03-04
