@@ -2,6 +2,33 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-03-07
++ [Jailbreaking is (Mostly) Simpler Than You Think](https://arxiv.org//abs/2503.05264)
+
+	Mark Russinovich, Ahmed Salem
+
+
++ [Anti-Diffusion: Preventing Abuse of Modifications of Diffusion-Based Models](https://arxiv.org//abs/2503.05595)
+
+	Zheng Li, Liangbin Xie, Jiantao Zhou, Xintao Wang, Haiwei Wu, Jinyu Tian
+
+
++ [Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions](https://arxiv.org//abs/2503.05180)
+
+	Zherui Huang, Xing Gao, Guanjie Zheng, Licheng Wen, Xuemeng Yang, Xiao Sun
+
+
++ [Robust Intrusion Detection System with Explainable Artificial Intelligence](https://arxiv.org//abs/2503.05303)
+
+	Betül Güvenç Paltun, Ramin Fuladi, Rim El Malki
+
+
++ [Are Your LLM-based Text-to-SQL Models Secure? Exploring SQL Injection via Backdoor Attacks](https://arxiv.org//abs/2503.05445)
+
+	Meiyu Lin, Haichuan Zhang, Jiale Lao, Renyuan Li, Yuanchun Zhou, Carl Yang, Yang Cao, Mingjie Tang
+
+
+
 # 2025-03-06
 + [Activation Space Interventions Can Be Transferred Between Large Language Models](https://arxiv.org//abs/2503.04429)
 
@@ -46,6 +73,21 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Runtime Backdoor Detection for Federated Learning via Representational Dissimilarity Analysis](https://arxiv.org//abs/2503.04473)
 
 	Xiyue Zhang, Xiaoyong Xue, Xiaoning Du, Xiaofei Xie, Yang Liu, Meng Sun
+
+
++ [From Pixels to Trajectory: Universal Adversarial Example Detection via Temporal Imprints](https://arxiv.org//abs/2503.04853)
+
+	Yansong Gao, Huaibing Peng, Hua Ma, Zhiyang Dai, Shuo Wang, Hongsheng Hu, Anmin Fu, Minhui Xue
+
+
++ [One-Shot is Enough: Consolidating Multi-Turn Attacks into Efficient Single-Turn Prompts for LLMs](https://arxiv.org//abs/2503.04856)
+
+	Junwoo Ha, Hyunjun Kim, Sangyoon Yu, Haon Park, Ashkan Yousefpour, Yuna Park, Suhyun Kim
+
+
++ [Energy-Latency Attacks: A New Adversarial Threat to Deep Learning](https://arxiv.org//abs/2503.04963)
+
+	Hanene F. Z. Brachemi Meftah, Wassim Hamidouche, Sid Ahmed Fezza, Olivier Deforges
 
 
 
@@ -103,6 +145,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [GuardDoor: Safeguarding Against Malicious Diffusion Editing via Protective Backdoors](https://arxiv.org//abs/2503.03944)
 
 	Yaopei Zeng, Yuanpu Cao, Lu Lin
+
+
++ [Adversarial Training for Multimodal Large Language Models against Jailbreak Attacks](https://arxiv.org//abs/2503.04833)
+
+	Liming Lu, Shuchao Pang, Siyuan Liang, Haotian Zhu, Xiyu Zeng, Aishan Liu, Yunhuai Liu, Yongbin Zhou
+
+
++ [Adversarial Example Based Fingerprinting for Robust Copyright Protection in Split Learning](https://arxiv.org//abs/2503.04825)
+
+	Zhangting Lin, Mingfu Xue, Kewei Chen, Wenmao Liu, Xiang Gao, Leo Yu Zhang, Jian Wang, Yushu Zhang
 
 
 # 2025-03-04
