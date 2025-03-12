@@ -2,6 +2,38 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-03-11
++ [Generalized Kullback-Leibler Divergence Loss](https://arxiv.org//abs/2503.08038)
+
+	Jiequan Cui, Beier Zhu, Qingshan Xu, Zhuotao Tian, Xiaojuan Qi, Bei Yu, Hanwang Zhang, Richang Hong
+
+
++ [A Grey-box Text Attack Framework using Explainable AI](https://arxiv.org//abs/2503.08226)
+
+	Esther Chiramal, Kelvin Soh Boon Kai
+
+
++ [Adv-CPG: A Customized Portrait Generation Framework with Facial Adversarial Attacks](https://arxiv.org//abs/2503.08269)
+
+	Junying Wang, Hongyuan Zhang, Yuan Yuan
+
+
++ [MINT-Demo: Membership Inference Test Demonstrator](https://arxiv.org//abs/2503.08332)
+
+	Daniel DeAlcala, Aythami Morales, Julian Fierrez, Gonzalo Mancera, Ruben Tolosana, Ruben Vera-Rodriguez
+
+
++ [Dialogue Injection Attack: Jailbreaking LLMs through Context Manipulation](https://arxiv.org//abs/2503.08195)
+
+	Wenlong Meng, Fan Zhang, Wendao Yao, Zhenyuan Guo, Yuwei Li, Chengkun Wei, Wenzhi Chen
+
+
++ [Birds look like cars: Adversarial analysis of intrinsically interpretable deep learning](https://arxiv.org//abs/2503.08636)
+
+	Hubert Baniecki, Przemyslaw Biecek
+
+
+
 # 2025-03-10
 + [Is My Text in Your AI Model? Gradient-based Membership Inference Test applied to LLMs](https://arxiv.org//abs/2503.07384)
 
@@ -66,6 +98,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Learning to Localize Leakage of Cryptographic Sensitive Variables](https://arxiv.org//abs/2503.07464)
 
 	Jimmy Gammell, Anand Raghunathan, Abolfazl Hashemi, Kaushik Roy
+
+
++ [Safety Guardrails for LLM-Enabled Robots](https://arxiv.org//abs/2503.07885)
+
+	Zachary Ravichandran, Alexander Robey, Vijay Kumar, George J. Pappas, Hamed Hassani
 
 
 # 2025-03-09
@@ -173,6 +210,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Backdoor Attacks on Discrete Graph Diffusion Models](https://arxiv.org//abs/2503.06340)
 
 	Jiawen Wang, Samin Karim, Yuan Hong, Binghui Wang
+
+
++ [Disrupting Model Merging: A Parameter-Level Defense Without Sacrificing Accuracy](https://arxiv.org//abs/2503.07661)
+
+	Wei Junhao, Yu Zhe, Sakuma Jun
 
 
 
