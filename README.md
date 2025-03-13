@@ -2,6 +2,93 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-03-12
++ [In-Context Defense in Computer Agents: An Empirical Study](https://arxiv.org//abs/2503.09241)
+
+	Pei Yang, Hai Ci, Mike Zheng Shou
+
+
++ [JBFuzz: Jailbreaking LLMs Efficiently and Effectively Using Fuzzing](https://arxiv.org//abs/2503.08990)
+
+	Vasudev Gohil
+
+
++ [Probing Latent Subspaces in LLM for AI Security: Identifying and Manipulating Adversarial States](https://arxiv.org//abs/2503.09066)
+
+	Xin Wei Chia, Jonathan Pan
+
+
++ [Probing Network Decisions: Capturing Uncertainties and Unveiling Vulnerabilities Without Label Information](https://arxiv.org//abs/2503.09068)
+
+	Youngju Joung, Sehyun Lee, Jaesik Choi
+
+
++ [Robust Asymmetric Heterogeneous Federated Learning with Corrupted Clients](https://arxiv.org//abs/2503.09206)
+
+	Xiuwen Fang, Mang Ye, Bo Du
+
+
++ [Membership Inference Attacks fueled by Few-Short Learning to detect privacy leakage tackling data integrity](https://arxiv.org//abs/2503.09365)
+
+	Daniel Jiménez-López, Nuria Rodríguez-Barroso, M. Victoria Luzón, Francisco Herrera
+
+
++ [Revealing Unintentional Information Leakage in Low-Dimensional Facial Portrait Representations](https://arxiv.org//abs/2503.09306)
+
+	Kathleen Anderson, Thomas Martinetz
+
+
++ [Stealthy Patch-Wise Backdoor Attack in 3D Point Cloud via Curvature Awareness](https://arxiv.org//abs/2503.09336)
+
+	Yu Feng, Dingxin Zhang, Runkai Zhao, Yong Xia, Heng Huang, Weidong Cai
+
+
++ [C^2 ATTACK: Towards Representation Backdoor on CLIP via Concept Confusion](https://arxiv.org//abs/2503.09095)
+
+	Lijie Hu, Junchi Liao, Weimin Lyu, Shaopeng Fu, Tianhao Huang, Shu Yang, Guimin Hu, Di Wang
+
+
++ [AdvAD: Exploring Non-Parametric Diffusion for Imperceptible Adversarial Attacks](https://arxiv.org//abs/2503.09124)
+
+	Jin Li, Ziqiang He, Anwei Luo, Jian-Fang Hu, Z. Jane Wang, Xiangui Kang
+
+
++ [Quantitative Analysis of Deeply Quantized Tiny Neural Networks Robust to Adversarial Attacks](https://arxiv.org//abs/2503.08973)
+
+	Idris Zakariyya, Ferheen Ayaz, Mounia Kharbouche-Harrari, Jeremy Singer, Sye Loong Keoh, Danilo Pau, José Cano
+
+
++ [Not All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based Federated Learning](https://arxiv.org//abs/2503.08976)
+
+	Zirui Gong, Yanjun Zhang, Leo Yu Zhang, Zhaoxi Zhang, Yong Xiang, Shirui Pan
+
+
++ [Adaptive Backdoor Attacks with Reasonable Constraints on Graph Neural Networks](https://arxiv.org//abs/2503.09049)
+
+	Xuewen Dong, Jiachen Li, Shujun Li, Zhichao You, Qiang Qu, Yaroslav Kholodov, Yulong Shen
+
+
++ [Mitigating Membership Inference Vulnerability in Personalized Federated Learning](https://arxiv.org//abs/2503.09414)
+
+	Kangsoo Jung, Sayan Biswas, Catuscia Palamidessi
+
+
++ [Prompt Inversion Attack against Collaborative Inference of Large Language Models](https://arxiv.org//abs/2503.09022)
+
+	Wenjie Qu, Yuguang Zhou, Yongji Wu, Tingsong Xiao, Binhang Yuan, Yiming Li, Jiaheng Zhang
+
+
++ [Prompt Inference Attack on Distributed Large Language Model Inference Frameworks](https://arxiv.org//abs/2503.09291)
+
+	Xinjian Luo, Ting Yu, Xiaokui Xiao
+
+
++ [Detecting and Preventing Data Poisoning Attacks on AI Models](https://arxiv.org//abs/2503.09302)
+
+	Halima I. Kure, Pradipta Sarkar, Ahmed B. Ndanusa, Augustine O. Nwajana
+
+
+
 # 2025-03-11
 + [Generalized Kullback-Leibler Divergence Loss](https://arxiv.org//abs/2503.08038)
 
@@ -31,6 +118,26 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Birds look like cars: Adversarial analysis of intrinsically interpretable deep learning](https://arxiv.org//abs/2503.08636)
 
 	Hubert Baniecki, Przemyslaw Biecek
+
+
++ [Interpreting the Repeated Token Phenomenon in Large Language Models](https://arxiv.org//abs/2503.08908)
+
+	Itay Yona, Ilia Shumailov, Jamie Hayes, Federico Barbero, Yossi Gandelsman
+
+
++ [FairDeFace: Evaluating the Fairness and Adversarial Robustness of Face Obfuscation Methods](https://arxiv.org//abs/2503.08731)
+
+	Seyyed Mohammad Sadegh Moosavi Khorzooghi, Poojitha Thota, Mohit Singhal, Abolfazl Asudeh, Gautam Das, Shirin Nilizadeh
+
+
++ [Enhanced Estimation Techniques for Certified Radii in Randomized Smoothing](https://arxiv.org//abs/2503.08801)
+
+	Zixuan Liang
+
+
++ [Seal Your Backdoor with Variational Defense](https://arxiv.org//abs/2503.08829)
+
+	Ivan Sabolić, Matej Grcić, Siniša Šegvić
 
 
 
@@ -105,6 +212,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Zachary Ravichandran, Alexander Robey, Vijay Kumar, George J. Pappas, Hamed Hassani
 
 
++ [TH-Bench: Evaluating Evading Attacks via Humanizing AI Text on Machine-Generated Text Detectors](https://arxiv.org//abs/2503.08708)
+
+	Jingyi Zheng, Junfeng Wang, Zhen Sun, Wenhan Dong, Yule Liu, Xinlei He
+
+
++ [AuthorMist: Evading AI Text Detectors with Reinforcement Learning](https://arxiv.org//abs/2503.08716)
+
+	Isaac David, Arthur Gervais
+
+
 # 2025-03-09
 + [PerturboLLaVA: Reducing Multimodal Hallucinations with Perturbative Visual Training](https://arxiv.org//abs/2503.06486)
 
@@ -149,6 +266,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [BDPFL: Backdoor Defense for Personalized Federated Learning via Explainable Distillation](https://arxiv.org//abs/2503.06554)
 
 	Chengcheng Zhu, Jiale Zhang, Di Wu, Guodong Long
+
+
++ [Life-Cycle Routing Vulnerabilities of LLM Router](https://arxiv.org//abs/2503.08704)
+
+	Qiqi Lin, Xiaoyang Ji, Shengfang Zhai, Qingni Shen, Zhi Zhang, Yuejian Fang, Yansong Gao
 
 
 # 2025-03-08
