@@ -2,6 +2,73 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-03-13
++ [Siege: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search](https://arxiv.org//abs/2503.10619)
+
+	Andy Zhou
+
+
++ [Robustness Tokens: Towards Adversarial Robustness of Transformers](https://arxiv.org//abs/2503.10191)
+
+	Brian Pulfer, Yury Belousov, Slava Voloshynovskiy
+
+
++ [A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1](https://arxiv.org//abs/2503.10635)
+
+	Zhaoyi Li, Xiaohan Zhao, Dong-Dong Wu, Jiacheng Cui, Zhiqiang Shen
+
+
++ [ExtremeAIGC: Benchmarking LMM Vulnerability to AI-Generated Extremist Content](https://arxiv.org//abs/2503.09964)
+
+	Bhavik Chandna, Mariam Aboujenane, Usman Naseem
+
+
++ [AdvPaint: Protecting Images from Inpainting Manipulation via Adversarial Attention Disruption](https://arxiv.org//abs/2503.10081)
+
+	Joonsung Jeon, Woo Jae Kim, Suhyeon Ha, Sooel Son, Sung-eui Yoon
+
+
++ [Enhancing Facial Privacy Protection via Weakening Diffusion Purification](https://arxiv.org//abs/2503.10350)
+
+	Ali Salar, Qing Liu, Yingli Tian, Guoying Zhao
+
+
++ [MASQUE: A Text-Guided Diffusion-Based Framework for Localized and Customized Adversarial Makeup](https://arxiv.org//abs/2503.10549)
+
+	Youngjin Kwon, Xiao Zhang
+
+
++ [Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology](https://arxiv.org//abs/2503.10629)
+
+	Hashmat Shadab Malik, Shahina Kunhimon, Muzammal Naseer, Fahad Shahbaz Khan, Salman Khan
+
+
++ [Policy Teaching via Data Poisoning in Learning from Human Preferences](https://arxiv.org//abs/2503.10228)
+
+	Andi Nika, Jonathan Nöther, Debmalya Mandal, Parameswaran Kamalaruban, Adish Singla, Goran Radanović
+
+
++ [DP-GPL: Differentially Private Graph Prompt Learning](https://arxiv.org//abs/2503.10544)
+
+	Jing Xu, Franziska Boenisch, Iyiola Emmanuel Olatunji, Adam Dziedzic
+
+
++ [ASIDE: Architectural Separation of Instructions and Data in Language Models](https://arxiv.org//abs/2503.10566)
+
+	Egor Zverev, Evgenii Kortukov, Alexander Panfilov, Soroush Tabesh, Alexandra Volkova, Sebastian Lapuschkin, Wojciech Samek, Christoph H. Lampert
+
+
++ [Targeted Data Poisoning for Black-Box Audio Datasets Ownership Verification](https://arxiv.org//abs/2503.10269)
+
+	Wassim Bouaziz, El-Mahdi El-Mhamdi, Nicolas Usunier
+
+
++ [I Can Tell Your Secrets: Inferring Privacy Attributes from Mini-app Interaction History in Super-apps](https://arxiv.org//abs/2503.10239)
+
+	Yifeng Cai, Ziqi Zhang, Mengyu Yao, Junlin Liu, Xiaoke Zhao, Xinyi Fu, Ruoyu Li, Zhe Li, Xiangqun Chen, Yao Guo, Ding Li
+
+
+
 # 2025-03-12
 + [In-Context Defense in Computer Agents: An Empirical Study](https://arxiv.org//abs/2503.09241)
 
@@ -86,6 +153,36 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Detecting and Preventing Data Poisoning Attacks on AI Models](https://arxiv.org//abs/2503.09302)
 
 	Halima I. Kure, Pradipta Sarkar, Ahmed B. Ndanusa, Augustine O. Nwajana
+
+
++ [AgentDAM: Privacy Leakage Evaluation for Autonomous Web Agents](https://arxiv.org//abs/2503.09780)
+
+	Arman Zharmagambetov, Chuan Guo, Ivan Evtimov, Maya Pavlova, Ruslan Salakhutdinov, Kamalika Chaudhuri
+
+
++ [Silent Branding Attack: Trigger-free Data Poisoning Attack on Text-to-Image Diffusion Models](https://arxiv.org//abs/2503.09669)
+
+	Sangwon Jang, June Suk Choi, Jaehyeong Jo, Kimin Lee, Sung Ju Hwang
+
+
++ [Revisiting Backdoor Attacks on Time Series Classification in the Frequency Domain](https://arxiv.org//abs/2503.09712)
+
+	Yuanmin Huang, Mi Zhang, Zhaoxiang Wang, Wenxuan Li, Min Yang
+
+
++ [Enhancing Adversarial Example Detection Through Model Explanation](https://arxiv.org//abs/2503.09735)
+
+	Qian Ma, Ziping Ye
+
+
++ [How Feasible is Augmenting Fake Nodes with Learnable Features as a Counter-strategy against Link Stealing Attacks?](https://arxiv.org//abs/2503.09726)
+
+	Mir Imtiaz Mostafiz, Imtiaz Karim, Elisa Bertino
+
+
++ [All Your Knowledge Belongs to Us: Stealing Knowledge Graphs via Reasoning APIs](https://arxiv.org//abs/2503.09727)
+
+	Zhaohan Xi
 
 
 
