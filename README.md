@@ -2,6 +2,43 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-03-14
++ [Prompt Injection Detection and Mitigation via AI Multi-Agent NLP Frameworks](https://arxiv.org//abs/2503.11517)
+
+	Diego Gosmar, Deborah A. Dahl, Dario Gosmar
+
+
++ [Align in Depth: Defending Jailbreak Attacks via Progressive Answer Detoxification](https://arxiv.org//abs/2503.11185)
+
+	Yingjie Zhang, Tong Liu, Zhe Zhao, Guozhu Meng, Kai Chen
+
+
++ [PrivacyScalpel: Enhancing LLM Privacy via Interpretable Feature Intervention with Sparse Autoencoders](https://arxiv.org//abs/2503.11232)
+
+	Ahmed Frikha, Muhammad Reza Ar Razi, Krishna Kanth Nakka, Ricardo Mendes, Xue Jiang, Xuebing Zhou
+
+
++ [Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models](https://arxiv.org//abs/2503.11519)
+
+	Hao Cheng, Erjia Xiao, Yichi Wang, Kaidi Xu, Mengshu Sun, Jindong Gu, Renjing Xu
+
+
++ [Weakly Supervised Contrastive Adversarial Training for Learning Robust Features from Semi-supervised Data](https://arxiv.org//abs/2503.11032)
+
+	Lilin Zhang, Chengpei Wu, Ning Yang
+
+
++ [Are Deep Speech Denoising Models Robust to Adversarial Noise?](https://arxiv.org//abs/2503.11627)
+
+	Will Schwarzer, Philip S. Thomas, Andrea Fanelli, Xiaoyu Liu
+
+
++ [Tit-for-Tat: Safeguarding Large Vision-Language Models Against Jailbreak Attacks via Adversarial Defense](https://arxiv.org//abs/2503.11619)
+
+	Shuyang Hao, Yiwei Wang, Bryan Hooi, Ming-Hsuan Yang, Jun Liu, Chengcheng Tang, Zi Huang, Yujun Cai
+
+
+
 # 2025-03-13
 + [Siege: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search](https://arxiv.org//abs/2503.10619)
 
@@ -66,6 +103,26 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [I Can Tell Your Secrets: Inferring Privacy Attributes from Mini-app Interaction History in Super-apps](https://arxiv.org//abs/2503.10239)
 
 	Yifeng Cai, Ziqi Zhang, Mengyu Yao, Junlin Liu, Xiaoke Zhao, Xinyi Fu, Ruoyu Li, Zhe Li, Xiangqun Chen, Yao Guo, Ding Li
+
+
++ [TAIJI: Textual Anchoring for Immunizing Jailbreak Images in Vision Language Models](https://arxiv.org//abs/2503.10872)
+
+	Xiangyu Yin, Yi Qi, Jinwei Hu, Zhen Chen, Yi Dong, Xingyu Zhao, Xiaowei Huang, Wenjie Ruan
+
+
++ [ChatGPT Encounters Morphing Attack Detection: Zero-Shot MAD with Multi-Modal Large Language Models and General Vision Models](https://arxiv.org//abs/2503.10937)
+
+	Haoyu Zhang, Raghavendra Ramachandra, Kiran Raja, Christoph Busch
+
+
++ [Exploring the Vulnerabilities of Federated Learning: A Deep Dive into Gradient Inversion Attacks](https://arxiv.org//abs/2503.11514)
+
+	Pengxin Guo, Runxi Wang, Shuang Zeng, Jinjing Zhu, Haoning Jiang, Yanran Wang, Yuyin Zhou, Feifei Wang, Hui Xiong, Liangqiong Qu
+
+
++ [Attacking Multimodal OS Agents with Malicious Image Patches](https://arxiv.org//abs/2503.10809)
+
+	Lukas Aichberger, Alasdair Paren, Yarin Gal, Philip Torr, Adel Bibi
 
 
 
@@ -183,6 +240,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [All Your Knowledge Belongs to Us: Stealing Knowledge Graphs via Reasoning APIs](https://arxiv.org//abs/2503.09727)
 
 	Zhaohan Xi
+
+
++ [Battling Misinformation: An Empirical Study on Adversarial Factuality in Open-Source Large Language Models](https://arxiv.org//abs/2503.10690)
+
+	Shahnewaz Karim Sakib, Anindya Bijoy Das, Shibbir Ahmed
 
 
 
@@ -434,6 +496,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Disrupting Model Merging: A Parameter-Level Defense Without Sacrificing Accuracy](https://arxiv.org//abs/2503.07661)
 
 	Wei Junhao, Yu Zhe, Sakuma Jun
+
+
++ [CeTAD: Towards Certified Toxicity-Aware Distance in Vision Language Models](https://arxiv.org//abs/2503.10661)
+
+	Xiangyu Yin, Jiaxu Liu, Zhen Chen, Jinwei Hu, Yi Dong, Xiaowei Huang, Wenjie Ruan
 
 
 
