@@ -2,6 +2,38 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-03-18
++ [Make the Most of Everything: Further Considerations on Disrupting Diffusion-based Customization](https://arxiv.org//abs/2503.13945)
+
+	Long Tang, Dengpan Ye, Sirun Chen, Xiuwen Shi, Yunna Lv, Ziyi Liu
+
+
++ [Survey of Adversarial Robustness in Multimodal Large Language Models](https://arxiv.org//abs/2503.13962)
+
+	Chengze Jiang, Zhuangzhuang Wang, Minjing Dong, Jie Gui
+
+
++ [Towards properties of adversarial image perturbations](https://arxiv.org//abs/2503.14111)
+
+	Egor Kuznetsov, Kirill Aistov, Maxim Koroteev
+
+
++ [Empirical Calibration and Metric Differential Privacy in Language Models](https://arxiv.org//abs/2503.13872)
+
+	Pedro Faustini, Natasha Fernandes, Annabelle McIver, Mark Dras
+
+
++ [Unveiling the Role of Randomization in Multiclass Adversarial Classification: Insights from Graph Theory](https://arxiv.org//abs/2503.14299)
+
+	Lucas Gnecco-Heredia, Matteo Sammut, Muni Sreenivas Pydi, Rafael Pinot, Benjamin Negrevergne, Yann Chevaleyre
+
+
++ [XOXO: Stealthy Cross-Origin Context Poisoning Attacks against AI Coding Assistants](https://arxiv.org//abs/2503.14281)
+
+	Adam Štorek, Mukur Gupta, Noopur Bhatt, Aditya Gupta, Janie Kim, Prashast Srivastava, Suman Jana
+
+
+
 # 2025-03-17
 + [Analyzing sequential activity and travel decisions with interpretable deep inverse reinforcement learning](https://arxiv.org//abs/2503.12761)
 
@@ -53,6 +85,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Shuaifan Jin, Xiaoyi Pang, Zhibo Wang, He Wang, Jiacheng Du, Jiahui Hu, Kui Ren
 
 
++ [Web Artifact Attacks Disrupt Vision Language Models](https://arxiv.org//abs/2503.13652)
+
+	Maan Qraitem, Piotr Teterwak, Kate Saenko, Bryan A. Plummer
+
+
 # 2025-03-16
 + [Augmented Adversarial Trigger Learning](https://arxiv.org//abs/2503.12339)
 
@@ -82,6 +119,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Algebraic Adversarial Attacks on Explainability Models](https://arxiv.org//abs/2503.12683)
 
 	Lachlan Simpson, Federico Costanza, Kyle Millar, Adriel Cheng, Cheng-Chew Lim, Hong Gunn Chew
+
+
++ [Towards Privacy-Preserving Data-Driven Education: The Potential of Federated Learning](https://arxiv.org//abs/2503.13550)
+
+	Mohammad Khalil, Ronas Shakya, Qinyi Liu
 
 
 # 2025-03-15
