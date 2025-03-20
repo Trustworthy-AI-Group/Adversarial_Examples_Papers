@@ -2,6 +2,32 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-03-19
++ [MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models](https://arxiv.org//abs/2503.14827)
+
+	Chejian Xu, Jiawei Zhang, Zhaorun Chen, Chulin Xie, Mintong Kang, Yujin Potter, Zhun Wang, Zhuowen Yuan, Alexander Xiong, Zidi Xiong, Chenhui Zhang, Lingzhi Yuan, Yi Zeng, Peiyang Xu, Chengquan Guo, Andy Zhou, Jeffrey Ziwei Tan, Xuandong Zhao, Francesco Pinto, Zhen Xiang, Yu Gai, Zinan Lin, Dan Hendrycks, Bo Li, Dawn Song
+
+
++ [A Semantic and Clean-label Backdoor Attack against Graph Convolutional Networks](https://arxiv.org//abs/2503.14922)
+
+	Jiazhu Dai, Haoyu Sun
+
+
++ [Test-Time Backdoor Detection for Object Detection Models](https://arxiv.org//abs/2503.15293)
+
+	Hangtao Zhang, Yichen Wang, Shihui Yan, Chenyu Zhu, Ziqi Zhou, Linshan Hou, Shengshan Hu, Minghui Li, Yanjun Zhang, Leo Yu Zhang
+
+
++ [Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement](https://arxiv.org//abs/2503.15404)
+
+	Yuchen Ren, Zhengyu Zhao, Chenhao Lin, Bo Yang, Lu Zhou, Zhe Liu, Chao Shen
+
+
++ [On the Robustness Tradeoff in Fine-Tuning](https://arxiv.org//abs/2503.14836)
+
+	Kunyang Li, Jean-Charles Noirot Ferrand, Ryan Sheatsley, Blaine Hoak, Yohan Beugin, Eric Pauley, Patrick McDaniel
+
+
 # 2025-03-18
 + [Make the Most of Everything: Further Considerations on Disrupting Diffusion-based Customization](https://arxiv.org//abs/2503.13945)
 
@@ -31,6 +57,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [XOXO: Stealthy Cross-Origin Context Poisoning Attacks against AI Coding Assistants](https://arxiv.org//abs/2503.14281)
 
 	Adam Štorek, Mukur Gupta, Noopur Bhatt, Aditya Gupta, Janie Kim, Prashast Srivastava, Suman Jana
+
+
++ [LipShiFT: A Certifiably Robust Shift-based Vision Transformer](https://arxiv.org//abs/2503.14751)
+
+	Rohan Menon, Nicola Franco, Stephan Günnemann
+
+
++ [RAT: Boosting Misclassification Detection Ability without Extra Data](https://arxiv.org//abs/2503.14783)
+
+	Ge Yan, Tsui-Wei Weng
 
 
 
