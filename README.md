@@ -2,6 +2,43 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-03-20
++ [AutoRedTeamer: Autonomous Red Teaming with Lifelong Attack Integration](https://arxiv.org//abs/2503.15754)
+
+	Andy Zhou, Kevin Wu, Francesco Pinto, Zhaorun Chen, Yi Zeng, Yu Yang, Shuang Yang, Sanmi Koyejo, James Zou, Bo Li
+
+
++ [AI Agents in Cryptoland: Practical Attacks and No Silver Bullet](https://arxiv.org//abs/2503.16248)
+
+	Atharv Singh Patlan, Peiyao Sheng, S. Ashwin Hebbar, Prateek Mittal, Pramod Viswanath
+
+
++ [Narrowing Class-Wise Robustness Gaps in Adversarial Training](https://arxiv.org//abs/2503.16179)
+
+	Fatemeh Amerehi, Patrick Healy
+
+
++ [RESFL: An Uncertainty-Aware Framework for Responsible Federated Learning by Balancing Privacy, Fairness and Utility in Autonomous Vehicles](https://arxiv.org//abs/2503.16251)
+
+	Dawood Wasif, Terrence J. Moore, Jin-Hee Cho
+
+
++ [Rethinking Robustness in Machine Learning: A Posterior Agreement Approach](https://arxiv.org//abs/2503.16271)
+
+	João Borges S. Carvalho, Alessandro Torcinovich, Victor Jimenez Rodriguez, Antonio E. Cinà, Carlos Cotrini, Lea Schönherr, Joachim M. Buhmann
+
+
++ [BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models](https://arxiv.org//abs/2503.16023)
+
+	Zenghui Yuan, Jiawen Shi, Pan Zhou, Neil Zhenqiang Gong, Lichao Sun
+
+
++ [From Head to Tail: Efficient Black-box Model Inversion Attack via Long-tailed Learning](https://arxiv.org//abs/2503.16266)
+
+	Ziang Li, Hongguang Zhang, Juan Wang, Meihui Chen, Hongxin Hu, Wenzhe Yi, Xiaoyang Xu, Mengda Yang, Chenjun Ma
+
+
+
 # 2025-03-19
 + [MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models](https://arxiv.org//abs/2503.14827)
 
@@ -67,6 +104,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [RAT: Boosting Misclassification Detection Ability without Extra Data](https://arxiv.org//abs/2503.14783)
 
 	Ge Yan, Tsui-Wei Weng
+
+
++ [Efficient but Vulnerable: Benchmarking and Defending LLM Batch Prompting Attack](https://arxiv.org//abs/2503.15551)
+
+	Murong Yue, Ziyu Yao
+
+
++ [Temporal Context Awareness: A Defense Framework Against Multi-turn Manipulation Attacks on Large Language Models](https://arxiv.org//abs/2503.15560)
+
+	Prashant Kulkarni, Assaf Namer
 
 
 
