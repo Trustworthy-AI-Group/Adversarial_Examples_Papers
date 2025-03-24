@@ -2,6 +2,43 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-03-21
++ [Rethinking the Role of Spatial Mixing](https://arxiv.org//abs/2503.16760)
+
+	George Cazenavette, Joel Julin, Simon Lucey
+
+
++ [EasyRobust: A Comprehensive and Easy-to-use Toolkit for Robust and Generalized Vision](https://arxiv.org//abs/2503.16975)
+
+	Xiaofeng Mao, Yuefeng Chen, Rong Zhang, Hui Xue, Zhao Li, Hang Su
+
+
++ [Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving](https://arxiv.org//abs/2503.17168)
+
+	Alexandra Arzberger, Ramin Tavakoli Kolagari
+
+
++ [Lie Detector: Unified Backdoor Detection via Cross-Examination Framework](https://arxiv.org//abs/2503.16872)
+
+	Xuan Wang, Siyuan Liang, Dongping Liao, Han Fang, Aishan Liu, Xiaochun Cao, Yu-liang Lu, Ee-Chien Chang, Xitong Gao
+
+
++ [Jailbreaking the Non-Transferable Barrier via Test-Time Data Disguising](https://arxiv.org//abs/2503.17198)
+
+	Yongli Xiang, Ziming Hong, Lina Yao, Dadong Wang, Tongliang Liu
+
+
++ [Principal Eigenvalue Regularization for Improved Worst-Class Certified Robustness of Smoothed Classifiers](https://arxiv.org//abs/2503.17172)
+
+	Gaojie Jin, Tianjin Huang, Ronghui Mu, Xiaowei Huang
+
+
++ [Robustness of deep learning classification to adversarial input on GPUs: asynchronous parallel accumulation is a source of vulnerability](https://arxiv.org//abs/2503.17173)
+
+	Sanjif Shanmugavelu, Mathieu Taillefumier, Christopher Culver, Vijay Ganesh, Oscar Hernandez, Ada Sedova
+
+
+
 # 2025-03-20
 + [AutoRedTeamer: Autonomous Red Teaming with Lifelong Attack Integration](https://arxiv.org//abs/2503.15754)
 
@@ -38,6 +75,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Ziang Li, Hongguang Zhang, Juan Wang, Meihui Chen, Hongxin Hu, Wenzhe Yi, Xiaoyang Xu, Mengda Yang, Chenjun Ma
 
 
++ [CAARMA: Class Augmentation with Adversarial Mixup Regularization](https://arxiv.org//abs/2503.16718)
+
+	Massa Baali, Xiang Li, Hao Chen, Rita Singh, Bhiksha Raj
+
+
++ [ATOM: A Framework of Detecting Query-Based Model Extraction Attacks for Graph Neural Networks](https://arxiv.org//abs/2503.16693)
+
+	Zhan Cheng, Bolin Shen, Tianming Sha, Yuan Gao, Shibo Li, Yushun Dong
+
+
 
 # 2025-03-19
 + [MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models](https://arxiv.org//abs/2503.14827)
@@ -63,6 +110,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [On the Robustness Tradeoff in Fine-Tuning](https://arxiv.org//abs/2503.14836)
 
 	Kunyang Li, Jean-Charles Noirot Ferrand, Ryan Sheatsley, Blaine Hoak, Yohan Beugin, Eric Pauley, Patrick McDaniel
+
+
++ [Unified Enhancement of the Generalization and Robustness of Language Models via Bi-Stage Optimization](https://arxiv.org//abs/2503.16550)
+
+	Yudao Sun, Juan Yin, Juan Zhao, Fan Zhang, Yongheng Liu, Hongji Chen
+
+
++ [Defending Against Gradient Inversion Attacks for Biomedical Images via Learnable Data Perturbation](https://arxiv.org//abs/2503.16542)
+
+	Shiyi Jiang, Farshad Firouzi, Krishnendu Chakrabarty
 
 
 # 2025-03-18
