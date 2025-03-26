@@ -2,6 +2,131 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-03-25
++ [Process or Result? Manipulated Ending Tokens Can Mislead Reasoning LLMs to Ignore the Correct Reasoning Steps](https://arxiv.org//abs/2503.19326)
+
+	Yu Cui, Bryan Hooi, Yujun Cai, Yiwei Wang
+
+
++ [Bitstream Collisions in Neural Image Compression via Adversarial Perturbations](https://arxiv.org//abs/2503.19817)
+
+	Jordan Madden, Lhamo Dorje, Xiaohua Li
+
+
++ [Stop Walking in Circles! Bailing Out Early in Projected Gradient Descent](https://arxiv.org//abs/2503.19347)
+
+	Philip Doldo, Derek Everett, Amol Khanna, Andre T Nguyen, Edward Raff
+
+
++ [SITA: Structurally Imperceptible and Transferable Adversarial Attacks for Stylized Image Generation](https://arxiv.org//abs/2503.19791)
+
+	Jingdan Kang, Haoxin Yang, Yan Cai, Huaidong Zhang, Xuemiao Xu, Yong Du, Shengfeng He
+
+
++ [Membership Inference Attacks on Large-Scale Models: A Survey](https://arxiv.org//abs/2503.19338)
+
+	Hengyu Wu, Yang Cao
+
+
++ [Boosting the Transferability of Audio Adversarial Examples with Acoustic Representation Optimization](https://arxiv.org//abs/2503.19591)
+
+	Weifei Jin, Junjie Su, Hejia Wang, Yulin Ye, Jie Hao
+
+
++ [Efficient Adversarial Detection Frameworks for Vehicle-to-Microgrid Services in Edge Computing](https://arxiv.org//abs/2503.19318)
+
+	Ahmed Omara, Burak Kantarci
+
+
++ [Towards Imperceptible Adversarial Attacks for Time Series Classification with Local Perturbations and Frequency Analysis](https://arxiv.org//abs/2503.19519)
+
+	Wenwei Gu, Renyi Zhong, Jianping Zhang, Michael R. Lyu
+
+
+# 2025-03-24
++ [When is dataset cartography ineffective? Using training dynamics does not improve robustness against Adversarial SQuAD](https://arxiv.org//abs/2503.18290)
+
+	Paul K. Mandal
+
+
++ [Anchor-based oversampling for imbalanced tabular data via contrastive and adversarial learning](https://arxiv.org//abs/2503.18569)
+
+	Hadi Mohammadi, Ehsan Nazerfard, Mostafa Haghir Chehreghani
+
+
++ [Defeating Prompt Injections by Design](https://arxiv.org//abs/2503.18813)
+
+	Edoardo Debenedetti, Ilia Shumailov, Tianqi Fan, Jamie Hayes, Nicholas Carlini, Daniel Fabian, Christoph Kern, Chongyang Shi, Andreas Terzis, Florian Tramèr
+
+
++ [J&H: Evaluating the Robustness of Large Language Models Under Knowledge-Injection Attacks in Legal Domain](https://arxiv.org//abs/2503.18360)
+
+	Yiran Hu, Huanghai Liu, Qingjing Chen, Ning Zheng, Chong Wang, Yun Liu, Charles L.A. Clarke, Weixing Shen
+
+
++ [NullSwap: Proactive Identity Cloaking Against Deepfake Face Swapping](https://arxiv.org//abs/2503.18678)
+
+	Tianyi Wang, Harry Cheng, Xiao Zhang, Yinglong Wang
+
+
++ [Leveraging Perturbation Robustness to Enhance Out-of-Distribution Detection](https://arxiv.org//abs/2503.18784)
+
+	Wenxi Chen, Raymond A. Yeh, Shaoshuai Mou, Yan Gu
+
+
++ [Deterministic Certification of Graph Neural Networks against Graph Poisoning Attacks with Arbitrary Perturbations](https://arxiv.org//abs/2503.18503)
+
+	Jiate Li, Meng Pang, Yun Dong, Binghui Wang
+
+
++ [Graph-Level Label-Only Membership Inference Attack against Graph Neural Networks](https://arxiv.org//abs/2503.19070)
+
+	Jiazhu Dai, Yubing Lu
+
+
++ [Masks and Mimicry: Strategic Obfuscation and Impersonation Attacks on Authorship Verification](https://arxiv.org//abs/2503.19099)
+
+	Kenneth Alperin, Rohan Leekha, Adaku Uchendu, Trang Nguyen, Srilakshmi Medarametla, Carlos Levya Capote, Seth Aycock, Charlie Dagli
+
+
++ [MIRAGE: Multimodal Immersive Reasoning and Guided Exploration for Red-Team Jailbreak Attacks](https://arxiv.org//abs/2503.19134)
+
+	Wenhao You, Bryan Hooi, Yiwei Wang, Youke Wang, Zong Ke, Ming-Hsuan Yang, Zi Huang, Yujun Cai
+
+
++ [Activation Functions Considered Harmful: Recovering Neural Network Weights through Controlled Channels](https://arxiv.org//abs/2503.19142)
+
+	Jesse Spielman, David Oswald, Mark Ryan, Jo Van Bulck
+
+
+# 2025-03-23
++ [STShield: Single-Token Sentinel for Real-Time Jailbreak Detection in Large Language Models](https://arxiv.org//abs/2503.17932)
+
+	Xunguang Wang, Wenxuan Wang, Zhenlan Ji, Zongjie Li, Pingchuan Ma, Daoyuan Wu, Shuai Wang
+
+
++ [Metaphor-based Jailbreaking Attacks on Text-to-Image Models](https://arxiv.org//abs/2503.17987)
+
+	Chenyu Zhang, Yiwen Ma, Lanjun Wang, Wenhui Li, Yi Tu, An-An Liu
+
+
++ [Enhance GNNs with Reliable Confidence Estimation via Adversarial Calibration Learning](https://arxiv.org//abs/2503.18235)
+
+	Yilong Wang, Jiahao Zhang, Tianxiang Zhao, Suhang Wang
+
+
++ [Model-Guardian: Protecting against Data-Free Model Stealing Using Gradient Representations and Deceptive Predictions](https://arxiv.org//abs/2503.18081)
+
+	Yunfei Yang, Xiaojun Chen, Yuexin Xuan, Zhendong Zhao
+
+
+# 2025-03-22
++ [Towards Invisible Backdoor Attack on Text-to-Image Diffusion Model](https://arxiv.org//abs/2503.17724)
+
+	Jie Zhang, Zhongqi Wang, Shiguang Shan, Xilin Chen
+
+
+
 # 2025-03-21
 + [Rethinking the Role of Spatial Mixing](https://arxiv.org//abs/2503.16760)
 
@@ -36,6 +161,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Robustness of deep learning classification to adversarial input on GPUs: asynchronous parallel accumulation is a source of vulnerability](https://arxiv.org//abs/2503.17173)
 
 	Sanjif Shanmugavelu, Mathieu Taillefumier, Christopher Culver, Vijay Ganesh, Oscar Hernandez, Ada Sedova
+
+
++ [Measuring the Robustness of Audio Deepfake Detectors](https://arxiv.org//abs/2503.17577)
+
+	Xiang Li, Pin-Yu Chen, Wenqi Wei
 
 
 
