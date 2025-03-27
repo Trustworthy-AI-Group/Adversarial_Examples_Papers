@@ -2,6 +2,62 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-03-26
++ [sudo rm -rf agentic_security](https://arxiv.org//abs/2503.20279)
+
+	Sejin Lee, Jian Kim, Haon Park, Ashkan Yousefpour, Sangyoon Yu, Min Song
+
+
++ [Are We There Yet? Unraveling the State-of-the-Art Graph Network Intrusion Detection Systems](https://arxiv.org//abs/2503.20281)
+
+	Chenglong Wang, Pujia Zheng, Jiaping Gui, Cunqing Hua, Wajih Ul Hassan
+
+
++ [Model-Based Offline Reinforcement Learning with Adversarial Data Augmentation](https://arxiv.org//abs/2503.20285)
+
+	Hongye Cao, Fan Feng, Jing Huo, Shangdong Yang, Meng Fang, Tianpei Yang, Yang Gao
+
+
++ [Iterative Prompting with Persuasion Skills in Jailbreaking Large Language Models](https://arxiv.org//abs/2503.20320)
+
+	Shih-Wen Ke, Guan-Yu Lai, Guo-Lin Fang, Hsi-Yuan Kao
+
+
++ [State-Aware Perturbation Optimization for Robust Deep Reinforcement Learning](https://arxiv.org//abs/2503.20613)
+
+	Zongyuan Zhang, Tianyang Duan, Zheng Lin, Dong Huang, Zihan Fang, Zekai Sun, Ling Xiong, Hongbin Liang, Heming Cui, Yong Cui
+
+
++ [$β$-GNN: A Robust Ensemble Approach Against Graph Structure Perturbation](https://arxiv.org//abs/2503.20630)
+
+	Haci Ismail Aslan, Philipp Wiesner, Ping Xiong, Odej Kao
+
+
++ [Enabling Heterogeneous Adversarial Transferability via Feature Permutation Attacks](https://arxiv.org//abs/2503.20310)
+
+	Tao Wu, Tie Luo
+
+
++ [Lipschitz Constant Meets Condition Number: Learning Robust and Compact Deep Neural Networks](https://arxiv.org//abs/2503.20454)
+
+	Yangqi Feng, Shing-Ho J. Lin, Baoyuan Gao, Xian Wei
+
+
++ [Feature Statistics with Uncertainty Help Adversarial Robustness](https://arxiv.org//abs/2503.20583)
+
+	Ran Wang, Xinlei Zhou, Rihao Li, Meng Hu, Wenhui Wu, Yuheng Jia
+
+
++ [DR-PETS: Learning-Based Control With Planning in Adversarial Environments](https://arxiv.org//abs/2503.20660)
+
+	Hozefa Jesawada, Antonio Acernese, Giovanni Russo, Carmen Del Vecchiob
+
+
++ [How Secure is Forgetting? Linking Machine Unlearning to Machine Learning Attacks](https://arxiv.org//abs/2503.20257)
+
+	Muhammed Shafi K. P., Serena Nicolazzo, Antonino Nocera, Vinod P
+
+
 # 2025-03-25
 + [Process or Result? Manipulated Ending Tokens Can Mislead Reasoning LLMs to Ignore the Correct Reasoning Steps](https://arxiv.org//abs/2503.19326)
 
