@@ -2,6 +2,47 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-03-27
++ [Adversarial Wear and Tear: Exploiting Natural Damage for Generating Physical-World Adversarial Examples](https://arxiv.org//abs/2503.21164)
+
+	Samra Irshad, Seungkyu Lee, Nassir Navab, Hong Joo Lee, Seong Tae Kim
+
+
++ [DeBackdoor: A Deductive Framework for Detecting Backdoor Attacks on Deep Models with Limited Data](https://arxiv.org//abs/2503.21305)
+
+	Dorde Popovic, Amin Sadeghi, Ting Yu, Sanjay Chawla, Issa Khalil
+
+
++ [Harnessing Chain-of-Thought Metadata for Task Routing and Adversarial Prompt Detection](https://arxiv.org//abs/2503.21464)
+
+	Ryan Marinelli, Josef Pichlmeier, Tamas Bisztray
+
+
++ [Prompt, Divide, and Conquer: Bypassing Large Language Model Safety Filters via Segmented and Distributed Prompt Processing](https://arxiv.org//abs/2503.21598)
+
+	Johan Wahréus, Ahmed Hussain, Panos Papadimitratos
+
+
++ [AMA-SAM: Adversarial Multi-Domain Alignment of Segment Anything Model for High-Fidelity Histology Nuclei Segmentation](https://arxiv.org//abs/2503.21695)
+
+	Jiahe Qian, Yaoyu Fang, Jinkui Hao, Bo Zhou
+
+
++ [Clean Image May be Dangerous: Data Poisoning Attacks Against Deep Hashing](https://arxiv.org//abs/2503.21236)
+
+	Shuai Li, Jie Zhang, Yuang Qi, Kejiang Chen, Tianwei Zhang, Weiming Zhang, Nenghai Yu
+
+
++ [Tricking Retrievers with Influential Tokens: An Efficient Black-Box Corpus Poisoning Attack](https://arxiv.org//abs/2503.21315)
+
+	Cheng Wang, Yiwei Wang, Yujun Cai, Bryan Hooi
+
+
++ [AdvSGM: Differentially Private Graph Learning via Adversarial Skip-gram Model](https://arxiv.org//abs/2503.21426)
+
+	Sen Zhang, Qingqing Ye, Haibo Hu, Jianliang Xu
+
+
 # 2025-03-26
 + [sudo rm -rf agentic_security](https://arxiv.org//abs/2503.20279)
 
@@ -97,6 +138,31 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Towards Imperceptible Adversarial Attacks for Time Series Classification with Local Perturbations and Frequency Analysis](https://arxiv.org//abs/2503.19519)
 
 	Wenwei Gu, Renyi Zhong, Jianping Zhang, Michael R. Lyu
+
+
++ [Robust Deep Reinforcement Learning in Robotics via Adaptive Gradient-Masked Adversarial Attacks](https://arxiv.org//abs/2503.20844)
+
+	Zongyuan Zhang, Tianyang Duan, Zheng Lin, Dong Huang, Zihan Fang, Zekai Sun, Ling Xiong, Hongbin Liang, Heming Cui, Yong Cui, Yue Gao
+
+
++ [Robust Federated Learning Against Poisoning Attacks: A GAN-Based Defense Framework](https://arxiv.org//abs/2503.20884)
+
+	Usama Zafar, André Teixeira, Salman Toor
+
+
++ [Prototype Guided Backdoor Defense](https://arxiv.org//abs/2503.20925)
+
+	Venkat Adithya Amula, Sunayana Samavedam, Saurabh Saini, Avani Gupta, Narayanan P J
+
+
++ [TS-Inverse: A Gradient Inversion Attack Tailored for Federated Time Series Forecasting Models](https://arxiv.org//abs/2503.20952)
+
+	Caspar Meijer, Jiyue Huang, Shreshtha Sharma, Elena Lazovik, Lydia Y. Chen
+
+
++ [Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy](https://arxiv.org//abs/2503.20823)
+
+	Joonhyun Jeong, Seyun Bae, Yeonsung Jung, Jaeryong Hwang, Eunho Yang
 
 
 # 2025-03-24
