@@ -2,6 +2,38 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-03-28
++ [Beyond Single-Sentence Prompts: Upgrading Value Alignment Benchmarks with Dialogues and Stories](https://arxiv.org//abs/2503.22115)
+
+	Yazhou Zhang, Qimeng Liu, Qiuchi Li, Peng Zhang, Jing Qin
+
+
++ [Data-Free Universal Attack by Exploiting the Intrinsic Vulnerability of Deep Models](https://arxiv.org//abs/2503.22205)
+
+	YangTian Yan, Jinyu Tian
+
+
++ [Imperceptible but Forgeable: Practical Invisible Watermark Forgery via Diffusion Models](https://arxiv.org//abs/2503.22330)
+
+	Ziping Dong, Chao Shuai, Zhongjie Ba, Peng Cheng, Zhan Qin, Qinglong Wang, Kui Ren
+
+
++ [T-CIL: Temperature Scaling using Adversarial Perturbation for Calibration in Class-Incremental Learning](https://arxiv.org//abs/2503.22163)
+
+	Seong-Hyeon Hwang, Minsu Kim, Steven Euijong Whang
+
+
++ [Tropical Bisectors and Carlini-Wagner Attacks](https://arxiv.org//abs/2503.22653)
+
+	Gillian Grindstaff, Julia Lindberg, Daniela Schkoda, Miruna-Stefana Sorea, Ruriko Yoshida
+
+
++ [Instance-Level Data-Use Auditing of Visual ML Models](https://arxiv.org//abs/2503.22413)
+
+	Zonghao Huang, Neil Zhenqiang Gong, Michael K. Reiter
+
+
+
 # 2025-03-27
 + [Adversarial Wear and Tear: Exploiting Natural Damage for Generating Physical-World Adversarial Examples](https://arxiv.org//abs/2503.21164)
 
