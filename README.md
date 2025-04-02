@@ -2,6 +2,48 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-04-01
++ [Unleashing the Power of Pre-trained Encoders for Universal Adversarial Attack Detection](https://arxiv.org//abs/2504.00429)
+
+	Yinghe Zhang, Chi Liu, Shuai Zhou, Sheng Shen, Peng Gui
+
+
++ [FA^{3}-CLIP: Frequency-Aware Cues Fusion and Attack-Agnostic Prompt Learning for Unified Face Attack Detection](https://arxiv.org//abs/2504.00454)
+
+	Yongze Li, Ning Li, Ajian Liu, Hui Ma, Liying Yang, Xihong Chen, Zhiyao Liang, Yanyan Liang, Jun Wan, Zhen Lei
+
+
++ [Mixture-of-Attack-Experts with Class Regularization for Unified Physical-Digital Face Attack Detection](https://arxiv.org//abs/2504.00458)
+
+	Shunxin Chen, Ajian Liu, Junze Zheng, Jun Wan, Kailai Peng, Sergio Escalera, Zhen Lei
+
+
++ [Alleviating Performance Disparity in Adversarial Spatiotemporal Graph Learning Under Zero-Inflated Distribution](https://arxiv.org//abs/2504.00721)
+
+	Songran Bai, Yuheng Ji, Yue Liu, Xingwei Zhang, Xiaolong Zheng, Daniel Dajun Zeng
+
+
++ [TAMIS: Tailored Membership Inference Attacks on Synthetic Data](https://arxiv.org//abs/2504.00758)
+
+	Paul Andrey, Batiste Le Bars, Marc Tommasi
+
+
++ [CopyQNN: Quantum Neural Network Extraction Attack under Varying Quantum Noise](https://arxiv.org//abs/2504.00366)
+
+	Zhenxiao Fu, Leyi Zhao, Xuhong Zhang, Yilun Xu, Gang Huang, Fan Chen
+
+
++ [Whispering Under the Eaves: Protecting User Privacy Against Commercial and LLM-powered Automatic Speech Recognition Systems](https://arxiv.org//abs/2504.00858)
+
+	Weifei Jin, Yuxin Cao, Junjie Su, Derui Wang, Yedi Zhang, Minhui Xue, Jie Hao, Jin Song Dong, Yixian Yang
+
+
++ [Exposing the Ghost in the Transformer: Abnormal Detection for Large Language Models via Hidden State Forensics](https://arxiv.org//abs/2504.00446)
+
+	Shide Zhou, Kailong Wang, Ling Shi, Haoyu Wang
+
+
+
 # 2025-03-31
 + [Pay More Attention to the Robustness of Prompt for Instruction Data Mining](https://arxiv.org//abs/2503.24028)
 
@@ -52,6 +94,23 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [A Survey on Unlearnable Data](https://arxiv.org//abs/2503.23536)
 
 	Jiahao Li, Yiqiang Chen, Yunbing Xing, Yang Gu, Xiangyuan Lan
+
+
++ [Backdoor Detection through Replicated Execution of Outsourced Training](https://arxiv.org//abs/2504.00170)
+
+	Hengrui Jia, Sierra Wyllie, Akram Bin Sediq, Ahmed Ibrahim, Nicolas Papernot
+
+
++ [$\textit{Agents Under Siege}$: Breaking Pragmatic Multi-Agent LLM Systems with Optimized Prompt Attacks](https://arxiv.org//abs/2504.00218)
+
+	Rana Muhammad Shahroz Khan, Zhen Tan, Sukwon Yun, Charles Flemming, Tianlong Chen
+
+
+# 2025-03-30
++ [Revisiting the Relationship between Adversarial and Clean Training: Why Clean Training Can Make Adversarial Training Better](https://arxiv.org//abs/2504.00038)
+
+	MingWei Zhou, Xiaobing Pei
+
 
 
 # 2025-03-29
