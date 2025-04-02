@@ -2,6 +2,69 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-03-31
++ [Pay More Attention to the Robustness of Prompt for Instruction Data Mining](https://arxiv.org//abs/2503.24028)
+
+	Qiang Wang, Dawei Feng, Xu Zhang, Ao Shen, Yang Xu, Bo Ding, Huaimin Wang
+
+
++ [Towards Benchmarking and Assessing the Safety and Robustness of Autonomous Driving on Safety-critical Scenarios](https://arxiv.org//abs/2503.23708)
+
+	Jingzheng Li, Xianglong Liu, Shikui Wei, Zhijun Chen, Bing Li, Qing Guo, Xianqi Yang, Yanjun Pu, Jiakai Wang
+
+
++ [Output Constraints as Attack Surface: Exploiting Structured Generation to Bypass LLM Safety Mechanisms](https://arxiv.org//abs/2503.24191)
+
+	Shuoming Zhang, Jiacheng Zhao, Ruiyuan Xu, Xiaobing Feng, Huimin Cui
+
+
++ [Value of Information-based Deceptive Path Planning Under Adversarial Interventions](https://arxiv.org//abs/2503.24284)
+
+	Wesley A. Suttle, Jesse Milzman, Mustafa O. Karabag, Brian M. Sadler, Ufuk Topcu
+
+
++ [Get the Agents Drunk: Memory Perturbations in Autonomous Agent-based Recommender Systems](https://arxiv.org//abs/2503.23804)
+
+	Shiyi Yang, Zhibo Hu, Chen Wang, Tong Yu, Xiwei Xu, Liming Zhu, Lina Yao
+
+
++ [Communication-Efficient and Personalized Federated Foundation Model Fine-Tuning via Tri-Matrix Adaptation](https://arxiv.org//abs/2503.23869)
+
+	Yongle Li, Bo Liu, Sheng Huang, ZHeng ZHang, Xiaotong Yuan, Richang Hong
+
+
++ [A Channel-Triggered Backdoor Attack on Wireless Semantic Image Reconstruction](https://arxiv.org//abs/2503.23866)
+
+	Jialin Wan, Nan Cheng, Jinglong Shen
+
+
+# 2025-03-30
++ [Two Heads Are Better than One: Model-Weight and Latent-Space Analysis for Federated Learning on Non-iid Data against Poisoning Attacks](https://arxiv.org//abs/2503.23288)
+
+	Xingyu Lyu, Ning Wang, Yang Xiao, Shixiong Li, Tao Li, Danjue Chen, Yimin Chen
+
+
++ [Buffer is All You Need: Defending Federated Learning against Backdoor Attacks under Non-iids via Buffering](https://arxiv.org//abs/2503.23511)
+
+	Xingyu Lyu, Ning Wang, Yang Xiao, Shixiong Li, Tao Li, Danjue Chen, Yimin Chen
+
+
++ [A Survey on Unlearnable Data](https://arxiv.org//abs/2503.23536)
+
+	Jiahao Li, Yiqiang Chen, Yunbing Xing, Yang Gu, Xiangyuan Lan
+
+
+# 2025-03-29
++ [AuditVotes: A Framework Towards More Deployable Certified Robustness for Graph Neural Networks](https://arxiv.org//abs/2503.22998)
+
+	Yuni Lai, Yulin Zhu, Yixuan Sun, Yulun Wu, Bin Xiao, Gaolei Li, Jianhua Li, Kai Zhou
+
+
++ [Encrypted Prompt: Securing LLM Applications Against Unauthorized Actions](https://arxiv.org//abs/2503.23250)
+
+	Shih-Han Chan
+
+
 # 2025-03-28
 + [Beyond Single-Sentence Prompts: Upgrading Value Alignment Benchmarks with Dialogues and Stories](https://arxiv.org//abs/2503.22115)
 
