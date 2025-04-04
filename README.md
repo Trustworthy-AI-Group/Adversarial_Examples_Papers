@@ -2,6 +2,68 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-04-03
++ [ESC: Erasing Space Concept for Knowledge Deletion](https://arxiv.org//abs/2504.02199)
+
+	Tae-Young Lee, Sundong Park, Minwoo Jeon, Hyoseok Hwang, Gyeong-Moon Park
+
+
++ [Retrieval-Augmented Purifier for Robust LLM-Empowered Recommendation](https://arxiv.org//abs/2504.02458)
+
+	Liangbo Ning, Wenqi Fan, Qing Li
+
+
++ [Enhancing LLM Robustness to Perturbed Instructions: An Empirical Study](https://arxiv.org//abs/2504.02733)
+
+	Aryan Agrawal, Lisa Alazraki, Shahin Honarvar, Marek Rei
+
+
++ [Evaluating and Enhancing Segmentation Model Robustness with Metamorphic Testing](https://arxiv.org//abs/2504.02335)
+
+	Seif Mzoughi, Mohamed Elshafeia, Foutse Khomh
+
+
++ [Secure Generalization through Stochastic Bidirectional Parameter Updates Using Dual-Gradient Mechanism](https://arxiv.org//abs/2504.02213)
+
+	Shourya Goel, Himanshi Tibrewal, Anant Jain, Anshul Pundhir, Pravendra Singh
+
+
++ [CRC-SGAD: Conformal Risk Control for Supervised Graph Anomaly Detection](https://arxiv.org//abs/2504.02248)
+
+	Songran Bai, Xiaolong Zheng, Daniel Dajun Zeng
+
+
++ [Bridging the Theoretical Gap in Randomized Smoothing](https://arxiv.org//abs/2504.02412)
+
+	Blaise Delattre, Paul Caillon, Quentin Barthélemy, Erwan Fagnou, Alexandre Allauzen
+
+
+# 2025-04-02
++ [Evolving Security in LLMs: A Study of Jailbreak Attacks and Defenses](https://arxiv.org//abs/2504.02080)
+
+	Zhengchun Shang, Wenlan Wei
+
+
++ [On Model Protection in Federated Learning against Eavesdropping Attacks](https://arxiv.org//abs/2504.02114)
+
+	Dipankar Maity, Kushal Chakrabarti
+
+
++ [One Pic is All it Takes: Poisoning Visual Document Retrieval Augmented Generation with a Single Image](https://arxiv.org//abs/2504.02132)
+
+	Ezzeldin Shereen, Dan Ristea, Burak Hasircioglu, Shae McFadden, Vasilios Mavroudis, Chris Hicks
+
+
++ [Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks](https://arxiv.org//abs/2504.01659)
+
+	Haosheng Li, Junjie Chen, Yuecong Xu, Kemi Ding
+
+
++ [Like Oil and Water: Group Robustness Methods and Poisoning Defenses May Be at Odds](https://arxiv.org//abs/2504.02142)
+
+	Michael-Andrei Panaitescu-Liess, Yigitcan Kaya, Sicheng Zhu, Furong Huang, Tudor Dumitras
+
+
 # 2025-04-01
 + [Unleashing the Power of Pre-trained Encoders for Universal Adversarial Attack Detection](https://arxiv.org//abs/2504.00429)
 
