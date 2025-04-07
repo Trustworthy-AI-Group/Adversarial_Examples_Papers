@@ -2,6 +2,22 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-04-04
++ [Multi-lingual Multi-turn Automated Red Teaming for LLMs](https://arxiv.org//abs/2504.03174)
+
+	Abhishek Singhania, Christophe Dupuy, Shivam Mangale, Amani Namboori
+
+
++ [AutoSSVH: Exploring Automated Frame Sampling for Efficient Self-Supervised Video Hashing](https://arxiv.org//abs/2504.03587)
+
+	Niu Lian, Jun Li, Jinpeng Wang, Ruisheng Luo, Yaowei Wang, Shu-Tao Xia, Bin Chen
+
+
++ [PPFPL: Cross-silo Privacy-preserving Federated Prototype Learning Against Data Poisoning Attacks on Non-IID Data](https://arxiv.org//abs/2504.03173)
+
+	Hongliang Zhang, Jiguo Yu, Fenghua Xu, Chunqiang Hu, Yongzhao Zhang, Xiaofen Wang, Zhongyuan Yu, Xiaosong Zhang
+
+
 # 2025-04-03
 + [ESC: Erasing Space Concept for Knowledge Deletion](https://arxiv.org//abs/2504.02199)
 
@@ -36,6 +52,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Bridging the Theoretical Gap in Randomized Smoothing](https://arxiv.org//abs/2504.02412)
 
 	Blaise Delattre, Paul Caillon, Quentin Barthélemy, Erwan Fagnou, Alexandre Allauzen
+
+
++ [Integrating Identity-Based Identification against Adaptive Adversaries in Federated Learning](https://arxiv.org//abs/2504.03077)
+
+	Jakub Kacper Szelag, Ji-Jian Chin, Lauren Ansell, Sook-Chin Yip
+
+
++ [SLACK: Attacking LiDAR-based SLAM with Adversarial Point Injections](https://arxiv.org//abs/2504.03089)
+
+	Prashant Kumar, Dheeraj Vattikonda, Kshitij Madhav Bhat, Kunal Dargan, Prem Kalra
 
 
 # 2025-04-02
@@ -103,6 +129,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Exposing the Ghost in the Transformer: Abnormal Detection for Large Language Models via Hidden State Forensics](https://arxiv.org//abs/2504.00446)
 
 	Shide Zhou, Kailong Wang, Ling Shi, Haoyu Wang
+
+
++ [The Illusionist's Prompt: Exposing the Factual Vulnerabilities of Large Language Models with Linguistic Nuances](https://arxiv.org//abs/2504.02865)
+
+	Yining Wang, Yuquan Wang, Xi Li, Mi Zhang, Geng Hong, Min Yang
 
 
 
