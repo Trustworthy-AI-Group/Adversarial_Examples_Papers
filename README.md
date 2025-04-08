@@ -18,6 +18,21 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Hongliang Zhang, Jiguo Yu, Fenghua Xu, Chunqiang Hu, Yongzhao Zhang, Xiaofen Wang, Zhongyuan Yu, Xiaosong Zhang
 
 
++ [Multi-lingual Multi-turn Automated Red Teaming for LLMs](https://arxiv.org//abs/2504.03174)
+
+	Abhishek Singhania, Christophe Dupuy, Shivam Mangale, Amani Namboori
+
+
++ [AutoSSVH: Exploring Automated Frame Sampling for Efficient Self-Supervised Video Hashing](https://arxiv.org//abs/2504.03587)
+
+	Niu Lian, Jun Li, Jinpeng Wang, Ruisheng Luo, Yaowei Wang, Shu-Tao Xia, Bin Chen
+
+
++ [PPFPL: Cross-silo Privacy-preserving Federated Prototype Learning Against Data Poisoning Attacks on Non-IID Data](https://arxiv.org//abs/2504.03173)
+
+	Hongliang Zhang, Jiguo Yu, Fenghua Xu, Chunqiang Hu, Yongzhao Zhang, Xiaofen Wang, Zhongyuan Yu, Xiaosong Zhang
+
+
 # 2025-04-03
 + [ESC: Erasing Space Concept for Knowledge Deletion](https://arxiv.org//abs/2504.02199)
 
@@ -52,6 +67,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Bridging the Theoretical Gap in Randomized Smoothing](https://arxiv.org//abs/2504.02412)
 
 	Blaise Delattre, Paul Caillon, Quentin Barthélemy, Erwan Fagnou, Alexandre Allauzen
+
+
++ [Integrating Identity-Based Identification against Adaptive Adversaries in Federated Learning](https://arxiv.org//abs/2504.03077)
+
+	Jakub Kacper Szelag, Ji-Jian Chin, Lauren Ansell, Sook-Chin Yip
+
+
++ [SLACK: Attacking LiDAR-based SLAM with Adversarial Point Injections](https://arxiv.org//abs/2504.03089)
+
+	Prashant Kumar, Dheeraj Vattikonda, Kshitij Madhav Bhat, Kunal Dargan, Prem Kalra
 
 
 + [Integrating Identity-Based Identification against Adaptive Adversaries in Federated Learning](https://arxiv.org//abs/2504.03077)
