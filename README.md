@@ -2,6 +2,60 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-04-11
++ [A Knowledge-guided Adversarial Defense for Resisting Malicious Visual Manipulation](https://arxiv.org//abs/2504.08411)
+
+	Dawei Zhou, Suzhi Gang, Decheng Liu, Tongliang Liu, Nannan Wang, Xinbo Gao
+
+
++ [EO-VLM: VLM-Guided Energy Overload Attacks on Vision Models](https://arxiv.org//abs/2504.08205)
+
+	Minjae Seo, Myoungsung You, Junhee Lee, Jaehan Kim, Hwanjo Heo, Jintae Oh, Jinwoo Kim
+
+
++ [Adversarial Examples in Environment Perception for Automated Driving (Review)](https://arxiv.org//abs/2504.08414)
+
+	Jun Yan, Huilin Yin
+
+
++ [Preserving Privacy Without Compromising Accuracy: Machine Unlearning for Handwritten Text Recognition](https://arxiv.org//abs/2504.08616)
+
+	Lei Kang, Xuanshuo Fu, Lluis Gomez, Alicia Fornés, Ernest Valveny, Dimosthenis Karatzas
+
+
++ [Understanding the Impact of Data Domain Extraction on Synthetic Data Privacy](https://arxiv.org//abs/2504.08254)
+
+	Georgi Ganev, Meenatchi Sundaram Muthu Selva Annamalai, Sofiane Mahiou, Emiliano De Cristofaro
+
+
++ [To See or Not to See -- Fingerprinting Devices in Adversarial Environments Amid Advanced Machine Learning](https://arxiv.org//abs/2504.08264)
+
+	Justin Feng, Nader Sehatbakhsh
+
+
++ [Toward Realistic Adversarial Attacks in IDS: A Novel Feasibility Metric for Transferability](https://arxiv.org//abs/2504.08480)
+
+	Sabrine Ennaji, Elhadj Benkhelifa, Luigi Vincenzo Mancini
+
+
++ [An Early Experience with Confidential Computing Architecture for On-Device Model Protection](https://arxiv.org//abs/2504.08508)
+
+	Sina Abdollahi, Mohammad Maheri, Sandra Siby, Marios Kogias, Hamed Haddadi
+
+
+# 2025-04-10
++ [Geneshift: Impact of different scenario shift on Jailbreaking LLM](https://arxiv.org//abs/2504.08104)
+
+	Tianyi Wu, Zhiwei Xue, Yue Liu, Jiaheng Zhang, Bryan Hooi, See-Kiong Ng
+
+
+# 2025-04-07
++ [SCAM: A Real-World Typographic Robustness Evaluation for Multimodal Foundation Models](https://arxiv.org//abs/2504.04893)
+
+	Justus Westerhoff, Erblina Purelku, Jakob Hackstein, Leo Pinetzki, Lorenz Hufe
+
+
+
 # 2025-04-04
 + [Multi-lingual Multi-turn Automated Red Teaming for LLMs](https://arxiv.org//abs/2504.03174)
 
