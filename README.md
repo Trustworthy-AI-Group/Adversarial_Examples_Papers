@@ -2,10 +2,45 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-04-17
++ [Antidistillation Sampling](https://arxiv.org//abs/2504.13146)
+
+	Yash Savani, Asher Trockman, Zhili Feng, Avi Schwarzschild, Alexander Robey, Marc Finzi, J. Zico Kolter
+
+
+
+# 2025-04-16
++ [Towards Safe Synthetic Image Generation On the Web: A Multimodal Robust NSFW Defense and Million Scale Dataset](https://arxiv.org//abs/2504.11707)
+
+	Muhammad Shahid Muneer, Simon S. Woo
+
+
++ [Robust and Fine-Grained Detection of AI Generated Texts](https://arxiv.org//abs/2504.11952)
+
+	Ram Mohan Rao Kadiyala, Siddartha Pullakhandam, Kanwal Mehreen, Drishti Sharma, Siddhant Gupta, Jebish Purbey, Ashay Srivastava, Subhasya TippaReddy, Arvind Reddy Bobbili, Suraj Telugara Chandrashekhar, Modabbir Adeeb, Srinadh Vura, Hamza Farooq
+
+
++ [ACE: Attentional Concept Erasure in Diffusion Models](https://arxiv.org//abs/2504.11850)
+
+	Finn Carter
+
+
+# 2025-04-15
++ [RAID: An In-Training Defense against Attribute Inference Attacks in Recommender Systems](https://arxiv.org//abs/2504.11510)
+
+	Xiaohua Feng, Yuyuan Li, Fengyuan Yu, Ke Xiong, Junjie Fang, Li Zhang, Tianyu Du, Chaochao Chen
+
+
+
 # 2025-04-14
 + [Beyond Worst-Case Online Classification: VC-Based Regret Bounds for Relaxed Benchmarks](https://arxiv.org//abs/2504.10598)
 
 	Omar Montasser, Abhishek Shetty, Nikita Zhivotovskiy
+
+
++ [You've Changed: Detecting Modification of Black-Box Large Language Models](https://arxiv.org//abs/2504.12335)
+
+	Alden Dima, James Foulds, Shimei Pan, Philip Feldman
 
 
 
