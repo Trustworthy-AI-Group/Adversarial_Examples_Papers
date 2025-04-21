@@ -8,6 +8,31 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Yash Savani, Asher Trockman, Zhili Feng, Avi Schwarzschild, Alexander Robey, Marc Finzi, J. Zico Kolter
 
 
++ [Quantum Computing Supported Adversarial Attack-Resilient Autonomous Vehicle Perception Module for Traffic Sign Classification](https://arxiv.org//abs/2504.12644)
+
+	Reek Majumder, Mashrur Chowdhury, Sakib Mahmud Khan, Zadid Khan, Fahim Ahmad, Frank Ngeni, Gurcan Comert, Judith Mwakalonge, Dimitra Michalaka
+
+
++ [A Numerical Gradient Inversion Attack in Variational Quantum Neural-Networks](https://arxiv.org//abs/2504.12806)
+
+	Georgios Papadopoulos, Shaltiel Eloul, Yash Satsangi, Jamie Heredge, Niraj Kumar, Chun-Fu Chen, Marco Pistoia
+
+
++ [Privacy Protection Against Personalized Text-to-Image Synthesis via Cross-image Consistency Constraints](https://arxiv.org//abs/2504.12747)
+
+	Guanyu Wang, Kailong Wang, Yihao Huang, Mingyi Zhou, Zhang Qing cnwatcher, Geguang Pu, Li Li
+
+
++ [A Client-level Assessment of Collaborative Backdoor Poisoning in Non-IID Federated Learning](https://arxiv.org//abs/2504.12875)
+
+	Phung Lai, Guanxiong Liu, Hai Phan, Issa Khalil, Abdallah Khreishah, Xintao Wu
+
+
++ [GraphAttack: Exploiting Representational Blindspots in LLM Safety Mechanisms](https://arxiv.org//abs/2504.13052)
+
+	Sinan He, An Wang
+
+
 
 # 2025-04-16
 + [Towards Safe Synthetic Image Generation On the Web: A Multimodal Robust NSFW Defense and Million Scale Dataset](https://arxiv.org//abs/2504.11707)
@@ -31,6 +56,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Xiaohua Feng, Yuyuan Li, Fengyuan Yu, Ke Xiong, Junjie Fang, Li Zhang, Tianyu Du, Chaochao Chen
 
 
++ [Propaganda via AI? A Study on Semantic Backdoors in Large Language Models](https://arxiv.org//abs/2504.12344)
+
+	Nay Myat Min, Long H. Pham, Yige Li, Jun Sun
+
+
++ [PATFinger: Prompt-Adapted Transferable Fingerprinting against Unauthorized Multimodal Dataset Usage](https://arxiv.org//abs/2504.11509)
+
+	Wenyi Zhang, Ju Jia, Xiaojun Jia, Yihao Huang, Xinfeng Li, Cong Wu, Lina Wang
+
+
 
 # 2025-04-14
 + [Beyond Worst-Case Online Classification: VC-Based Regret Bounds for Relaxed Benchmarks](https://arxiv.org//abs/2504.10598)
@@ -41,6 +76,12 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [You've Changed: Detecting Modification of Black-Box Large Language Models](https://arxiv.org//abs/2504.12335)
 
 	Alden Dima, James Foulds, Shimei Pan, Philip Feldman
+
+
+# 2025-04-13
++ [ControlNET: A Firewall for RAG-based LLM System](https://arxiv.org//abs/2504.09593)
+
+	Hongwei Yao, Haoran Shi, Yidou Chen, Yixin Jiang, Cong Wang, Zhan Qin
 
 
 
@@ -89,6 +130,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Geneshift: Impact of different scenario shift on Jailbreaking LLM](https://arxiv.org//abs/2504.08104)
 
 	Tianyi Wu, Zhiwei Xue, Yue Liu, Jiaheng Zhang, Bryan Hooi, See-Kiong Ng
+
+
++ [PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented Generation in Large Language Models via Bilevel Optimization](https://arxiv.org//abs/2504.07717)
+
+	Yang Jiao, Xiaodong Wang, Kai Yang
 
 
 # 2025-04-07
