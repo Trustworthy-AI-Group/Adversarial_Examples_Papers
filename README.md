@@ -2,6 +2,38 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-04-18
++ [Q-FAKER: Query-free Hard Black-box Attack via Controlled Generation](https://arxiv.org//abs/2504.13551)
+
+	CheolWon Na, YunSeok Choi, Jee-Hyong Lee
+
+
++ [DETAM: Defending LLMs Against Jailbreak Attacks via Targeted Attention Modification](https://arxiv.org//abs/2504.13562)
+
+	Yu Li, Han Jiang, Zhihua Wei
+
+
++ [BadApex: Backdoor Attack Based on Adaptive Optimization Mechanism of Black-box Large Language Models](https://arxiv.org//abs/2504.13775)
+
+	Zhengxian Wu, Juan Wen, Wanli Peng, Ziwei Zhang, Yinghan Zhou, Yiming Xue
+
+
++ [STAMP Your Content: Proving Dataset Membership via Watermarked Rephrasings](https://arxiv.org//abs/2504.13416)
+
+	Saksham Rastogi, Pratyush Maini, Danish Pruthi
+
+
++ [Fairness and Robustness in Machine Unlearning](https://arxiv.org//abs/2504.13610)
+
+	Khoa Tran, Simon S. Woo
+
+
++ [On the Relationship Between Robustness and Expressivity of Graph Neural Networks](https://arxiv.org//abs/2504.13786)
+
+	Lorenz Kummer, Wilfried N. Gansterer, Nils M. Kriege
+
+
+
 # 2025-04-17
 + [Antidistillation Sampling](https://arxiv.org//abs/2504.13146)
 
@@ -31,6 +63,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [GraphAttack: Exploiting Representational Blindspots in LLM Safety Mechanisms](https://arxiv.org//abs/2504.13052)
 
 	Sinan He, An Wang
+
+
++ [On the Definition of Robustness and Resilience of AI Agents for Real-time Congestion Management](https://arxiv.org//abs/2504.13314)
+
+	Timothy Tjhay, Ricardo J. Bessa, Jose Paulos
+
+
++ [DYNAMITE: Dynamic Defense Selection for Enhancing Machine Learning-based Intrusion Detection Against Adversarial Attacks](https://arxiv.org//abs/2504.13301)
+
+	Jing Chen, Onat Gungor, Zhengli Shang, Elvin Li, Tajana Rosing
 
 
 
@@ -66,6 +108,16 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Wenyi Zhang, Ju Jia, Xiaojun Jia, Yihao Huang, Xinfeng Li, Cong Wu, Lina Wang
 
 
++ [X-Teaming: Multi-Turn Jailbreaks and Defenses with Adaptive Multi-Agents](https://arxiv.org//abs/2504.13203)
+
+	Salman Rahman, Liwei Jiang, James Shiffer, Genglin Liu, Sheriff Issaka, Md Rizwan Parvez, Hamid Palangi, Kai-Wei Chang, Yejin Choi, Saadia Gabriel
+
+
++ [Concept Enhancement Engineering: A Lightweight and Efficient Robust Defense Against Jailbreak Attacks in Embodied AI](https://arxiv.org//abs/2504.13201)
+
+	Jirui Yang, Zheyu Lin, Shuhan Yang, Zhihui Lu, Xin Du
+
+
 
 # 2025-04-14
 + [Beyond Worst-Case Online Classification: VC-Based Regret Bounds for Relaxed Benchmarks](https://arxiv.org//abs/2504.10598)
@@ -78,10 +130,20 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Alden Dima, James Foulds, Shimei Pan, Philip Feldman
 
 
++ [Investigating cybersecurity incidents using large language models in latest-generation wireless networks](https://arxiv.org//abs/2504.13196)
+
+	Leonid Legashev, Arthur Zhigalov
+
+
 # 2025-04-13
 + [ControlNET: A Firewall for RAG-based LLM System](https://arxiv.org//abs/2504.09593)
 
 	Hongwei Yao, Haoran Shi, Yidou Chen, Yixin Jiang, Cong Wang, Zhan Qin
+
+
++ [CheatAgent: Attacking LLM-Empowered Recommender Systems via LLM Agent](https://arxiv.org//abs/2504.13192)
+
+	Liang-bo Ning, Shijie Wang, Wenqi Fan, Qing Li, Xin Xu, Hao Chen, Feiran Huang
 
 
 
@@ -141,6 +203,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [SCAM: A Real-World Typographic Robustness Evaluation for Multimodal Foundation Models](https://arxiv.org//abs/2504.04893)
 
 	Justus Westerhoff, Erblina Purelku, Jakob Hackstein, Leo Pinetzki, Lorenz Hufe
+
+
++ [Revealing the Intrinsic Ethical Vulnerability of Aligned Large Language Models](https://arxiv.org//abs/2504.05050)
+
+	Jiawei Lian, Jianhong Pan, Lefan Wang, Yi Wang, Shaohui Mei, Lap-Pui Chau
 
 
 
