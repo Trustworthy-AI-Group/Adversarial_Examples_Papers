@@ -2,6 +2,69 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+# 2025-04-21
++ [Fast Adversarial Training with Weak-to-Strong Spatial-Temporal Consistency in the Frequency Domain on Videos](https://arxiv.org//abs/2504.14921)
+
+	Songping Wang, Hanqing Liu, Yueming Lyu, Xiantao Hu, Ziwen He, Wei Wang, Caifeng Shan, Liang Wang
+
+
++ [aiXamine: LLM Safety and Security Simplified](https://arxiv.org//abs/2504.14985)
+
+	Fatih Deniz, Dorde Popovic, Yazan Boshmaf, Euisuh Jeong, Minhaj Ahmad, Sanjay Chawla, Issa Khalil
+
+
++ [RainbowPlus: Enhancing Adversarial Prompt Generation via Evolutionary Quality-Diversity Search](https://arxiv.org//abs/2504.15047)
+
+	Quy-Anh Dang, Chris Ngo, Truong-Son Hy
+
+
++ [Verifying Robust Unlearning: Probing Residual Knowledge in Unlearned Models](https://arxiv.org//abs/2504.14798)
+
+	Hao Xuan, Xingyu Li
+
+
+# 2025-04-20
++ [Towards Model Resistant to Transferable Adversarial Examples via Trigger Activation](https://arxiv.org//abs/2504.14541)
+
+	Yi Yu, Song Xia, Xun Lin, Chenqi Kong, Wenhan Yang, Shijian Lu, Yap-Peng Tan, Alex C. Kot
+
+
++ [REDEditing: Relationship-Driven Precise Backdoor Poisoning on Text-to-Image Diffusion Models](https://arxiv.org//abs/2504.14554)
+
+	Chongye Guo, Jinhu Fu, Junfeng Fang, Kun Wang, Guorui Feng
+
+
+# 2025-04-19
++ [CODECRASH: Stress Testing LLM Reasoning under Structural and Semantic Perturbations](https://arxiv.org//abs/2504.14119)
+
+	Man Ho Lam, Chaozheng Wang, Jen-tse Huang, Michael R. Lyu
+
+
++ [Hydra: An Agentic Reasoning Approach for Enhancing Adversarial Robustness and Mitigating Hallucinations in Vision-Language Models](https://arxiv.org//abs/2504.14395)
+
+	Chung-En (Johnny)Yu, Hsuan-Chih (Neil)Chen, Brian Jalaian, Nathaniel D. Bastian
+
+
++ [Adversarial Attack for RGB-Event based Visual Object Tracking](https://arxiv.org//abs/2504.14423)
+
+	Qiang Chen, Xiao Wang, Haowen Wang, Bo Jiang, Lin Zhu, Dawei Zhang, Yonghong Tian, Jin Tang
+
+
++ [The First VoicePrivacy Attacker Challenge](https://arxiv.org//abs/2504.14183)
+
+	Natalia Tomashenko, Xiaoxiao Miao, Emmanuel Vincent, Junichi Yamagishi
+
+
++ [Rethinking Target Label Conditioning in Adversarial Attacks: A 2D Tensor-Guided Generative Approach](https://arxiv.org//abs/2504.14137)
+
+	Hangyu Liu, Bo Peng, Pengxiang Ding, Donglin Wang
+
+
++ [Manipulating Multimodal Agents via Cross-Modal Prompt Injection](https://arxiv.org//abs/2504.14348)
+
+	Le Wang, Zonghao Ying, Tianyuan Zhang, Siyuan Liang, Shengshan Hu, Mingchuan Zhang, Aishan Liu, Xianglong Liu
+
+
 # 2025-04-18
 + [Q-FAKER: Query-free Hard Black-box Attack via Controlled Generation](https://arxiv.org//abs/2504.13551)
 
@@ -31,6 +94,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [On the Relationship Between Robustness and Expressivity of Graph Neural Networks](https://arxiv.org//abs/2504.13786)
 
 	Lorenz Kummer, Wilfried N. Gansterer, Nils M. Kriege
+
+
++ [DoomArena: A framework for Testing AI Agents Against Evolving Security Threats](https://arxiv.org//abs/2504.14064)
+
+	Leo Boisvert, Mihir Bansal, Chandra Kiran Reddy Evuru, Gabriel Huang, Abhay Puri, Avinandan Bose, Maryam Fazel, Quentin Cappart, Jason Stanley, Alexandre Lacoste, Alexandre Drouin, Krishnamurthy Dvijotham
 
 
 
