@@ -2,6 +2,49 @@
 # A complete list of papers about adversarial examples
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
+
+# 2025-04-23
++ [Amplified Vulnerabilities: Structured Jailbreak Attacks on LLM-based Multi-Agent Debate](https://arxiv.org//abs/2504.16489)
+
+	Senmao Qi, Yifei Zou, Peng Li, Ziyi Lin, Xiuzhen Cheng, Dongxiao Yu
+
+
++ [BadVideo: Stealthy Backdoor Attack against Text-to-Video Generation](https://arxiv.org//abs/2504.16907)
+
+	Ruotong Wang, Mingli Zhu, Jiarong Ou, Rui Chen, Xin Tao, Pengfei Wan, Baoyuan Wu
+
+
++ [Beyond Anonymization: Object Scrubbing for Privacy-Preserving 2D and 3D Vision Tasks](https://arxiv.org//abs/2504.16557)
+
+	Murat Bilgehan Ertan, Ronak Sahu, Phuong Ha Nguyen, Kaleel Mahmood, Marten van Dijk
+
+
++ [MCMC for Bayesian estimation of Differential Privacy from Membership Inference Attacks](https://arxiv.org//abs/2504.16683)
+
+	Ceren Yildirim, Kamer Kaya, Sinan Yildirim, Erkay Savas
+
+
++ [Property-Preserving Hashing for $\ell_1$-Distance Predicates: Applications to Countering Adversarial Input Attacks](https://arxiv.org//abs/2504.16355)
+
+	Hassan Asghar, Chenhan Zhang, Dali Kaafar
+
+
++ [Seeking Flat Minima over Diverse Surrogates for Improved Adversarial Transferability: A Theoretical Framework and Algorithmic Instantiation](https://arxiv.org//abs/2504.16474)
+
+	Meixi Zheng, Kehan Wu, Yanbo Fan, Rui Huang, Baoyuan Wu
+
+
++ [Give LLMs a Security Course: Securing Retrieval-Augmented Code Generation via Knowledge Injection](https://arxiv.org//abs/2504.16429)
+
+	Bo Lin, Shangwen Wang, Yihao Qin, Liqian Chen, Xiaoguang Mao
+
+
+# 2025-04-22
++ [A Geometric Approach to Problems in Optimization and Data Science](https://arxiv.org//abs/2504.16270)
+
+	Naren Sarayu Manoj
+
+
 # 2025-04-21
 + [Fast Adversarial Training with Weak-to-Strong Spatial-Temporal Consistency in the Frequency Domain on Videos](https://arxiv.org//abs/2504.14921)
 
@@ -32,6 +75,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [REDEditing: Relationship-Driven Precise Backdoor Poisoning on Text-to-Image Diffusion Models](https://arxiv.org//abs/2504.14554)
 
 	Chongye Guo, Jinhu Fu, Junfeng Fang, Kun Wang, Guorui Feng
+
++ [Breaking the Prompt Wall (I): A Real-World Case Study of Attacking ChatGPT via Lightweight Prompt Injection](https://arxiv.org//abs/2504.16125)
+
+	Xiangyu Chang, Guang Dai, Hao Di, Haishan Ye
 
 
 # 2025-04-19
@@ -66,6 +113,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 
 # 2025-04-18
+
++ [Context-Awareness and Interpretability of Rare Occurrences for Discovery and Formalization of Critical Failure Modes](https://arxiv.org//abs/2504.16117)
+
+	Sridevi Polavaram, Xin Zhou, Meenu Ravi, Mohammad Zarei, Anmol Srivastava
+
 + [Q-FAKER: Query-free Hard Black-box Attack via Controlled Generation](https://arxiv.org//abs/2504.13551)
 
 	CheolWon Na, YunSeok Choi, Jee-Hyong Lee
@@ -103,6 +155,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 
 # 2025-04-17
+
++ [Security-First AI: Foundations for Robust and Trustworthy Systems](https://arxiv.org//abs/2504.16110)
+
+	Krti Tallam
+
 + [Antidistillation Sampling](https://arxiv.org//abs/2504.13146)
 
 	Yash Savani, Asher Trockman, Zhili Feng, Avi Schwarzschild, Alexander Robey, Marc Finzi, J. Zico Kolter
@@ -145,6 +202,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 
 # 2025-04-16
++ [Anti-Aesthetics: Protecting Facial Privacy against Customized Text-to-Image Synthesis](https://arxiv.org//abs/2504.12129)
+
+	Songping Wang, Yueming Lyu, Shiqi Liu, Ning Li, Tong Tong, Hao Sun, Caifeng Shan
+
 + [Towards Safe Synthetic Image Generation On the Web: A Multimodal Robust NSFW Defense and Million Scale Dataset](https://arxiv.org//abs/2504.11707)
 
 	Muhammad Shahid Muneer, Simon S. Woo
