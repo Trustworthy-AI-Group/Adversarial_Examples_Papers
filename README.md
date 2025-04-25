@@ -80,10 +80,6 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Chongye Guo, Jinhu Fu, Junfeng Fang, Kun Wang, Guorui Feng
 
-+ [Breaking the Prompt Wall (I): A Real-World Case Study of Attacking ChatGPT via Lightweight Prompt Injection](https://arxiv.org//abs/2504.16125)
-
-	Xiangyu Chang, Guang Dai, Hao Di, Haishan Ye
-
 
 
 
