@@ -67,6 +67,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 
 # 2025-04-20
++ [Breaking the Prompt Wall (I): A Real-World Case Study of Attacking ChatGPT via Lightweight Prompt Injection](https://arxiv.org//abs/2504.16125)
+
+	Xiangyu Chang, Guang Dai, Hao Di, Haishan Ye
+	
 + [Towards Model Resistant to Transferable Adversarial Examples via Trigger Activation](https://arxiv.org//abs/2504.14541)
 
 	Yi Yu, Song Xia, Xun Lin, Chenqi Kong, Wenhan Yang, Shijian Lu, Yap-Peng Tan, Alex C. Kot
@@ -76,9 +80,7 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Chongye Guo, Jinhu Fu, Junfeng Fang, Kun Wang, Guorui Feng
 
-+ [Breaking the Prompt Wall (I): A Real-World Case Study of Attacking ChatGPT via Lightweight Prompt Injection](https://arxiv.org//abs/2504.16125)
 
-	Xiangyu Chang, Guang Dai, Hao Di, Haishan Ye
 
 
 # 2025-04-19
