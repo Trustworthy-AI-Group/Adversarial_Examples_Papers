@@ -599,32 +599,6 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 
 # 2025-03-30
-+ [Two Heads Are Better than One: Model-Weight and Latent-Space Analysis for Federated Learning on Non-iid Data against Poisoning Attacks](https://arxiv.org//abs/2503.23288)
-
-	Xingyu Lyu, Ning Wang, Yang Xiao, Shixiong Li, Tao Li, Danjue Chen, Yimin Chen
-
-
-+ [Buffer is All You Need: Defending Federated Learning against Backdoor Attacks under Non-iids via Buffering](https://arxiv.org//abs/2503.23511)
-
-	Xingyu Lyu, Ning Wang, Yang Xiao, Shixiong Li, Tao Li, Danjue Chen, Yimin Chen
-
-
-+ [A Survey on Unlearnable Data](https://arxiv.org//abs/2503.23536)
-
-	Jiahao Li, Yiqiang Chen, Yunbing Xing, Yang Gu, Xiangyuan Lan
-
-
-+ [Backdoor Detection through Replicated Execution of Outsourced Training](https://arxiv.org//abs/2504.00170)
-
-	Hengrui Jia, Sierra Wyllie, Akram Bin Sediq, Ahmed Ibrahim, Nicolas Papernot
-
-
-+ [$\textit{Agents Under Siege}$: Breaking Pragmatic Multi-Agent LLM Systems with Optimized Prompt Attacks](https://arxiv.org//abs/2504.00218)
-
-	Rana Muhammad Shahroz Khan, Zhen Tan, Sukwon Yun, Charles Flemming, Tianlong Chen
-
-
-# 2025-03-30
 + [Revisiting the Relationship between Adversarial and Clean Training: Why Clean Training Can Make Adversarial Training Better](https://arxiv.org//abs/2504.00038)
 
 	MingWei Zhou, Xiaobing Pei
@@ -7626,48 +7600,6 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Proactive Schemes: A Survey of Adversarial Attacks for Social Good](https://arxiv.org//abs/2409.16491)
 
 	Vishal Asnani, Xi Yin, Xiaoming Liu
-
-
-
-# 2024-09-23
-+ [Toward Mixture-of-Experts Enabled Trustworthy Semantic Communication for 6G Networks](https://arxiv.org//abs/2409.15695)
-
-	Jiayi He, Xiaofeng Luo, Jiawen Kang, Hongyang Du, Zehui Xiong, Ci Chen, Dusit Niyato, Xuemin Shen
-
-
-+ [Adversarial Federated Consensus Learning for Surface Defect Classification Under Data Heterogeneity in IIoT](https://arxiv.org//abs/2409.15711)
-
-	Jixuan Cui, Jun Li, Zhen Mei, Yiyang Ni, Wen Chen, Zengxiang Li
-
-
-+ [Adversarial Watermarking for Face Recognition](https://arxiv.org//abs/2409.16056)
-
-	Yuguang Yao, Anil Jain, Sijia Liu
-
-
-+ [Towards Robust Object Detection: Identifying and Removing Backdoors via Module Inconsistency Analysis](https://arxiv.org//abs/2409.16057)
-
-	Xianda Zhang, Siyuan Liang
-
-
-+ [Adversarial Backdoor Defense in CLIP](https://arxiv.org//abs/2409.15968)
-
-	Junhao Kuang, Siyuan Liang, Jiawei Liang, Kuanrong Liu, Xiaochun Cao
-
-
-+ [Benchmarking Robustness of Endoscopic Depth Estimation with Synthetically Corrupted Data](https://arxiv.org//abs/2409.16063)
-
-	An Wang, Haochen Yin, Beilei Cui, Mengya Xu, Hongliang Ren
-
-
-+ [Data Poisoning-based Backdoor Attack Framework against Supervised Learning Rules of Spiking Neural Networks](https://arxiv.org//abs/2409.15670)
-
-	Lingxin Jin, Meiyu Lin, Wei Jiang, Jinyu Zhan
-
-
-+ [Smart Grid Security: A Verified Deep Reinforcement Learning Framework to Counter Cyber-Physical Attacks](https://arxiv.org//abs/2409.15757)
-
-	Suman Maiti, Soumyajit Dey
 
 
 
