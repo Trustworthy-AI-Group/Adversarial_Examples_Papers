@@ -14,10 +14,6 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Hyomin Lee, Minseon Kim, Sangwon Jang, Jongheon Jeong, Sung Ju Hwang
 
 
-+ [GRANITE : a Byzantine-Resilient Dynamic Gossip Learning Framework](https://arxiv.org//abs/2504.17471)
-
-	Yacine Belal, Mohamed Maouche, Sonia Ben Mokhtar, Anthony Simonet-Boulogne
-
 
 + [Unified Attacks to Large Language Model Watermarks: Spoofing and Scrubbing in Unauthorized Knowledge Distillation](https://arxiv.org//abs/2504.17480)
 
