@@ -3,6 +3,51 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2025-04-29
++ [Token-Efficient Prompt Injection Attack: Provoking Cessation in LLM Reasoning via Adaptive Token Compression](https://arxiv.org//abs/2504.20493)
+
+	Yu Cui, Yujun Cai, Yiwei Wang
+
++ [Chain-of-Defensive-Thought: Structured Reasoning Elicits Robustness in Large Language Models against Reference Corruption](https://arxiv.org//abs/2504.20769)
+
+	Wenxiao Wang, Parsa Hosseini, Soheil Feizi
+
++ [GaussTrap: Stealthy Poisoning Attacks on 3D Gaussian Splatting for Targeted Scene Confusion](https://arxiv.org//abs/2504.20829)
+
+	Jiaxin Hong, Sixu Chen, Shuoyang Sun, Hongyao Yu, Hao Fang, Yuqi Tan, Bin Chen, Shuhan Qi, Jiawei Li
+
++ [Mitigating the Structural Bias in Graph Adversarial Defenses](https://arxiv.org//abs/2504.20848)
+
+	Junyuan Fang, Huimin Liu, Han Yang, Jiajing Wu, Zibin Zheng, Chi K. Tse
+
++ [Quantifying the Noise of Structural Perturbations on Graph Adversarial Attacks](https://arxiv.org//abs/2504.20869)
+
+	Junyuan Fang, Han Yang, Haixian Wen, Jiajing Wu, Zibin Zheng, Chi K. Tse
+
++ [Inception: Jailbreak the Memory Mechanism of Text-to-Image Generation Systems](https://arxiv.org//abs/2504.20376)
+
+	Shiqian Zhao, Jiayang Liu, Yiming Li, Runyi Hu, Xiaojun Jia, Wenshu Fan, Xinfeng Li, Jie Zhang, Wei Dong, Tianwei Zhang, Luu Anh Tuan
+
++ [Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models](https://arxiv.org//abs/2504.20518)
+
+	Zhongqi Wang, Jie Zhang, Shiguang Shan, Xilin Chen
+
++ [AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security](https://arxiv.org//abs/2504.20965)
+
+	Zikui Cai, Shayan Shabihi, Bang An, Zora Che, Brian R. Bartoldson, Bhavya Kailkhura, Tom Goldstein, Furong Huang
+
++ [Enhancing Leakage Attacks on Searchable Symmetric Encryption Using LLM-Based Synthetic Data Generation](https://arxiv.org//abs/2504.20414)
+
+	Joshua Chiu, Partha Protim Paul, Zahin Wahab
+
++ [Robustness via Referencing: Defending against Prompt Injection Attacks by Referencing the Executed Instruction](https://arxiv.org//abs/2504.20472)
+
+	Yulin Chen, Haoran Li, Yuan Sui, Yue Liu, Yufei He, Yangqiu Song, Bryan Hooi
+
++ [ReCIT: Reconstructing Full Private Data from Gradient in Parameter-Efficient Fine-Tuning of Large Language Models](https://arxiv.org//abs/2504.20570)
+
+	Jin Xie, Ruishi He, Songze Li, Xiaojun Jia, Shouling Ji
+
 # 2025-04-28
 + [Transformation & Translation Occupancy Grid Mapping: 2-Dimensional Deep Learning Refined SLAM](https://arxiv.org//abs/2504.19654)
 
@@ -44,10 +89,26 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Rob Mulla, Will Pearce, Nick Landers, Brian Greunke, Brad Palm, Vincent Abruzzo, Ads Dawson
 
++ [The Dark Side of Digital Twins: Adversarial Attacks on AI-Driven Water Forecasting](https://arxiv.org//abs/2504.20295)
+
+	Mohammadhossein Homaei, Victor Gonzalez Morales, Oscar Mogollon-Gutierrez, Andres Caro
+
++ [A Cryptographic Perspective on Mitigation vs. Detection in Machine Learning](https://arxiv.org//abs/2504.20310)
+
+	Greg Gluch, Shafi Goldwasser
+
++ [A Case Study on the Use of Representativeness Bias as a Defense Against Adversarial Cyber Threats](https://arxiv.org//abs/2504.20245)
+
+	Briland Hitaj, Grit Denker, Laura Tinnel, Michael McAnally, Bruce DeBruhl, Nathan Bunting, Alex Fafard, Daniel Aaron, Richard D. Roberts, Joshua Lawson, Greg McCain, Dylan Starink
+
 # 2025-04-27
 + [Doxing via the Lens: Revealing Privacy Leakage in Image Geolocation for Agentic Multi-Modal Large Reasoning Model](https://arxiv.org//abs/2504.19373)
 
 	Weidi Luo, Qiming Zhang, Tianyu Lu, Xiaogeng Liu, Yue Zhao, Zhen Xiang, Chaowei Xiao
+
++ [Forging and Removing Latent-Noise Diffusion Watermarks Using a Single Image](https://arxiv.org//abs/2504.20111)
+
+	Anubhav Jain, Yuya Kobayashi, Naoki Murata, Yuhta Takida, Takashi Shibuya, Yuki Mitsufuji, Niv Cohen, Nasir Memon, Julian Togelius
 
 # 2025-04-26
 + [Test It Before You Trust It: Applying Software Testing for Trustworthy In-context Learning](https://arxiv.org//abs/2504.18827)
@@ -78,6 +139,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [DeSIA: Attribute Inference Attacks Against Limited Fixed Aggregate Statistics](https://arxiv.org//abs/2504.18497)
 
 	Yifeng Mao, Bozhidar Stevanoski, Yves-Alexandre de Montjoye
+
++ [Edge-Based Learning for Improved Classification Under Adversarial Noise](https://arxiv.org//abs/2504.20077)
+
+	Manish Kansana, Keyan Alexander Rahimi, Elias Hossain, Iman Dehzangi, Noorbakhsh Amiri Golilarz
 
 # 2025-04-24
 + [AUTHENTICATION: Identifying Rare Failure Modes in Autonomous Vehicle Perception Systems using Adversarially Guided Diffusion Models](https://arxiv.org//abs/2504.17179)
@@ -21282,6 +21347,11 @@ Xiaosen Wang, Zeyuan Yin
 + [Semantic-Syntactic Discrepancy in Images (SSDI): Learning Meaning and Order of Features from Natural Images](https://arxiv.org//abs/2401.17515)
 
 	Chun Tao, Timur Ibrayev, Kaushik Roy
+
+# 2023-12-07
++ [GaitGuard: Towards Private Gait in Mixed Reality](https://arxiv.org//abs/2312.04470)
+
+	Diana Romero, Ruchi Jagdish Patel, Athina Markopoulou, Salma Elmalaki
 
 # 2023-12-03
 + [Breaking XOR Arbiter PUFs with Chosen Challenge Attack](https://arxiv.org//abs/2312.01256)
