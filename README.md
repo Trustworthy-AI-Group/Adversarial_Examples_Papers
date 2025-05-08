@@ -3,6 +3,23 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2025-05-07
++ [Izhikevich-Inspired Temporal Dynamics for Enhancing Privacy, Efficiency, and Transferability in Spiking Neural Networks](https://arxiv.org//abs/2505.04034)
+
+	Ayana Moshruba, Hamed Poursiami, Maryam Parsa
+
++ [Unmasking the Canvas: A Dynamic Benchmark for Image Generation Jailbreaking and LLM Content Safety](https://arxiv.org//abs/2505.04146)
+
+	Variath Madhupal Gautham Nair, Vishal Varma Dantuluri
+
++ [Fight Fire with Fire: Defending Against Malicious RL Fine-Tuning via Reward Neutralization](https://arxiv.org//abs/2505.04578)
+
+	Wenjun Cao
+
++ [Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks](https://arxiv.org//abs/2505.04046)
+
+	Xuyang Wang, Siyuan Duan, Qizhi Li, Guiduo Duan, Yuan Sun, Dezhong Peng
+
 # 2025-05-06
 + [Automatic Calibration for Membership Inference Attack on Large Language Models](https://arxiv.org//abs/2505.03392)
 
@@ -36,6 +53,14 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Fangling Jiang, Qi Li, Weining Wang, Wei Shen, Bing Liu, Zhenan Sun
 
++ [Data-Driven Falsification of Cyber-Physical Systems](https://arxiv.org//abs/2505.03863)
+
+	Atanu Kundu, Sauvik Gon, Rajarshi Ray
+
++ [MergeGuard: Efficient Thwarting of Trojan Attacks in Machine Learning Models](https://arxiv.org//abs/2505.04015)
+
+	Soheil Zibakhsh Shabgahi, Yaman Jandali, Farinaz Koushanfar
+
 # 2025-05-05
 + [Catastrophic Overfitting, Entropy Gap and Participation Ratio: A Noiseless $l^p$ Norm Solution for Fast Adversarial Training](https://arxiv.org//abs/2505.02360)
 
@@ -43,7 +68,7 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 + [Robustness questions the interpretability of graph neural networks: what to do?](https://arxiv.org//abs/2505.02566)
 
-	Kirill Lukyanov (1 and 2 and 3), Georgii Sazonov (2 and 4), Serafim Boyarsky (6), Ilya Makarov (1 v 5) ((1) ISP RAS Research Center for Trusted Artificial Intelligence, (2) Ivannikov Institute for System Programming of the Russian Academy of Sciences, (3) Moscow Institute of Physics and Technology (National Research University), (4) Lomonosov Moscow State University, (5) AIRI, (6) Yandex School of Data Analysis)
+	Kirill Lukyanov, Georgii Sazonov, Serafim Boyarsky, Ilya Makarov
 
 + [Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models](https://arxiv.org//abs/2505.02824)
 
@@ -51,16 +76,20 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 + [Bayesian Robust Aggregation for Federated Learning](https://arxiv.org//abs/2505.02490)
 
-	Aleksandr Karakulev (1), Usama Zafar (1), Salman Toor (1 and 2), Prashant Singh (1 and 3) ((1) Uppsala University, (2) Scaleout Systems, (3) Science for Life Laboratory, Sweden)
+	Aleksandr Karakulev, Usama Zafar, Salman Toor, Prashant Singh
 
 + [Adversarial Robustness Analysis of Vision-Language Models in Medical Image Segmentation](https://arxiv.org//abs/2505.02971)
 
 	Anjila Budathoki, Manish Dhakal
 
++ [Impact Analysis of Inference Time Attack of Perception Sensors on Autonomous Vehicles](https://arxiv.org//abs/2505.03850)
+
+	Hanlin Chen, Simin Chen, Wenyu Li, Wei Yang, Yiheng Feng
+
 # 2025-05-04
 + [Lightweight Defense Against Adversarial Attacks in Time Series Classification](https://arxiv.org//abs/2505.02073)
 
-	Yi Han (Independent Researcher, Australia)
+	Yi Han
 
 + [A Survey on Privacy Risks and Protection in Large Language Models](https://arxiv.org//abs/2505.01976)
 
@@ -69,6 +98,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Adversarial Cooperative Rationalization: The Risk of Spurious Correlations in Even Clean Datasets](https://arxiv.org//abs/2505.02118)
 
 	Wei Liu, Zhongyu Niu, Lang Gao, Zhiying Deng, Jun Wang, Haozhao Wang, Ruixuan Li
+
++ [A Comprehensive Analysis of Adversarial Attacks against Spam Filters](https://arxiv.org//abs/2505.03831)
+
+	Esra Hotoğlu, Sevil Sen, Burcu Can
 
 # 2025-05-03
 + [Adversarial Robustness of Deep Learning Models for Inland Water Body Segmentation from SAR Images](https://arxiv.org//abs/2505.01884)
@@ -159,6 +192,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [LLM Watermarking Using Mixtures and Statistical-to-Computational Gaps](https://arxiv.org//abs/2505.01484)
 
 	Pedro Abdalla, Roman Vershynin
+
++ [Modeling Behavioral Preferences of Cyber Adversaries Using Inverse Reinforcement Learning](https://arxiv.org//abs/2505.03817)
+
+	Aditya Shinde, Prashant Doshi
 
 # 2025-05-01
 + [Red Teaming Large Language Models for Healthcare](https://arxiv.org//abs/2505.00467)
@@ -829,6 +866,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Liang-bo Ning, Shijie Wang, Wenqi Fan, Qing Li, Xin Xu, Hao Chen, Feiran Huang
 
 
+
++ [Mitigating Many-Shot Jailbreaking](https://arxiv.org//abs/2504.09604)
+
+	Christopher M. Ackerman, Nina Panickssery
 
 # 2025-04-11
 + [A Knowledge-guided Adversarial Defense for Resisting Malicious Visual Manipulation](https://arxiv.org//abs/2504.08411)
@@ -4556,6 +4597,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Satya Swaroop Gudipudi, Sreeram Vipparla, Harpreet Singh, Shashwat Goel, Ponnurangam Kumaraguru
 
+
++ [ExpShield: Safeguarding Web Text from Unauthorized Crawling and Language Modeling Exploitation](https://arxiv.org//abs/2412.21123)
+
+	Ruixuan Liu, Toan Tran, Tianhao Wang, Hongsheng Hu, Shuo Wang, Li Xiong
 
 # 2024-12-29
 + [On Adversarial Robustness of Language Models in Transfer Learning](https://arxiv.org//abs/2501.00066)
