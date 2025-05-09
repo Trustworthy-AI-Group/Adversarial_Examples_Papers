@@ -3,6 +3,35 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2025-05-08
++ [Advancing Neural Network Verification through Hierarchical Safety Abstract Interpretation](https://arxiv.org//abs/2505.05235)
+
+	Luca Marzari, Isabella Mastroeni, Alessandro Farinelli
+
++ [ChainMarks: Securing DNN Watermark with Cryptographic Chain](https://arxiv.org//abs/2505.04977)
+
+	Brian Choi, Shu Wang, Isabelle Choi, Kun Sun
+
++ [Revealing Weaknesses in Text Watermarking Through Self-Information Rewrite Attacks](https://arxiv.org//abs/2505.05190)
+
+	Yixin Cheng, Hongcheng Guo, Yangming Li, Leonid Sigal
+
++ [DispBench: Benchmarking Disparity Estimation to Synthetic Corruptions](https://arxiv.org//abs/2505.05091)
+
+	Shashank Agnihotri, Amaan Ansari, Annika Dackermann, Fabian Rösch, Margret Keuper
+
++ [PaniCar: Securing the Perception of Advanced Driving Assistance Systems Against Emergency Vehicle Lighting](https://arxiv.org//abs/2505.05183)
+
+	Elad Feldman, Jacob Shams, Dudi Biton, Alfred Chen, Shaoyuan Xie, Satoru Koda, Yisroel Mirsky, Asaf Shabtai, Yuval Elovici, Ben Nassi
+
++ [MTL-UE: Learning to Learn Nothing for Multi-Task Learning](https://arxiv.org//abs/2505.05279)
+
+	Yi Yu, Song Xia, Siyuan Yang, Chenqi Kong, Wenhan Yang, Shijian Lu, Yap-Peng Tan, Alex C. Kot
+
++ [FedRE: Robust and Effective Federated Learning with Privacy Preference](https://arxiv.org//abs/2505.04889)
+
+	Tianzhe Xiao, Yichen Li, Yu Zhou, Yining Qi, Yi Liu, Wei Wang, Haozhao Wang, Yi Wang, Ruixuan Li
+
 # 2025-05-07
 + [Izhikevich-Inspired Temporal Dynamics for Enhancing Privacy, Efficiency, and Transferability in Spiking Neural Networks](https://arxiv.org//abs/2505.04034)
 
@@ -19,6 +48,18 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks](https://arxiv.org//abs/2505.04046)
 
 	Xuyang Wang, Siyuan Duan, Qizhi Li, Guiduo Duan, Yuan Sun, Dezhong Peng
+
++ [REVEAL: Multi-turn Evaluation of Image-Input Harms for Vision LLM](https://arxiv.org//abs/2505.04673)
+
+	Madhur Jindal, Saurabh Deshpande
+
++ [A Proposal for Evaluating the Operational Risk for ChatBots based on Large Language Models](https://arxiv.org//abs/2505.04784)
+
+	Pedro Pinacho-Davidson, Fernando Gutierrez, Pablo Zapata, Rodolfo Vergara, Pablo Aqueveque
+
++ [Red Teaming the Mind of the Machine: A Systematic Evaluation of Prompt Injection and Jailbreak Vulnerabilities in LLMs](https://arxiv.org//abs/2505.04806)
+
+	Chetan Pathade
 
 # 2025-05-06
 + [Automatic Calibration for Membership Inference Attack on Large Language Models](https://arxiv.org//abs/2505.03392)
@@ -60,6 +101,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [MergeGuard: Efficient Thwarting of Trojan Attacks in Machine Learning Models](https://arxiv.org//abs/2505.04015)
 
 	Soheil Zibakhsh Shabgahi, Yaman Jandali, Farinaz Koushanfar
+
++ [Uncovering the Limitations of Model Inversion Evaluation -- Benchmarks and Connection to Type-I Adversarial Attacks](https://arxiv.org//abs/2505.03519)
+
+	Sy-Tuyen Ho, Koh Jun Hao, Ngoc-Bao Nguyen, Alexander Binder, Ngai-Man Cheung
 
 # 2025-05-05
 + [Catastrophic Overfitting, Entropy Gap and Participation Ratio: A Noiseless $l^p$ Norm Solution for Fast Adversarial Training](https://arxiv.org//abs/2505.02360)
@@ -3835,6 +3880,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Deep Learning Model Inversion Attacks and Defenses: A Comprehensive Survey](https://arxiv.org//abs/2501.18934)
 
 	Wencheng Yang, Song Wang, Di Wu, Taotao Cai, Yanming Zhu, Shicheng Wei, Yiying Zhang, Xu Yang, Zhaohui Tang, Yan Li
+
++ [Towards the Worst-case Robustness of Large Language Models](https://arxiv.org//abs/2501.19040)
+
+	Huanran Chen, Yinpeng Dong, Zeming Wei, Hang Su, Jun Zhu
 
 # 2025-01-30
 + [Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models](https://arxiv.org//abs/2501.18280)
@@ -21771,4 +21820,9 @@ Xiaosen Wang, Zeyuan Yin
 + [Constrained Adversarial Learning for Automated Software Testing: a literature review](https://arxiv.org//abs/2303.07546)
 
 	João Vitorino, Tiago Dias, Tiago Fonseca, Eva Maia, Isabel Praça
+
+# 2021-03-30
++ [PointBA: Towards Backdoor Attacks in 3D Point Cloud](https://arxiv.org//abs/2103.16074)
+
+	Xinke Li, Zhirui Chen, Yue Zhao, Zekun Tong, Yabang Zhao, Andrew Lim, Joey Tianyi Zhou
 
