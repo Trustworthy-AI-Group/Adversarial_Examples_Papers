@@ -3,6 +3,35 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2025-05-09
++ [AgentXploit: End-to-End Redteaming of Black-Box AI Agents](https://arxiv.org//abs/2505.05849)
+
+	Zhun Wang, Vincent Siu, Zhe Ye, Tianneng Shi, Yuzhou Nie, Xuandong Zhao, Chenguang Wang, Wenbo Guo, Dawn Song
+
++ [Realistic Adversarial Attacks for Robustness Evaluation of Trajectory Prediction Models via Future State Perturbation](https://arxiv.org//abs/2505.06134)
+
+	Julian F. Schumann, Jeroen Hagenus, Frederik Baymler Mathiesen, Arkady Zgonnikov
+
++ [A Taxonomy of Attacks and Defenses in Split Learning](https://arxiv.org//abs/2505.05872)
+
+	Aqsa Shabbir, Halil İbrahim Kanpak, Alptekin Küpçü, Sinem Sav
+
++ [CAPE: Context-Aware Prompt Perturbation Mechanism with Differential Privacy](https://arxiv.org//abs/2505.05922)
+
+	Haoqi Wu, Wei Dai, Li Wang, Qiang Yan
+
++ [LLM-Text Watermarking based on Lagrange Interpolation](https://arxiv.org//abs/2505.05712)
+
+	Jarosław Janas, Paweł Morawiecki, Josef Pieprzyk
+
++ [Efficient Full-Stack Private Federated Deep Learning with Post-Quantum Security](https://arxiv.org//abs/2505.05751)
+
+	Yiwei Zhang, Rouzbeh Behnia, Attila A. Yavuz, Reza Ebrahimi, Elisa Bertino
+
++ [Self-Supervised Federated GNSS Spoofing Detection with Opportunistic Data](https://arxiv.org//abs/2505.06171)
+
+	Wenjie Liu, Panos Papadimitratos
+
 # 2025-05-08
 + [Advancing Neural Network Verification through Hierarchical Safety Abstract Interpretation](https://arxiv.org//abs/2505.05235)
 
@@ -31,6 +60,14 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [FedRE: Robust and Effective Federated Learning with Privacy Preference](https://arxiv.org//abs/2505.04889)
 
 	Tianzhe Xiao, Yichen Li, Yu Zhou, Yining Qi, Yi Liu, Wei Wang, Haozhao Wang, Yi Wang, Ruixuan Li
+
++ [X-Transfer Attacks: Towards Super Transferable Adversarial Attacks on CLIP](https://arxiv.org//abs/2505.05528)
+
+	Hanxun Huang, Sarah Erfani, Yige Li, Xingjun Ma, James Bailey
+
++ [LiteLMGuard: Seamless and Lightweight On-Device Prompt Filtering for Safeguarding Small Language Models against Quantization-induced Risks and Vulnerabilities](https://arxiv.org//abs/2505.05619)
+
+	Kalyan Nakka, Jimmy Dani, Ausmit Mondal, Nitesh Saxena
 
 # 2025-05-07
 + [Izhikevich-Inspired Temporal Dynamics for Enhancing Privacy, Efficiency, and Transferability in Spiking Neural Networks](https://arxiv.org//abs/2505.04034)
