@@ -3,6 +3,16 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2025-05-12
++ [GRADA: Graph-based Reranker against Adversarial Documents Attack](https://arxiv.org//abs/2505.07546)
+
+	Jingjie Zheng, Aryo Pradipta Gema, Giwon Hong, Xuanli He, Pasquale Minervini, Youcheng Sun, Qiongkai Xu
+
+# 2025-05-10
++ [TAROT: Towards Essentially Domain-Invariant Robustness with Theoretical Justification](https://arxiv.org//abs/2505.06580)
+
+	Dongyoon Yang, Jihu Lee, Yongdai Kim
+
 # 2025-05-09
 + [AgentXploit: End-to-End Redteaming of Black-Box AI Agents](https://arxiv.org//abs/2505.05849)
 
@@ -31,6 +41,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Self-Supervised Federated GNSS Spoofing Detection with Opportunistic Data](https://arxiv.org//abs/2505.06171)
 
 	Wenjie Liu, Panos Papadimitratos
+
++ [Remote Rowhammer Attack using Adversarial Observations on Federated Learning Clients](https://arxiv.org//abs/2505.06335)
+
+	Jinsheng Yuan, Yuhang Hao, Weisi Guo, Yun Wu, Chongyan Gu
 
 # 2025-05-08
 + [Advancing Neural Network Verification through Hierarchical Safety Abstract Interpretation](https://arxiv.org//abs/2505.05235)
@@ -167,6 +181,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Impact Analysis of Inference Time Attack of Perception Sensors on Autonomous Vehicles](https://arxiv.org//abs/2505.03850)
 
 	Hanlin Chen, Simin Chen, Wenyu Li, Wei Yang, Yiheng Feng
+
++ [AKD : Adversarial Knowledge Distillation For Large Language Models Alignment on Coding tasks](https://arxiv.org//abs/2505.06267)
+
+	Ilyas Oulkadda, Julien Perez
 
 # 2025-05-04
 + [Lightweight Defense Against Adversarial Attacks in Time Series Classification](https://arxiv.org//abs/2505.02073)
