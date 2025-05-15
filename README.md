@@ -3,6 +3,27 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2025-05-14
++ [Evaluating the Robustness of Adversarial Defenses in Malware Detection Systems](https://arxiv.org//abs/2505.09342)
+
+	Mostafa Jafari, Alireza Shameli-Sendi
+
++ [FedSaaS: Class-Consistency Federated Semantic Segmentation via Global Prototype Supervision and Local Adversarial Harmonization](https://arxiv.org//abs/2505.09385)
+
+	Xiaoyang Yu, Xiaoming Wu, Xin Wang, Dongrun Li, Ming Yang, Peng Cheng
+
++ [Layered Unlearning for Adversarial Relearning](https://arxiv.org//abs/2505.09500)
+
+	Timothy Qian, Vinith Suriyakumar, Ashia Wilson, Dylan Hadfield-Menell
+
++ [Adversarial Suffix Filtering: a Defense Pipeline for LLMs](https://arxiv.org//abs/2505.09602)
+
+	David Khachaturov, Robert Mullins
+
++ [Toward Malicious Clients Detection in Federated Learning](https://arxiv.org//abs/2505.09110)
+
+	Zhihao Dou, Jiaqi Wang, Wei Sun, Zhuqing Liu, Minghong Fang
+
 # 2025-05-13
 + [Mirror Mirror on the Wall, Have I Forgotten it All? A New Framework for Evaluating Machine Unlearning](https://arxiv.org//abs/2505.08138)
 
@@ -36,6 +57,30 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Ming Xu, Weili Han, Jitao Yu, Jing Liu, Xinyi Zhang, Yun Lin, Jin Song Dong
 
++ [Federated Large Language Models: Feasibility, Robustness, Security and Future Directions](https://arxiv.org//abs/2505.08830)
+
+	Wenhao Jiang, Yuchuan Luo, Guilin Deng, Silong Chen, Xu Yang, Shihong Wu, Xinwen Gao, Lin Liu, Shaojing Fu
+
++ [Robustness Analysis against Adversarial Patch Attacks in Fully Unmanned Stores](https://arxiv.org//abs/2505.08835)
+
+	Hyunsik Na, Wonho Lee, Seungdeok Roh, Sohee Park, Daeseon Choi
+
++ [On the interplay of Explainability, Privacy and Predictive Performance with Explanation-assisted Model Extraction](https://arxiv.org//abs/2505.08847)
+
+	Fatima Ezzeddine, Rinad Akel, Ihab Sbeity, Silvia Giordano, Marc Langheinrich, Omran Ayoub
+
++ [Towards Adaptive Meta-Gradient Adversarial Examples for Visual Tracking](https://arxiv.org//abs/2505.08999)
+
+	Wei-Long Tian, Peng Gao, Xiao Liu, Long Xu, Hamido Fujita, Hanan Aljuai, Mao-Li Wang
+
++ [Lower Bounds on the MMSE of Adversarially Inferring Sensitive Features](https://arxiv.org//abs/2505.09004)
+
+	Monica Welfert, Nathan Stromberg, Mario Diaz, Lalitha Sankar
+
++ [Inference Attacks for X-Vector Speaker Anonymization](https://arxiv.org//abs/2505.08978)
+
+	Luke Bauer, Wenxuan Bao, Malvika Jadhav, Vincent Bindschaedler
+
 # 2025-05-12
 + [GRADA: Graph-based Reranker against Adversarial Documents Attack](https://arxiv.org//abs/2505.07546)
 
@@ -45,10 +90,23 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Steffen Schotthöfer, H. Lexie Yang, Stefan Schnake
 
++ [MixBridge: Heterogeneous Image-to-Image Backdoor Attack through Mixture of Schrödinger Bridges](https://arxiv.org//abs/2505.08809)
+
+	Shixi Qin, Zhiyong Yang, Shilong Bao, Shi Wang, Qianqian Xu, Qingming Huang
+
+# 2025-05-11
++ [TokenProber: Jailbreaking Text-to-image Models via Fine-grained Word Impact Analysis](https://arxiv.org//abs/2505.08804)
+
+	Longtian Wang, Xiaofei Xie, Tianlin Li, Yuhan Zhi, Chao Shen
+
 # 2025-05-10
 + [TAROT: Towards Essentially Domain-Invariant Robustness with Theoretical Justification](https://arxiv.org//abs/2505.06580)
 
 	Dongyoon Yang, Jihu Lee, Yongdai Kim
+
++ [I Know What You Said: Unveiling Hardware Cache Side-Channels in Local Large Language Model Inference](https://arxiv.org//abs/2505.06738)
+
+	Zibo Gao, Junjie Hu, Feng Guo, Yixin Zhang, Yinglong Han, Siyuan Liu, Haiyang Li, Zhiqiang Lv
 
 # 2025-05-09
 + [AgentXploit: End-to-End Redteaming of Black-Box AI Agents](https://arxiv.org//abs/2505.05849)
@@ -4746,6 +4804,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ExpShield: Safeguarding Web Text from Unauthorized Crawling and Language Modeling Exploitation](https://arxiv.org//abs/2412.21123)
 
 	Ruixuan Liu, Toan Tran, Tianhao Wang, Hongsheng Hu, Shuo Wang, Li Xiong
+
++ [BridgePure: Limited Protection Leakage Can Break Black-Box Data Protection](https://arxiv.org//abs/2412.21061)
+
+	Yihan Wang, Yiwei Lu, Xiao-Shan Gao, Gautam Kamath, Yaoliang Yu
 
 # 2024-12-29
 + [On Adversarial Robustness of Language Models in Transfer Learning](https://arxiv.org//abs/2501.00066)
