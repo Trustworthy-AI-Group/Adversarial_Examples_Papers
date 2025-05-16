@@ -3,6 +3,43 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2025-05-15
++ [Dark LLMs: The Growing Threat of Unaligned AI Models](https://arxiv.org//abs/2505.10066)
+
+	Michael Fire, Yitzhak Elbazis, Adi Wasenstein, Lior Rokach
+
++ [Cutting Through Privacy: A Hyperplane-Based Data Reconstruction Attack in Federated Learning](https://arxiv.org//abs/2505.10264)
+
+	Francesco Diana, André Nusser, Chuan Xu, Giovanni Neglia
+
++ [Defending the Edge: Representative-Attention for Mitigating Backdoor Attacks in Federated Learning](https://arxiv.org//abs/2505.10297)
+
+	Chibueze Peace Obioma, Youcheng Sun, Mustafa A. Mustafa
+
++ [Learned Lightweight Smartphone ISP with Unpaired Data](https://arxiv.org//abs/2505.10420)
+
+	Andrei Arhire, Radu Timofte
+
++ [PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context Optimization](https://arxiv.org//abs/2505.09921)
+
+	Yidan Wang, Yanan Cao, Yubing Ren, Fang Fang, Zheng Lin, Binxing Fang
+
++ [A Unified and Scalable Membership Inference Method for Visual Self-supervised Encoder via Part-aware Capability](https://arxiv.org//abs/2505.10351)
+
+	Jie Zhu, Jirong Zha, Ding Li, Leye Wang
+
++ [MorphGuard: Morph Specific Margin Loss for Enhancing Robustness to Face Morphing Attacks](https://arxiv.org//abs/2505.10497)
+
+	Iurii Medvedev, Nuno Goncalves
+
++ [Sybil-based Virtual Data Poisoning Attacks in Federated Learning](https://arxiv.org//abs/2505.09983)
+
+	Changxun Zhu, Qilong Wu, Lingjuan Lyu, Shibei Xue
+
++ [The Ephemeral Threat: Assessing the Security of Algorithmic Trading Systems powered by Deep Learning](https://arxiv.org//abs/2505.10430)
+
+	Advije Rizvani, Giovanni Apruzzese, Pavel Laskov
+
 # 2025-05-14
 + [Evaluating the Robustness of Adversarial Defenses in Malware Detection Systems](https://arxiv.org//abs/2505.09342)
 
@@ -23,6 +60,14 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Toward Malicious Clients Detection in Federated Learning](https://arxiv.org//abs/2505.09110)
 
 	Zhihao Dou, Jiaqi Wang, Wei Sun, Zhuqing Liu, Minghong Fang
+
++ [Self-Consuming Generative Models with Adversarially Curated Data](https://arxiv.org//abs/2505.09768)
+
+	Xiukun Wei, Xueru Zhang
+
++ [Adversarial Attack on Large Language Models using Exponentiated Gradient Descent](https://arxiv.org//abs/2505.09820)
+
+	Sajib Biswas, Mao Nishino, Samuel Jacob Chacko, Xiuwen Liu
 
 # 2025-05-13
 + [Mirror Mirror on the Wall, Have I Forgotten it All? A New Framework for Evaluating Machine Unlearning](https://arxiv.org//abs/2505.08138)
@@ -256,6 +301,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Sy-Tuyen Ho, Koh Jun Hao, Ngoc-Bao Nguyen, Alexander Binder, Ngai-Man Cheung
 
++ [Adversarial Attacks in Multimodal Systems: A Practitioner's Survey](https://arxiv.org//abs/2505.03084)
+
+	Shashank Kapoor, Sanjay Surendranath Girija, Lakshit Arora, Dipen Pradhan, Ankit Shetgaonkar, Aman Raj
+
 # 2025-05-05
 + [Catastrophic Overfitting, Entropy Gap and Participation Ratio: A Noiseless $l^p$ Norm Solution for Fast Adversarial Training](https://arxiv.org//abs/2505.02360)
 
@@ -330,6 +379,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Cannot See the Forest for the Trees: Invoking Heuristics and Biases to Elicit Irrational Choices of LLMs](https://arxiv.org//abs/2505.02862)
 
 	Haoming Yang, Ke Ma, Xiaojun Jia, Yingfei Sun, Qianqian Xu, Qingming Huang
+
++ [Detecting Musical Deepfakes](https://arxiv.org//abs/2505.09633)
+
+	Nick Sunday
 
 # 2025-05-02
 + [Explainable AI Based Diagnosis of Poisoning Attacks in Evolutionary Swarms](https://arxiv.org//abs/2505.01181)
@@ -4487,6 +4540,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Yunmeng Shu, Shaofeng Li, Tian Dong, Yan Meng, Haojin Zhu
 
+
++ [SpecWav-Attack: Leveraging Spectrogram Resizing and Wav2Vec 2.0 for Attacking Anonymized Speech](https://arxiv.org//abs/2505.09616)
+
+	Yuqi Li, Yuanzhong Zheng, Zhongtian Guo, Yaoxuan Wang, Jianjun Yin, Haojun Fei
 
 # 2025-01-09
 + [Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency](https://arxiv.org//abs/2501.04931)
