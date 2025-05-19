@@ -3,6 +3,47 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2025-05-16
++ [LD-Scene: LLM-Guided Diffusion for Controllable Generation of Adversarial Safety-Critical Driving Scenarios](https://arxiv.org//abs/2505.11247)
+
+	Mingxing Peng, Yuting Xie, Xusen Guo, Ruoyu Yao, Hai Yang, Jun Ma
+
++ [On the Security Risks of ML-based Malware Detection Systems: A Survey](https://arxiv.org//abs/2505.10903)
+
+	Ping He, Yuhao Mao, Changjiang Li, Lorenzo Cavallaro, Ting Wang, Shouling Ji
+
++ [GenoArmory: A Unified Evaluation Framework for Adversarial Attacks on Genomic Foundation Models](https://arxiv.org//abs/2505.10983)
+
+	Haozheng Luo, Chenghao Qiu, Yimin Wang, Shang Wu, Jiahao Yu, Han Liu, Binghui Wang, Yan Chen
+
++ [CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs](https://arxiv.org//abs/2505.11413)
+
+	Sijia Chen, Xiaomin Li, Mengxue Zhang, Eric Hanchen Jiang, Qingcheng Zeng, Chen-Hsiang Yu
+
++ [LARGO: Latent Adversarial Reflection through Gradient Optimization for Jailbreaking LLMs](https://arxiv.org//abs/2505.10838)
+
+	Ran Li, Hao Wang, Chengzhi Mao
+
++ [Random Client Selection on Contrastive Federated Learning for Tabular Data](https://arxiv.org//abs/2505.10759)
+
+	Achmad Ginanjar, Xue Li, Priyanka Singh, Wen Hua
+
++ [AutoRAN: Weak-to-Strong Jailbreaking of Large Reasoning Models](https://arxiv.org//abs/2505.10846)
+
+	Jiacheng Liang, Tanqiu Jiang, Yuhui Wang, Rongyi Zhu, Fenglong Ma, Ting Wang
+
++ [Nosy Layers, Noisy Fixes: Tackling DRAs in Federated Learning Systems using Explainable AI](https://arxiv.org//abs/2505.10942)
+
+	Meghali Nandi, Arash Shaghaghi, Nazatul Haque Sultan, Gustavo Batista, Raymond K. Zhao, Sanjay Jha
+
++ [Verifiably Forgotten? Gradient Differences Still Enable Data Reconstruction in Federated Unlearning](https://arxiv.org//abs/2505.11097)
+
+	Fuyao Zhang, Wenjie Li, Yurong Hao, Xinyu Yan, Yang Cao, Wei Yang Bryan Lim
+
++ [ProxyPrompt: Securing System Prompts against Prompt Extraction Attacks](https://arxiv.org//abs/2505.11459)
+
+	Zhixiong Zhuang, Maria-Irina Nicolae, Hui-Po Wang, Mario Fritz
+
 # 2025-05-15
 + [Dark LLMs: The Growing Threat of Unaligned AI Models](https://arxiv.org//abs/2505.10066)
 
@@ -138,6 +179,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [MixBridge: Heterogeneous Image-to-Image Backdoor Attack through Mixture of Schrödinger Bridges](https://arxiv.org//abs/2505.08809)
 
 	Shixi Qin, Zhiyong Yang, Shilong Bao, Shi Wang, Qianqian Xu, Qingming Huang
+
++ [SecReEvalBench: A Multi-turned Security Resilience Evaluation Benchmark for Large Language Models](https://arxiv.org//abs/2505.07584)
+
+	Huining Cui, Wei Liu
 
 # 2025-05-11
 + [TokenProber: Jailbreaking Text-to-image Models via Fine-grained Word Impact Analysis](https://arxiv.org//abs/2505.08804)
@@ -1864,6 +1909,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Prashant Kulkarni, Assaf Namer
 
 
+
++ [Safety Evaluation and Enhancement of DeepSeek Models in Chinese Contexts](https://arxiv.org//abs/2503.16529)
+
+	Wenjing Zhang, Xuejiao Lei, Zhaoxiang Liu, Limin Han, Jiaojiao Zhao, Junting Guo, Zhenhong Long, Shu Yang, Meijuan An, Beibei Huang, Rongjia Du, Ning Wang, Kai Wang, Shiguo Lian
 
 # 2025-03-17
 + [Analyzing sequential activity and travel decisions with interpretable deep inverse reinforcement learning](https://arxiv.org//abs/2503.12761)
