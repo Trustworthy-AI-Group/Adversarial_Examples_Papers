@@ -36,6 +36,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Haoyu Wang, Zeyu Qin, Yifei Zhao, Chao Du, Min Lin, Xueqian Wang, Tianyu Pang
 
++ [Holes in Latent Space: Topological Signatures Under Adversarial Influence](https://arxiv.org//abs/2505.20435)
+
+	Aideen Fay, Inés García-Redondo, Qiquan Wang, Haim Dubossarsky, Anthea Monod
+
 # 2025-05-25
 + [Stronger Enforcement of Instruction Hierarchy via Augmented Intermediate Representations](https://arxiv.org//abs/2505.18907)
 
