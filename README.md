@@ -3,6 +3,63 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2025-05-29
++ [TRAP: Targeted Redirecting of Agentic Preferences](https://arxiv.org//abs/2505.23518)
+
+	Hangoo Kang, Jehyeok Yeon, Gagandeep Singh
+
++ [SafeScientist: Toward Risk-Aware Scientific Discoveries by LLM Agents](https://arxiv.org//abs/2505.23559)
+
+	Kunlun Zhu, Jiaxun Zhang, Ziheng Qi, Nuoxing Shang, Zijia Liu, Peixuan Han, Yue Su, Haofei Yu, Jiaxuan You
+
++ [Fooling the Watchers: Breaking AIGC Detectors via Semantic Prompt Attacks](https://arxiv.org//abs/2505.23192)
+
+	Run Hao, Peng Ying
+
++ [Disrupting Vision-Language Model-Driven Navigation Services via Adversarial Object Fusion](https://arxiv.org//abs/2505.23266)
+
+	Chunlong Xie, Jialing He, Shangwei Guo, Jiacheng Wang, Shudong Zhang, Tianwei Zhang, Tao Xiang
+
++ [Adversarial Semantic and Label Perturbation Attack for Pedestrian Attribute Recognition](https://arxiv.org//abs/2505.23313)
+
+	Weizhe Kong, Xiao Wang, Ruichong Gao, Chenglong Li, Yu Zhang, Xing Yang, Yaowei Wang, Jin Tang
+
++ [Keyed Chaotic Tensor Transformations for Secure And Attributable Neural Inference](https://arxiv.org//abs/2505.23655)
+
+	Peter David Fagan
+
++ [Distributed Federated Learning for Vehicular Network Security: Anomaly Detection Benefits and Multi-Domain Attack Threats](https://arxiv.org//abs/2505.23706)
+
+	Utku Demir, Yalin E. Sagduyu, Tugba Erpek, Hossein Jafari, Sastry Kompella, Mengran Xue
+
++ [DyePack: Provably Flagging Test Set Contamination in LLMs Using Backdoors](https://arxiv.org//abs/2505.23001)
+
+	Yize Cheng, Wenxiao Wang, Mazda Moayeri, Soheil Feizi
+
++ [Detecting Stealthy Backdoor Samples based on Intra-class Distance for Large Language Models](https://arxiv.org//abs/2505.23015)
+
+	Jinwen Chen, Hainan Zhang, Fei Sun, Qinnan Zhang, Sijia Wen, Ziwei Wang, Zhiming Zheng
+
++ [Adaptive Jailbreaking Strategies Based on the Semantic Understanding Capabilities of Large Language Models](https://arxiv.org//abs/2505.23404)
+
+	Mingyu Yu, Wei Wang, Yanjie Wei, Sujuan Qin
+
++ [MCP Safety Training: Learning to Refuse Falsely Benign MCP Exploits using Improved Preference Alignment](https://arxiv.org//abs/2505.23634)
+
+	John Halloran
+
++ [Model Immunization from a Condition Number Perspective](https://arxiv.org//abs/2505.23760)
+
+	Amber Yijia Zheng, Cedar Site Bai, Brian Bullins, Raymond A. Yeh
+
++ [Bayesian Perspective on Memorization and Reconstruction](https://arxiv.org//abs/2505.23658)
+
+	Haim Kaplan, Yishay Mansour, Kobbi Nissim, Uri Stemmer
+
++ [Merge Hijacking: Backdoor Attacks to Model Merging of Large Language Models](https://arxiv.org//abs/2505.23561)
+
+	Zenghui Yuan, Yangming Xu, Jiawen Shi, Pan Zhou, Lichao Sun
+
 # 2025-05-28
 + [Rethinking Gradient-based Adversarial Attacks on Point Cloud Classification](https://arxiv.org//abs/2505.21854)
 
@@ -67,6 +124,30 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Privacy-preserving Prompt Personalization in Federated Learning for Multimodal Large Language Models](https://arxiv.org//abs/2505.22447)
 
 	Sizai Hou, Songze Li, Baturalp Buyukates
+
++ [Efficient Preimage Approximation for Neural Network Certification](https://arxiv.org//abs/2505.22798)
+
+	Anton Björklund, Mykola Zaitsev, Marta Kwiatkowska
+
++ [How Do Diffusion Models Improve Adversarial Robustness?](https://arxiv.org//abs/2505.22839)
+
+	Liu Yuezhang, Xue-Xin Wei
+
++ [Operationalizing CaMeL: Strengthening LLM Defenses for Enterprise Deployment](https://arxiv.org//abs/2505.22852)
+
+	Krti Tallam, Emma Miller
+
++ [Can LLMs Deceive CLIP? Benchmarking Adversarial Compositionality of Pre-trained Multimodal Representation via Text Updates](https://arxiv.org//abs/2505.22943)
+
+	Jaewoo Ahn, Heeseung Yun, Dayoon Ko, Gunhee Kim
+
++ [Machine Learning Models Have a Supply Chain Problem](https://arxiv.org//abs/2505.22778)
+
+	Sarah Meiklejohn, Hayden Blauzvern, Mihai Maruseac, Spencer Schrock, Laurent Simon, Ilia Shumailov
+
++ [TensorShield: Safeguarding On-Device Inference by Shielding Critical DNN Tensors with TEE](https://arxiv.org//abs/2505.22735)
+
+	Tong Sun, Bowen Jiang, Hailong Lin, Borui Li, Yixiao Teng, Yi Gao, Wei Dong
 
 # 2025-05-27
 + [Preventing Adversarial AI Attacks Against Autonomous Situational Awareness: A Maritime Case Study](https://arxiv.org//abs/2505.21609)
@@ -137,6 +218,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [VisCRA: A Visual Chain Reasoning Attack for Jailbreaking Multimodal Large Language Models](https://arxiv.org//abs/2505.19684)
 
 	Bingrui Sima, Linhua Cong, Wenxuan Wang, Kun He
+
++ [Erasing Concepts, Steering Generations: A Comprehensive Survey of Concept Suppression](https://arxiv.org//abs/2505.19398)
+
+	Yiwei Xie, Ping Liu, Zheng Zhang
 
 # 2025-05-25
 + [Stronger Enforcement of Instruction Hierarchy via Augmented Intermediate Representations](https://arxiv.org//abs/2505.18907)
@@ -2205,6 +2290,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Michael-Andrei Panaitescu-Liess, Yigitcan Kaya, Sicheng Zhu, Furong Huang, Tudor Dumitras
 
+
++ [All Patches Matter, More Patches Better: Enhance AI-Generated Image Detection via Panoptic Patch Learning](https://arxiv.org//abs/2504.01396)
+
+	Zheng Yang, Ruoxin Chen, Zhiyuan Yan, Ke-Yue Zhang, Xinghe Fu, Shuang Wu, Xiujun Shu, Taiping Yao, Shouhong Ding, Xi Li
 
 # 2025-04-01
 + [Unleashing the Power of Pre-trained Encoders for Universal Adversarial Attack Detection](https://arxiv.org//abs/2504.00429)
@@ -4282,6 +4371,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Zeliang Zhang, Susan Liang, Daiki Shimada, Chenliang Xu
 
+
++ [DELMAN: Dynamic Defense Against Large Language Model Jailbreaking with Model Editing](https://arxiv.org//abs/2502.11647)
+
+	Yi Wang, Fenghua Weng, Sibei Yang, Zhan Qin, Minlie Huang, Wenjie Wang
 
 # 2025-02-16
 + [BoT: Breaking Long Thought Processes of o1-like Large Language Models through Backdoor Attack](https://arxiv.org//abs/2502.12202)
@@ -11508,6 +11601,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	John Heibel, Daniel Lowd
 
 
+
++ [ASTPrompter: Preference-Aligned Automated Language Model Red-Teaming to Generate Low-Perplexity Unsafe Prompts](https://arxiv.org//abs/2407.09447)
+
+	Amelia F. Hardy, Houjun Liu, Bernard Lange, Duncan Eddy, Mykel J. Kochenderfer
 
 # 2024-07-11
 + [Prediction Exposes Your Face: Black-box Model Inversion via Prediction Alignment](https://arxiv.org//abs/2407.08127)
@@ -22969,6 +23066,11 @@ Xiaosen Wang, Zeyuan Yin
 + [LoRATK: LoRA Once, Backdoor Everywhere in the Share-and-Play Ecosystem](https://arxiv.org//abs/2403.00108)
 
 	Hongyi Liu, Shaochen Zhong, Xintong Sun, Minghao Tian, Mohsen Hariri, Zirui Liu, Ruixiang Tang, Zhimeng Jiang, Jiayi Yuan, Yu-Neng Chuang, Li Li, Soo-Hyun Choi, Rui Chen, Vipin Chaudhary, Xia Hu
+
+# 2024-02-27
++ [Robustness-Congruent Adversarial Training for Secure Machine Learning Model Updates](https://arxiv.org//abs/2402.17390)
+
+	Daniele Angioni, Luca Demetrio, Maura Pintor, Luca Oneto, Davide Anguita, Battista Biggio, Fabio Roli
 
 # 2024-02-21
 + [Round Trip Translation Defence against Large Language Model Jailbreaking Attacks](https://arxiv.org//abs/2402.13517)
