@@ -3,6 +3,36 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2025-06-01
++ [CoP: Agentic Red-teaming for Large Language Models using Composition of Principles](https://arxiv.org//abs/2506.00781)
+
+	Chen Xiong, Pin-Yu Chen, Tsung-Yi Ho
+
++ [Jailbreak-R1: Exploring the Jailbreak Capabilities of LLMs via Reinforcement Learning](https://arxiv.org//abs/2506.00782)
+
+	Weiyang Guo, Zesheng Shi, Zhuo Li, Yequan Wang, Xuebo Liu, Wenya Wang, Fangming Liu, Min Zhang, Jing Li
+
++ [Unlearning Inversion Attacks for Graph Neural Networks](https://arxiv.org//abs/2506.00808)
+
+	Jiahao Zhang, Yilong Wang, Zhiwei Zhang, Xiaorui Liu, Suhang Wang
+
++ [SafeGenes: Evaluating the Adversarial Robustness of Genomic Foundation Models](https://arxiv.org//abs/2506.00821)
+
+	Huixin Zhan, Jason H. Moore
+
+# 2025-05-31
++ [Monitoring Robustness and Individual Fairness](https://arxiv.org//abs/2506.00496)
+
+	Ashutosh Gupta, Thomas A. Henzinger, Konstantin Kueffner, Kaushik Mallik, David Pape
+
++ [The Security Threat of Compressed Projectors in Large Vision-Language Models](https://arxiv.org//abs/2506.00534)
+
+	Yudong Zhang, Ruobing Xie, Xingwu Sun, Jiansheng Chen, Zhanhui Kang, Di Wang, Yu Wang
+
++ [Bayesian Inference of Training Dataset Membership](https://arxiv.org//abs/2506.00701)
+
+	Yongchao Huang
+
 # 2025-05-30
 + [SEAR: A Multimodal Dataset for Analyzing AR-LLM-Driven Social Engineering Behaviors](https://arxiv.org//abs/2505.24458)
 
@@ -83,6 +113,22 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Cascading Adversarial Bias from Injection to Distillation in Language Models](https://arxiv.org//abs/2505.24842)
 
 	Harsh Chaudhari, Jamie Hayes, Matthew Jagielski, Ilia Shumailov, Milad Nasr, Alina Oprea
+
++ [COSMIC: Generalized Refusal Direction Identification in LLM Activations](https://arxiv.org//abs/2506.00085)
+
+	Vincent Siu, Nicholas Crispino, Zihao Yu, Sam Pan, Zhun Wang, Yang Liu, Dawn Song, Chenguang Wang
+
++ [TRAPDOC: Deceiving LLM Users by Injecting Imperceptible Phantom Tokens into Documents](https://arxiv.org//abs/2506.00089)
+
+	Hyundong Jin, Sicheol Sung, Shinwoo Park, SeungYeop Baik, Yo-Sub Han
+
++ [Heterogeneous Graph Backdoor Attack](https://arxiv.org//abs/2506.00191)
+
+	Jiawei Chen, Lusi Li, Daniel Takabi, Masha Sosonkina, Rui Ning
+
++ [Adversarial Threat Vectors and Risk Mitigation for Retrieval-Augmented Generation Systems](https://arxiv.org//abs/2506.00281)
+
+	Chris M. Ward, Josh Harguess
 
 # 2025-05-29
 + [TRAP: Targeted Redirecting of Agentic Preferences](https://arxiv.org//abs/2505.23518)
