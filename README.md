@@ -496,6 +496,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Rafaël Nouailles (GdR)
 
++ [Towards Cross-Subject EMG Pattern Recognition via Dual-Branch Adversarial Feature Disentanglement](https://arxiv.org//abs/2506.08555)
+
+	Xinyue Niu, Akira Furui
+
 # 2025-06-09
 + [HeTa: Relation-wise Heterogeneous Graph Foundation Attack Model](https://arxiv.org//abs/2506.07428)
 
