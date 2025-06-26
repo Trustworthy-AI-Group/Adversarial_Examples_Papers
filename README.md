@@ -3,6 +3,39 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2025-06-25
++ [Client Clustering Meets Knowledge Sharing: Enhancing Privacy and Robustness in Personalized Peer-to-Peer Learning](https://arxiv.org//abs/2506.20413)
+
+	Mohammad Mahdi Maheri, Denys Herasymuk, Hamed Haddadi
+
++ [Pay Less Attention to Deceptive Artifacts: Robust Detection of Compressed Deepfakes on Online Social Networks](https://arxiv.org//abs/2506.20548)
+
+	Manyi Li, Renshuai Tao, Yufan Liu, Chuangchuang Tan, Haotong Qin, Bing Li, Yunchao Wei, Yao Zhao
+
++ [Vulnerability Disclosure through Adaptive Black-Box Adversarial Attacks on NIDS](https://arxiv.org//abs/2506.20576)
+
+	Sabrine Ennaji, Elhadj Benkhelifa, Luigi V. Mancini
+
++ [InvZW: Invariant Feature Learning via Noise-Adversarial Training for Robust Image Zero-Watermarking](https://arxiv.org//abs/2506.20370)
+
+	Abdullah All Tanvir, Xin Zhong
+
++ [AdvMIM: Adversarial Masked Image Modeling for Semi-Supervised Medical Image Segmentation](https://arxiv.org//abs/2506.20563)
+
+	Lei Zhu, Jun Zhou, Rick Siow Mong Goh, Yong Liu
+
++ [Hear No Evil: Detecting Gradient Leakage by Malicious Servers in Federated Learning](https://arxiv.org//abs/2506.20651)
+
+	Fei Wang, Baochun Li
+
++ [Autonomous Cyber Resilience via a Co-Evolutionary Arms Race within a Fortified Digital Twin Sandbox](https://arxiv.org//abs/2506.20102)
+
+	Malikussaid, Sutiyo
+
++ [Don't Hash Me Like That: Exposing and Mitigating Hash-Induced Unfairness in Local Differential Privacy](https://arxiv.org//abs/2506.20290)
+
+	Berkay Kemal Balioglu, Alireza Khodaie, Mehmet Emre Gursoy
+
 # 2025-06-24
 + [Automated Detection of Pre-training Text in Black-box LLMs](https://arxiv.org//abs/2506.19399)
 
@@ -48,6 +81,18 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Xin Fan Guo, Albert Merono Penuela, Sergio Maffeis, Fabio Pierazzi
 
++ [Retrieval-Confused Generation is a Good Defender for Privacy Violation Attack of Large Language Models](https://arxiv.org//abs/2506.19889)
+
+	Wanli Peng, Xin Chen, Hang Fu, XinYu He, Xue Yiming, Juan Wen
+
++ [RepuNet: A Reputation System for Mitigating Malicious Clients in DFL](https://arxiv.org//abs/2506.19892)
+
+	Isaac Marroqui Penalva, Enrique Tomás Martínez Beltrán, Manuel Gil Pérez, Alberto Huertas Celdrán
+
++ [Diffusion-based Task-oriented Semantic Communications with Model Inversion Attack](https://arxiv.org//abs/2506.19886)
+
+	Xuesong Wang, Mo Li, Xingyan Shi, Zhaoqian Liu, Shenghao Yang
+
 # 2025-06-23
 + [Semantic Structure-Aware Generative Attacks for Enhanced Adversarial Transferability](https://arxiv.org//abs/2506.18248)
 
@@ -89,6 +134,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Georgii Bychkov, Khaled Abud, Egor Kovalev, Alexander Gushchin, Dmitriy Vatolin, Anastasia Antsiferova
 
++ [Towards Provable (In)Secure Model Weight Release Schemes](https://arxiv.org//abs/2506.19874)
+
+	Xing Yang, Bingtao Wang, Yuhao Wang, Zimo Ji, Terry Jingchen Zhang, Wenyuan Jiang
+
 # 2025-06-22
 + [Multi-turn Jailbreaking via Global Refinement and Active Fabrication](https://arxiv.org//abs/2506.17881)
 
@@ -113,6 +162,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Generalization under Byzantine & Poisoning Attacks: Tight Stability Bounds in Robust Distributed Learning](https://arxiv.org//abs/2506.18020)
 
 	Thomas Boudou, Batiste Le Bars, Nirupam Gupta, Aurélien Bellet
+
++ [An Attack Method for Medical Insurance Claim Fraud Detection based on Generative Adversarial Network](https://arxiv.org//abs/2506.19871)
+
+	Yining Pang, Chenghan Li
 
 # 2025-06-21
 + [Exploiting Efficiency Vulnerabilities in Dynamic Deep Learning Systems](https://arxiv.org//abs/2506.17621)
@@ -2000,6 +2053,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Nam Hoang Thanh, Trung Pham Duy, Lam Bui Thu
 
 + [$C^3$-Bench: The Things Real Disturbing LLM based Agent in Multi-Tasking](https://arxiv.org/abs/2505.18746)
+
+	Peijie Yu, Yifan Yang, Jinjian Li, Zelong Zhang, Haorui Wang, Xiao Feng, Feng Zhang
+
++ [$C^3$-Bench: The Things Real Disturbing LLM based Agent in Multi-Tasking](https://arxiv.org//abs/2505.18746)
 
 	Peijie Yu, Yifan Yang, Jinjian Li, Zelong Zhang, Haorui Wang, Xiao Feng, Feng Zhang
 
@@ -7016,6 +7073,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Refining Adaptive Zeroth-Order Optimization at Ease](https://arxiv.org//abs/2502.01014)
 
 	Yao Shu, Qixin Zhang, Kun He, Zhongxiang Dai
+
++ [Adversarial Reasoning at Jailbreaking Time](https://arxiv.org//abs/2502.01633)
+
+	Mahdi Sabbaghi, Paul Kassianik, George Pappas, Yaron Singer, Amin Karbasi, Hamed Hassani
 
 # 2025-02-02
 + [Safety at Scale: A Comprehensive Survey of Large Model Safety](https://arxiv.org//abs/2502.05206)
@@ -13069,6 +13130,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Emily Wenger, Eshika Saxena, Mohamed Malhou, Ellie Thieu, Kristin Lauter
 
 
+
++ [Fuzz-Testing Meets LLM-Based Agents: An Automated and Efficient Framework for Jailbreaking Text-To-Image Generation Models](https://arxiv.org//abs/2408.00523)
+
+	Yingkai Dong, Xiangtao Meng, Ning Yu, Zheng Li, Shanqing Guo
 
 # 2024-07-31
 + [Measuring What Matters: Intrinsic Distance Preservation as a Robust Metric for Embedding Quality](https://arxiv.org//abs/2407.21590)
