@@ -3,6 +3,23 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2025-06-27
++ [On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling](https://arxiv.org//abs/2506.21874)
+
+	Stanley Wu, Ronik Bhaskar, Anna Yoo Jeong Ha, Shawn Shan, Haitao Zheng, Ben Y. Zhao
+
++ [Advancing Jailbreak Strategies: A Hybrid Approach to Exploiting LLM Vulnerabilities and Bypassing Modern Defenses](https://arxiv.org//abs/2506.21972)
+
+	Mohamed Ahmed, Mohamed Abdelmouty, Mingyu Kim, Gunvanth Kandula, Alex Park, James C. Davis
+
++ [ARMOR: Robust Reinforcement Learning-based Control for UAVs under Physical Attacks](https://arxiv.org//abs/2506.22423)
+
+	Pritam Dash, Ethan Chan, Nathan P. Lawrence, Karthik Pattabiraman
+
++ [Adversarial Threats in Quantum Machine Learning: A Survey of Attacks and Defenses](https://arxiv.org//abs/2506.21842)
+
+	Archisman Ghosh, Satwik Kundu, Swaroop Ghosh
+
 # 2025-06-26
 + [Robust Policy Switching for Antifragile Reinforcement Learning for UAV Deconfliction in Adversarial Environments](https://arxiv.org//abs/2506.21127)
 
@@ -236,6 +253,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [AdRo-FL: Informed and Secure Client Selection for Federated Learning in the Presence of Adversarial Aggregator](https://arxiv.org//abs/2506.17805)
 
 	Md. Kamrul Hossain, Walid Aljoby, Anis Elgabli, Ahmed M. Abdelmoniem, Khaled A. Harras
+
++ [LastingBench: Defend Benchmarks Against Knowledge Leakage](https://arxiv.org//abs/2506.21614)
+
+	Yixiong Fang, Tianran Sun, Yuling Shi, Min Wang, Xiaodong Gu
 
 # 2025-06-20
 + [TriCon-SF: A Triple-Shuffle and Contribution-Aware Serial Federated Learning Framework for Heterogeneous Healthcare Data](https://arxiv.org//abs/2506.16723)
@@ -14209,6 +14230,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 
 
++ [CAPM: Fast and Robust Verification on Maxpool-based CNN via Dual Network](https://arxiv.org//abs/2407.09550)
+
+	Jia-Hau Bai, Chi-Ting Liu, Yu Wang, Fu-Chieh Chang, Pei-Yuan Wu
+
 # 2024-06-26
 + [Poisoned LangChain: Jailbreak LLMs by LangChain](https://arxiv.org//abs/2406.18122)
 
@@ -25288,6 +25313,11 @@ Xiaosen Wang, Zeyuan Yin
 
 	Dorjan Hitaj, Giulio Pagnotta, Fabio De Gaspari, Sediola Ruko, Briland Hitaj, Luigi V. Mancini, Fernando Perez-Cruz
 
+# 2024-03-04
++ [Enhancing Object Detection Robustness: Detecting and Restoring Confidence in the Presence of Adversarial Patch Attacks](https://arxiv.org//abs/2403.12988)
+
+	Roie Kazoom, Raz Birman, Ofer Hadar
+
 # 2024-02-29
 + [LoRATK: LoRA Once, Backdoor Everywhere in the Share-and-Play Ecosystem](https://arxiv.org//abs/2403.00108)
 
@@ -25400,6 +25430,11 @@ Xiaosen Wang, Zeyuan Yin
 + [Two Heads are Actually Better than One: Towards Better Adversarial Robustness via Transduction and Rejection](https://arxiv.org//abs/2305.17528)
 
 	Nils Palumbo, Yang Guo, Xi Wu, Jiefeng Chen, Yingyu Liang, Somesh Jha
+
+# 2023-05-16
++ [Releasing Inequality Phenomenon in $\ell_{\infty}$-norm Adversarial Training via Input Gradient Distillation](https://arxiv.org//abs/2305.09305)
+
+	Junxi Chen, Junhao Dong, Xiaohua Xie, Jianhuang Lai
 
 # 2023-05-06
 + [Gradient Leakage Defense with Key-Lock Module for Federated Learning](https://arxiv.org//abs/2305.04095)
