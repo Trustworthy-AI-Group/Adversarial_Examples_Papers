@@ -3,6 +3,51 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2025-07-02
++ [ICLShield: Exploring and Mitigating In-Context Learning Backdoor Attacks](https://arxiv.org//abs/2507.01321)
+
+	Zhiyao Ren, Siyuan Liang, Aishan Liu, Dacheng Tao
+
++ [Survivability of Backdoor Attacks on Unconstrained Face Recognition Systems](https://arxiv.org//abs/2507.01607)
+
+	Quentin Le Roux, Yannick Teglia, Teddy Furon, Philippe Loubet-Moundi, Eric Bourbao
+
++ [GPT, But Backwards: Exactly Inverting Language Model Outputs](https://arxiv.org//abs/2507.01693)
+
+	Adrians Skapars, Edoardo Manino, Youcheng Sun, Lucas C. Cordeiro
+
++ [Tuning without Peeking: Provable Privacy and Generalization Bounds for LLM Post-Training](https://arxiv.org//abs/2507.01752)
+
+	Ismail Labiad, Mathurin Videau, Matthieu Kowalski, Marc Schoenauer, Alessandro Leite, Julia Kempe, Olivier Teytaud
+
++ [Are Vision Transformer Representations Semantically Meaningful? A Case Study in Medical Imaging](https://arxiv.org//abs/2507.01788)
+
+	Montasir Shams, Chashi Mahiul Islam, Shaeke Salman, Phat Tran, Xiuwen Liu
+
++ [3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation](https://arxiv.org//abs/2507.01367)
+
+	Tianrui Lou, Xiaojun Jia, Siyuan Liang, Jiawei Liang, Ming Zhang, Yanjun Xiao, Xiaochun Cao
+
++ [Gradient Short-Circuit: Efficient Out-of-Distribution Detection via Feature Intervention](https://arxiv.org//abs/2507.01417)
+
+	Jiawei Gu, Ziyue Qiao, Zechao Li
+
++ [Boosting Adversarial Transferability Against Defenses via Multi-Scale Transformation](https://arxiv.org//abs/2507.01791)
+
+	Zihong Guo, Chen Wan, Yayin Zheng, Hailing Kuang, Xiaohai Lu
+
++ [SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism](https://arxiv.org//abs/2507.01513)
+
+	Beitao Chen, Xinyu Lyu, Lianli Gao, Jingkuan Song, Heng Tao Shen
+
++ [Graph Representation-based Model Poisoning on Federated LLMs in CyberEdge Networks](https://arxiv.org//abs/2507.01694)
+
+	Hanlin Cai, Haofan Dong, Houtianfu Wang, Kai Li, Ozgur B. Akan
+
++ [Towards Better Attribute Inference Vulnerability Measures](https://arxiv.org//abs/2507.01710)
+
+	Paul Francis, David Wagner
+
 # 2025-07-01
 + [PNAct: Crafting Backdoor Attacks in Safe Reinforcement Learning](https://arxiv.org//abs/2507.00485)
 
@@ -4111,6 +4156,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Leo Boisvert, Mihir Bansal, Chandra Kiran Reddy Evuru, Gabriel Huang, Abhay Puri, Avinandan Bose, Maryam Fazel, Quentin Cappart, Jason Stanley, Alexandre Lacoste, Alexandre Drouin, Krishnamurthy Dvijotham
 
 
+
++ [AutoAdv: Automated Adversarial Prompting for Multi-Turn Jailbreaking of Large Language Models](https://arxiv.org//abs/2507.01020)
+
+	Aashray Reddy, Andrew Zagula, Nicholas Saban
 
 # 2025-04-17
 
@@ -13353,6 +13402,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Slobodan Jenko, Niels Mündler, Jingxuan He, Mark Vero, Martin Vechev
 
++ [Caution for the Environment: Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.org//abs/2408.02544)
+
+	Xinbei Ma, Yiting Wang, Yao Yao, Tongxin Yuan, Aston Zhang, Zhuosheng Zhang, Hai Zhao
+
 # 2024-08-02
 + [Interpreting Global Perturbation Robustness of Image Models using Axiomatic Spectral Importance Decomposition](https://arxiv.org//abs/2408.01139)
 
@@ -14597,6 +14650,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Hyeyoon Lee, Kanghyun Choi, Dain Kwon, Sunjong Park, Mayoore Selvarasa Jaiswal, Noseong Park, Jonghyun Choi, Jinho Lee
 
 
+
++ [Backdooring Bias (B^2) into Stable Diffusion Models](https://arxiv.org//abs/2406.15213)
+
+	Ali Naseh, Jaechul Roh, Eugene Bagdasaryan, Amir Houmansadr
 
 # 2024-06-20
 + [Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric Perspective](https://arxiv.org//abs/2406.14023)
@@ -25630,6 +25687,11 @@ Xiaosen Wang, Zeyuan Yin
 
 	Zeyu Song, Ehsanul Kabir, Shagufta Mehnaz
 
+# 2023-11-02
++ [Upper and lower bounds for the Lipschitz constant of random neural networks](https://arxiv.org//abs/2311.01356)
+
+	Paul Geuchen, Dominik Stöger, Thomas Telaar, Felix Voigtlaender
+
 # 2023-10-24
 + [Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles](https://arxiv.org//abs/2310.15952)
 
@@ -25688,6 +25750,11 @@ Xiaosen Wang, Zeyuan Yin
 + [ByzSecAgg: A Byzantine-Resistant Secure Aggregation Scheme for Federated Learning Based on Coded Computing and Vector Commitment](https://arxiv.org//abs/2302.09913)
 
 	Tayyebeh Jahani-Nezhad, Mohammad Ali Maddah-Ali, Giuseppe Caire
+
+# 2022-12-20
++ [Learned-Database Systems Security](https://arxiv.org//abs/2212.10318)
+
+	Roei Schuster, Jin Peng Zhou, Thorsten Eisenhofer, Paul Grubbs, Nicolas Papernot
 
 # 2022-12-09
 + [Iterative Minimax Games with Coupled Linear Constraints](https://arxiv.org//abs/2212.04672)
