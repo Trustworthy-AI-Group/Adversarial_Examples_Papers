@@ -3,6 +3,35 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2025-07-03
++ [De-AntiFake: Rethinking the Protective Perturbations Against Voice Cloning Attacks](https://arxiv.org//abs/2507.02606)
+
+	Wei Fan, Kejiang Chen, Chang Liu, Weiming Zhang, Nenghai Yu
+
++ [Meta SecAlign: A Secure Foundation LLM Against Prompt Injection Attacks](https://arxiv.org//abs/2507.02735)
+
+	Sizhe Chen, Arman Zharmagambetov, David Wagner, Chuan Guo
+
++ [Is Reasoning All You Need? Probing Bias in the Age of Reasoning Language Models](https://arxiv.org//abs/2507.02799)
+
+	Riccardo Cantini, Nicola Gabriele, Alessio Orsino, Domenico Talia
+
++ [LLM Hypnosis: Exploiting User Feedback for Unauthorized Knowledge Injection to All Users](https://arxiv.org//abs/2507.02850)
+
+	Almog Hilel, Idan Shenfeld, Leshem Choshen, Jacob Andreas
+
++ [Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection](https://arxiv.org//abs/2507.02844)
+
+	Ziqi Miao, Yi Ding, Lijun Li, Jing Shao
+
++ [Fluid Democracy in Federated Data Aggregation](https://arxiv.org//abs/2507.02710)
+
+	Aditya Vema Reddy Kesari, Krishna Reddy Kesari
+
++ [PII Jailbreaking in LLMs via Activation Steering Reveals Personal Information Leakage](https://arxiv.org//abs/2507.02332)
+
+	Krishna Kanth Nakka, Xue Jiang, Xuebing Zhou
+
 # 2025-07-02
 + [ICLShield: Exploring and Mitigating In-Context Learning Backdoor Attacks](https://arxiv.org//abs/2507.01321)
 
@@ -723,6 +752,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Theoretically Unmasking Inference Attacks Against LDP-Protected Clients in Federated Vision Models](https://arxiv.org//abs/2506.17292)
 
 	Quan Nguyen, Minh N. Vu, Truc Nguyen, My T. Thai
+
++ [Membership Inference Attacks as Privacy Tools: Reliability, Disparity and Ensemble](https://arxiv.org//abs/2506.13972)
+
+	Zhiqi Wang, Chengyu Zhang, Yuetian Chen, Nathalie Baracaldo, Swanand Kadhe, Lei Yu
 
 # 2025-06-15
 + [Constraint-Guided Prediction Refinement via Deterministic Diffusion Trajectories](https://arxiv.org//abs/2506.12911)
@@ -6649,6 +6682,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Can LLM Watermarks Robustly Prevent Unauthorized Knowledge Distillation?](https://arxiv.org/abs/2502.11598)
 
 	Leyi Pan, Aiwei Liu, Shiyu Huang, Yijian Lu, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu
+
++ [StructTransform: A Scalable Attack Surface for Safety-Aligned Large Language Models](https://arxiv.org//abs/2502.11853)
+
+	Shehel Yoosuf, Temoor Ali, Ahmed Lekssays, Mashael AlSabah, Issa Khalil
 
 # 2025-02-16
 + [BoT: Breaking Long Thought Processes of o1-like Large Language Models through Backdoor Attack](https://arxiv.org//abs/2502.12202)
@@ -12840,6 +12877,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Woojin Shin, Donghwa Kang, Daejin Choi, Brent Kang, Jinkyu Lee, Hyeongboo Baek
 
 
+
++ [Assessing the Uncertainty and Robustness of the Laptop Refurbishing Software](https://arxiv.org//abs/2409.03782)
+
+	Chengjie Lu, Jiahui Wu, Shaukat Ali, Mikkel Labori Olsen
 
 # 2024-08-21
 + [Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer](https://arxiv.org//abs/2408.11313)
