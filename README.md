@@ -153,7 +153,7 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 + [Poisoning Attacks to Local Differential Privacy for Ranking Estimation](https://arxiv.org//abs/2506.24033)
 
-	Pei Zhan (1, 2 and 3), Peng Tang (1, 2 and 3), Yangzhuo Li (1 and 3), Puwen Wei (1 and 3), Shanqing Guo (1 and 3) ((1) School of Cyber Science and Technology, Shandong University, (2) Quan Cheng Laboratory, Jinan, China, (3) State Key Laboratory of Cryptography and Digital Economy Security, Shandong University, Qingdao, China)
+	Pei Zhan, Peng Tang, Yangzhuo Li, Puwen Wei, Shanqing Guo
 
 + [Impact of Fine-Tuning Methods on Memorization in Large Language Models](https://arxiv.org//abs/2507.00258)
 
@@ -890,7 +890,7 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 + [On the Natural Robustness of Vision-Language Models Against Visual Perception Attacks in Autonomous Driving](https://arxiv.org//abs/2506.11472)
 
-	Pedram MohajerAnsari (1), Amir Salarpour (1), Michael Kühr (2), Siyu Huang (1), Mohammad Hamad (2), Sebastian Steinhorst (2), Habeeb Olufowobi (3), Mert D. Pesé (1) ((1) Clemson University, Clemson, SC, USA, (2) Technical University of Munich, Munich, Germany, (3) University of Texas at Arlington, Arlington, TX, USA)
+	Pedram MohajerAnsari, Amir Salarpour, Michael Kühr, Siyu Huang, Mohammad Hamad, Sebastian Steinhorst, Habeeb Olufowobi, Mert D. Pesé
 
 + [Byzantine Outside, Curious Inside: Reconstructing Data Through Malicious Updates](https://arxiv.org//abs/2506.11413)
 
@@ -11892,7 +11892,7 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 + [Discovering New Shadow Patterns for Black-Box Attacks on Lane Detection of Autonomous Vehicles](https://arxiv.org//abs/2409.18248)
 
-	Pedram MohajerAnsari (1), Amir Salarpour (1), Jan de Voor (1), Alkim Domeke (1), Arkajyoti Mitra (2), Grace Johnson (1), Habeeb Olufowobi (2), Mohammad Hamad (3), Mert D. Pese (1) ((1) Clemson University, Clemson, SC, USA, (2) University of Texas at Arlington, Arlington, TX, USA, (3) Technical University of Munich, Munich, Germany)
+	Pedram MohajerAnsari, Amir Salarpour, Jan de Voor, Alkim Domeke, Arkajyoti Mitra, Grace Johnson, Habeeb Olufowobi, Mohammad Hamad, Mert D. Pese
 
 # 2024-09-25
 + [Claim-Guided Textual Backdoor Attack for Practical Applications](https://arxiv.org//abs/2409.16618)
