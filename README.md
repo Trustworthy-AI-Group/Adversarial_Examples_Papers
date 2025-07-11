@@ -77,6 +77,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Dongyu Wei, Xiaoren Xu, Yuchen Liu, H. Vincent Poor, Mingzhe Chen
 
++ [On the Impossibility of Separating Intelligence from Judgment: The Computational Intractability of Filtering for AI Alignment](https://arxiv.org//abs/2507.07341)
+
+	Sarah Ball, Greg Gluch, Shafi Goldwasser, Frauke Kreuter, Omer Reingold, Guy N. Rothblum
+
 # 2025-07-08
 + [DATABench: Evaluating Dataset Auditing in Deep Learning from an Adversarial Perspective](https://arxiv.org//abs/2507.05622)
 
