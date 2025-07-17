@@ -3,6 +3,67 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2025-07-16
++ [Spatial Frequency Modulation for Semantic Segmentation](https://arxiv.org//abs/2507.11893)
+
+	Linwei Chen, Ying Fu, Lin Gu, Dezhi Zheng, Jifeng Dai
+
++ [Robust Planning for Autonomous Vehicles with Diffusion-Based Failure Samplers](https://arxiv.org//abs/2507.11991)
+
+	Juanran Wang, Marc R. Schlichting, Mykel J. Kochenderfer
+
++ [InstructFLIP: Exploring Unified Vision-Language Model for Face Anti-spoofing](https://arxiv.org//abs/2507.12060)
+
+	Kun-Hsiang Lin, Yu-Wen Tseng, Kang-Yang Huang, Jhih-Ciang Wu, Wen-Huang Cheng
+
++ [Non-Adaptive Adversarial Face Generation](https://arxiv.org//abs/2507.12107)
+
+	Sunpill Kim, Seunghun Paik, Chanwoo Hwang, Minsu Kim, Jae Hong Seo
+
++ [Thought Purity: Defense Paradigm For Chain-of-Thought Attack](https://arxiv.org//abs/2507.12314)
+
+	Zihao Xue, Zhen Bi, Long Ma, Zhenlin Hu, Yan Wang, Zhenfang Liu, Qing Sheng, Jie Xiao, Jungang Lou
+
++ [LLMs Encode Harmfulness and Refusal Separately](https://arxiv.org//abs/2507.11878)
+
+	Jiachen Zhao, Jing Huang, Zhengxuan Wu, David Bau, Weiyan Shi
+
++ [Overview of the Sensemaking Task at the ELOQUENT 2025 Lab: LLMs as Teachers, Students and Evaluators](https://arxiv.org//abs/2507.12143)
+
+	Pavel Šindelář, Ondřej Bojar
+
++ [Nonlinear Concept Erasure: a Density Matching Approach](https://arxiv.org//abs/2507.12341)
+
+	Antoine Saillenfest, Pirmin Lemberger
+
++ [Watch, Listen, Understand, Mislead: Tri-modal Adversarial Attacks on Short Videos for Content Appropriateness Evaluation](https://arxiv.org//abs/2507.11968)
+
+	Sahid Hossain Mustakim, S M Jishanul Islam, Ummay Maria Muna, Montasir Chowdhury, Mohammed Jawwadul Islam, Sadia Ahmmed, Tashfia Sikder, Syed Tasdid Azam Dhrubo, Swakkhar Shatabda
+
++ [FADE: Adversarial Concept Erasure in Flow Models](https://arxiv.org//abs/2507.12283)
+
+	Zixuan Fu, Yan Ren, Finn Carter, Chenyue Wang, Ze Niu, Dacheng Yu, Emily Davis, Bo Zhang
+
++ [Self-Adaptive and Robust Federated Spectrum Sensing without Benign Majority for Cellular Networks](https://arxiv.org//abs/2507.12127)
+
+	Ngoc Duy Pham, Thusitha Dayaratne, Viet Vo, Shangqi Lai, Sharif Abuadbba, Hajime Suzuki, Xingliang Yuan, Carsten Rudolph
+
++ [Trustworthy Tree-based Machine Learning by $MoS_2$ Flash-based Analog CAM with Inherent Soft Boundaries](https://arxiv.org//abs/2507.12384)
+
+	Bo Wen, Guoyun Gao, Zhicheng Xu, Ruibin Mao, Xiaojuan Qi, X. Sharon Hu, Xunzhao Yin, Can Li
+
++ [A Bayesian Incentive Mechanism for Poison-Resilient Federated Learning](https://arxiv.org//abs/2507.12439)
+
+	Daniel Commey, Rebecca A. Sarpong, Griffith S. Klogo, Winful Bagyl-Bac, Garth V. Crosby
+
++ [A Privacy-Preserving Framework for Advertising Personalization Incorporating Federated Learning and Differential Privacy](https://arxiv.org//abs/2507.12098)
+
+	Xiang Li, Yifan Lin, Yuanzhe Zhang
+
++ [Exploiting Jailbreaking Vulnerabilities in Generative AI to Bypass Ethical Safeguards for Facilitating Phishing Attacks](https://arxiv.org//abs/2507.12185)
+
+	Rina Mishra, Gaurav Varshney
+
 # 2025-07-15
 + [How to Protect Models against Adversarial Unlearning?](https://arxiv.org//abs/2507.10886)
 
@@ -43,6 +104,26 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [A Parallelizable Approach for Characterizing NE in Zero-Sum Games After a Linear Number of Iterations of Gradient Descent](https://arxiv.org//abs/2507.11366)
 
 	Taemin Kim, James P. Bailey
+
++ [Jailbreak-Tuning: Models Efficiently Learn Jailbreak Susceptibility](https://arxiv.org//abs/2507.11630)
+
+	Brendan Murphy, Dillon Bowen, Shahrad Mohammadzadeh, Julius Broomfield, Adam Gleave, Kellin Pelrine
+
++ [Subgraph Generation for Generalizing on Out-of-Distribution Links](https://arxiv.org//abs/2507.11710)
+
+	Jay Revolinsky, Harry Shomer, Jiliang Tang
+
++ [Challenges in GenAI and Authentication: a scoping review](https://arxiv.org//abs/2507.11775)
+
+	Wesley dos Reis Bezerra, Lais Machado Bezerra, Carlos Becker Westphall
+
++ [ZKP-FedEval: Verifiable and Privacy-Preserving Federated Evaluation using Zero-Knowledge Proofs](https://arxiv.org//abs/2507.11649)
+
+	Daniel Commey, Benjamin Appiah, Griffith S. Klogo, Garth V. Crosby
+
++ [Evasion Under Blockchain Sanctions](https://arxiv.org//abs/2507.11721)
+
+	Endong Liu, Mark Ryan, Liyi Zhou, Pascal Berrang
 
 # 2025-07-14
 + [BlueGlass: A Framework for Composite AI Safety](https://arxiv.org//abs/2507.10106)
@@ -407,6 +488,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Zhibo Zhang, Yuxi Li, Kailong Wang, Shuai Yuan, Ling Shi, Haoyu Wang
 
++ [The Safety Gap Toolkit: Evaluating Hidden Dangers of Open-Source Models](https://arxiv.org//abs/2507.11544)
+
+	Ann-Kathrin Dombrowski, Dillon Bowen, Adam Gleave, Chris Cundy
+
 # 2025-07-07
 + [Trojan Horse Prompting: Jailbreaking Conversational Multimodal Models by Forging Assistant Message](https://arxiv.org//abs/2507.04673)
 
@@ -595,6 +680,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Adopting a human developmental visual diet yields robust, shape-based AI vision](https://arxiv.org//abs/2507.03168)
 
 	Zejin Lu, Sushrut Thorat, Radoslaw M Cichy, Tim C Kietzmann
+
++ [Rethinking Data Protection in the (Generative) Artificial Intelligence Era](https://arxiv.org//abs/2507.03034)
+
+	Yiming Li, Shuo Shao, Yu He, Junfeng Guo, Tianwei Zhang, Zhan Qin, Pin-Yu Chen, Michael Backes, Philip Torr, Dacheng Tao, Kui Ren
 
 # 2025-07-02
 + [ICLShield: Exploring and Mitigating In-Context Learning Backdoor Attacks](https://arxiv.org//abs/2507.01321)
@@ -2208,6 +2297,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems](https://arxiv.org//abs/2506.04133)
 
 	Shaina Raza, Ranjan Sapkota, Manoj Karkee, Christos Emmanouilidis
+
++ [macOSWorld: A Multilingual Interactive Benchmark for GUI Agents](https://arxiv.org//abs/2506.04135)
+
+	Pei Yang, Hai Ci, Mike Zheng Shou
 
 # 2025-06-03
 + [VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents](https://arxiv.org//abs/2506.02456)
@@ -8295,6 +8388,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Jailbreak-AudioBench: In-Depth Evaluation and Analysis of Jailbreak Threats for Large Audio Language Models](https://arxiv.org//abs/2501.13772)
 
 	Hao Cheng, Erjia Xiao, Jing Shao, Yichi Wang, Le Yang, Chao Sheng, Philip Torr, Jindong Gu, Renjing Xu
+
++ [PBM-VFL: Vertical Federated Learning with Feature and Sample Privacy](https://arxiv.org//abs/2501.13916)
+
+	Linh Tran, Timothy Castiglia, Stacy Patterson, Ana Milanova
 
 # 2025-01-22
 + [Robust Representation Consistency Model via Contrastive Denoising](https://arxiv.org//abs/2501.13094)
@@ -26326,6 +26423,11 @@ Xiaosen Wang, Zeyuan Yin
 + [Bridging Privacy and Robustness for Trustworthy Machine Learning](https://arxiv.org//abs/2403.16591)
 
 	Xiaojin Zhang, Wei Chen
+
+# 2024-03-23
++ [Protecting Copyrighted Material with Unique Identifiers in Large Language Model Training](https://arxiv.org//abs/2403.15740)
+
+	Shuai Zhao, Linchao Zhu, Ruijie Quan, Yi Yang
 
 # 2024-03-20
 + [Certified Human Trajectory Prediction](https://arxiv.org//abs/2403.13778)
