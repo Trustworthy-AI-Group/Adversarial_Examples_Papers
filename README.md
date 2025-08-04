@@ -3,6 +3,96 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2025-08-01
++ [R1-ACT: Efficient Reasoning Model Safety Alignment by Activating Safety Knowledge](https://arxiv.org//abs/2508.00324)
+
+	Yeonjun In, Wonjoong Kim, Sangwu Park, Chanyoung Park
+
++ [Pro2Guard: Proactive Runtime Enforcement of LLM Agent Safety via Probabilistic Model Checking](https://arxiv.org//abs/2508.00500)
+
+	Haoyu Wang, Chris M. Poskitt, Jun Sun, Jiali Wei
+
++ [CyGATE: Game-Theoretic Cyber Attack-Defense Engine for Patch Strategy Optimization](https://arxiv.org//abs/2508.00478)
+
+	Yuning Jiang, Nay Oo, Qiaoran Meng, Lu Lin, Dusit Niyato, Zehui Xiong, Hoon Wei Lim, Biplab Sikdar
+
++ [Activation-Guided Local Editing for Jailbreaking Attacks](https://arxiv.org//abs/2508.00555)
+
+	Jiecong Wang, Haoran Li, Hao Peng, Ziqian Zeng, Zihao Wang, Haohua Du, Zhengtao Yu
+
++ [Wukong Framework for Not Safe For Work Detection in Text-to-Image systems](https://arxiv.org//abs/2508.00591)
+
+	Mingrui Liu, Sixiao Zhang, Cheng Long
+
++ [LeakSealer: A Semisupervised Defense for LLMs Against Prompt Injection and Leakage Attacks](https://arxiv.org//abs/2508.00602)
+
+	Francesco Panebianco, Stefano Bonfanti, Francesco Trovò, Michele Carminati
+
++ [Backdoor Attacks on Deep Learning Face Detection](https://arxiv.org//abs/2508.00620)
+
+	Quentin Le Roux, Yannick Teglia, Teddy Furon, Philippe Loubet-Moundi
+
++ [Is It Really You? Exploring Biometric Verification Scenarios in Photorealistic Talking-Head Avatar Videos](https://arxiv.org//abs/2508.00748)
+
+	Laura Pedrouzo-Rodriguez, Pedro Delgado-DeRobles, Luis F. Gomez, Ruben Tolosana, Ruben Vera-Rodriguez, Aythami Morales, Julian Fierrez
+
++ [MMBERT: Scaled Mixture-of-Experts Multimodal BERT for Robust Chinese Hate Speech Detection under Cloaking Perturbations](https://arxiv.org//abs/2508.00760)
+
+	Qiyao Xue, Yuchen Dou, Ryan Shi, Xiang Lorraine Li, Wei Gao
+
++ [DACTYL: Diverse Adversarial Corpus of Texts Yielded from Large Language Models](https://arxiv.org//abs/2508.00619)
+
+	Shantanu Thorat, Andrew Caines
+
++ [Privacy-Preserving Driver Drowsiness Detection with Spatial Self-Attention and Federated Learning](https://arxiv.org//abs/2508.00287)
+
+	Tran Viet Khoa, Do Hai Son, Mohammad Abu Alsheikh, Yibeltal F Alem, Dinh Thai Hoang
+
++ [IN2OUT: Fine-Tuning Video Inpainting Model for Video Outpainting Using Hierarchical Discriminator](https://arxiv.org//abs/2508.00418)
+
+	Sangwoo Youn, Minji Lee, Nokap Tony Park, Yeonggyoo Jeon, Taeyoung Na
+
++ [DBLP: Noise Bridge Consistency Distillation For Efficient And Reliable Adversarial Purification](https://arxiv.org//abs/2508.00552)
+
+	Chihan Huang, Belal Alsinglawi, Islam Al-qudah
+
++ [Revisiting Adversarial Patch Defenses on Object Detectors: Unified Evaluation, Large-Scale Dataset, and New Insights](https://arxiv.org//abs/2508.00649)
+
+	Junhao Zheng, Jiahao Sun, Chenhao Lin, Zhengyu Zhao, Chen Ma, Chong Zhang, Cong Wang, Qian Wang, Chao Shen
+
++ [STF: Shallow-Level Temporal Feedback to Enhance Spiking Transformers](https://arxiv.org//abs/2508.00387)
+
+	Zeqi Zheng, Zizheng Zhu, Yingchao Yu, Yanchen Huang, Changze Lv, Junfeng Tang, Zhaofei Yu, Yaochu Jin
+
++ [Wind Power Scenario Generation based on the Generalized Dynamic Factor Model and Generative Adversarial Network](https://arxiv.org//abs/2508.00692)
+
+	Young-ho Cho, Hao Zhu, Duehee Lee, Ross Baldick
+
++ [FedGuard: A Diverse-Byzantine-Robust Mechanism for Federated Learning with Major Malicious Clients](https://arxiv.org//abs/2508.00636)
+
+	Haocheng Jiang, Hua Shen, Jixin Zhang, Willy Susilo, Mingwu Zhang
+
++ [LeakyCLIP: Extracting Training Data from CLIP](https://arxiv.org//abs/2508.00756)
+
+	Yunhao Chen, Shujie Wang, Xin Wang, Xingjun Ma
+
+# 2025-07-31
++ [Hyperproperty-Constrained Secure Reinforcement Learning](https://arxiv.org//abs/2508.00106)
+
+	Ernest Bonnah, Luan Viet Nguyen, Khaza Anuarul Hoque
+
++ [Watch the Weights: Unsupervised monitoring and control of fine-tuned LLMs](https://arxiv.org//abs/2508.00161)
+
+	Ziqian Zhong, Aditi Raghunathan
+
++ [On the Risk of Misleading Reports: Diagnosing Textual Biases in Multimodal Clinical AI](https://arxiv.org//abs/2508.00171)
+
+	David Restrepo, Ira Ktena, Maria Vakalopoulou, Stergios Christodoulidis, Enzo Ferrante
+
++ [Improved Robustness and Functional Localization in Topographic CNNs Through Weight Similarity](https://arxiv.org//abs/2508.00043)
+
+	Nhut Truong, Uri Hasson
+
 # 2025-07-30
 + [Theoretical Analysis of Relative Errors in Gradient Computations for Adversarial Attacks with CE Loss](https://arxiv.org//abs/2507.22428)
 
@@ -117,6 +207,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Memorization in Fine-Tuned Large Language Models](https://arxiv.org/abs/2507.21009)
 
 	Danil Savine, Muni Sreenivas Pydi, Jamal Atif, Olivier Cappé
+
++ [Verification Cost Asymmetry in Cognitive Warfare: A Complexity-Theoretic Framework](https://arxiv.org//abs/2507.21258)
+
+	Joshua Luberisse
 
 # 2025-07-27
 + [The Blessing and Curse of Dimensionality in Safety Alignment](https://arxiv.org/abs/2507.20333)
@@ -5418,6 +5512,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Nusrat Jahan, Ratun Rahman, Michel Wang
 
++ [DCT-Shield: A Robust Frequency Domain Defense against Malicious Image Editing](https://arxiv.org//abs/2504.17894)
+
+	Aniruddha Bala, Rohit Chowdhury, Rohan Jaiswal, Siddharth Roheda
+
 # 2025-04-23
 
 + [Statistical Guarantees in Synthetic Data through Conformal Adversarial Generation](https://arxiv.org//abs/2504.17058)
@@ -5834,6 +5932,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Decomposition-Based Optimal Bounds for Privacy Amplification via Shuffling](https://arxiv.org//abs/2504.07414)
 
 	Pengcheng Su, Haibo Cheng, Ping Wang
+
++ [FakeIDet: Exploring Patches for Privacy-Preserving Fake ID Detection](https://arxiv.org//abs/2504.07761)
+
+	Javier Muñoz-Haro, Ruben Tolosana, Ruben Vera-Rodriguez, Aythami Morales, Julian Fierrez
 
 # 2025-04-09
 + [The Importance of Being Discrete: Measuring the Impact of Discretization in End-to-End Differentially Private Synthetic Data](https://arxiv.org//abs/2504.06923)
@@ -16016,6 +16118,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Simon Ostermann, Kevin Baum, Christoph Endres, Julia Masloh, Patrick Schramowski
 
+
++ [SPLITZ: Certifiable Robustness via Split Lipschitz Randomized Smoothing](https://arxiv.org//abs/2407.02811)
+
+	Meiyu Zhong, Ravi Tandon
 
 # 2024-07-02
 + [EvolBA: Evolutionary Boundary Attack under Hard-label Black Box condition](https://arxiv.org/abs/2407.02248)
@@ -27512,6 +27618,11 @@ Xiaosen Wang, Zeyuan Yin
 + [Refiner: Data Refining against Gradient Leakage Attacks in Federated Learning](https://arxiv.org//abs/2212.02042)
 
 	Mingyuan Fan, Cen Chen, Chengyu Wang, Xiaodan Li, Wenmeng Zhou
+
+# 2022-12-02
++ [Safe machine learning model release from Trusted Research Environments: The SACRO-ML package](https://arxiv.org//abs/2212.01233)
+
+	Jim Smith, Richard J. Preen, Andrew McCarthy, Maha Albashir, Alba Crespi-Boixader, Shahzad Mumtaz, Christian Cole, James Liley, Jost Migenda, Simon Rogers, Yola Jones
 
 # 2022-10-26
 + [Privacy Analysis of Samsung's Crowd-Sourced Bluetooth Location Tracking System](https://arxiv.org//abs/2210.14702)
