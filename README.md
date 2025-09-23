@@ -3,6 +3,153 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2025-09-22
++ [Is It Certainly a Deepfake? Reliability Analysis in Detection & Generation Ecosystem](https://arxiv.org//abs/2509.17550)
+
+	Neslihan Kose, Anthony Rhodes, Umur Aybars Ciftci, Ilke Demir
+
++ [Distributionally Robust Safety Verification of Neural Networks via Worst-Case CVaR](https://arxiv.org//abs/2509.17413)
+
+	Masako Kishida
+
++ [Privacy in Action: Towards Realistic Privacy Mitigation and Evaluation for LLM-Powered Agents](https://arxiv.org//abs/2509.17488)
+
+	Shouju Wang, Fenglin Yu, Xirui Liu, Xiaoting Qin, Jue Zhang, Qingwei Lin, Dongmei Zhang, Saravan Rajmohan
+
++ [Hybrid Reputation Aggregation: A Robust Defense Mechanism for Adversarial Federated Learning in 5G and Edge Network Environments](https://arxiv.org//abs/2509.18044)
+
+	Saeid Sheikhi, Panos Kostakos, Lauri Loven
+
++ [Strategic Dishonesty Can Undermine AI Safety Evaluations of Frontier LLM](https://arxiv.org//abs/2509.18058)
+
+	Alexander Panfilov, Evgenii Kortukov, Kristina Nikolić, Matthias Bethge, Sebastian Lapuschkin, Wojciech Samek, Ameya Prabhu, Maksym Andriushchenko, Jonas Geiping
+
++ [D-REX: A Benchmark for Detecting Deceptive Reasoning in Large Language Models](https://arxiv.org//abs/2509.17938)
+
+	Satyapriya Krishna, Andy Zou, Rahul Gupta, Eliot Krzysztof Jones, Nick Winter, Dan Hendrycks, J. Zico Kolter, Matt Fredrikson, Spyros Matsoukas
+
++ [An Unlearning Framework for Continual Learning](https://arxiv.org//abs/2509.17530)
+
+	Sayanta Adhikari, Vishnuprasadh Kumaravelu, P. K. Srijith
+
++ [Budgeted Adversarial Attack against Graph-Based Anomaly Detection in Sensor Networks](https://arxiv.org//abs/2509.17987)
+
+	Sanju Xaviar, Omid Ardakanian
+
++ [SilentStriker:Toward Stealthy Bit-Flip Attacks on Large Language Models](https://arxiv.org//abs/2509.17371)
+
+	Haotian Xu, Qingsong Peng, Jie Shi, Huadi Zheng, Yu Li, Cheng Zhuo
+
++ [Lipschitz-Based Robustness Certification for Recurrent Neural Networks via Convex Relaxation](https://arxiv.org//abs/2509.17898)
+
+	Paul Hamelbeck, Johannes Schiffer
+
++ [Shilling Recommender Systems by Generating Side-feature-aware Fake User Profiles](https://arxiv.org//abs/2509.17918)
+
+	Yuanrong Wang, Yingpeng Du
+
++ [TextCrafter: Optimization-Calibrated Noise for Defending Against Text Embedding Inversion](https://arxiv.org//abs/2509.17302)
+
+	Duoxun Tang, Xinhang Jiang, Jiajun Niu
+
++ [B-Privacy: Defining and Enforcing Privacy in Weighted Voting](https://arxiv.org//abs/2509.17871)
+
+	Samuel Breckenridge, Dani Vilardell, Andrés Fábrega, Amy Zhao, Patrick McCorry, Rafael Solari, Ari Juels
+
++ [Synth-MIA: A Testbed for Auditing Privacy Leakage in Tabular Data Synthesis](https://arxiv.org//abs/2509.18014)
+
+	Joshua Ward, Xiaofeng Lin, Chi-Hua Wang, Guang Cheng
+
++ [Quickest Change Detection in Continuous-Time in Presence of a Covert Adversary](https://arxiv.org//abs/2509.17778)
+
+	Amir Reza Ramtin, Philippe Nain, Don Towsley
+
+# 2025-09-21
++ [Mind the Gap: Comparing Model- vs Agentic-Level Red Teaming with Action-Graph Observability on GPT-OSS-20B](https://arxiv.org//abs/2509.17259)
+
+	Ilham Wicaksono, Zekun Wu, Rahul Patel, Theo King, Adriano Koshiyama, Philip Treleaven
+
++ [AdaptiveGuard: Towards Adaptive Runtime Safety for LLM-Powered Software](https://arxiv.org//abs/2509.16861)
+
+	Rui Yang, Michael Fu, Chakkrit Tantithamthavorn, Chetan Arora, Gunel Gulmammadova, Joey Chua
+
++ [Learning from Gene Names, Expression Values and Images: Contrastive Masked Text-Image Pretraining for Spatial Transcriptomics Representation Learning](https://arxiv.org//abs/2509.16892)
+
+	Jiahe Qian, Yaoyu Fang, Ziqiao Weng, Xinkun Wang, Lee A. Cooper, Bo Zhou
+
++ [Localizing Malicious Outputs from CodeLLM](https://arxiv.org//abs/2509.17070)
+
+	Mayukh Borana, Junyi Liang, Sai Sathiesh Rajan, Sudipta Chattopadhyay
+
++ [SVeritas: Benchmark for Robust Speaker Verification under Diverse Conditions](https://arxiv.org//abs/2509.17091)
+
+	Massa Baali, Sarthak Bisht, Francisco Teixeira, Kateryna Shapovalenko, Rita Singh, Bhiksha Raj
+
++ [TraceHiding: Scalable Machine Unlearning for Mobility Data](https://arxiv.org//abs/2509.17241)
+
+	Ali Faraji, Manos Papagelis
+
++ [Temporal Logic-Based Multi-Vehicle Backdoor Attacks against Offline RL Agents in End-to-end Autonomous Driving](https://arxiv.org//abs/2509.16950)
+
+	Xuan Chen, Shiwei Feng, Zikang Xiong, Shengwei An, Yunshu Mao, Lu Yan, Guanhong Tao, Wenbo Guo, Xiangyu Zhang
+
++ [Seeing is Deceiving: Mirror-Based LiDAR Spoofing for Autonomous Vehicle Deception](https://arxiv.org//abs/2509.17253)
+
+	Selma Yahia, Ildi Alla, Girija Bangalore Mohan, Daniel Rau, Mridula Singh, Valeria Loscri
+
++ [DecipherGuard: Understanding and Deciphering Jailbreak Prompts for a Safer Deployment of Intelligent Software Systems](https://arxiv.org//abs/2509.16870)
+
+	Rui Yang, Michael Fu, Chakkrit Tantithamthavorn, Chetan Arora, Gunel Gulmammadova, Joey Chua
+
+# 2025-09-20
++ [Can an Individual Manipulate the Collective Decisions of Multi-Agents?](https://arxiv.org//abs/2509.16494)
+
+	Fengyuan Liu, Rui Zhao, Shuo Chen, Guohao Li, Philip Torr, Lei Han, Jindong Gu
+
++ [Train to Defend: First Defense Against Cryptanalytic Neural Network Parameter Extraction Attacks](https://arxiv.org//abs/2509.16546)
+
+	Ashley Kurian, Aydin Aysu
+
++ [V-CECE: Visual Counterfactual Explanations via Conceptual Edits](https://arxiv.org//abs/2509.16567)
+
+	Nikolaos Spanos, Maria Lymperaiou, Giorgos Filandrianos, Konstantinos Thomas, Athanasios Voulodimos, Giorgos Stamou
+
++ [FakeChain: Exposing Shallow Cues in Multi-Step Deepfake Detection](https://arxiv.org//abs/2509.16602)
+
+	Minji Heo, Simon S. Woo
+
++ [MoRoVoc: A Large Dataset for Geographical Variation Identification of the Spoken Romanian Language](https://arxiv.org//abs/2509.16781)
+
+	Andrei-Marius Avram, Ema-Ioana Bănescu, Anda-Teodora Robea, Dumitru-Clementin Cercel, Mihaela-Claudia Cercel
+
++ [OS-DiffVSR: Towards One-step Latent Diffusion Model for High-detailed Real-world Video Super-Resolution](https://arxiv.org//abs/2509.16507)
+
+	Hanting Li, Huaao Tang, Jianhong Han, Tianxiong Zhou, Jiulong Cui, Haizhen Xie, Yan Chen, Jie Hu
+
++ [A Novel Metric for Detecting Memorization in Generative Models for Brain MRI Synthesis](https://arxiv.org//abs/2509.16582)
+
+	Antonio Scardace, Lemuel Puglisi, Francesco Guarnera, Sebastiano Battiato, Daniele Ravì
+
++ [ADVEDM:Fine-grained Adversarial Attack against VLM-based Embodied Agents](https://arxiv.org//abs/2509.16645)
+
+	Yichen Wang, Hangtao Zhang, Hewen Pan, Ziqi Zhou, Xianlong Wang, Peijin Guo, Lulu Xue, Shengshan Hu, Minghui Li, Leo Yu Zhang
+
++ [SOLAR: Switchable Output Layer for Accuracy and Robustness in Once-for-All Training](https://arxiv.org//abs/2509.16833)
+
+	Shaharyar Ahmed Khan Tareen, Lei Fan, Xiaojing Yuan, Qin Lin, Bin Hu
+
++ [FairTune: A Bias-Aware Fine-Tuning Framework Towards Fair Heart Rate Prediction from PPG](https://arxiv.org//abs/2509.16491)
+
+	Lovely Yeswanth Panchumarthi, Saurabh Kataria, Yi Wu, Xiao Hu, Alex Fedorov, Hyunjung Gloria Kwak
+
++ [Delving into Cryptanalytic Extraction of PReLU Neural Networks](https://arxiv.org//abs/2509.16620)
+
+	Yi Chen, Xiaoyang Dong, Ruijie Ma, Yantian Shen, Anyu Wang, Hongbo Yu, Xiaoyun Wang
+
++ ["Digital Camouflage": The LLVM Challenge in LLM-Based Malware Detection](https://arxiv.org//abs/2509.16671)
+
+	Ekin Böke, Simon Torka
+
 # 2025-09-19
 + [Stress Testing Deliberative Alignment for Anti-Scheming Training](https://arxiv.org//abs/2509.15541)
 
@@ -67,6 +214,18 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [An Adversarial Robust Behavior Sequence Anomaly Detection Approach Based on Critical Behavior Unit Learning](https://arxiv.org//abs/2509.15756)
 
 	Dongyang Zhan, Kai Tan, Lin Ye, Xiangzhan Yu, Hongli Zhang, Zheng He
+
++ [Secure Confidential Business Information When Sharing Machine Learning Models](https://arxiv.org//abs/2509.16352)
+
+	Yunfan Yang, Jiarong Xu, Hongzhe Zhang, Xiao Fang
+
++ [Evaluating CxG Generalisation in LLMs via Construction-Based NLI Fine Tuning](https://arxiv.org//abs/2509.16422)
+
+	Tom Mackintosh, Harish Tayyar Madabushi, Claire Bonial
+
++ [Overfitting in Adaptive Robust Optimization](https://arxiv.org//abs/2509.16451)
+
+	Karl Zhu, Dimitris Bertsimas
 
 # 2025-09-18
 + [SynBench: A Benchmark for Differentially Private Text Generation](https://arxiv.org//abs/2509.14594)
@@ -3233,6 +3392,14 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Alaa Alhamzeh, Mays Al Rebdawi
 
++ [The Cost of Compression: Tight Quadratic Black-Box Attacks on Sketches for $\ell_2$ Norm Estimation](https://arxiv.org//abs/2507.16345)
+
+	Sara Ahmadian, Edith Cohen, Uri Stemmer
+
++ [Robustifying Learning-Augmented Caching Efficiently without Compromising 1-Consistency](https://arxiv.org//abs/2507.16242)
+
+	Peng Chen, Hailiang Zhao, Jiaji Zhang, Xueyan Tang, Yixuan Wang, Shuiguang Deng
+
 # 2025-07-21
 + [Challenges of Trustworthy Federated Learning: What's Done, Current Trends and Remaining Work](https://arxiv.org//abs/2507.15796)
 
@@ -4628,6 +4795,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Robust Behavior Cloning Via Global Lipschitz Regularization](https://arxiv.org//abs/2506.19250)
 
 	Shili Wu, Yizhao Jin, Puhua Niu, Aniruddha Datta, Sean B. Andersson
+
++ [Model Guidance via Robust Feature Attribution](https://arxiv.org//abs/2506.19680)
+
+	Mihnea Ghitu, Vihari Piratla, Matthew Wicker
 
 # 2025-06-23
 + [Semantic Structure-Aware Generative Attacks for Enhanced Adversarial Transferability](https://arxiv.org//abs/2506.18248)
@@ -6751,6 +6922,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Debate-to-Detect: Reformulating Misinformation Detection as a Real-World Debate with Large Language Models](https://arxiv.org//abs/2505.18596)
 
 	Chen Han, Wenzhen Zheng, Xijin Tang
+
++ [How Is LLM Reasoning Distracted by Irrelevant Context? An Analysis Using a Controlled Benchmark](https://arxiv.org//abs/2505.18761)
+
+	Minglai Yang, Ethan Huang, Liang Zhang, Mihai Surdeanu, William Wang, Liangming Pan
 
 # 2025-05-23
 + [Misaligning Reasoning with Answers -- A Framework for Assessing LLM CoT Robustness](https://arxiv.org//abs/2505.17406)
@@ -8925,6 +9100,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Georgi Ganev, Meenatchi Sundaram Muthu Selva Annamalai, Sofiane Mahiou, Emiliano De Cristofaro
 
++ [DeCoMa: Detecting and Purifying Code Dataset Watermarks through Dual Channel Code Abstraction](https://arxiv.org//abs/2504.07002)
+
+	Yuan Xiao, Yuchen Chen, Shiqing Ma, Haocheng Huang, Chunrong Fang, Yanwei Chen, Weisong Sun, Yunfeng Zhu, Xiaofang Zhang, Zhenyu Chen
+
 # 2025-04-08
 + [StealthRank: LLM Ranking Manipulation via Stealthy Prompt Optimization](https://arxiv.org//abs/2504.05804)
 
@@ -8937,6 +9116,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Parasite: A Steganography-based Backdoor Attack Framework for Diffusion Models](https://arxiv.org//abs/2504.05815)
 
 	Jiahao Chen, Yu Pan, Yi Du, Chunkai Wu, Lin Wang
+
++ [Sugar-Coated Poison: Benign Generation Unlocks LLM Jailbreaking](https://arxiv.org//abs/2504.05652)
+
+	Yu-Hang Wu, Yu-Jie Xiong, Hao Zhang, Jia-Chen Zhang, Zheng Zhou
 
 # 2025-04-07
 + [SCAM: A Real-World Typographic Robustness Evaluation for Multimodal Foundation Models](https://arxiv.org//abs/2504.04893)
@@ -10871,6 +11054,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Jacob Dunefsky, Arman Cohan
 
++ [Neural Antidote: Class-Wise Prompt Tuning for Purifying Backdoors in CLIP](https://arxiv.org//abs/2502.19269)
+
+	Jiawei Kong, Hao Fang, Sihang Guo, Chenxi Qing, Kuofeng Gao, Bin Chen, Shu-Tao Xia, Ke Xu
+
 # 2025-02-25
 + [MM-PoisonRAG: Disrupting Multimodal RAG with Local and Global Poisoning Attacks](https://arxiv.org//abs/2502.17832)
 
@@ -11156,6 +11343,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Mark Russinovich, Ahmed Salem
 
++ [Bayesian Algorithms for Adversarial Online Learning: from Finite to Infinite Action Spaces](https://arxiv.org//abs/2502.14790)
+
+	Alexander Terenin, Jeffrey Negrea
+
 # 2025-02-19
 + [Exploiting Prefix-Tree in Structured Output Interfaces for Enhancing Jailbreak Attacking](https://arxiv.org//abs/2502.13527)
 
@@ -11310,6 +11501,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Robust Adaptation of Large Multimodal Models for Retrieval Augmented Hateful Meme Detection](https://arxiv.org//abs/2502.13061)
 
 	Jingbiao Mei, Jinghong Chen, Guangyu Yang, Weizhe Lin, Bill Byrne
+
++ [SafeEraser: Enhancing Safety in Multimodal Large Language Models through Multimodal Machine Unlearning](https://arxiv.org//abs/2502.12520)
+
+	Junkai Chen, Zhijie Deng, Kening Zheng, Yibo Yan, Shuliang Liu, PeiJun Wu, Peijie Jiang, Jia Liu, Xuming Hu
 
 # 2025-02-17
 + [Mimicking the Familiar: Dynamic Command Generation for Information Theft Attacks in LLM Tool-Learning System](https://arxiv.org//abs/2502.11358)
@@ -12132,6 +12327,14 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Zora Che, Stephen Casper, Robert Kirk, Anirudh Satheesh, Stewart Slocum, Lev E McKinney, Rohit Gandikota, Aidan Ewart, Domenic Rosati, Zichu Wu, Zikui Cai, Bilal Chughtai, Yarin Gal, Furong Huang, Dylan Hadfield-Menell
 
++ [GRADIEND: Feature Learning within Neural Networks Exemplified through Biases](https://arxiv.org//abs/2502.01406)
+
+	Jonathan Drechsel, Steffen Herbold
+
++ [Adaptive Distraction: Probing LLM Contextual Robustness with Automated Tree Search](https://arxiv.org//abs/2502.01609)
+
+	Yanbo Wang, Zixiang Xu, Yue Huang, Chujie Gao, Siyuan Wu, Jiayi Ye, Pin-Yu Chen, Xiuying Chen, Xiangliang Zhang
+
 # 2025-02-02
 + [Safety at Scale: A Comprehensive Survey of Large Model Safety](https://arxiv.org//abs/2502.05206)
 
@@ -12254,6 +12457,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Junchen Ding, Jiahao Zhang, Yi Liu, Ziqi Ding, Gelei Deng, Yuekang Li
 
++ [Targeting Alignment: Extracting Safety Classifiers of Aligned LLMs](https://arxiv.org//abs/2501.16534)
+
+	Jean-Charles Noirot Ferrand, Yohan Beugin, Eric Pauley, Ryan Sheatsley, Patrick McDaniel
+
 # 2025-01-26
 + [FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint](https://arxiv.org//abs/2501.15509)
 
@@ -12263,6 +12470,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [DBA-DFL: Towards Distributed Backdoor Attacks with Network Detection in Decentralized Federated Learning](https://arxiv.org//abs/2501.15005)
 
 	Bohan Liu, Yang Xiao, Ruimeng Ye, Zinan Ling, Xiaolong Ma, Bo Hui
+
++ [A Portable and Stealthy Inaudible Voice Attack Based on Acoustic Metamaterials](https://arxiv.org//abs/2501.15031)
+
+	Zhiyuan Ning, Juan He, Zhanyong Tang, Weihang Hu, Xiaojiang Chen
 
 # 2025-01-24
 + [Siren: A Learning-Based Multi-Turn Attack Framework for Simulating Real-World Human Jailbreak Behaviors](https://arxiv.org//abs/2501.14250)
@@ -14759,6 +14970,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Ke Zhao, Huayang Huang, Miao Li, Yu Wu
 
 
+
++ [XAgents: A Framework for Interpretable Rule-Based Multi-Agents Cooperation](https://arxiv.org//abs/2411.13932)
+
+	Hailong Yang, Mingxian Gu, Renhuo Zhao, Fuping Hu, Zhaohong Deng, Yitang Chen
 
 # 2024-11-20
 + [Provably Efficient Action-Manipulation Attack Against Continuous Reinforcement Learning](https://arxiv.org//abs/2411.13116)
@@ -30853,6 +31068,11 @@ Xiaosen Wang, Zeyuan Yin
 + [Backdoor Attacks on Transformers for Tabular Data: An Empirical Study](https://arxiv.org//abs/2311.07550)
 
 	Bart Pleiter, Behrad Tajalli, Stefanos Koffas, Gorka Abad, Jing Xu, Martha Larson, Stjepan Picek
+
+# 2023-11-12
++ [Preserving Node-level Privacy in Graph Neural Networks](https://arxiv.org//abs/2311.06888)
+
+	Zihang Xiang, Tianhao Wang, Di Wang
 
 # 2023-11-07
 + [Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models](https://arxiv.org//abs/2311.04378)
