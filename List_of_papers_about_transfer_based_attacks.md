@@ -101,7 +101,7 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 	Zhengwei Fang, Rui Wang, Tao Huang, Liping Jing
 
 
-+ [Enhancing Adversarial Transferability Through Neighborhood Conditional Sampling](https://arxiv.org//abs/2405.16181) (arXiv preprint arXiv:2405.16181, 2024)
++ [Enhancing Adversarial Transferability Through Neighborhood Conditional Sampling](https://arxiv.org/abs/2405.16181) (arXiv preprint arXiv:2405.16181, 2024)
 
 	Chunlin Qiu, Yiheng Duan, Lingchen Zhao, Qian Wang
 
@@ -178,7 +178,7 @@ We also provide a  complete list of papers about adversarial examples [here](htt
     Shangbo Wu, Yu-an Tan, Yajie Wang, Ruinan Ma, Wencong Ma, Yuanzhang Li
 
 
-+ [The Ultimate Combo: Boosting Adversarial Example Transferability by  Composing Data Augmentations](https://arxiv.org//abs/2312.11309) (arXiv preprint arXiv:2312.11309, 2023)
++ [The Ultimate Combo: Boosting Adversarial Example Transferability by  Composing Data Augmentations](https://arxiv.org/abs/2312.11309) (arXiv preprint arXiv:2312.11309, 2023)
 
 	Zebin Yun, Achi-Or Weingarten, Eyal Ronen, Mahmood Sharif
 
@@ -188,7 +188,7 @@ We also provide a  complete list of papers about adversarial examples [here](htt
  	Jiayang Liu, Siyu Zhu, Siyuan Liang, Jie Zhang, Han Fang, Weiming Zhang, Ee-Chien Chang 
 
 
-+ [ Boost Adversarial Transferability by Uniform Scale and Mix Mask Method](https://arxiv.org//abs/2311.12051) (arXiv preprint arXiv:2311.12051, 2023)
++ [ Boost Adversarial Transferability by Uniform Scale and Mix Mask Method](https://arxiv.org/abs/2311.12051) (arXiv preprint arXiv:2311.12051, 2023)
 
 	Tao Wang, Zijian Ying, Qianmu Li, zhichao Lian
 
@@ -198,12 +198,12 @@ We also provide a  complete list of papers about adversarial examples [here](htt
     Kunyu Wang, Xuanran He, Wenxuan Wang, Xiaosen Wang
 
 
-+ [ Boosting the Transferability of Adversarial Examples via Local Mixup and  Adaptive Step Size](https://arxiv.org//abs/2401.13205) (arXiv preprint arXiv:2401.13205, 2024)
++ [ Boosting the Transferability of Adversarial Examples via Local Mixup and  Adaptive Step Size](https://arxiv.org/abs/2401.13205) (arXiv preprint arXiv:2401.13205, 2024)
 
 	Junlin Liu, Xinchen Lyu
 
 
-+ [ Boosting Adversarial Transferability across Model Genus by  Deformation-Constrained Warping](https://arxiv.org//abs/2402.03951) (AAAI 2024)
++ [ Boosting Adversarial Transferability across Model Genus by  Deformation-Constrained Warping](https://arxiv.org/abs/2402.03951) (AAAI 2024)
 
 	Qinliang Lin, Cheng Luo, Zenghao Niu, Xilin He, Weicheng Xie, Yuanbo Hou, Linlin Shen, Siyang Song
 
@@ -270,7 +270,7 @@ We also provide a  complete list of papers about adversarial examples [here](htt
     Qizhang Li, Yiwen Guo, Wangmeng Zuo, Hao Chen
 
 
-+ [DANAA: Towards transferable attacks with double adversarial neuron attribution](https://arxiv.org//abs/2310.10427)  (ADMA 2023)
++ [DANAA: Towards transferable attacks with double adversarial neuron attribution](https://arxiv.org/abs/2310.10427)  (ADMA 2023)
 
 	Zhibo Jin, Zhiyu Zhu, Xinyi Wang, Jiayu Zhang, Jun Shen, Huaming Chen
 
@@ -367,7 +367,7 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 	Zhuoer Xu, Zhangxuan Gu, Jianping Zhang, Shiwen Cui, Changhua Meng, Weiqiang Wang
 
 
-+ [Improving Adversarial Transferability via Model Alignment](https://arxiv.org//abs/2311.18495) (arXiv preprint arXiv:2311.18495, 2023)
++ [Improving Adversarial Transferability via Model Alignment](https://arxiv.org/abs/2311.18495) (arXiv preprint arXiv:2311.18495, 2023)
 
 	Avery Ma, Amir-massoud Farahmand, Yangchen Pan, Philip Torr, Jindong Gu
 
@@ -382,7 +382,7 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 	Jianping Zhang, Yizhan Huang, Zhuoer Xu, Weibin Wu, Michael R. Lyu
 
 
-+ [ Exploring Frequencies via Feature Mixing and Meta-Learning for Improving  Adversarial Transferability](https://arxiv.org//abs/2405.03193) (arXiv preprint arXiv:2405.03193, 2024)
++ [ Exploring Frequencies via Feature Mixing and Meta-Learning for Improving  Adversarial Transferability](https://arxiv.org/abs/2405.03193) (arXiv preprint arXiv:2405.03193, 2024)
 
 	Juanjuan Weng, Zhiming Luo, Shaozi Li
 
@@ -578,22 +578,22 @@ We also provide a  complete list of papers about adversarial examples [here](htt
 
 ## Survey & Benchmark
 
-+ [Towards Evaluating Transfer-based Attacks Systematically, Practically, and Fairly](https://arxiv.org//abs/2311.01323) (NeurIPS 2023)
++ [Towards Evaluating Transfer-based Attacks Systematically, Practically, and Fairly](https://arxiv.org/abs/2311.01323) (NeurIPS 2023)
 
 	Qizhang Li, Yiwen Guo, Wangmeng Zuo, Hao Chen
 
 
-+ [A Survey on Transferability of Adversarial Examples across Deep Neural  Networks](https://arxiv.org//abs/2310.17626) (arXiv preprint arXiv: 2310.17626 2023)
++ [A Survey on Transferability of Adversarial Examples across Deep Neural  Networks](https://arxiv.org/abs/2310.17626) (arXiv preprint arXiv: 2310.17626 2023)
 
 	Jindong Gu, Xiaojun Jia, Pau de Jorge, Wenqain Yu, Xinwei Liu, Avery Ma, Yuan Xun, Anjun Hu, Ashkan Khakzar, Zhijiang Li, Xiaochun Cao, Philip Torr
 
 
-+ [Revisiting Transferable Adversarial Image Examples: Attack  Categorization, Evaluation Guidelines, and New Insights](https://arxiv.org//abs/2310.11850) (arXiv preprint arXiv: 2310.11850 2023)
++ [Revisiting Transferable Adversarial Image Examples: Attack  Categorization, Evaluation Guidelines, and New Insights](https://arxiv.org/abs/2310.11850) (arXiv preprint arXiv: 2310.11850 2023)
 
 	Zhengyu Zhao, Hanwei Zhang, Renjue Li, Ronan Sicre, Laurent Amsaleg, Michael Backes, Qi Li, Chao Shen
 
 
-+ [ Beyond Boundaries: A Comprehensive Survey of Transferable Attacks on AI  Systems ](https://arxiv.org//abs/2311.11796) (arXiv preprint arXiv: 2311.11796 2023)
++ [ Beyond Boundaries: A Comprehensive Survey of Transferable Attacks on AI  Systems ](https://arxiv.org/abs/2311.11796) (arXiv preprint arXiv: 2311.11796 2023)
 
 	Guangjing Wang, Ce Zhou, Yuanda Wang, Bocheng Chen, Hanqing Guo, Qiben Yan
 
