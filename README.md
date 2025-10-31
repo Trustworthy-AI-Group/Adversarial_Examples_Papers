@@ -168,7 +168,7 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 + [PRIVET: Privacy Metric Based on Extreme Value Theory](https://arxiv.org/abs/2510.24233)
 
-	Antoine Szatkownik (TAU, BioInfo), Aurélien Decelle, Beatriz Seoane (TAU), Nicolas Bereux (TAU), Léo Planche (BioInfo), Guillaume Charpiat (TAU), Burak Yelmen, Flora Jay (BioInfo, TAU), Cyril Furtlehner (TAU)
+	Antoine Szatkownik, Aurélien Decelle, Beatriz Seoane, Nicolas Bereux, Léo Planche, Guillaume Charpiat, Burak Yelmen, Flora Jay, Cyril Furtlehner
 
 + [A Comprehensive Evaluation Framework for Synthetic Trip Data Generation in Public Transport](https://arxiv.org/abs/2510.24375)
 
@@ -180,11 +180,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 + [Self-Concordant Perturbations for Linear Bandits](https://arxiv.org/abs/2510.24187)
 
-	Lucas Lévy (1 and 2), Jean-Lou Valeau (1 and 3), Arya Akhavan (1 and 2), Patrick Rebeschini (1) ((1) University of Oxford, United Kingdom, (2) École Polytechnique, IP Paris, France, (3) ENSAE, IP Paris, France)
+	Lucas Lévy, Jean-Lou Valeau, Arya Akhavan, Patrick Rebeschini
 
 + [What Can Be Recovered Under Sparse Adversarial Corruption? Assumption-Free Theory for Linear Measurements](https://arxiv.org/abs/2510.24215)
 
-	Vishal Halder (IMT Atlantique - INFO, Lab-STICC), Alexandre Reiffers-Masson (IMT Atlantique - INFO, Lab-STICC), Abdeldjalil Aïssa-El-Bey (IMT Atlantique - MEE, Lab-STICC), Gugan Thoppe (CSA, IISc)
+	Vishal Halder, Alexandre Reiffers-Masson, Abdeldjalil Aïssa-El-Bey, Gugan Thoppe
 
 + [Attack on a PUF-based Secure Binary Neural Network](https://arxiv.org/abs/2510.24422)
 
