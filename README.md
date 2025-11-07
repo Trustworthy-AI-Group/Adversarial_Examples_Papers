@@ -3,6 +3,43 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2025-11-06
++ [AdversariaLLM: A Unified and Modular Toolbox for LLM Robustness Research](https://arxiv.org/abs/2511.04316)
+
+	Tim Beyer, Jonas Dornbusch, Jakob Steimle, Moritz Ladenburger, Leo Schwinn, Stephan Günnemann
+
++ [DeNoise: Learning Robust Graph Representations for Unsupervised Graph-Level Anomaly Detection](https://arxiv.org/abs/2511.04086)
+
+	Qingfeng Chen, Haojin Zeng, Jingyi Jie, Shichao Zhang, Debo Cheng
+
++ [On the Brittleness of CLIP Text Encoders](https://arxiv.org/abs/2511.04247)
+
+	Allie Tran, Luca Rossetto
+
++ [Differentially Private In-Context Learning with Nearest Neighbor Search](https://arxiv.org/abs/2511.04332)
+
+	Antti Koskela, Tejas Kulkarni, Laith Zumot
+
++ [RIDE: Difficulty Evolving Perturbation with Item Response Theory for Mathematical Reasoning](https://arxiv.org/abs/2511.04120)
+
+	Xinyuan Li, Murong Xu, Wenbiao Tao, Hanlun Zhu, Yike Zhao, Jipeng Zhang, Yunshi Lan
+
++ [Black-Box Guardrail Reverse-engineering Attack](https://arxiv.org/abs/2511.04215)
+
+	Hongwei Yao, Yun Xia, Shuo Shao, Haoran Shi, Tong Qiao, Cong Wang
+
++ [PrivacyCD: Hierarchical Unlearning for Protecting Student Privacy in Cognitive Diagnosis](https://arxiv.org/abs/2511.03966)
+
+	Mingliang Hou, Yinuo Wang, Teng Guo, Zitao Liu, Wenzhou Dou, Jiaqi Zheng, Renqiang Luo, Mi Tian, Weiqi Luo
+
++ [A Parallel Region-Adaptive Differential Privacy Framework for Image Pixelization](https://arxiv.org/abs/2511.04261)
+
+	Ming Liu
+
++ [Adversarially Robust and Interpretable Magecart Malware Detection](https://arxiv.org/abs/2511.04440)
+
+	Pedro Pereira, José Gouveia, João Vitorino, Eva Maia, Isabel Praça
+
 # 2025-11-05
 + [Decoupling Augmentation Bias in Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2511.03367)
 
@@ -39,6 +76,14 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework](https://arxiv.org/abs/2511.03248)
 
 	Junhao Li, Jiahao Chen, Zhou Feng, Chunyi Zhou
+
++ [Desert Waste Detection and Classification Using Data-Based and Model-Based Enhanced YOLOv12 DL Model](https://arxiv.org/abs/2511.03888)
+
+	Abdulmumin Sa'ad, Sulaimon Oyeniyi Adebayo, Abdul Jabbar Siddiqui
+
++ [Contamination Detection for VLMs using Multi-Modal Semantic Perturbation](https://arxiv.org/abs/2511.03774)
+
+	Jaden Park, Mu Cai, Feng Yao, Jingbo Shang, Soochahn Lee, Yong Jae Lee
 
 # 2025-11-04
 + [When One Modality Sabotages the Others: A Diagnostic Lens on Multimodal Reasoning](https://arxiv.org/abs/2511.02794)
@@ -9058,6 +9103,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Arnav Kumar Jain, Vibhakar Mohta, Subin Kim, Atiksh Bhardwaj, Juntao Ren, Yunhai Feng, Sanjiban Choudhury, Gokul Swamy
 
++ [HoliSafe: Holistic Safety Benchmarking and Modeling for Vision-Language Model](https://arxiv.org/abs/2506.04704)
+
+	Youngwan Lee, Kangsan Kim, Kwanyong Park, Ilcahe Jung, Soojin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang
+
 # 2025-06-04
 + [VLMs Can Aggregate Scattered Training Patches](https://arxiv.org/abs/2506.03614)
 
@@ -9126,6 +9175,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [macOSWorld: A Multilingual Interactive Benchmark for GUI Agents](https://arxiv.org/abs/2506.04135)
 
 	Pei Yang, Hai Ci, Mike Zheng Shou
+
++ [Higher-Order Singular-Value Derivatives of Rectangular Real Matrices](https://arxiv.org/abs/2506.03764)
+
+	Róisín Luo, James McDermott, Colm O'Riordan
 
 # 2025-06-03
 + [VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents](https://arxiv.org/abs/2506.02456)
@@ -11769,6 +11822,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Toward Safe and Human-Aligned Game Conversational Recommendation via Multi-Agent Decomposition](https://arxiv.org/abs/2504.20094)
 
 	Zheng Hui, Xiaokai Wei, Yexi Jiang, Kevin Gao, Chen Wang, Frank Ong, Se-eun Yoon, Rachit Pareek, Michelle Gong
+
++ [SynFuzz: Leveraging Fuzzing of Netlist to Detect Synthesis Bugs](https://arxiv.org/abs/2504.18812)
+
+	Raghul Saravanan, Sudipta Paria, Aritra Dasgupta, Venkat Nitin Patnala, Swarup Bhunia, Sai Manoj P D
 
 # 2025-04-25
 + [DeSIA: Attribute Inference Attacks Against Limited Fixed Aggregate Statistics](https://arxiv.org/abs/2504.18497)
@@ -20352,6 +20409,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Xiaoyu Wu, Jiaru Zhang, Zhiwei Steven Wu
 
++ [Diffusion & Adversarial Schrödinger Bridges via Iterative Proportional Markovian Fitting](https://arxiv.org/abs/2410.02601)
+
+	Sergei Kholkin, Grigoriy Ksenofontov, David Li, Nikita Kornilov, Nikita Gushchin, Alexandra Suvorikova, Alexey Kroshnin, Evgeny Burnaev, Alexander Korotin
+
 # 2024-10-02
 + [Hidden in Plain Text: Emergence & Mitigation of Steganographic Collusion in LLMs](https://arxiv.org/abs/2410.03768)
 
@@ -21467,6 +21528,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 	Neel Alex, Shoaib Ahmed Siddiqui, Amartya Sanyal, David Krueger
 
 
+
++ [Collaboration Dynamics and Reliability Challenges of Multi-Agent LLM Systems in Finite Element Analysis](https://arxiv.org/abs/2408.13406)
+
+	Chuan Tian, Yilei Zhang
 
 # 2024-08-22
 + [Query-Efficient Video Adversarial Attack with Stylized Logo](https://arxiv.org/abs/2408.12099)
