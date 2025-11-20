@@ -3,6 +3,51 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2025-11-19
++ [As If We've Met Before: LLMs Exhibit Certainty in Recognizing Seen Files](https://arxiv.org/abs/2511.15192)
+
+	Haodong Li, Jingqi Zhang, Xiao Cheng, Peihua Mai, Haoyu Wang, Yang Pan
+
++ [Effective Code Membership Inference for Code Completion Models via Adversarial Prompts](https://arxiv.org/abs/2511.15107)
+
+	Yuan Jiang, Zehao Li, Shan Huang, Christoph Treude, Xiaohong Su, Tiantian Wang
+
++ [Taxonomy, Evaluation and Exploitation of IPI-Centric LLM Agent Defense Frameworks](https://arxiv.org/abs/2511.15203)
+
+	Zimo Ji, Xunguang Wang, Zongjie Li, Pingchuan Ma, Yudong Gao, Daoyuan Wu, Xincheng Yan, Tian Tian, Shuai Wang
+
++ [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models](https://arxiv.org/abs/2511.15304)
+
+	Piercosma Bisconti, Matteo Prandi, Federico Pierucci, Francesco Giarrusso, Marcantonio Bracale, Marcello Galisai, Vincenzo Suriani, Olga Sorokoletova, Federico Sartore, Daniele Nardi
+
++ [HV-Attack: Hierarchical Visual Attack for Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2511.15435)
+
+	Linyin Luo, Yujuan Ding, Yunshan Ma, Wenqi Fan, Hanjiang Lai
+
++ [What Your Features Reveal: Data-Efficient Black-Box Feature Inversion Attack for Split DNNs](https://arxiv.org/abs/2511.15316)
+
+	Zhihan Ren, Lijun He, Jiaxi Liang, Xinzhu Fu, Haixia Bi, Fan Li
+
++ [Transferable Dual-Domain Feature Importance Attack against AI-Generated Image Detector](https://arxiv.org/abs/2511.15571)
+
+	Weiheng Zhu, Gang Cao, Jing Liu, Lifang Yu, Shaowei Weng
+
++ [Robust Bayesian Optimisation with Unbounded Corruptions](https://arxiv.org/abs/2511.15315)
+
+	Abdelhamid Ezzerg, Ilija Bogunovic, Jeremias Knoblauch
+
++ [Critical Evaluation of Quantum Machine Learning for Adversarial Robustness](https://arxiv.org/abs/2511.14989)
+
+	Saeefa Rubaiyet Nowmi, Jesus Lopez, Md Mahmudul Alam Imon, Shahrooz Pouryouse, Mohammad Saidur Rahman
+
++ [Trustworthy GenAI over 6G: Integrated Applications and Security Frameworks](https://arxiv.org/abs/2511.15206)
+
+	Bui Duc Son, Trinh Van Chien, Dong In Kim
+
++ [Privacy-Preserving IoT in Connected Aircraft Cabin](https://arxiv.org/abs/2511.15278)
+
+	Nilesh Vyas, Benjamin Zhao, Aygün Baltaci, Gustavo de Carvalho Bertoli, Hassan Asghar, Markus Klügel, Gerrit Schramm, Martin Kubisch, Dali Kaafar
+
 # 2025-11-18
 + [When Words Change the Model: Sensitivity of LLMs for Constraint Programming Modelling](https://arxiv.org/abs/2511.14334)
 
@@ -92,6 +137,14 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Charles Cheng Ji, Brandon Kong
 
++ [How to Train Private Clinical Language Models: A Comparative Study of Privacy-Preserving Pipelines for ICD-9 Coding](https://arxiv.org/abs/2511.14936)
+
+	Mathieu Dufour, Andrew Duncan
+
++ [Attacking Autonomous Driving Agents with Adversarial Machine Learning: A Holistic Evaluation with the CARLA Leaderboard](https://arxiv.org/abs/2511.14876)
+
+	Henry Wong, Clement Fung, Weiran Lin, Karen Li, Stanley Chen, Lujo Bauer
+
 # 2025-11-17
 + [Jailbreaking Large Vision Language Models in Intelligent Transportation Systems](https://arxiv.org/abs/2511.13892)
 
@@ -108,6 +161,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [The Battle of Metasurfaces: Understanding Security in Smart Radio Environments](https://arxiv.org/abs/2511.13939)
 
 	Paul Staat, Christof Paar, Swarun Kumar
+
++ [What Color Is It? A Text-Interference Multimodal Hallucination Benchmark](https://arxiv.org/abs/2511.13400)
+
+	Jinkun Zhao, Lei Huang, Haixin Ge, Wenjun Wu
 
 # 2025-11-16
 + [Scaling Patterns in Adversarial Alignment: Evidence from Multi-LLM Jailbreak Experiments](https://arxiv.org/abs/2511.13788)
@@ -215,6 +272,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Learning Fair Representations with Kolmogorov-Arnold Networks](https://arxiv.org/abs/2511.11767)
 
 	Amisha Priyadarshini, Sergio Gago-Masague
+
++ [Better LLM Reasoning via Dual-Play](https://arxiv.org/abs/2511.11881)
+
+	Zhengxin Zhang, Chengyu Huang, Aochong Oliver Li, Claire Cardie
 
 # 2025-11-13
 + [Do Not Merge My Model! Safeguarding Open-Source LLMs Against Unauthorized Model Merging](https://arxiv.org/abs/2511.10712)
@@ -4149,6 +4210,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Vincent Siu, Nicholas Crispino, David Park, Nathan W. Henry, Zhun Wang, Yang Liu, Dawn Song, Chenguang Wang
 
++ [Membership Inference Attack against Large Language Model-based Recommendation Systems: A New Distillation-based Paradigm](https://arxiv.org/abs/2511.14763)
+
+	Li Cuihong, Huang Xiaowen, Yin Chuanhuan, Sang Jitao
+
 # 2025-09-15
 + [When Safe Unimodal Inputs Collide: Optimizing Reasoning Chains for Cross-Modal Safety in Multimodal Large Language Models](https://arxiv.org/abs/2509.12060)
 
@@ -4833,6 +4898,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [When Thinking Backfires: Mechanistic Insights Into Reasoning-Induced Misalignment](https://arxiv.org/abs/2509.00544)
 
 	Hanqi Yan, Hainiu Xu, Siya Qi, Shu Yang, Yulan He
+
+# 2025-08-29
++ [SoK: Exposing the Generation and Detection Gaps in LLM-Generated Phishing Through Examination of Generation Methods, Content Characteristics, and Countermeasures](https://arxiv.org/abs/2508.21457)
+
+	Fengchao Chen, Tingmin Wu, Van Nguyen, Carsten Rudolph
 
 # 2025-08-28
 + [GCAV: A Global Concept Activation Vector Framework for Cross-Layer Consistency in Interpretability](https://arxiv.org/abs/2508.21197)
