@@ -92,6 +92,14 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Tien Dat Hoang
 
++ [Active Learning for GCN-based Action Recognition](https://arxiv.org/abs/2511.21625)
+
+	Hichem Sahbi
+
++ [Deceptron: Learned Local Inverses for Fast and Stable Physics Inversion](https://arxiv.org/abs/2511.21076)
+
+	Aaditya L. Kachhadiya
+
 # 2025-11-25
 + [Towards Benign Memory Forgetting for Selective Multimodal Large Language Model Unlearning](https://arxiv.org/abs/2511.20196)
 
@@ -25160,6 +25168,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Uniform Convergence of Adversarially Robust Classifiers](https://arxiv.org/abs/2406.14682)
 
 	Rachel Morris, Ryan Murray
+
++ [EnTruth: Enhancing the Traceability of Unauthorized Dataset Usage in Text-to-image Diffusion Models with Minimal and Robust Alterations](https://arxiv.org/abs/2406.13933)
+
+	Jie Ren, Yingqian Cui, Chen Chen, Yue Xing, Hui Liu, Lingjuan Lyu
 
 # 2024-06-19
 + [AGSOA:Graph Neural Network Targeted Attack Based on Average Gradient and Structure Optimization](https://arxiv.org/abs/2406.13228)
