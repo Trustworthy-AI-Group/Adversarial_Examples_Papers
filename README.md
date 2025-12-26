@@ -52,6 +52,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Haoyang Li, Mingjin Li, Jinxin Zuo, Siqi Li, Xiao Li, Hao Wu, Yueming Lu, Xiaochuan He
 
++ [RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic](https://arxiv.org/abs/2512.21220)
+
+	Le Wang, Zonghao Ying, Xiao Yang, Quanchen Zou, Zhenfei Yin, Tianlin Li, Jian Yang, Yaodong Yang, Aishan Liu, Xianglong Liu
+
 # 2025-12-23
 + [IoT-based Android Malware Detection Using Graph Neural Network With Adversarial Defense](https://arxiv.org/abs/2512.20004)
 
@@ -120,6 +124,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Real-World Adversarial Attacks on RF-Based Drone Detectors](https://arxiv.org/abs/2512.20712)
 
 	Omer Gazit, Yael Itzhakev, Yuval Elovici, Asaf Shabtai
+
++ [Investigating Model Editing for Unlearning in Large Language Models](https://arxiv.org/abs/2512.20794)
+
+	Shariqah Hossain, Lalana Kagal
 
 # 2025-12-22
 + [SafeMed-R1: Adversarial Reinforcement Learning for Generalizable and Robust Medical Reasoning in Vision-Language Models](https://arxiv.org/abs/2512.19317)
