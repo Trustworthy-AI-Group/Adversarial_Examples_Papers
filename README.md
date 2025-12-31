@@ -39005,6 +39005,11 @@ Xiaosen Wang, Zeyuan Yin
 
 	Paul Geuchen, Dominik Stöger, Thomas Telaar, Felix Voigtlaender
 
+# 2023-10-30
++ [Scalable and Privacy-Preserving Synthetic Data Generation on Decentralised Web](https://arxiv.org/abs/2310.20062)
+
+	Vishal Ramesh, Rui Zhao, Naman Goel
+
 # 2023-10-24
 + [Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles](https://arxiv.org/abs/2310.15952)
 
