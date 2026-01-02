@@ -40,6 +40,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Yu Cui, Hang Fu, Sicheng Pan, Zhuoyu Sun, Yifei Liu, Yuhong Nie, Bo Ran, Baohan Huang, Xufeng Zhang, Haibin Zhang, Cong Zuo, Licheng Wang
 
++ [BEDA: Belief Estimation as Probabilistic Constraints for Performing Strategic Dialogue Acts](https://arxiv.org/abs/2512.24885)
+
+	Hengli Li, Zhaoxin Yu, Qi Shen, Chenxi Li, Mengmeng Wang, Tinglang Wu, Yipeng Kang, Yuxuan Wang, Song-Chun Zhu, Zixia Jia, Zilong Zheng
+
 # 2025-12-30
 + [Jailbreaking Attacks vs. Content Safety Filters: How Far Are We in the LLM Safety Arms Race?](https://arxiv.org/abs/2512.24044)
 
@@ -92,6 +96,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Language Model Agents Under Attack: A Cross Model-Benchmark of Profit-Seeking Behaviors in Customer Service](https://arxiv.org/abs/2512.24415)
 
 	Jingyu Zhang
+
++ [Medical Image Classification on Imbalanced Data Using ProGAN and SMA-Optimized ResNet: Application to COVID-19](https://arxiv.org/abs/2512.24214)
+
+	Sina Jahromi, Farshid Hajati, Alireza Rezaee, Javaher Nourian
 
 # 2025-12-29
 + [It's a TRAP! Task-Redirecting Agent Persuasion Benchmark for Web Agents](https://arxiv.org/abs/2512.23128)
@@ -22313,6 +22321,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Sustainable Self-evolution Adversarial Training](https://arxiv.org/abs/2412.02270)
 
 	Wenxuan Wang, Chenglei Wang, Huihui Qi, Menghao Ye, Xuelin Qian, Peng Wang, Yanning Zhang
+
++ [Private Linear Regression with Differential Privacy and PAC Privacy](https://arxiv.org/abs/2412.02578)
+
+	Hillary Yang, Yuntao Du
 
 # 2024-12-02
 + [CopyrightShield: Spatial Similarity Guided Backdoor Defense against Copyright Infringement in Diffusion Models](https://arxiv.org/abs/2412.01528)
