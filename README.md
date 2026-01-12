@@ -3,6 +3,59 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2026-01-09
++ [PII-VisBench: Evaluating Personally Identifiable Information Safety in Vision Language Models Along a Continuum of Visibility](https://arxiv.org/abs/2601.05739)
+
+	G M Shahariar, Zabir Al Nazi, Md Olid Hasan Bhuiyan, Zhouxing Shi
+
++ [Jailbreaking Large Language Models through Iterative Tool-Disguised Attacks via Reinforcement Learning](https://arxiv.org/abs/2601.05466)
+
+	Zhaoqi Wang, Zijian Zhang, Daqing He, Pengtao Kou, Xin Li, Jiamou Liu, Jincheng An, Yong Liu
+
++ [STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467)
+
+	Swapnil Shinde, Sahil Wadhwa, Andy Luo, Emily Chen
+
++ [HogVul: Black-box Adversarial Code Generation Framework Against LM-based Vulnerability Detectors](https://arxiv.org/abs/2601.05587)
+
+	Jingxiao Yang, Ping He, Tianyu Du, Sun Bing, Xuhong Zhang
+
++ [The Echo Chamber Multi-Turn LLM Jailbreak](https://arxiv.org/abs/2601.05742)
+
+	Ahmad Alobaid (NeuralTrust), Martí Jordà Roca (NeuralTrust), Carlos Castillo (ICREA and UPF), Joan Vendrell (NeuralTrust)
+
++ [VIGIL: Defending LLM Agents Against Tool Stream Injection via Verify-Before-Commit](https://arxiv.org/abs/2601.05755)
+
+	Junda Lin, Zhaomeng Zhou, Zhi Zheng, Shuochen Liu, Tong Xu, Yong Chen, Enhong Chen
+
++ [SAFE: Secure and Accurate Federated Learning for Privacy-Preserving Brain-Computer Interfaces](https://arxiv.org/abs/2601.05789)
+
+	Tianwang Jia, Xiaoqing Chen, Dongrui Wu
+
++ [Illusions of Confidence? Diagnosing LLM Truthfulness via Neighborhood Consistency](https://arxiv.org/abs/2601.05905)
+
+	Haoming Xu, Ningyuan Zhao, Yunzhi Yao, Weihong Xu, Hongru Wang, Xinle Deng, Shumin Deng, Jeff Z. Pan, Huajun Chen, Ningyu Zhang
+
++ [Agentic LLMs as Powerful Deanonymizers: Re-identification of Participants in the Anthropic Interviewer Dataset](https://arxiv.org/abs/2601.05918)
+
+	Tianshi Li
+
++ [The Facade of Truth: Uncovering and Mitigating LLM Susceptibility to Deceptive Evidence](https://arxiv.org/abs/2601.05478)
+
+	Herun Wan, Jiaying Wu, Minnan Luo, Fanxiao Li, Zhi Zeng, Min-Yen Kan
+
++ [Deepfake detectors are DUMB: A benchmark to assess adversarial training robustness under transferability constraints](https://arxiv.org/abs/2601.05986)
+
+	Adrian Serrano, Erwan Umlil, Ronan Thomas
+
++ [Knowledge-Driven Multi-Turn Jailbreaking on Large Language Models](https://arxiv.org/abs/2601.05445)
+
+	Songze Li, Ruishi He, Xiaojun Jia, Jun Wang, Zhihui Fu
+
++ [Memory Poisoning Attack and Defense on Memory Based LLM-Agents](https://arxiv.org/abs/2601.05504)
+
+	Balachandra Devarangadi Sunil, Isheeta Sinha, Piyush Maheshwari, Shantanu Todmal, Shreyan Malik, Shuchi Mishra
+
 # 2026-01-08
 + [BackdoorAgent: A Unified Framework for Backdoor Attacks on LLM-based Agents](https://arxiv.org/abs/2601.04566)
 
@@ -95,6 +148,14 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [$PC^2$: Politically Controversial Content Generation via Jailbreaking Attacks on GPT-based Text-to-Image Models](https://arxiv.org/abs/2601.05150)
 
 	Wonwoo Choi, Minjae Seo, Minkyoo Song, Hwanjo Heo, Seungwon Shin, Myoungsung You
+
++ [A Survey of Agentic AI and Cybersecurity: Challenges, Opportunities and Use-case Prototypes](https://arxiv.org/abs/2601.05293)
+
+	Sahaya Jestus Lazer, Kshitiz Aryal, Maanak Gupta, Elisa Bertino
+
++ [Multi-turn Jailbreaking Attack in Multi-Modal Large Language Models](https://arxiv.org/abs/2601.05339)
+
+	Badhan Chandra Das, Md Tasnim Jawad, Joaquin Molto, M. Hadi Amini, Yanzhao Wu
 
 # 2026-01-07
 + [STAR-S: Improving Safety Alignment through Self-Taught Reasoning on Safety Rules](https://arxiv.org/abs/2601.03537)
@@ -5029,6 +5090,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Myeongseob Ko, Nikhil Reddy Billa, Adam Nguyen, Charles Fleming, Ming Jin, Ruoxi Jia
 
++ [Quantifying Document Impact in RAG-LLMs](https://arxiv.org/abs/2601.05260)
+
+	Armin Gerami, Kazem Faghih, Ramani Duraiswami
+
 # 2025-10-26
 + [SpoofTrackBench: Interpretable AI for Spoof-Aware UAV Tracking and Benchmarking](https://arxiv.org/abs/2510.22726)
 
@@ -8110,6 +8175,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Early Approaches to Adversarial Fine-Tuning for Prompt Injection Defense: A 2022 Study of GPT-3 and Contemporary Models](https://arxiv.org/abs/2509.14271)
 
 	Gustavo Sandoval, Denys Fenchenko, Junyao Chen
+
++ [Generalizable Blood Pressure Estimation from Multi-Wavelength PPG Using Curriculum-Adversarial Learning](https://arxiv.org/abs/2509.12518)
+
+	Zequan Liang, Ruoyu Zhang, Wei Shao, Mahdi Pirayesh Shirazi Nejad, Ehsan Kourkchi, Setareh Rafatirad, Houman Homayoun
 
 # 2025-09-14
 + [Free-MAD: Consensus-Free Multi-Agent Debate](https://arxiv.org/abs/2509.11035)
@@ -16244,6 +16313,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Adaptive Stress Testing Black-Box LLM Planners](https://arxiv.org/abs/2505.05665)
 
 	Neeloy Chakraborty, John Pohovey, Melkior Ornik, Katherine Driggs-Campbell
+
++ [SRAF: Stealthy and Robust Adversarial Fingerprint for Copyright Verification of Large Language Models](https://arxiv.org/abs/2505.06304)
+
+	Zhebo Wang, Zhenhua Xu, Maike Li, Wenpeng Xing, Chunqiang Hu, Chen Zhi, Meng Han
 
 # 2025-05-07
 + [Izhikevich-Inspired Temporal Dynamics for Enhancing Privacy, Efficiency, and Transferability in Spiking Neural Networks](https://arxiv.org/abs/2505.04034)
