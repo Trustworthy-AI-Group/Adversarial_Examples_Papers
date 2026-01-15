@@ -3,6 +3,47 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2026-01-14
++ [STaR: Sensitive Trajectory Regulation for Unlearning in Large Reasoning Models](https://arxiv.org/abs/2601.09281)
+
+	Jingjing Zhou, Gaoxiang Cong, Li Su, Liang Li
+
++ [Blue Teaming Function-Calling Agents](https://arxiv.org/abs/2601.09292)
+
+	Greta Dolcetti, Giulio Zizzo, Sergio Maffeis
+
++ [The Promptware Kill Chain: How Prompt Injections Gradually Evolved Into a Multi-Step Malware](https://arxiv.org/abs/2601.09625)
+
+	Ben Nassi, Bruce Schneier, Oleg Brodt
+
++ [UserLM-R1: Modeling Human Reasoning in User Language Models with Multi-Reward Reinforcement Learning](https://arxiv.org/abs/2601.09215)
+
+	Feng Zhang, Shijia Li, Chunmao Zhang, Zhanyu Ma, Jun Xu, Jiuchong Gao, Jinghua Hao, Renqing He, Jingwen Xu, Han Liu
+
++ [StegoStylo: Squelching Stylometric Scrutiny through Steganographic Stitching](https://arxiv.org/abs/2601.09056)
+
+	Robert Dilworth
+
++ [From Snow to Rain: Evaluating Robustness, Calibration, and Complexity of Model-Based Robust Training](https://arxiv.org/abs/2601.09153)
+
+	Josué Martínez-Martínez, Olivia Brown, Giselle Zeno, Pooya Khorrami, Rajmonda Caceres
+
++ [Identifying Models Behind Text-to-Image Leaderboards](https://arxiv.org/abs/2601.09647)
+
+	Ali Naseh, Yuefeng Peng, Anshuman Suri, Harsh Chaudhari, Alina Oprea, Amir Houmansadr
+
++ [BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning](https://arxiv.org/abs/2601.09172)
+
+	Pengyang Shao, Naixin Zhai, Lei Chen, Yonghui Yang, Fengbin Zhu, Xun Yang, Meng Wang
+
++ [Merged Bitcoin: Proof of Work Blockchains with Multiple Hash Types](https://arxiv.org/abs/2601.09090)
+
+	Christopher Blake, Chen Feng, Xuachao Wang, Qianyu Yu
+
++ [SpatialJB: How Text Distribution Art Becomes the "Jailbreak Key" for LLM Guardrails](https://arxiv.org/abs/2601.09321)
+
+	Zhiyi Mou, Jingyuan Yang, Zeheng Qian, Wangze Ni, Tianfang Xiao, Ning Liu, Chen Zhang, Zhan Qin, Kui Ren
+
 # 2026-01-13
 + [Evaluating the Ability of Explanations to Disambiguate Models in a Rashomon Set](https://arxiv.org/abs/2601.08703)
 
@@ -55,6 +96,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Double Strike: Breaking Approximation-Based Side-Channel Countermeasures for DNNs](https://arxiv.org/abs/2601.08698)
 
 	Lorenzo Casalino, Maria Méndez Real, Jean-Christophe Prévotet, Rubén Salvador
+
++ [Evaluating Role-Consistency in LLMs for Counselor Training](https://arxiv.org/abs/2601.08892)
+
+	Eric Rudolph, Natalie Engert, Jens Albrecht
 
 # 2026-01-12
 + [Lost in the Noise: How Reasoning Models Fail with Contextual Distractors](https://arxiv.org/abs/2601.07226)
@@ -1491,6 +1536,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Zhang Wei, Peilu Hu, Shengning Lang, Hao Yan, Li Mei, Yichao Zhang, Chen Yang, Junfeng Hao, Zhimo Han
 
++ [Rubric-Conditioned LLM Grading: Alignment, Uncertainty, and Robustness](https://arxiv.org/abs/2601.08843)
+
+	Haotian Deng, Chris Farber, Jiyoon Lee, David Tang
+
 # 2025-12-20
 + [Breaking Minds, Breaking Systems: Jailbreaking Large Language Models via Human-like Psychological Manipulation](https://arxiv.org/abs/2512.18244)
 
@@ -1511,6 +1560,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Detection of AI Generated Images Using Combined Uncertainty Measures and Particle Swarm Optimised Rejection Mechanism](https://arxiv.org/abs/2512.18527)
 
 	Rahul Yumlembam, Biju Issac, Nauman Aslam, Eaby Kollonoor Babu, Josh Collyer, Fraser Kennedy
+
++ [Resisting Correction: How RLHF Makes Language Models Ignore External Safety Signals in Natural Conversation](https://arxiv.org/abs/2601.08842)
+
+	Felipe Biava Cataneo
 
 # 2025-12-19
 + [Robust TTS Training via Self-Purifying Flow Matching for the WildSpoof 2026 TTS Track](https://arxiv.org/abs/2512.17293)
@@ -1576,6 +1629,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [From Fake Focus to Real Precision: Confusion-Driven Adversarial Attention Learning in Transformers](https://arxiv.org/abs/2512.20661)
 
 	Yawei Liu
+
++ [Consistency-Aware Editing for Entity-level Unlearning in Language Models](https://arxiv.org/abs/2601.08840)
+
+	Xiaoqi Han, Víctor Gutiérrez-Basulto, Ru Li, Xiaoli Li, Jiye Liang, Jeff Z. Pan
 
 # 2025-12-18
 + [AlignMerge - Alignment-Preserving Large Language Model Merging via Fisher-Guided Geometric Constraints](https://arxiv.org/abs/2512.16245)
@@ -1879,6 +1936,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Internal Reasoning vs. External Control: A Thermodynamic Analysis of Sycophancy in Large Language Models](https://arxiv.org/abs/2601.03263)
 
 	Edward Y. Chang
+
++ [From Adversarial Poetry to Adversarial Tales: An Interpretability Research Agenda](https://arxiv.org/abs/2601.08837)
+
+	Piercosma Bisconti, Marcello Galisai, Matteo Prandi, Federico Pierucci, Olga Sorokoletova, Francesco Giarrusso, Vincenzo Suriani, Marcantonio Brancale, Daniele Nardi
 
 # 2025-12-15
 + [CTIGuardian: A Few-Shot Framework for Mitigating Privacy Leakage in Fine-Tuned LLMs](https://arxiv.org/abs/2512.12914)
@@ -9126,6 +9187,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Zhihao Liu, Jian Lou, Yuke Hu, Xiaochen Li, Yitian Chen, Tailun Chen, Zhizhen Qin, Kui Ren, Zhan Qin
 
++ [MindGuard: Intrinsic Decision Inspection for Securing LLM Agents Against Metadata Poisoning](https://arxiv.org/abs/2508.20412)
+
+	Zhiqiang Wang, Haohua Du, Guanquan Shi, Junyang Zhang, HaoRan Cheng, Yunhao Yao, Kaiwen Guo, Xiang-Yang Li
+
 # 2025-08-27
 + [Network-Level Prompt and Trait Leakage in Local Research Agents](https://arxiv.org/abs/2508.20282)
 
@@ -13293,6 +13358,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Gabriel J. Perin, Runjin Chen, Xuxi Chen, Nina S. T. Hirata, Zhangyang Wang, Junyuan Hong
 
++ [Privacy-Preserving in Connected and Autonomous Vehicles Through Vision to Text Transformation](https://arxiv.org/abs/2506.15854)
+
+	Abdolazim Rezaei, Mehdi Sookhak, Ahmad Patooghy, Shahab S. Band, Amir Mosavi
+
 # 2025-06-17
 + [Frequency-Calibrated Membership Inference Attacks on Medical Image Diffusion Models](https://arxiv.org/abs/2506.14919)
 
@@ -15062,6 +15131,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Unveiling Impact of Frequency Components on Membership Inference Attacks for Diffusion Models](https://arxiv.org/abs/2505.20955)
 
 	Puwei Lian, Yujun Cai, Songze Li, Bingkun Bao
+
++ [FeatInv: Spatially resolved mapping from feature space to input space using conditional diffusion models](https://arxiv.org/abs/2505.21032)
+
+	Nils Neukirch, Johanna Vielhaben, Nils Strodthoff
 
 # 2025-05-26
 + [Capability-Based Scaling Laws for LLM Red-Teaming](https://arxiv.org/abs/2505.20162)
@@ -40339,6 +40412,11 @@ Xiaosen Wang, Zeyuan Yin
 + [TroLL: Exploiting Structural Similarities between Logic Locking and Hardware Trojans](https://arxiv.org/abs/2309.15067)
 
 	Yuntao Liu, Aruna Jayasena, Prabhat Mishra, Ankur Srivastava
+
+# 2023-09-12
++ [Prompting4Debugging: Red-Teaming Text-to-Image Diffusion Models by Finding Problematic Prompts](https://arxiv.org/abs/2309.06135)
+
+	Zhi-Yi Chin, Chieh-Ming Jiang, Ching-Chun Huang, Pin-Yu Chen, Wei-Chen Chiu
 
 # 2023-08-23
 + [A Survey of Graph Unlearning](https://arxiv.org/abs/2310.02164)
