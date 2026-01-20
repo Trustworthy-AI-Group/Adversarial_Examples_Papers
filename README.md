@@ -149,6 +149,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Yuting Liang, Ke Yi
 
++ [DialDefer: A Framework for Detecting and Mitigating LLM Dialogic Deference](https://arxiv.org/abs/2601.10896)
+
+	Parisa Rabbani, Priyam Sahoo, Ruben Mathew, Aishee Mondal, Harshita Ketharaman, Nimet Beyza Bozdag, Dilek Hakkani-Tür
+
 # 2026-01-14
 + [STaR: Sensitive Trajectory Regulation for Unlearning in Large Reasoning Models](https://arxiv.org/abs/2601.09281)
 
@@ -445,6 +449,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [SecureDyn-FL: A Robust Privacy-Preserving Federated Learning Framework for Intrusion Detection in IoT Networks](https://arxiv.org/abs/2601.06466)
 
 	Imtiaz Ali Soomro, Hamood Ur Rehman, S. Jawad Hussain ID, Adeel Iqbal, Waqas Khalid, Heejung Yu ID
+
++ [Incentive Mechanism Design for Privacy-Preserving Decentralized Blockchain Relayers](https://arxiv.org/abs/2601.06699)
+
+	Boutaina Jebari, Khalil Ibrahimi, Hamidou Tembine, Mounir Ghogho
 
 # 2026-01-09
 + [PII-VisBench: Evaluating Personally Identifiable Information Safety in Vision Language Models Along a Continuum of Visibility](https://arxiv.org/abs/2601.05739)
@@ -24653,6 +24661,11 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Jeongjin Shin, Sangdon Park
 
+
+# 2024-11-09
++ [A Natural Primal-Dual Hybrid Gradient Method for Adversarial Neural Network Training on Solving Partial Differential Equations](https://arxiv.org/abs/2411.06278)
+
+	Shu Liu, Stanley Osher, Wuchen Li
 
 # 2024-11-08
 + [Reasoning Robustness of LLMs to Adversarial Typographical Errors](https://arxiv.org/abs/2411.05345)
