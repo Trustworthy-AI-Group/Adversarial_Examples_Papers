@@ -96,6 +96,14 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Christos Galanopoulos, Kimon Antonios Provatas, Ilias Georgakopoulos-Soares
 
++ [When Lower Privileges Suffice: Investigating Over-Privileged Tool Selection in LLM Agents](https://arxiv.org/abs/2606.20023)
+
+	Kaiyue Yang, Yuyan Bu, Jingwei Yi, Yuchi Wang, Biyu Zhou, Juntao Dai, Songlin Hu, Yaodong Yang
+
++ [Judging to Improve: A De-biased VLM-as-3D-Judge Protocol for Single-Image 3D Generation](https://arxiv.org/abs/2606.20364)
+
+	Ali Asaria, Tony Salomone, Deep Gandhi
+
 # 2026-06-17
 + [Beyond Safe Data: Pretraining-Stage Alignment with Regular Safety Reflection](https://arxiv.org/abs/2606.19168)
 
