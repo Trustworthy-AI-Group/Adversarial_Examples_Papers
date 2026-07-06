@@ -237,6 +237,14 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Harish Kumar Dharavath, Md Muhtasim Alam Chowdhury, Rozhin Yasaei, Soheil Salehi
 
++ [CPG-PAD: Concept-Informed Prompts Guided Presentation Attack Detection](https://arxiv.org/abs/2607.01303)
+
+	Haoyuan Zhang, Xiangyu Zhu, Li Gao, Ajian Liu, Siran Peng, Zhen Lei
+
++ [Theoria: Rewrite-Acceptability Verification over Informal Reasoning States](https://arxiv.org/abs/2607.01223)
+
+	Michael Saldivar, Ben Slivinski
+
 # 2026-06-30
 + [Revealing Safety-Critical Scenarios for UTM via Transformer](https://arxiv.org/abs/2606.31114)
 
@@ -41252,6 +41260,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [How does Bayesian Sampling help Membership Inference Attacks?](https://arxiv.org/abs/2503.07482)
 
 	Zhenlong Liu, Wenyu Jiang, Feng Zhou, Hongxin Wei
+
++ [Split-n-Chain: Privacy-Preserving Multi-Node Split Learning with Blockchain-Based Auditability](https://arxiv.org/abs/2503.07570)
+
+	Mukesh Sahani, Binanda Sengupta
 
 # 2025-03-09
 + [PerturboLLaVA: Reducing Multimodal Hallucinations with Perturbative Visual Training](https://arxiv.org/abs/2503.06486)
