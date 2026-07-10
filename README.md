@@ -3,6 +3,43 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2026-07-09
++ [Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring](https://arxiv.org/abs/2607.08066)
+
+	Jennifer Za, Julija Bainiaksina, Nikita Ostrovsky, Tanush Chopra, Victoria Krakovna
+
++ [Overthinking: Amplifying Reasoning Weights to Extract Learned Secrets](https://arxiv.org/abs/2607.08173)
+
+	Jack Hopkins, Dipika Khullar, Fabien Roger
+
++ [Formal Mechanisms for Market Stability in Self-Interested Agent Societies: A Marketplace Simulation Study](https://arxiv.org/abs/2607.08652)
+
+	Eugene Ng Yi Sheng, Bingquan Shen
+
++ [Beware What You Autocomplete: Forensic Attribution of Backdoored Code Completions](https://arxiv.org/abs/2607.08011)
+
+	Anjun Gao, Yueyang Quan, Zhuqing Liu, Minghong Fang
+
++ [Can We Trust LLM's Logic? Quantifying Uncertainty, Coherence, and Robustness via a Graph-Based Framework](https://arxiv.org/abs/2607.08017)
+
+	Riccardo Revalor, Jalees Rehman, Debjit Pal
+
++ [Prismata: Confining Cross-Site Prompt Injection in Web Agents](https://arxiv.org/abs/2607.08147)
+
+	Corban Villa, Alp Eren Ozdarendeli, Sijun Tan, Raluca Ada Popa
+
++ [Out of Sight: Compression-Aware Content Protection against Agentic Crawlers](https://arxiv.org/abs/2607.08180)
+
+	Xuefei Wang
+
++ [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282)
+
+	Hugo García Cuesta, Pablo Mateo Torrejón, Alfonso Sánchez-Macián
+
++ [TRACE: A Two-Channel Robust Attribution Watermark via Complementary Embeddings for LLM-Agent Trajectories](https://arxiv.org/abs/2607.08400)
+
+	Zheng Gao, Xiaoyu Li, Xiaoyan Feng, Jiaojiao Jiang, Yang Song, Yulei Sui, Zhenchang Xing, Liming Zhu
+
 # 2026-07-08
 + [Measuring Intelligence Beyond Human Scale](https://arxiv.org/abs/2607.07040)
 
@@ -79,6 +116,22 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Beware of Agentic Botnets: Scalable Untargeted Promptware Attacks via Universal and Transferable Adversarial HalluSquatting](https://arxiv.org/abs/2607.07433)
 
 	Aya Spira, Stav Cohen, Elad Feldman, Ron Bitton, Avishai Wool, Ben Nassi
+
++ [Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses](https://arxiv.org/abs/2607.07775)
+
+	Kwesi Afari Darfoor, Patrick M. Pilarski, Bailey Kacsmar
+
++ [Mechanistic Interpretability of LLM Jailbreaks via Internal Attribution Graphs](https://arxiv.org/abs/2607.07903)
+
+	Anupam Wagle, Ifrat Ikhtear Uddin, Chaowei Zhang, Longwei Wang
+
++ [Efficient Safety Alignment of Language Models via Latent Personality Traits](https://arxiv.org/abs/2607.07918)
+
+	Mohamed Amine Merzouk, Nolan Smyth, Damiano Fornasiere, Linh Le, David Williams-King, Adam Oberman
+
++ [Adversarial Decoys: Misdirecting Attention-Based Defenses in ViT](https://arxiv.org/abs/2607.07922)
+
+	Giulia Marchiori Pietrosanti, Giulio Rossolini, Giorgio Buttazzo
 
 # 2026-07-07
 + [Beyond the Leaderboard: A Synthesis of Tool-Use, Planning, and Reasoning Failures in Large Language Model Agents](https://arxiv.org/abs/2607.05775)
@@ -3173,6 +3226,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [SafeGEO: Understanding Generative Engine Optimization Risks in Recommendation Agents](https://arxiv.org/abs/2606.28356)
 
 	Qianfeng Wen, Yifan Simon Liu, Xin Liu, Difan Jiao, Blair Yang, Junda Wu, Zhenwei Tang
+
++ [Deployment-Time Memorization in Foundation-Model Agents](https://arxiv.org/abs/2606.10062)
+
+	Lei (Rachel)Chen, Guilin Zhang, Kai Zhao, Dalmo Cirne, Andy Olsen, Xu Chu, Zeke Miller, Alet Blanken, Amine Anoun, Jerry Ting
 
 # 2026-06-07
 + [Knowledge Graphs and Reasoning LLMs for Finding Simple Yet Effective Transcriptomic Perturbation Predictors](https://arxiv.org/abs/2606.08816)
