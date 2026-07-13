@@ -3,6 +3,15 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2026-07-10
++ [Multimodal Reward Hacking in Reinforcement Learning](https://arxiv.org/abs/2607.09492)
+
+	Jiayu Yao, Yiwei Wang, Anmeng Zhang, Zhe Sun, Songsong Wang, Lingrui Mei, Yuyao Ge, Shenghua Liu
+
++ [When Routes Run Out: Adversarial Co-Learning and Explainable Robustness in Quantum Repeater Networks](https://arxiv.org/abs/2607.09378)
+
+	Brennan Bell, Inti Gabriel Mendoza Estrada, Andreas Trügler, Paul Erker
+
 # 2026-07-09
 + [Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring](https://arxiv.org/abs/2607.08066)
 
@@ -9875,6 +9884,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	 Samah Fodeh , Ganesh Puthiaraju , Elyas Irankhah , Afshan Khan , Sreeraj Ramachandran , Linhai Ma , Srivani Talakokkul , Sarah Schellhorn
 
++ [Interval Certifications for Multilayered Perceptrons via Lattice Traversal](https://arxiv.org/abs/2607.08773)
+
+	Merkouris Papamichail, Konstantinos Varsos, Giorgos Flouris, João Marques-Silva
+
 # 2026-04-08
 + [Steering the Verifiability of Multimodal AI Hallucinations](https://arxiv.org/abs/2604.06714)
 
@@ -16471,6 +16484,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [R1-SyntheticVL: Is Synthetic Data from Generative Models Ready for Multimodal Large Language Model?](https://arxiv.org/abs/2602.03300)
 
 	Jingyi Zhang, Tianyi Lin, Huanjin Yao, Xiang Lan, Shunyu Liu, Jiaxing Huang
+
++ [Principles of Lipschitz continuity in neural networks](https://arxiv.org/abs/2602.04078)
+
+	Róisín Luo
 
 # 2026-02-02
 + [MAGIC: A Co-Evolving Attacker-Defender Adversarial Game for Robust LLM Safety](https://arxiv.org/abs/2602.01539)
@@ -38387,6 +38404,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Jiawen Wang, Pritha Gupta, Ivan Habernal, Eyke Hüllermeier, Xiaoxue Gao, Nancy F. Chen
 
++ [Beyond Black-Box Obfuscation: Mechanistic Analysis and Defense of White-Box Monitors](https://arxiv.org/abs/2505.14300)
+
+	Maheep Chaudhary, Fazl Barez
+
 # 2025-05-19
 + [Bullying the Machine: How Personas Increase LLM Vulnerability](https://arxiv.org/abs/2505.12692)
 
@@ -43211,6 +43232,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Computational Safety for Generative AI: A Hypothesis Testing Perspective](https://arxiv.org/abs/2502.12445)
 
 	Pin-Yu Chen
+
++ [Multi-Attribute Steering of Language Models via Targeted Intervention](https://arxiv.org/abs/2502.12446)
+
+	Duy Nguyen, Archiki Prasad, Elias Stengel-Eskin, Mohit Bansal
 
 # 2025-02-17
 + [Mimicking the Familiar: Dynamic Command Generation for Information Theft Attacks in LLM Tool-Learning System](https://arxiv.org/abs/2502.11358)
