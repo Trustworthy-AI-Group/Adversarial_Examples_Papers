@@ -3,6 +3,27 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2026-07-15
++ [AIMO Interpretability Challenge](https://arxiv.org/abs/2607.13899)
+
+	Michal Štefánik, Philipp Mondorf, Andreas Waldis, Qianying Liu, Chuan Yang, Michal Spiegel, Josef Kuchař, Marek Kadlčík, Adam Vawda-Oomerjee, Chaoran Liu, Simon Frieder, Barbara Plank, Fazl Barez, Pontus Stenetorp
+
++ [Adversarial Prompting Framework for AI Safety Assessment](https://arxiv.org/abs/2607.13453)
+
+	Yash Bhatnagar, Kunal Banerjee, Anirban Chatterjee
+
++ [UTS at ELOQUENT 2026 Voight-Kampff: structural shifts in AI writing bypass state-of-the-art detectors](https://arxiv.org/abs/2607.13565)
+
+	Dima Galat, Marian-Andrei Rizoiu
+
++ [Traffic-Aware Randomized Smoothing for LLM-Based Network Intrusion Detection](https://arxiv.org/abs/2607.13801)
+
+	Zhenpeng Li
+
++ [Rethinking Penetration Testing for AI-Enabled Systems: From Resource Compromise to Behavioral Objective Violation](https://arxiv.org/abs/2607.14006)
+
+	Mohammad Allahbakhsh, Mohammad Hassan Bahari, Moslem Attar-Raouf
+
 # 2026-07-13
 + [AdvNav: Behavior-Guided Black-Box Adversarial Attacks on Vision-Language Navigation](https://arxiv.org/abs/2607.11063)
 
@@ -32,6 +53,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Aastha Sharma, Guangjing Wang
 
++ [SingGuard-NSFA: Extensible Guardrails for Agentic AI via Generative Reasoning and Real-Time Classification](https://arxiv.org/abs/2607.13081)
+
+	SingGuard Team
+
 # 2026-07-12
 + [DiffUE: Enhancing Utility-Unlearnability Trade-off of Unlearnable Examples via Diffusion Autoencoders](https://arxiv.org/abs/2607.10580)
 
@@ -48,6 +73,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Distributed Denial of Science: How Indirect Data Poisoning of AI Systems Can Industrialize Scientific Fraud](https://arxiv.org/abs/2607.10712)
 
 	Bálint Gyevnár, Atoosa Kasirzadeh, Nihar B. Shah
+
++ [The Entanglement Wall: Activation-Space Probes as Risk Detectors, Not Context Adjudicators](https://arxiv.org/abs/2607.13075)
+
+	Dominik Schwarz
 
 # 2026-07-11
 + [Minionese: Comprehensive Benchmark and Mechanistic Study of Multilingual LLM Safety](https://arxiv.org/abs/2607.10112)
@@ -43059,6 +43088,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Worse than Zero-shot? A Fact-Checking Dataset for Evaluating the Robustness of RAG Against Misleading Retrievals](https://arxiv.org/abs/2502.16101)
 
 	Linda Zeng, Rithwik Gupta, Divij Motwani, Yi Zhang, Diji Yang
+
++ [PersGuard: Preventing Malicious Personalization in Text-to-Image Diffusion Models via Model Backdoors](https://arxiv.org/abs/2502.16167)
+
+	Xinwei Liu, Xiaojun Jia, Yuan Xun, Hua Zhang, Xiaochun Cao
 
 # 2025-02-21
 + [Methods and Trends in Detecting Generated Images: A Comprehensive Review](https://arxiv.org/abs/2502.15176)
