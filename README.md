@@ -3,6 +3,11 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2026-07-16
++ [FLINT: Fingerprinting Federated Learning Architectures from 5G PHY-Layer Side Channels](https://arxiv.org/abs/2607.15469)
+
+	Md Nahid Hasan Shuvo, Mahmudul Hassan Ashik, Moinul Hossain
+
 # 2026-07-15
 + [AIMO Interpretability Challenge](https://arxiv.org/abs/2607.13899)
 
@@ -29794,6 +29799,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Lichao Wu, Sasha Behrouzi, Mohamadreza Rostami, Maximilian Thang, Stjepan Picek, Ahmad-Reza Sadeghi
 
++ [Poison to Detect: Detection of Targeted Overfitting in Federated Learning](https://arxiv.org/abs/2509.11974)
+
+	Soumia Zohra El Mestari, Maciej Krzysztof Zuziak, Gabriele Lenzini
+
 # 2025-09-14
 + [Free-MAD: Consensus-Free Multi-Agent Debate](https://arxiv.org/abs/2509.11035)
 
@@ -32211,6 +32220,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [SLIP: Soft Label Mechanism and Key-Extraction-Guided CoT-based Defense Against Instruction Backdoor in APIs](https://arxiv.org/abs/2508.06153)
 
 	Zhengxian Wu, Juan Wen, Wanli Peng, Haowei Chang, Yinghan Zhou, Yiming Xue
+
++ [Latent Fusion Jailbreak: Blending Harmful and Harmless Representations to Elicit Unsafe LLM Outputs](https://arxiv.org/abs/2508.10029)
+
+	Wenpeng Xing, Bohan Yang, Mohan Li, Chunqiang Hu, Haitao Xu, Ningyu Zhang, Bo Lin, Meng Han
 
 # 2025-08-07
 + [MedMKEB: A Comprehensive Knowledge Editing Benchmark for Medical Multimodal Large Language Models](https://arxiv.org/abs/2508.05083)
@@ -40982,6 +40995,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Shih-Han Chan
 
+
++ [AuditVotes: Elevating Provable Defense for GNNs with Efficient Augmentation and Conditional Smoothing](https://arxiv.org/abs/2503.22998)
+
+	Yuni Lai, Yulin Zhu, Yixuan Sun, Yulun Wu, Bin Xiao, Gaolei Li, Jianhua Li, Qi Xie, Kai Zhou
 
 # 2025-03-28
 + [Beyond Single-Sentence Prompts: Upgrading Value Alignment Benchmarks with Dialogues and Stories](https://arxiv.org/abs/2503.22115)
