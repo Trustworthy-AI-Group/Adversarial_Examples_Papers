@@ -3,6 +3,52 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2026-07-21
++ [Supra Cognitive Modes: A Routed Architecture for Agent Memory](https://arxiv.org/abs/2607.19096)
+
+	Joshua Tobkin, David Yang
+
++ [CPInj: Uncovering Prompt Injection Risks in Textual Collaborative Prompt Optimization](https://arxiv.org/abs/2607.18622)
+
+	Xinting Liao, Behnoosh Zamanlooy, Masoumeh Shafieinejad, David B. Emerson, Ruinan Jin, Deval Pandya, Xiaoxiao Li
+
++ [Cross-Agent Campaign Attribution: Linking Asynchronous Attacks Across LLM Agents](https://arxiv.org/abs/2607.18826)
+
+	SangJin Park, Myungsub Choi, Jineok Kim, Minseung Kang
+
++ [Data Leakage Prevention in Agentic Applications via Preemptive Hardening](https://arxiv.org/abs/2607.18847)
+
+	Akansha Shukla, Emily Bellov, Parth Atulbhai Gandhi, Yuval Elovici, Asaf Shabtai
+
++ [Dual Adversarial Fine-tuning for Enhancing Robustness of Large Vision Language Model](https://arxiv.org/abs/2607.18958)
+
+	Sibo Wang, Jie Zhang, Shiguang Shan, Xilin Chen, Wen Gao
+
++ [Code Division Modulation Layers Against Forgetting and Inference in Continual Gait Identification](https://arxiv.org/abs/2607.19122)
+
+	Simone Milani
+
++ [Breaking the Homogeneity Assumption: Specialized Multi-Generator Adversarial Learning for Rare Failure Detection in Predictive Maintenance](https://arxiv.org/abs/2607.19153)
+
+	Alexis Lazanas, Georgios Kampouropoulos
+
++ [They'll Verify. They Just Won't Act. How Authority Framing and Laundered Code Turn a Trusted Agentic CI/CD Pipeline Into an Attack Surface](https://arxiv.org/abs/2607.19267)
+
+	Yohann Sidot
+
+# 2026-07-20
++ [Attacking Graph Foundation Models Through Their Shared Representation](https://arxiv.org/abs/2607.18567)
+
+	Pankaj Kumar, Subhankar Mishra
+
++ [Adversarial Robustness of Phishing Email Detection: A Comparative Study of TF-IDF + Logistic Regression and Fine-Tuned DistilBERT](https://arxiv.org/abs/2607.18429)
+
+	Tanveer Ahmed, Seyedali Pourmoafil
+
++ [Trusted Credentials, Untrusted Behavior: Benchmarking LLM-Agent Security in High-Performance Computing](https://arxiv.org/abs/2607.18485)
+
+	Jie Li
+
 # 2026-07-16
 + [FLINT: Fingerprinting Federated Learning Architectures from 5G PHY-Layer Side Channels](https://arxiv.org/abs/2607.15469)
 
@@ -1680,6 +1726,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Text Over Image: Auditing Multimodal Robustness in Synthetic Medical Image Detection](https://arxiv.org/abs/2606.25375)
 
 	Ching-Hao Chiu, Hao-Wei Chung, Gelei Xu, Xueyang Li, Pin-Yu Chen, John Kheir, Meysam Ghaffari, Carlos Morato, Ahmed Abbasi, Yiyu Shi
+
++ [A Red Teaming Framework for Large Language Models: A Case Study on Faithfulness Evaluation](https://arxiv.org/abs/2606.25476)
+
+	Abrar Alotaibi, Raed Mughus, Moataz Ahmed
 
 # 2026-06-23
 + [PHANTOM: A Large-Scale Dataset of Multimodal Adversarial Attacks for Vision-Language Models](https://arxiv.org/abs/2606.24388)
@@ -5529,6 +5579,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Making Brain-Computer Interfaces More Secure](https://arxiv.org/abs/2606.02597)
 
 	 Md Fahimul Kabir Chowdhury , Gahangir Hossain
+
++ [Fence: Specialized SLM Guardrails for LLM Applications](https://arxiv.org/abs/2607.18268)
+
+	Kumud Lakara, Ruibo Shi, Fran Silavong
 
 # 2026-05-21
 + [Test-Time Training Undermines Safety Guardrails](https://arxiv.org/abs/2605.22984)
