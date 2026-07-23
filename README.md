@@ -3,6 +3,27 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2026-07-22
++ [Know Your Agent: Reconnaissance-Driven Pentesting of AI Agents](https://arxiv.org/abs/2607.19837)
+
+	Or Zion Eliav, Eyal Lenga, Shir Bernstien, Yisroel Mirsky
+
++ [FedLSG: LLM-Enhanced Semantic Calibration for Federated Graph Backdoor Defense](https://arxiv.org/abs/2607.19674)
+
+	Chenyu Zhou, Yabin Peng, Wei Huang, Kunlin Li, Shuaishuai Zhang, Xinyuan Miao
+
++ [Defense Against LLM Backdoors using Critical Neuron Isolation Pruning](https://arxiv.org/abs/2607.19894)
+
+	Yuxi Li, Zhibo Zhang, Kailong Wang, Xingshuo Han, Ling Shi, Haoyu Wang
+
++ [HijackKV: New Threat in Position-Independent KV Cache Reuse](https://arxiv.org/abs/2607.19957)
+
+	Yichi Zhang, Zhiqi Wang, Huan Zhang, Yuchen Yang
+
++ [Reinforcement Learning for Large Language Model Selective Evidence Adoption from Contaminated Retrieval Results](https://arxiv.org/abs/2607.20090)
+
+	Yanyu Chen, Yue Li, Yongyi Cui, Dongsheng Shi, Lichang Dai
+
 # 2026-07-21
 + [Supra Cognitive Modes: A Routed Architecture for Agent Memory](https://arxiv.org/abs/2607.19096)
 
@@ -36,6 +57,14 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Yohann Sidot
 
++ [Integrity of peer-to-peer distributed LLM inference under malicious nodes](https://arxiv.org/abs/2607.19490)
+
+	Mert Cihangiroglu, Antonino Nocera
+
++ [SynPre-FL: Synthetic data-driven pretraining integrated Federated Learning training framework](https://arxiv.org/abs/2607.19524)
+
+	Akarsh K Nair, Muhammad Arifur Rahman, Nicholas Shopland, Andy Burton, Jun He, Yuan Shen, David Baldwin, Emma O'Dowd, Amna Burzic, Mufti Mahmud, David J. Brown
+
 # 2026-07-20
 + [Attacking Graph Foundation Models Through Their Shared Representation](https://arxiv.org/abs/2607.18567)
 
@@ -48,6 +77,26 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Trusted Credentials, Untrusted Behavior: Benchmarking LLM-Agent Security in High-Performance Computing](https://arxiv.org/abs/2607.18485)
 
 	Jie Li
+
++ [The Chronos Vulnerability: A Taxonomy of Temporal Persistence and Memory-Based Deception in Agentic AI](https://arxiv.org/abs/2607.19433)
+
+	Om Narayan, Ramkinker Singh, Praveen Baskar
+
++ [JailMeter: An Evidence-Based Evaluation Framework for Jailbreak Attacks on Large Language Models](https://arxiv.org/abs/2607.19424)
+
+	Qingjia Huang, Jingyu Zhang, Jianguo Wu, Yakai Li, Weijuan Zhang, Yankai Rong, Junyi Yao, Shengzhi Zhang, Xiaoqi Jia
+
++ [ChannelGuard: Safe Models Do Not Compose into Safe Multi-Agent Systems](https://arxiv.org/abs/2607.19430)
+
+	Elias Hossain, Md Mehedi Hasan Nipu, Fatema Tuj Johora Faria, Tasfia Nuzhat Ornee, Maleeha Sheikh
+
++ [ChainWatch: A Kill Chain-Aligned Sequential Detection Framework for Multi-Step Attacks in MCP-Based AI Agent Systems](https://arxiv.org/abs/2607.19432)
+
+	Om Narayan, Rashmi Jyoti, Ramkinker Singh
+
++ [Stress Testing Concept Erasure with Large Language Model Agents](https://arxiv.org/abs/2607.17890)
+
+	Yuyang Xue, Feng Chen, Zhihua Liu, Edward Moroshko, Jingyu Sun, Steven McDonagh, Sotirios A. Tsaftaris
 
 # 2026-07-16
 + [FLINT: Fingerprinting Federated Learning Architectures from 5G PHY-Layer Side Channels](https://arxiv.org/abs/2607.15469)
@@ -721,6 +770,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Swarm-Driven Multi-Agent Reasoning for Smart City Security](https://arxiv.org/abs/2607.03628)
 
 	Saeid Jamshidi, Kawser Wazed Nafi, Carol Fung, Foutse Khomh
+
++ [CrackedPDFs: A Controlled Benchmark for Hidden Prompt Injection in PDFs](https://arxiv.org/abs/2607.19396)
+
+	Pukaphol Thienpreecha ("Volk")
 
 # 2026-07-02
 + [Distributionally Robust Listwise Preference Optimization](https://arxiv.org/abs/2607.01715)
@@ -2644,6 +2697,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Almond Kiruthu Murimi
 
++ [Mitigating Scaffolding Collapse in Socratic Tutors via Representation Alignment](https://arxiv.org/abs/2607.19371)
+
+	Jing Shao, Qifeng Wu, Hanyu Zhang, Sixia Sun, Jun Zhuang
+
 # 2026-06-14
 + [FragFuse: Bypassing Access Control of Large Language Model Agents via Memory-Based Query Fragmentation and Fusion](https://arxiv.org/abs/2606.15609)
 
@@ -3237,6 +3294,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [The Distributed Detectability Band Against Marginal-Preserving Attacks](https://arxiv.org/abs/2606.10456)
 
 	Zhang Qinqin, Gao Yuze
+
++ [Geometry-Guided Constraint Learning for LLM Safety Classification](https://arxiv.org/abs/2607.19366)
+
+	Fumiaki Uehara, Koo Imai, Masato Tsutsumi, Keigo Kansa, Sora Usui, Yuki Kobiyama
 
 # 2026-06-08
 + [Hardening Agent Benchmarks with Adversarial Hacker-Fixer Loops](https://arxiv.org/abs/2606.08960)
@@ -3867,6 +3928,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Trust, but Don't Verify: Epistemic Blind Spots in LLM Source Evaluation](https://arxiv.org/abs/2606.05403)
 
 	Rohan N. Pradhan, Steve Goley
+
++ [Stateful Guardrails for Multi-Turn LLM Systems: A Conversational Risk Accumulation Framework](https://arxiv.org/abs/2607.19361)
+
+	Sanjay Mishra, Divya Chukkapalli, Ganesh R. Naik
 
 # 2026-06-02
 + [Beyond False Stability: High-Noise Drift Gating for Test-Time Adversarial Defenses in Vision-Language Models](https://arxiv.org/abs/2606.03730)
@@ -6632,6 +6697,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [ROK-FORTRESS: Measuring the Effect of Geopolitical Transcreation for National Security and Public Safety](https://arxiv.org/abs/2605.14152)
 
 	Michael S. Lee, Yash Maurya, Drew Rein, Bert Herring, Jonathan Nguyen, Kyungho Song, Udari Madhushani Sehwag, Jiyeon Cho, Kaustubh Deshpande, Yeongkyun Jang, Jiyeon Joo, Minn Seok Choi, Evi Fuelle, Christina Q. Knight, Joseph Brandifino, Max Fenkell
+
++ [OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks](https://arxiv.org/abs/2607.19351)
+
+	Litian Zhang, Chaozhuo Li, Yuting Zhang, Zejian Chen, Bingyu Yan, Qiwei Ye
 
 # 2026-05-12
 + [The Misattribution Gap: When Memory Poisoning Looks Like Model Failure in Agentic AI Systems](https://arxiv.org/abs/2605.22842)
@@ -22436,6 +22505,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	 Ana-Maria Cretu , Klim Kireev , Amro Abdalla , Wisdom Obinna , Raphael Meier , Sarah Adel Bargal , Elissa M. Redmiles , Carmela Troncoso
 
++ [Matching Ranks Over Probability Yields Truly Deep Safety Alignment](https://arxiv.org/abs/2512.05518)
+
+	Jason Vega, Gagandeep Singh
+
 # 2025-12-04
 + [Chameleon: Adaptive Adversarial Agents for Scaling-Based Visual Prompt Injection in Multimodal AI Systems](https://arxiv.org/abs/2512.04895)
 
@@ -24938,6 +25011,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Can Fine-Tuning Erase Your Edits? On the Fragile Coexistence of Knowledge Editing and Adaptation](https://arxiv.org/abs/2511.05852)
 
 	Yinjie Cheng, Paul Youssef, Christin Seifert, Jörg Schlötterer, Zhixue Zhao
+
++ [CGCE: Classifier-Guided Concept Erasure in Generative Models](https://arxiv.org/abs/2511.05865)
+
+	Viet Nguyen, Vishal M. Patel
 
 # 2025-11-07
 + [DeepForgeSeal: Latent Space-Driven Semi-Fragile Watermarking for Deepfake Detection Using Multi-Agent Adversarial Reinforcement Learning](https://arxiv.org/abs/2511.04949)
