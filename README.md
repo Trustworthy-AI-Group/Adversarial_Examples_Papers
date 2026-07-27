@@ -3,6 +3,20 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2026-07-24
++ [ISPCloak: Weaponizing ISP for Optimization-Free Physical Camouflage against Deepfake Detectors](https://arxiv.org/abs/2607.21897)
+
+	Jiale Zhao, Jiajun Wan, Lei Tang, Ye Qin, Kebing Jin, Jinghui Qin
+
+# 2026-07-23
++ [Self-Poisoning in Adaptive Out-of-Distribution Detection: A Sharp-Threshold Theory and Certified Label-Free Calibration](https://arxiv.org/abs/2607.21673)
+
+	Vishnu Bindu Balachandran
+
++ [Every Model Cheats: Prompt-Level Mitigation of Cheating on Offensive Cyber Tasks](https://arxiv.org/abs/2607.21763)
+
+	Michael Kouremetis, Ads Dawson, Raja Sekhar Rao Dheekonda, Brian Greunke
+
 # 2026-07-22
 + [Know Your Agent: Reconnaissance-Driven Pentesting of AI Agents](https://arxiv.org/abs/2607.19837)
 
@@ -4319,6 +4333,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	 Sohail Sarkar
 
++ [Adversarial Style Optimization: Enhancing VLM Jailbreaks by GRPO-based Stylistic Triggers Optimization](https://arxiv.org/abs/2607.21619)
+
+	Bingjun Luo, Jialin Guo, Yue Yao, Xinpeng Ding
+
 # 2026-05-31
 + [Before the Model Learns the Bug:Fuzzing RLVR Verifiers](https://arxiv.org/abs/2606.01066)
 
@@ -7991,6 +8009,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [What's on Your Mind? Exploring Privacy of Mental Health Apps](https://arxiv.org/abs/2605.02016)
 
 	Chloe Georgiou, Hans Lu, Emiliano De Cristofaro, Gene Tsudik
+
++ [Securing Multimodal AI through Internal Information Decomposition](https://arxiv.org/abs/2607.21600)
+
+	Jehyeok Yeon, Hyeonjeong Ha, Qiusi Zhan, Heng Ji
 
 # 2026-05-02
 + [SRGAN-CKAN: Expressive Super-Resolution with Nonlinear Functional Operators under Minimal Resources](https://arxiv.org/abs/2605.01459)
