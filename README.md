@@ -3,6 +3,19 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2026-07-28
++ [Architectural Backdoors in Vision-Language Model Supply Chains via Representation Steering](https://arxiv.org/abs/2607.25479)
+
+	Maria Rosaria Briglia, Igor Maljkovic, Antonio Emanuele Cinà, Luca Oneto, Iacopo Masi, Fabio Roli
+
++ [I2VShield: An Efficient Proactive Defense Framework against DiT-based Image-to-Video Models](https://arxiv.org/abs/2607.25522)
+
+	Yimao Guo, Zuomin Qu, Wei Lu
+
++ [Device Invariance using Domain Adaptation on Acoustic Scene Classification](https://arxiv.org/abs/2607.25887)
+
+	Abhishek dileep, Shubham Sharma, Padmanabhan Rajan
+
 # 2026-07-27
 + [Understanding Machine Unlearning Through the Lens of Mode Connectivity](https://arxiv.org/abs/2607.23970)
 
@@ -23,6 +36,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Denial of Deadline: Network-Driven Accuracy Collapse in Distributed Inference Pipelines](https://arxiv.org/abs/2607.24692)
 
 	Jhonatan Tavori, Gur-Eyal Sela, Ion Stoica, Gil Zussman
+
++ [Early Detection of Distributed Backdoors in Multi-Agent LLM Systems: A Characterization Study](https://arxiv.org/abs/2607.24893)
+
+	Diego Fernandez Arias, Dev Prashant Mistry, Ren Wang, Yibo Hu
 
 # 2026-07-26
 + [Do LLMs Know Their Vulnerable Scenarios?](https://arxiv.org/abs/2607.23496)
