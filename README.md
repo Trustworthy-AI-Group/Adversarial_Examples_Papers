@@ -3,6 +3,39 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2026-07-29
++ [On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment](https://arxiv.org/abs/2607.27081)
+
+	Yongjian Guo, Wanlun Ma, Lingyu Shen, Xi Xiao, Sheng Wen
+
++ [Recover, Decode, Reguard: Guard-Agnostic Defense Amplification againstEncoded VLM Jailbreaks](https://arxiv.org/abs/2607.26574)
+
+	Haoyu Zhang, Zhuoxi Wang, Shibo Zheng, Zijian Xiao, Xiangchen Guan, Mohammad Zandsalimy, Shanu Sushmita
+
++ [Guarding Organizations Against Malware Risk: A Novel Graph-Based Malware Detection Method](https://arxiv.org/abs/2607.26634)
+
+	Yinan Gao, Jiarong Xu, Xiaohang Zhao, Xiao Fang
+
++ [Borrowed Strength: Best-of-N Search over a Code EncodingBreaks Self-Check Jailbreak Defenses](https://arxiv.org/abs/2607.26639)
+
+	Haoyu Zhang, Shibo Zheng, Xiangchen Guan, Zhuoxi Wang, Zijian Xiao, Mohammad Zandsalimy, Shanu Sushmita
+
++ [Physically Real-time Infrared Attack against Optical Flow Estimation Networks](https://arxiv.org/abs/2607.26651)
+
+	Shen You, Wei Jiang, Jiarui Liu, Yijian Ye, Qiuzhen Lin, Xiangtao Li, Ka-Chun Wong
+
++ [FARI: Robust One-Step Inversion for Watermarking in Diffusion Models](https://arxiv.org/abs/2607.26723)
+
+	Jindong Yang, Han Fang, Weiming Zhang, Nenghai Yu, Kejiang Chen
+
++ [Defending Against Backdoor Attacks via Alignment Checking in Model-Contrastive Federated Learning](https://arxiv.org/abs/2607.26933)
+
+	Hongliang Zhang, Zhongyuan Yu, Guijuan Wang, Tianqing He, Wenshuo Ma, Xiaosong Zhang, Jiguo Yu
+
++ [MemSecBench: Tracking Agent Memory Poisoning from Persistence to Consequence and Repair](https://arxiv.org/abs/2607.27080)
+
+	Xuanze Chen, Xukang Xie, Wentao Fu, Jiajun Zhou, Shanqing Yu, Qi Xuan
+
 # 2026-07-28
 + [Architectural Backdoors in Vision-Language Model Supply Chains via Representation Steering](https://arxiv.org/abs/2607.25479)
 
@@ -15,6 +48,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Device Invariance using Domain Adaptation on Acoustic Scene Classification](https://arxiv.org/abs/2607.25887)
 
 	Abhishek dileep, Shubham Sharma, Padmanabhan Rajan
+
++ [GPT-Red: Automated Red Teaming via Self-Play at Scale](https://arxiv.org/abs/2607.26115)
+
+	Eric Wallace, Christopher A. Choquette-Choo, Nikhil Kandpal, Sam Toyer, Dylan Hunn, Stephanie Lin, Yuxin Wen, Xiangyu Qi, Christopher Wolff, Zizhao Wang, Milad Nasr, Sicheng Zhu, Chuan Guo, Juan Felipe Cerón Uribe, Kaiwen Wang, Aiden Low, Kai Xiao, Kai Chen
 
 # 2026-07-27
 + [Understanding Machine Unlearning Through the Lens of Mode Connectivity](https://arxiv.org/abs/2607.23970)
@@ -32365,6 +32402,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Context Misleads LLMs: The Role of Context Filtering in Maintaining Safe Alignment of LLMs](https://arxiv.org/abs/2508.10031)
 
 	Jinhwa Kim, Ian G. Harris
+
++ [Balancing Privacy and Efficiency: Music Information Retrieval via Additive Homomorphic Encryption](https://arxiv.org/abs/2508.07044)
+
+	William Zerong Wang, Dongfang Zhao
 
 # 2025-08-08
 + [LLM Robustness Leaderboard v1 --Technical report](https://arxiv.org/abs/2508.06296)
