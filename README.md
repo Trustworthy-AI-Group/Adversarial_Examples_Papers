@@ -3,6 +3,35 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2026-08-05
++ [Leak-Resistant Unlearning: A New Benchmark for Evaluating Multi-Hop Reasoning Consistency and Recovery Robustness](https://arxiv.org/abs/2608.04519)
+
+	Haoting Qian, Qingjie Zhang, Zhicong Huang, Cheng Hong, Han Qiu
+
++ [Trident : How to Break Deep Reinforcement Learning Cyber Defenses (Agentic)](https://arxiv.org/abs/2608.04317)
+
+	Ryozo Masukawa, Ian Bryant, Armita Kazeminajafabadi, Sanggeon Yun, Hyunwoo Oh, SungHeon Jeong, Nathaniel D. Bastian, Mahdi Imani, Mohsen Imani
+
++ [Combating Knowledge Corruption in Agent Systems: A Byzantine-Tolerant Secure Collaborative RAG Framework](https://arxiv.org/abs/2608.04366)
+
+	Zhaoqi Wang, Daqing He, Zijian Zhang, Ye Liu, Jiamou Liu, Zhirui Zeng, Zhan Qin, Zhen Li, Xin Li, Hongwei Yao, Jincheng An, Yong Liu, Yi Li, Qi Sun, Xiulei Liu, Liehuang Zhu
+
++ [TwinIR: Coordinated Invisible Dual-Point Attacks on Online HD Map Construction](https://arxiv.org/abs/2608.04453)
+
+	Haibo Hu, Jianghuai Deng, Chen Tang, Yang Lou, Qian Xu, Jianping Wang
+
++ [Breadcrumbing Search Agents](https://arxiv.org/abs/2608.04565)
+
+	Xuebin Li, Hanqing Zhao, Siyuan Liang, Kejiang Chen, Weiming Zhang, Dacheng Tao, Nenghai Yu
+
++ [PURPOSE: Poisoning Conflict Resolution in RAG via Proxy-Fact-Grounded Updates](https://arxiv.org/abs/2608.04756)
+
+	Zijian Wang, Yubo Zhu, Muzhi Dong, Yanjun Lou, Yisheng Li, ZiLiang Zhang, Wei Tong, Yuan Zhang, Jingyu Hua, Sheng Zhong
+
++ [Gradient Immunity: Null-Space Resistance to Malicious Fine-Tuning](https://arxiv.org/abs/2608.05045)
+
+	Yuxuan Huang, Xingyu Zeng, Tianhang Zheng, Chaochao Lu
+
 # 2026-08-04
 + [Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation](https://arxiv.org/abs/2608.03166)
 
@@ -51,6 +80,26 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [GenOS: Compositional Certificates for Semantic Robustness in AI Code Generation](https://arxiv.org/abs/2608.03588)
 
 	Corrado Priami
+
++ [Adversarially Robust Abductive Fusion of Pre-trained Transformer-based Perception Models](https://arxiv.org/abs/2608.04190)
+
+	Mario Leiva, Yue Ma, Qinru Qiu, Gerardo Simari, Paulo Shakarian
+
++ [Robust and Personalized Federated Learning for Aircraft-Engine Prognostics under Benign and Adversarial Client Heterogeneity](https://arxiv.org/abs/2608.04045)
+
+	Chinmoy Mitra, Md. Mehedi Hasan Nipu, Mohammad Sakib Mahmood, Md. Rakibul Islam, M. F. Mridha
+
++ [AgentAntibody: An Adaptive Immune System for Defending LLM Agents against Prompt Injection](https://arxiv.org/abs/2608.04053)
+
+	Shihao Weng, Yang Feng, Xiaofei Xie, Jiongchi Yu
+
++ [An Inline Control Architecture for Language Models in Intelligent Transportation Systems](https://arxiv.org/abs/2608.04065)
+
+	Narendra Kumar Dewangan, Mounira Msahli
+
++ [Behavioral Skill Reconstruction: Reconstructing Hidden Functionality from LLM Agent Skills](https://arxiv.org/abs/2608.04192)
+
+	Peichun Hua, Haoxuan Xu, Mengyuan Li
 
 # 2026-08-03
 + [Does the Competitive Component of Adversarial Self-Play Improve Legal Reasoning? A Controlled Negative Result](https://arxiv.org/abs/2608.01559)
@@ -2274,6 +2323,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Yuvion VL: A Multimodal Foundation Model for Adversarial Content and AI Safety](https://arxiv.org/abs/2606.25034)
 
 	Shikai Qiu, Xiaowen Xu, Benlei Cui, Ting Ma, Xiufeng Huang, Wenjing Jiang, Shaoxuan He, Haolei Xu, Chunyang Chai, Yujian Li, Yiliang Zhang, Guanghui Wang, Ziheng Wang, Ziwen Xu, Zhaoyu Fan, Jinhao Chen, Ruijie Jian, Hongxing Li, Chuxi Xiao, Xinyue Chen, Wenxuan Liu, Libin Dong, Yupeng Cao, Xiaoqian Xia, Jing Wang, Zhe Jiang, Zhenan Ye, Guang Yang, Bin Liu, Wei Peng, Ziqiang Zhu, Meihui Lian, Kaiwen Lv Kacuila, Haidong Ding, Dongjie Zhang, Yangfan Zhou, Bingyu Zhu, Yan Wang, Hai Zhao, Xuan Jin, Wei Zhao, Pengfei Sun, Huiming Zhang, Wei Wang, Xipeng Cao, Jialun Chen, Xiao Chen, Shaola Ren, Yunqing Hu, Bin Li, Chengwen Yao, Meng Huang, Xianfeng Li, Bin Tang, Chao Liu, Hui Xue, Longtao Huang, Haiwen Hong
+
++ [Governing Execution Risk in Agentic AI Systems: A Trajectory-Guided Framework for Red Teaming](https://arxiv.org/abs/2608.04018)
+
+	Zhihao Zhu, Yi Yang
 
 # 2026-06-22
 + [GIF: Locally Sound Geometric Information Flow Control for LLMs](https://arxiv.org/abs/2606.23277)
@@ -8756,6 +8809,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL](https://arxiv.org/abs/2604.28123)
 
 	Sudong Wang, Weiquan Huang, Xiaomin Yu, Zuhao Yang, Hehai Lin, Keming Wu, Chaojun Xiao, Chen Chen, Wenxuan Wang, Beier Zhu, Yunjian Zhang, Chengwei Qin
+
++ [Contextual Agentic Memory is a Memo, Not True Memory](https://arxiv.org/abs/2604.27707)
+
+	Binyan Xu, Xilin Dai, Kehuan Zhang
 
 # 2026-04-29
 + [SafeTune: Mitigating Data Poisoning in LLM Fine-Tuning for RTL Code Generation](https://arxiv.org/abs/2604.27238)
@@ -24855,6 +24912,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	 Sajad U P
 
++ [Stabilizing Multi-Attack Adversarial Training via Bandit Optimization](https://arxiv.org/abs/2511.12265)
+
+	Rui Wang, Zeming Wei, Xiyue Zhang, Meng Sun
+
 # 2025-11-14
 + [Synthetic Voices, Real Threats: Evaluating Large Text-to-Speech Models in Generating Harmful Audio](https://arxiv.org/abs/2511.10913)
 
@@ -28435,6 +28496,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Saptarshi Mandal, Yashaswini Murthy, R. Srikant
 
++ [Dynamic Jailbreaking Attack](https://arxiv.org/abs/2510.02422)
+
+	Kedong Xiu, Yunhan Yang, Churui Zeng, Tianhang Zheng, Xinzhe Huang, Di Wang, Puning Zhao, Zhan Qin, Kui Ren
+
 # 2025-10-01
 + [Vicinity-Guided Discriminative Latent Diffusion for Privacy-Preserving Domain Adaptation](https://arxiv.org/abs/2510.00478)
 
@@ -30752,6 +30817,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [X-Teaming Evolutionary M2S: Automated Discovery of Multi-turn to Single-turn Jailbreak Templates](https://arxiv.org/abs/2509.08729)
 
 	Hyunjun Kim, Junwoo Ha, Sangyoon Yu, Haon Park
+
++ [Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implications](https://arxiv.org/abs/2509.08604)
+
+	Anran Li, Lingfei Qian, Mengmeng Du, Yu Yin, Yan Hu, Zihao Sun, Yihang Fu, Hyunjae Kim, Erica Stutz, Xuguang Ai, Qianqian Xie, Rui Zhu, Jimin Huang, Yifan Yang, Siru Liu, Yih-Chung Tham, Lucila Ohno-Machado, Hyunghoon Cho, Zhiyong Lu, Hua Xu, Qingyu Chen
 
 # 2025-09-09
 + [How Far Are We from True Unlearnability?](https://arxiv.org/abs/2509.08058)
@@ -42192,6 +42261,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [XOXO: Stealthy Cross-Origin Context Poisoning Attacks against AI Coding Assistants](https://arxiv.org/abs/2503.14281)
 
 	 Adam Štorek , Mukur Gupta , Noopur Bhatt , Aditya Gupta , Janie Kim , Prashast Srivastava , Suman Jana
+
++ [Temporal Context Awareness: A Defense Framework Against Multi-turn Manipulation Attacks on Large Language Models](https://arxiv.org/abs/2503.15560)
+
+	Prashant Kulkarni, Assaf Namer
 
 # 2025-03-17
 + [Analyzing sequential activity and travel decisions with interpretable deep inverse reinforcement learning](https://arxiv.org/abs/2503.12761)
