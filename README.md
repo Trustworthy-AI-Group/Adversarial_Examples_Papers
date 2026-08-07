@@ -3,6 +3,19 @@
 
 It appears that the [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) has been experiencing crashes over the past few days. In the absence of this valuable resource, staying up-to-date with the latest research papers in this field has become challenging. Consequently, I created a repository aimed at aggregating and maintaining the most current papers in this domain. While this repository may not encompass every paper, I did try. If you find any papers we have missed, just drop me an [email](mailto:xswanghuster@gmail.com). We have included the [data](./nicholas.md) from [List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) till 2023-09-01. We also provide a list of papers about transfer-based attacks [here](https://xiaosenwang.com/transfer_based_attack_papers.html).
 
+# 2026-08-06
++ [HERALD: Counterfactual Audits and Minimal Repairs for Proof-of-Retrieval Rewards](https://arxiv.org/abs/2608.06012)
+
+	Zhuowen Liu, Bohan Cui, YinShang Guo, Yuting Wang, Hao Li
+
++ [When Experience Becomes Instruction: Trajectory Poisoning in Self-Evolving Agent Skill Systems](https://arxiv.org/abs/2608.05563)
+
+	Jialuo Chen, Lingqi Jiang, Xinhao Deng, Xiaohu Du, Jianan Ma, Yunhao Feng, Yuqi Qing, Zhihao Yuan, Linkang Du, Jingyi Wang
+
++ [Hijacking Robots with a Piece of Paper: A Systematic Study of Physical Prompt Injection in VLM-Controlled Robots](https://arxiv.org/abs/2608.05715)
+
+	S. M . Bhagya P. Samarakoon, M. A. Viraj J. Muthugala, W. K. R. Sachinthana, Mohan Rajesh Elara
+
 # 2026-08-05
 + [Leak-Resistant Unlearning: A New Benchmark for Evaluating Multi-Hop Reasoning Consistency and Recovery Robustness](https://arxiv.org/abs/2608.04519)
 
@@ -16598,6 +16611,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	 Jaylen Jones , Zhehao Zhang , Yuting Ning , Eric Fosler-Lussier , Pierre-Luc St-Charles , Yoshua Bengio , Dawn Song , Yu Su , Huan Sun
 
++ [Trust-Based Incentive Mechanisms in Semi-Decentralized Federated Learning Systems](https://arxiv.org/abs/2602.08290)
+
+	Ajay Kumar Shrestha
+
 # 2026-02-08
 + [Selective Fine-Tuning for Targeted and Robust Concept Unlearning](https://arxiv.org/abs/2602.07919)
 
@@ -25687,6 +25704,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [MedFedPure: A Medical Federated Framework with MAE-based Detection and Diffusion Purification for Inference-Time Attacks](https://arxiv.org/abs/2511.11625)
 
 	Mohammad Karami, Mohammad Reza Nemati, Aidin Kazemi, Ali Mikaeili Barzili, Hamid Azadegan, Behzad Moshiri
+
++ [DeepForgeSeal: Latent Space-Driven Semi-Fragile Watermarking for Deepfake Detection Using Adversarial Reinforcement Learning](https://arxiv.org/abs/2511.04949)
+
+	Tharindu Fernando, Clinton Fookes, Sridha Sridharan
 
 # 2025-11-06
 + [AdversariaLLM: A Unified and Modular Toolbox for LLM Robustness Research](https://arxiv.org/abs/2511.04316)
