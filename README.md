@@ -148,6 +148,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Songping Wang, Borui Li, Qinglong Liu, Yueming Lyu, Yi Huang, Fengting Li, Chao Feng, Caifeng Shan
 
++ [SAFE-Mem: Secure Agentic Memory with Fine-Grained Authority and Governance-Aware Retrieval](https://arxiv.org/abs/2610.22959)
+
+	Haoming Li, Dingyi Kang, Xu Hu, Jinxin Yang, Zhu Xu, Chenru Wang, Yi Ge, Miao Yin, Guanpeng Li, Feng Chen, Bingzhe Li
+
 # 2026-10-15
 + [Recoverability-Controlled Safety Miscalibration in Large Language Models](https://arxiv.org/abs/2610.22425)
 
@@ -260,6 +264,14 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [AVC-Reward: Event-Centric Audio-Video Consistency Evaluation](https://arxiv.org/abs/2610.22321)
 
 	 Yuruo Wu , Kaihang Pan , Kai Shen , Jiacheng Li , Shuyuan Tu , Jisheng Dang , Li Tuoyu , Juncheng Li , Siliang Tang
+
++ [CoLU: Confidence-Weighted Layerwise Unlearning for Large Language Models](https://arxiv.org/abs/2610.22721)
+
+	Jingkai Guo, Ziyi Zhao, Chaitali Chakrabarti, Deliang Fan
+
++ [A misinformation playbook sharpens judgement without breeding cynicism](https://arxiv.org/abs/2610.22724)
+
+	Tong Guo, Teng Ye, Yutong Xie, Qiaozhu Mei
 
 # 2026-10-14
 + [RedDarwin: Evolving Jailbreak Skills against Frontier LLMs](https://arxiv.org/abs/2610.23726)
@@ -772,6 +784,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Interpretable but Fragile? Robustness of Concept Bottlenecks under Geometric-Semantic Perturbations](https://arxiv.org/abs/2609.38625)
 
 	 Hanwei Zhang , Tianma Hu , Gaojie Jin , Xu Cheng , Ronghui Mu
+
++ [ContractRL: Shielded Group-Relative Policy Optimization for Auditable Tool-Call Repair](https://arxiv.org/abs/2610.00328)
+
+	Miaobo Hu, Shuhao Hu, Xiaobo Guo, Xin Wang, Bokun Wang, Yina Sa, Daren Zha
 
 # 2026-09-28
 + [The Argument and the Letterhead: Source-Position Coherence in AI Evaluation](https://arxiv.org/abs/2609.35286)
@@ -41632,6 +41648,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [TalkingHeadBench: A Multi-Modal Benchmark & Analysis of Talking-Head DeepFake Detection](https://arxiv.org/abs/2505.24866)
 
 	Xinqi Xiong, Prakrut Patel, Qingyuan Fan, Amisha Wadhwa, Sarathy Selvam, Xiao Guo, Luchao Qi, Xiaoming Liu, Roni Sengupta
+
++ [GRIT: Out-of-Distribution Robustness from Finite and Noisy Invariant Pairs](https://arxiv.org/abs/2505.24843)
+
+	Ruqi Bai, Easton Currie, Yao Ji, Mingyu Kim, Zeyu Zhou, David I. Inouye
 
 # 2025-05-29
 + [TRAP: Targeted Redirecting of Agentic Preferences](https://arxiv.org/abs/2505.23518)
