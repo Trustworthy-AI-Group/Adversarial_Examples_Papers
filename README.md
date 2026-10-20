@@ -180,6 +180,22 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Josiah Dykstra
 
++ [Whose Credential Is It? How Owner Attribution in Agent MemoryShapes Cross-User Account Misuse](https://arxiv.org/abs/2610.25707)
+
+	Hau-Sing So, Daixian Liu, Carl Hou, Yuhaohang He, Mengzhu Wang, Hai-Tao Zheng
+
++ [The Development of Sycophancy in Language Models: Tracing Vulnerabilities from Pretraining to Post-Training](https://arxiv.org/abs/2610.26655)
+
+	Haonan Huang, Chengkun Cai
+
++ [CoMem: Learning to Anticipate Failures from Retrieved Experience](https://arxiv.org/abs/2610.25790)
+
+	Yun Shen, Ming Shen, Tianjun Yao
+
++ [SpanGuard: Decoupling Instruction Localization from Authorization for Lightweight IPI Defense](https://arxiv.org/abs/2610.26013)
+
+	Yinxiang Wang, Zehua Ma, Kejiang Chen, Weiming Zhang, Han Fang
+
 # 2026-10-18
 + [Robust Direct Preference Optimization under Preference Label-Flip Attacks](https://arxiv.org/abs/2610.24945)
 
@@ -236,6 +252,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Adaptive Cyber-Defense for Evolving Attacker Capabilities using Reinforcement Learning and Behavior Trees](https://arxiv.org/abs/2610.25420)
 
 	Nicholas Potteiger, Ankita Samaddar, Xenofon Koutsoukos
+
++ [Many Repairs, One Direction: Steering Code Models Toward Safer Cryptographic API Use](https://arxiv.org/abs/2610.25133)
+
+	Tianhe Lu, Sakuna Harinda Jayasundara, Eric Spero, Ewan Tempero, Robert Biddle, Giovanni Russello
 
 # 2026-10-17
 + [Train Locally, Learn Together: Distributed Multi-Agent Training via ADMM](https://arxiv.org/abs/2610.24380)
@@ -325,6 +345,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Consistency Is the Attack Surface: Detecting Coordinated Retrieval Poisoning with Embedding Geometry](https://arxiv.org/abs/2610.24834)
 
 	Zeyan Li, Qirong Guo, Jianfeng Xu
+
++ [WAQS: Weight Absorption for Quadratic Probing and Affine Steering](https://arxiv.org/abs/2610.24367)
+
+	Ding Zhu, Mohammad Mahdi Khalili
 
 # 2026-10-16
 + [When Can You Trust an Agent's Own Verifier? Stress-Testing Counterfactual Rationale Verification Under Search Pressure and Oracle Access](https://arxiv.org/abs/2610.22779)
@@ -716,6 +740,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Are You Reading the Right Thing? Rethinking Internal Signals for Prompt-Injection Detection](https://arxiv.org/abs/2610.19452)
 
 	 Sarthak Gupta , Priyanka Tembey
+
++ [Privacy-Preserving Text Inference for Health-Misinformation Classification and Semantic Retrieval](https://arxiv.org/abs/2610.20796)
+
+	Jasleen Kaur, Chloé Cachet, Koray Karabina, Jean Belo Klamti, Philippe Lamontagne
 
 # 2026-10-13
 + [Rethinking Quality in Large Language Model Routing: Security-Conditioned Model-and-Budget Selection](https://arxiv.org/abs/2610.18566)
@@ -1111,6 +1139,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [How Narrative Wrapping Affects LLM Refusal: A Cross-Language Benchmark and Defense](https://arxiv.org/abs/2610.11005)
 
 	 Zhankai Ye , Yanning Wang , Yukai Jin , Bo Mei , Fangyi Li , Wei Wang , Shangqian Gao , Xin Liu
+
++ [When Should an In-Context Learner Expand Its Hypothesis Space?](https://arxiv.org/abs/2610.09471)
+
+	Weihan Li, Xinlei Chen, Junhao Wu, Tianshi Zheng
 
 # 2026-10-06
 + [Visual Memory Attacks Can Persist Through The KV Cache](https://arxiv.org/abs/2610.09027)
@@ -18647,6 +18679,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [On the Rate of Convergence of GD in Non-linear Neural Networks: An Adversarial Robustness Perspective](https://arxiv.org/abs/2603.02095)
 
 	 Guy Smorodinsky , Sveta Gimpleson , Itay Safran
+
++ [Authenticated Contradictions from Desynchronized Provenance and Watermarking](https://arxiv.org/abs/2603.02378)
+
+	Alexander Nemecek, Hengzhi He, Guang Cheng, Erman Ayday
 
 # 2026-03-01
 + [AMDS: Attack-Aware Multi-Stage Defense System for Network Intrusion Detection with Two-Stage Adaptive Weight Learning](https://arxiv.org/abs/2603.00859)
