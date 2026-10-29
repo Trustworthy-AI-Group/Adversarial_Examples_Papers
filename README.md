@@ -96,6 +96,18 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Nirjon Mobarak Talukder, Rafid Ahmed, Mohammad Ishrak Abedin, Abu Raihan Mostofa Kamal
 
++ [Correction or Manipulation? Measuring Epistemic Vigilance in LLM Agents Under User Pressure](https://arxiv.org/abs/2610.36453)
+
+	Nardine Basta, Venus Haghighi, Dali Kaafar, Amin Beheshti
+
++ [Teach reality, not ethics: a drop-in continued-pretraining corpus installs coupled human-biosphere-AI welfare dispositions across model families](https://arxiv.org/abs/2610.37484)
+
+	Trent R. Northen, Mingxun Wang
+
++ [ARISE: Authentic Reference-Informed Stability Enhancement for Continual Multimodal Forgery Detection](https://arxiv.org/abs/2610.36509)
+
+	Yuchen Zhang, Yaxiong Wang, Yujiao Wu, Lianwei Wu, Qi Zhang, Li Zhu, Chaofeng Dong, Le Wu, Zhedong Zheng
+
 # 2026-10-26
 + [Spiking Neural Networks Are Harder to Steal: A Benchmark Study of Model Stealing Attacks](https://arxiv.org/abs/2610.36298)
 
@@ -136,6 +148,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Attack logics, not outputs: Concept-based Property Attacks for Shortcut Elimination in Neural Networks](https://arxiv.org/abs/2610.34923)
 
 	Raik Dankworth, Felix Mächtle, Thomas Eisenbarth, Gesina Schwalbe
+
++ [Evaluating Federated Vision-Language and Vision-Only Models for Privacy-Aware Breast Cancer Imaging](https://arxiv.org/abs/2610.36379)
+
+	Malithi Mithsara Wanniarachchi Kankanamge, Ning Yang, Sree Bash Debnath, Md Zobaer Islam, Abdur R. Shahid
 
 # 2026-10-25
 + [SEEK: Skill Extraction with Evolving Knowledge against Frontier Science Agents](https://arxiv.org/abs/2610.34365)
@@ -2053,6 +2069,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Arkajyoti Chakraborty, Aryan Tayal, Ishika Agarwal, Tanner Sorensen, Justin Chiu, Alessandro Di Bari, Neha Gupta, Andreas Stolcke
 
++ [Physiognomy Revisited: How Vision-Language Models Encode Sensitive Attributes Through Image Transformation](https://arxiv.org/abs/2610.35910)
+
+	Soumyajit Datta, Arka Dutta, Ashiqur R. KhudaBukhsh
+
 # 2026-10-05
 + [Boosting Transferable Adversarial Attacks against Deep Reinforcement Learning](https://arxiv.org/abs/2610.06083)
 
@@ -2131,6 +2151,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Alignment via Training Against Probes Without Losing Monitorability](https://arxiv.org/abs/2609.38645)
 
 	Lena Libon, Alexander Panfilov, Ben Rank, Xin Chen, Jonas Geiping, Maksym Andriushchenko
+
++ [CLeaR: A Unified Framework for Resolving the Leakage-Degradation Dilemma in Style Transfer](https://arxiv.org/abs/2609.38136)
+
+	Teng Zhou, Yunhao Chen
 
 # 2026-09-28
 + [The Argument and the Letterhead: Source-Position Coherence in AI Evaluation](https://arxiv.org/abs/2609.35286)
