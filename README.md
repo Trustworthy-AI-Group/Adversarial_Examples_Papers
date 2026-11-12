@@ -100,6 +100,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Steve Nouyep, Maxime Puys, Sébastien Salva
 
++ [Auditing the Judge: Internal Signals for LLM Reasoning Assurance](https://arxiv.org/abs/2611.14323)
+
+	Mayank Gulati, Gerhard Wunder
+
 # 2026-11-09
 + [LEGION: Benchmarking Language Agents on Sparse-Signal Investigation Under Adversarial Noise](https://arxiv.org/abs/2611.11896)
 
@@ -294,6 +298,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Yiming Sun, Mi Zhang
 
++ [Seeing Is Not Believing: Counterfactual Lesion Erasure Teaches a Small Medical Vision-Language Agent to Report Only What the Image Shows](https://arxiv.org/abs/2611.13006)
+
+	Bhaskar Gurram
+
 # 2026-11-07
 + [Tail-risk-aware Agent Safety: Constraining Tail Risks Across Multi-step LLM Agent Workflows](https://arxiv.org/abs/2611.10411)
 
@@ -390,6 +398,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [TrustMod-SM: A Multi-Axis Benchmark for Evaluating Trustworthiness of LLMs in Social Media Content Moderation](https://arxiv.org/abs/2611.12970)
 
 	Aizan Zafar, Sreekantam Sai Venkata, Gathik Jindal, Ritu Raj Sharma, Zishan Ahmad, Tulika Saha, Srinath Srinivasa
+
++ [IIT Patna at "ICPR 2026 TVRID Competition on Privacy-Preserving Person Re-Identification from Top-View RGB-Depth Camera"](https://arxiv.org/abs/2611.12960)
+
+	Abhinav Kumar, Swagatam Pati, Advait Deshmukh, Aditya Mehrotra, Bibek Das, Kumari Priya, Utsav Kumar Nareti, Saba Akram, Chandranath Adak
 
 # 2026-11-06
 + [I Think, Therefore I Attack: Evaluating Thought Injection Attacks on Reasoning Agents](https://arxiv.org/abs/2611.08811)
@@ -6275,6 +6287,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [When Humans Leave Context Unsaid: Implicit Context as a Risk for Large Language Models](https://arxiv.org/abs/2608.09551)
 
 	Bocheng Chen, Han Zi, Yuda Chen, Yawei Liu, Zimo Qi, Rongrong Wang, Guangliang Liu
+
++ [Multimodal Model Diffing for Feature Discovery and Control](https://arxiv.org/abs/2608.09928)
+
+	Hunar Batra, Lachin Naghashyar, Ashkan Khakzar, Philip Torr, Christian Schroeder de Witt, Constantin Venhoff, Ronald Clark
 
 # 2026-08-09
 + [MGRL-RSCC: Multi-Granularity Reward Reinforcement Learning for Fine-Grained Remote Sensing Change Captioning](https://arxiv.org/abs/2609.26166)
@@ -14522,6 +14538,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [CaC: Advancing Video Reward Models via Hierarchical Spatiotemporal Concentrating](https://arxiv.org/abs/2605.11723)
 
 	 Jiyuan Wang , Huan Ouyang , Jiuzhou Lin , Chunyu Lin , Dewen Fan , Boheng Zhang , Haonan Fan , Honglie Wang , Yiyang Fan , Zhenlong Yuan , Zijun Li , Yongrui Heng , Guosheng Lin , Fan Yang
+
++ [Examining the Impact of Data and Training Methods on Emergent and Subliminal Misalignment](https://arxiv.org/abs/2605.12798)
+
+	Baris Askin, Muhammed Ustaomeroglu, Anupam Nayak, Gauri Joshi, Guannan Qu, Carlee Joe-Wong
 
 # 2026-05-11
 + [Not Blind but Silenced: Rebalancing Vision and Language via Adversarial Counter-Commonsense Equilibrium](https://arxiv.org/abs/2605.10676)
@@ -23627,6 +23647,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Data-Efficient Unknown Attack Detection in IoT Networks Using Pretrained Language Models](https://arxiv.org/abs/2602.12183)
 
 	Shan Ali, Feifei Niu, Paria Shirani, Lionel C. Briand
+
++ [Is Online Linear Optimization Sufficient for Strategic Robustness?](https://arxiv.org/abs/2602.12253)
+
+	Yang Cai, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng
 
 # 2026-02-11
 + [Peak + Accumulation: A Proxy-Level Scoring Formula for Multi-Turn LLM Attack Detection](https://arxiv.org/abs/2602.11247)
