@@ -104,6 +104,14 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 
 	Valentina Astore, Martino Borello, Alain Couvreur
 
++ [Unstable Action Boundaries in Lethal Drone Agents](https://arxiv.org/abs/2611.34121)
+
+	Jacques Dumora, André-Louis Rochet, Simon Roburin
+
++ [Physics-Informed Learning for Multiplayer Differential Games](https://arxiv.org/abs/2611.33644)
+
+	Takuma Adams, Andrew C. Cullen, Tansu Alpcan
+
 # 2026-11-24
 + [TACT-Bench: Testing Adaptive Conversational Threats against Tool-Use Agents](https://arxiv.org/abs/2611.31756)
 
@@ -252,6 +260,18 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [RegionAlign: Manipulating Parameter Layouts for Localized Fault Injection on LLMs and VLMs](https://arxiv.org/abs/2611.33370)
 
 	Xiaomeng Wang, Peter Horvath, Zhengyu Zhao, Martha Larson, Zhuoran Liu, Lejla Batina
+
++ [Fast and Scalable Abstract Interpretation for Deep Neural Networks](https://arxiv.org/abs/2611.33259)
+
+	Avaljot Singh, Dushyant Bharadwaj, Yasmin Chandini Sarita, Heng Zhong, Charith Mendis, Gagandeep Singh
+
++ [Streaming Tax: Can Streaming VLMs Replace Their Offline Parents?](https://arxiv.org/abs/2611.33474)
+
+	Zhi Yang, Junzhou Chen, Jindong Wang
+
++ [Adversarial Bandit Convex Optimization with $d^{3/2}\sqrt{n}$ Regret](https://arxiv.org/abs/2611.33531)
+
+	Alireza Bakhtiari, Kevin Jamieson, Tor Lattimore, Lillian Ratliff
 
 # 2026-11-23
 + [Interrogation Protocols for AI Control](https://arxiv.org/abs/2611.30583)
@@ -4928,6 +4948,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Temporal Exposure to Byzantine Vulnerability Under Intermittent Participation in Federated Learning](https://arxiv.org/abs/2611.33168)
 
 	Sasa Maric Robert Abbas
+
++ [Not All Change Is Damage: Update-Matched Unlearning for Large Language Models](https://arxiv.org/abs/2610.21230)
+
+	Jie Li, Youming Tao, Bowei He, Meng Ding
 
 # 2026-10-14
 + [RedDarwin: Evolving Jailbreak Skills against Frontier LLMs](https://arxiv.org/abs/2610.23726)
@@ -57228,6 +57252,10 @@ It appears that the [List of All Adversarial Example Papers](https://nicholas.ca
 + [Exploiting Vision Encoder Vulnerabilities for Universal Adversarial Perturbations on Large Vision-Language Models](https://arxiv.org/abs/2412.08108)
 
 	Hee-Seon Kim, Minbeom Kim, Seokil Ham, Changick Kim
+
++ [Protecting Confidentiality, Privacy and Integrity in Collaborative Learning](https://arxiv.org/abs/2412.08534)
+
+	Dong Chen, Alice Dethise, Istemi Ekin Akkus, Ivica Rimac, Antti Koskela, Marco Canini, Wei Wang, Ruichuan Chen
 
 # 2024-12-10
 + [Defensive Dual Masking for Robust Adversarial Defense](https://arxiv.org/abs/2412.07078)
